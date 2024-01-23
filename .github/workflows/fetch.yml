@@ -2,7 +2,7 @@ name: fetch
 
 on:
   schedule:
-      - cron: "0/30 * * * *"
+      - cron: "45 * * * *"
 
 env:
   TZ: Asia/Shanghai
