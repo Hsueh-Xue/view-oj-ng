@@ -13,9 +13,12 @@ def main():
         user_map = {}
         for user in user_info:
             user_name = user.get('name', '')
+            handle = user.get('codeforces_handle', '')
             user_map[user_name] = user
             origin_user_info = user_data.get(user_name, {})
-            handle = user.get('codeforces_handle', '')
+            origin_user_info['name'] = user_name
+            origin_user_info['grade'] = user.get('grade', 0)
+            origin_user_info['codeforces_handle'] = handle
             codeforces_spider = CodeforcesSpider()
             rating = codeforces_spider.get_user_rating(handle)
             if rating != 0:
