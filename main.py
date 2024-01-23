@@ -29,7 +29,7 @@ def main():
             content_info = codeforces_spider.get_user_contest_info(handle)
             if len(content_info) != 0:
                 origin_user_info['contest_info'] = content_info
-            print(user_name,origin_user_info)
+            print(user_name, origin_user_info)
             user_data[user_name] = origin_user_info
         user_to_remove = []
         for user_name in user_data:
@@ -43,7 +43,7 @@ def main():
     formatted_time = current_time.strftime('%Y-%m-%d %H:%M:%S')
     data['update_time'] = formatted_time
     with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False)
+        json.dump(data, f, indent=4, ensure_ascii=False)
 
 
 main()
