@@ -13,6 +13,7 @@ class CodeforcesSpider:
             res = response.json()
             if res["status"] != "OK":
                 return {"success": False, "last_time": 0, 'contest_cnt': 0}
+            res['result'].reverse()
             return res['result']
         return {}
 

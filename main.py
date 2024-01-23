@@ -2,6 +2,26 @@ from datetime import datetime
 
 from spider.codeforces_spider import CodeforcesSpider
 import json
+import re
+
+
+def to_snake_case(camel_str):
+    s1 = re.sub('(.)([A-Z][a-z]+)', r'\1_\2', camel_str)
+    return re.sub('([a-z0-9])([A-Z])', r'\1_\2', s1).lower()
+
+
+def convert_keys_to_snake_case(data):
+    if isinstance(data, dict):
+        new_data = {}
+        for key, value in data.items():
+            new_key = to_snake_case(key)
+            new_value = convert_keys_to_snake_case(value)
+            new_data[new_key] = new_value
+        return new_data
+    elif isinstance(data, list):
+        return [convert_keys_to_snake_case(item) for item in data]
+    else:
+        return data
 
 
 def main():
@@ -42,6 +62,7 @@ def main():
     current_time = datetime.now()
     formatted_time = current_time.strftime('%Y-%m-%d %H:%M:%S')
     data['update_time'] = formatted_time
+    data = convert_keys_to_snake_case(data)
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
