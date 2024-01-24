@@ -2796,7 +2796,8 @@
                     "new_rating": 457
                 }
             ],
-            "problem_total": 252
+            "problem_total": 252,
+            "contest_total": 19
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -3084,7 +3085,8 @@
                     "new_rating": 422
                 }
             ],
-            "contest_total": 31
+            "contest_total": 31,
+            "problem_total": 245
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -3317,7 +3319,8 @@
                     "new_rating": 394
                 }
             ],
-            "contest_total": 25
+            "contest_total": 25,
+            "problem_total": 439
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -4084,7 +4087,8 @@
                     "new_rating": 423
                 }
             ],
-            "contest_total": 47
+            "contest_total": 47,
+            "problem_total": 563
         },
         "何家琛": {
             "name": "何家琛",
@@ -4368,5 +4372,5 @@
             "contest_total": 14
         }
     },
-    "update_time": "2024-01-24 20:18:07"
+    "update_time": "2024-01-24 20:19:32"
 }
