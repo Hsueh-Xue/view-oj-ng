@@ -15,7 +15,7 @@ class CodeforcesSpider:
                 return {"success": False, "last_time": 0, 'contest_cnt': 0}
             res['result'].reverse()
             return res['result']
-        print(username, 'get_user_contest_info error')
+        print('get_user_contest_info', response.status_code)
         return {}
 
     @staticmethod
@@ -27,7 +27,7 @@ class CodeforcesSpider:
             res = response.json()
             if res['status'] == "OK":
                 rating = res['result'][0]['rating']
-        print(username, 'get_user_rating error')
+        print('get_user_rating', response.status_code)
         return rating
 
     @staticmethod
@@ -53,5 +53,5 @@ class CodeforcesSpider:
                         'oj': 'codeforces',
                         'problem_pid': problem_pid,
                     })
-        print(username, 'get_problem_info error')
+        print('get_problem_info', response.status_code)
         return len(accept_problem_list)

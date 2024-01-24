@@ -3,7 +3,7 @@ name: fetch
 on:
   workflow_dispatch:
   schedule:
-      - cron: '*/10 * * * *'
+      - cron: '*/30 * * * *'
 
 env:
   TZ: Asia/Shanghai
