@@ -3644,11 +3644,20 @@
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1747,
                     "new_rating": 1728
+                },
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 958,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1728,
+                    "new_rating": 1757
                 }
             ],
             "problem_total": 290,
-            "rating": 1728,
-            "contest_total": 18
+            "rating": 1757,
+            "contest_total": 19
         },
         "张朝": {
             "name": "张朝",
@@ -4068,11 +4077,20 @@
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1637,
                     "new_rating": 1691
+                },
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 439,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1691,
+                    "new_rating": 1779
                 }
             ],
-            "contest_total": 46,
+            "contest_total": 47,
             "problem_total": 563,
-            "rating": 1691
+            "rating": 1779
         },
         "何家琛": {
             "name": "何家琛",
@@ -4356,5 +4374,5 @@
             "contest_total": 14
         }
     },
-    "update_time": "2024-01-25 00:20:25"
+    "update_time": "2024-01-25 00:41:44"
 }
