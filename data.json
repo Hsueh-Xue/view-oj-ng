@@ -1246,13 +1246,307 @@
             "name": "周奕",
             "grade": 2022,
             "codeforces_handle": "Zeoy",
-            "rating": 1587
+            "rating": 1587,
+            "problem_total": 740,
+            "contest_info": [
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 1322,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1522,
+                    "new_rating": 1587
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "Zeoy",
+                    "rank": 3633,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1489,
+                    "new_rating": 1522
+                },
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "Zeoy",
+                    "rank": 7024,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1534,
+                    "new_rating": 1489
+                },
+                {
+                    "contest_id": 1914,
+                    "contest_name": "Codeforces Round 916 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 860,
+                    "rating_update_time_seconds": 1703005500,
+                    "old_rating": 1482,
+                    "new_rating": 1534
+                },
+                {
+                    "contest_id": 1913,
+                    "contest_name": "Educational Codeforces Round 160 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 1871,
+                    "rating_update_time_seconds": 1702917300,
+                    "old_rating": 1436,
+                    "new_rating": 1482
+                },
+                {
+                    "contest_id": 1905,
+                    "contest_name": "Codeforces Round 915 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 4489,
+                    "rating_update_time_seconds": 1702744500,
+                    "old_rating": 1483,
+                    "new_rating": 1436
+                },
+                {
+                    "contest_id": 1899,
+                    "contest_name": "Codeforces Round 909 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 383,
+                    "rating_update_time_seconds": 1700239800,
+                    "old_rating": 1357,
+                    "new_rating": 1483
+                },
+                {
+                    "contest_id": 1883,
+                    "contest_name": "Codeforces Round 905 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 11112,
+                    "rating_update_time_seconds": 1697979900,
+                    "old_rating": 1510,
+                    "new_rating": 1357
+                },
+                {
+                    "contest_id": 1886,
+                    "contest_name": "Educational Codeforces Round 156 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 2541,
+                    "rating_update_time_seconds": 1696869300,
+                    "old_rating": 1492,
+                    "new_rating": 1510
+                },
+                {
+                    "contest_id": 1872,
+                    "contest_name": "Codeforces Round 895 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 472,
+                    "rating_update_time_seconds": 1694105400,
+                    "old_rating": 1368,
+                    "new_rating": 1492
+                },
+                {
+                    "contest_id": 1862,
+                    "contest_name": "Codeforces Round 894 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 1515,
+                    "rating_update_time_seconds": 1692895800,
+                    "old_rating": 1280,
+                    "new_rating": 1368
+                },
+                {
+                    "contest_id": 1860,
+                    "contest_name": "Educational Codeforces Round 153 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 3806,
+                    "rating_update_time_seconds": 1692290100,
+                    "old_rating": 1208,
+                    "new_rating": 1280
+                },
+                {
+                    "contest_id": 1858,
+                    "contest_name": "Codeforces Round 893 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 11109,
+                    "rating_update_time_seconds": 1692117300,
+                    "old_rating": 1266,
+                    "new_rating": 1208
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 11216,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 1348,
+                    "new_rating": 1266
+                },
+                {
+                    "contest_id": 1857,
+                    "contest_name": "Codeforces Round 891 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 1914,
+                    "rating_update_time_seconds": 1691427000,
+                    "old_rating": 1267,
+                    "new_rating": 1348
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "Zeoy",
+                    "rank": 6058,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 1271,
+                    "new_rating": 1267
+                },
+                {
+                    "contest_id": 1855,
+                    "contest_name": "Codeforces Round 889 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 7514,
+                    "rating_update_time_seconds": 1690650300,
+                    "old_rating": 1308,
+                    "new_rating": 1271
+                },
+                {
+                    "contest_id": 1849,
+                    "contest_name": "Educational Codeforces Round 152 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 8201,
+                    "rating_update_time_seconds": 1690475700,
+                    "old_rating": 1367,
+                    "new_rating": 1308
+                },
+                {
+                    "contest_id": 1851,
+                    "contest_name": "Codeforces Round 888 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 2786,
+                    "rating_update_time_seconds": 1690303800,
+                    "old_rating": 1341,
+                    "new_rating": 1367
+                },
+                {
+                    "contest_id": 1853,
+                    "contest_name": "Codeforces Round 887 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 2134,
+                    "rating_update_time_seconds": 1690131900,
+                    "old_rating": 1253,
+                    "new_rating": 1341
+                },
+                {
+                    "contest_id": 1850,
+                    "contest_name": "Codeforces Round 886 (Div. 4)",
+                    "handle": "Zeoy",
+                    "rank": 5021,
+                    "rating_update_time_seconds": 1689957300,
+                    "old_rating": 1265,
+                    "new_rating": 1253
+                },
+                {
+                    "contest_id": 1848,
+                    "contest_name": "Codeforces Round 885 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 3545,
+                    "rating_update_time_seconds": 1689525300,
+                    "old_rating": 1232,
+                    "new_rating": 1265
+                },
+                {
+                    "contest_id": 1845,
+                    "contest_name": "Educational Codeforces Round 151 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 6660,
+                    "rating_update_time_seconds": 1688056500,
+                    "old_rating": 1251,
+                    "new_rating": 1232
+                },
+                {
+                    "contest_id": 1837,
+                    "contest_name": "Educational Codeforces Round 149 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 4017,
+                    "rating_update_time_seconds": 1685032500,
+                    "old_rating": 1278,
+                    "new_rating": 1251
+                },
+                {
+                    "contest_id": 1807,
+                    "contest_name": "Codeforces Round 859 (Div. 4)",
+                    "handle": "Zeoy",
+                    "rank": 843,
+                    "rating_update_time_seconds": 1679245800,
+                    "old_rating": 1075,
+                    "new_rating": 1278
+                },
+                {
+                    "contest_id": 1800,
+                    "contest_name": "Codeforces Round 855 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 4076,
+                    "rating_update_time_seconds": 1677775800,
+                    "old_rating": 901,
+                    "new_rating": 1075
+                },
+                {
+                    "contest_id": 1790,
+                    "contest_name": "Codeforces Round 847 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 6427,
+                    "rating_update_time_seconds": 1674838200,
+                    "old_rating": 667,
+                    "new_rating": 901
+                },
+                {
+                    "contest_id": 1792,
+                    "contest_name": "Educational Codeforces Round 142 (Rated for Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 9819,
+                    "rating_update_time_seconds": 1674578100,
+                    "old_rating": 401,
+                    "new_rating": 667
+                },
+                {
+                    "contest_id": 1777,
+                    "contest_name": "Codeforces Round 845 (Div. 2) and ByteRace 2023",
+                    "handle": "Zeoy",
+                    "rank": 8116,
+                    "rating_update_time_seconds": 1674318900,
+                    "old_rating": 0,
+                    "new_rating": 401
+                }
+            ]
         },
         "陈俊安": {
             "name": "陈俊安",
             "grade": 2022,
             "codeforces_handle": "chenchen336",
-            "problem_total": 40
+            "problem_total": 40,
+            "rating": 936,
+            "contest_info": [
+                {
+                    "contest_id": 1792,
+                    "contest_name": "Educational Codeforces Round 142 (Rated for Div. 2)",
+                    "handle": "chenchen336",
+                    "rank": 6380,
+                    "rating_update_time_seconds": 1674578100,
+                    "old_rating": 709,
+                    "new_rating": 936
+                },
+                {
+                    "contest_id": 1777,
+                    "contest_name": "Codeforces Round 845 (Div. 2) and ByteRace 2023",
+                    "handle": "chenchen336",
+                    "rank": 4541,
+                    "rating_update_time_seconds": 1674318900,
+                    "old_rating": 376,
+                    "new_rating": 709
+                },
+                {
+                    "contest_id": 1754,
+                    "contest_name": "Codeforces Round 829 (Div. 2)",
+                    "handle": "chenchen336",
+                    "rank": 8322,
+                    "rating_update_time_seconds": 1666518600,
+                    "old_rating": 0,
+                    "new_rating": 376
+                }
+            ]
         },
         "蔡宇欣": {
             "name": "蔡宇欣",
@@ -1828,7 +2122,180 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1353
+            "rating": 1353,
+            "contest_info": [
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "pekolim",
+                    "rank": 6586,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1344,
+                    "new_rating": 1353
+                },
+                {
+                    "contest_id": 1915,
+                    "contest_name": "Codeforces Round 918 (Div. 4)",
+                    "handle": "pekolim",
+                    "rank": 2278,
+                    "rating_update_time_seconds": 1703783100,
+                    "old_rating": 1308,
+                    "new_rating": 1344
+                },
+                {
+                    "contest_id": 1909,
+                    "contest_name": "Pinely Round 3 (Div. 1 + Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 5825,
+                    "rating_update_time_seconds": 1703352900,
+                    "old_rating": 1354,
+                    "new_rating": 1308
+                },
+                {
+                    "contest_id": 1914,
+                    "contest_name": "Codeforces Round 916 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 1349,
+                    "rating_update_time_seconds": 1703005500,
+                    "old_rating": 1264,
+                    "new_rating": 1354
+                },
+                {
+                    "contest_id": 1913,
+                    "contest_name": "Educational Codeforces Round 160 (Rated for Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 3824,
+                    "rating_update_time_seconds": 1702917300,
+                    "old_rating": 1220,
+                    "new_rating": 1264
+                },
+                {
+                    "contest_id": 1879,
+                    "contest_name": "Educational Codeforces Round 155 (Rated for Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 4431,
+                    "rating_update_time_seconds": 1695573300,
+                    "old_rating": 1159,
+                    "new_rating": 1220
+                },
+                {
+                    "contest_id": 1873,
+                    "contest_name": "Codeforces Round 898 (Div. 4)",
+                    "handle": "pekolim",
+                    "rank": 7374,
+                    "rating_update_time_seconds": 1695315900,
+                    "old_rating": 1177,
+                    "new_rating": 1159
+                },
+                {
+                    "contest_id": 1872,
+                    "contest_name": "Codeforces Round 895 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 4348,
+                    "rating_update_time_seconds": 1694105400,
+                    "old_rating": 1120,
+                    "new_rating": 1177
+                },
+                {
+                    "contest_id": 1864,
+                    "contest_name": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 7774,
+                    "rating_update_time_seconds": 1693071300,
+                    "old_rating": 1125,
+                    "new_rating": 1120
+                },
+                {
+                    "contest_id": 1862,
+                    "contest_name": "Codeforces Round 894 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 8341,
+                    "rating_update_time_seconds": 1692895800,
+                    "old_rating": 1128,
+                    "new_rating": 1125
+                },
+                {
+                    "contest_id": 1857,
+                    "contest_name": "Codeforces Round 891 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 9552,
+                    "rating_update_time_seconds": 1691427000,
+                    "old_rating": 1136,
+                    "new_rating": 1128
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "pekolim",
+                    "rank": 7060,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 1116,
+                    "new_rating": 1136
+                },
+                {
+                    "contest_id": 1851,
+                    "contest_name": "Codeforces Round 888 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 9025,
+                    "rating_update_time_seconds": 1690303800,
+                    "old_rating": 1134,
+                    "new_rating": 1116
+                },
+                {
+                    "contest_id": 1850,
+                    "contest_name": "Codeforces Round 886 (Div. 4)",
+                    "handle": "pekolim",
+                    "rank": 3615,
+                    "rating_update_time_seconds": 1689957300,
+                    "old_rating": 1009,
+                    "new_rating": 1134
+                },
+                {
+                    "contest_id": 1845,
+                    "contest_name": "Educational Codeforces Round 151 (Rated for Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 11745,
+                    "rating_update_time_seconds": 1688056500,
+                    "old_rating": 1030,
+                    "new_rating": 1009
+                },
+                {
+                    "contest_id": 1837,
+                    "contest_name": "Educational Codeforces Round 149 (Rated for Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 10456,
+                    "rating_update_time_seconds": 1685032500,
+                    "old_rating": 926,
+                    "new_rating": 1030
+                },
+                {
+                    "contest_id": 1828,
+                    "contest_name": "Codeforces Round 873 (Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 7265,
+                    "rating_update_time_seconds": 1684082100,
+                    "old_rating": 755,
+                    "new_rating": 926
+                },
+                {
+                    "contest_id": 1797,
+                    "contest_name": "Codeforces Round 864 (Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 5338,
+                    "rating_update_time_seconds": 1680969900,
+                    "old_rating": 457,
+                    "new_rating": 755
+                },
+                {
+                    "contest_id": 1811,
+                    "contest_name": "Codeforces Round 863 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 5941,
+                    "rating_update_time_seconds": 1680627000,
+                    "old_rating": 0,
+                    "new_rating": 457
+                }
+            ]
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -1843,13 +2310,15 @@
         "戴子晟": {
             "name": "戴子晟",
             "grade": 2022,
-            "codeforces_handle": "SHOJIG"
+            "codeforces_handle": "SHOJIG",
+            "problem_total": 80
         },
         "章诚益": {
             "name": "章诚益",
             "grade": 2022,
             "codeforces_handle": "smartzhcy",
-            "problem_total": 45
+            "problem_total": 45,
+            "rating": 1239
         },
         "林丰": {
             "name": "林丰",
@@ -2027,7 +2496,8 @@
                     "old_rating": 0,
                     "new_rating": 429
                 }
-            ]
+            ],
+            "problem_total": 290
         },
         "张朝": {
             "name": "张朝",
@@ -2171,8 +2641,9 @@
                     "old_rating": 0,
                     "new_rating": 418
                 }
-            ]
+            ],
+            "problem_total": 67
         }
     },
-    "update_time": "2024-01-24 12:42:27"
+    "update_time": "2024-01-24 12:44:38"
 }
