@@ -2111,12 +2111,501 @@
                     "old_rating": 0,
                     "new_rating": 436
                 }
-            ]
+            ],
+            "rating": 1852
         },
         "邵茹怡": {
             "name": "邵茹怡",
             "grade": 2022,
-            "codeforces_handle": "dry_myrica"
+            "codeforces_handle": "dry_myrica",
+            "contest_info": [
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "dry_myrica",
+                    "rank": 2257,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1615,
+                    "new_rating": 1668
+                },
+                {
+                    "contest_id": 1913,
+                    "contest_name": "Educational Codeforces Round 160 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 2782,
+                    "rating_update_time_seconds": 1702917300,
+                    "old_rating": 1656,
+                    "new_rating": 1615
+                },
+                {
+                    "contest_id": 1896,
+                    "contest_name": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "dry_myrica",
+                    "rank": 1658,
+                    "rating_update_time_seconds": 1700932800,
+                    "old_rating": 1622,
+                    "new_rating": 1656
+                },
+                {
+                    "contest_id": 1901,
+                    "contest_name": "Educational Codeforces Round 158 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 3894,
+                    "rating_update_time_seconds": 1700843700,
+                    "old_rating": 1709,
+                    "new_rating": 1622
+                },
+                {
+                    "contest_id": 1898,
+                    "contest_name": "Codeforces Round 910 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 665,
+                    "rating_update_time_seconds": 1700411700,
+                    "old_rating": 1654,
+                    "new_rating": 1709
+                },
+                {
+                    "contest_id": 1869,
+                    "contest_name": "Codeforces Round 896 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 852,
+                    "rating_update_time_seconds": 1694363700,
+                    "old_rating": 1608,
+                    "new_rating": 1654
+                },
+                {
+                    "contest_id": 1872,
+                    "contest_name": "Codeforces Round 895 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 482,
+                    "rating_update_time_seconds": 1694105400,
+                    "old_rating": 1537,
+                    "new_rating": 1608
+                },
+                {
+                    "contest_id": 1864,
+                    "contest_name": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 3469,
+                    "rating_update_time_seconds": 1693071300,
+                    "old_rating": 1545,
+                    "new_rating": 1537
+                },
+                {
+                    "contest_id": 1860,
+                    "contest_name": "Educational Codeforces Round 153 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 1622,
+                    "rating_update_time_seconds": 1692290100,
+                    "old_rating": 1478,
+                    "new_rating": 1545
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 2237,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 1420,
+                    "new_rating": 1478
+                },
+                {
+                    "contest_id": 1857,
+                    "contest_name": "Codeforces Round 891 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 2033,
+                    "rating_update_time_seconds": 1691427000,
+                    "old_rating": 1375,
+                    "new_rating": 1420
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "dry_myrica",
+                    "rank": 6908,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 1432,
+                    "new_rating": 1375
+                },
+                {
+                    "contest_id": 1855,
+                    "contest_name": "Codeforces Round 889 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 4504,
+                    "rating_update_time_seconds": 1690650300,
+                    "old_rating": 1454,
+                    "new_rating": 1432
+                },
+                {
+                    "contest_id": 1849,
+                    "contest_name": "Educational Codeforces Round 152 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 2861,
+                    "rating_update_time_seconds": 1690475700,
+                    "old_rating": 1430,
+                    "new_rating": 1454
+                },
+                {
+                    "contest_id": 1851,
+                    "contest_name": "Codeforces Round 888 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 3384,
+                    "rating_update_time_seconds": 1690303800,
+                    "old_rating": 1446,
+                    "new_rating": 1430
+                },
+                {
+                    "contest_id": 1853,
+                    "contest_name": "Codeforces Round 887 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 4079,
+                    "rating_update_time_seconds": 1690131900,
+                    "old_rating": 1476,
+                    "new_rating": 1446
+                },
+                {
+                    "contest_id": 1850,
+                    "contest_name": "Codeforces Round 886 (Div. 4)",
+                    "handle": "dry_myrica",
+                    "rank": 223,
+                    "rating_update_time_seconds": 1689957300,
+                    "old_rating": 1320,
+                    "new_rating": 1476
+                },
+                {
+                    "contest_id": 1848,
+                    "contest_name": "Codeforces Round 885 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 4499,
+                    "rating_update_time_seconds": 1689525300,
+                    "old_rating": 1344,
+                    "new_rating": 1320
+                },
+                {
+                    "contest_id": 1844,
+                    "contest_name": "Codeforces Round 884 (Div. 1 + Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 5574,
+                    "rating_update_time_seconds": 1689096900,
+                    "old_rating": 1352,
+                    "new_rating": 1344
+                },
+                {
+                    "contest_id": 1846,
+                    "contest_name": "Codeforces Round 883 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 1332,
+                    "rating_update_time_seconds": 1688748600,
+                    "old_rating": 1256,
+                    "new_rating": 1352
+                },
+                {
+                    "contest_id": 1847,
+                    "contest_name": "Codeforces Round 882 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 6384,
+                    "rating_update_time_seconds": 1688662200,
+                    "old_rating": 1279,
+                    "new_rating": 1256
+                },
+                {
+                    "contest_id": 1845,
+                    "contest_name": "Educational Codeforces Round 151 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 2852,
+                    "rating_update_time_seconds": 1688056500,
+                    "old_rating": 1190,
+                    "new_rating": 1279
+                },
+                {
+                    "contest_id": 1842,
+                    "contest_name": "CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "dry_myrica",
+                    "rank": 6022,
+                    "rating_update_time_seconds": 1687626300,
+                    "old_rating": 1205,
+                    "new_rating": 1190
+                },
+                {
+                    "contest_id": 1843,
+                    "contest_name": "Codeforces Round 881 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 6258,
+                    "rating_update_time_seconds": 1687279800,
+                    "old_rating": 1223,
+                    "new_rating": 1205
+                },
+                {
+                    "contest_id": 1834,
+                    "contest_name": "Codeforces Round 879 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 8035,
+                    "rating_update_time_seconds": 1687082700,
+                    "old_rating": 1322,
+                    "new_rating": 1223
+                },
+                {
+                    "contest_id": 1837,
+                    "contest_name": "Educational Codeforces Round 149 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 7034,
+                    "rating_update_time_seconds": 1685032500,
+                    "old_rating": 1387,
+                    "new_rating": 1322
+                },
+                {
+                    "contest_id": 1833,
+                    "contest_name": "Codeforces Round 874 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 2662,
+                    "rating_update_time_seconds": 1684515000,
+                    "old_rating": 1396,
+                    "new_rating": 1387
+                },
+                {
+                    "contest_id": 1832,
+                    "contest_name": "Educational Codeforces Round 148 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 3220,
+                    "rating_update_time_seconds": 1683909300,
+                    "old_rating": 1396,
+                    "new_rating": 1396
+                },
+                {
+                    "contest_id": 1825,
+                    "contest_name": "Codeforces Round 872 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 1704,
+                    "rating_update_time_seconds": 1683554700,
+                    "old_rating": 1354,
+                    "new_rating": 1396
+                },
+                {
+                    "contest_id": 1829,
+                    "contest_name": "Codeforces Round 871 (Div. 4)",
+                    "handle": "dry_myrica",
+                    "rank": 2034,
+                    "rating_update_time_seconds": 1683391800,
+                    "old_rating": 1345,
+                    "new_rating": 1354
+                },
+                {
+                    "contest_id": 1826,
+                    "contest_name": "Codeforces Round 870 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 6204,
+                    "rating_update_time_seconds": 1683304500,
+                    "old_rating": 1419,
+                    "new_rating": 1345
+                },
+                {
+                    "contest_id": 1823,
+                    "contest_name": "Codeforces Round 868 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 2341,
+                    "rating_update_time_seconds": 1682613300,
+                    "old_rating": 1423,
+                    "new_rating": 1419
+                },
+                {
+                    "contest_id": 1821,
+                    "contest_name": "Educational Codeforces Round 147 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 2388,
+                    "rating_update_time_seconds": 1682008500,
+                    "old_rating": 1415,
+                    "new_rating": 1423
+                },
+                {
+                    "contest_id": 1820,
+                    "contest_name": "Codeforces Round 866 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 436,
+                    "rating_update_time_seconds": 1681556700,
+                    "old_rating": 1234,
+                    "new_rating": 1415
+                },
+                {
+                    "contest_id": 1816,
+                    "contest_name": "Codeforces Round 865 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 5223,
+                    "rating_update_time_seconds": 1681059600,
+                    "old_rating": 1267,
+                    "new_rating": 1234
+                },
+                {
+                    "contest_id": 1797,
+                    "contest_name": "Codeforces Round 864 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 1940,
+                    "rating_update_time_seconds": 1680969900,
+                    "old_rating": 1157,
+                    "new_rating": 1267
+                },
+                {
+                    "contest_id": 1805,
+                    "contest_name": "Codeforces Round 862 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 6474,
+                    "rating_update_time_seconds": 1680453300,
+                    "old_rating": 1178,
+                    "new_rating": 1157
+                },
+                {
+                    "contest_id": 1810,
+                    "contest_name": "CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "dry_myrica",
+                    "rank": 4238,
+                    "rating_update_time_seconds": 1680280500,
+                    "old_rating": 1106,
+                    "new_rating": 1178
+                },
+                {
+                    "contest_id": 1808,
+                    "contest_name": "Codeforces Round 861 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 4740,
+                    "rating_update_time_seconds": 1680087900,
+                    "old_rating": 1106,
+                    "new_rating": 1106
+                },
+                {
+                    "contest_id": 1798,
+                    "contest_name": "Codeforces Round 860 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 5483,
+                    "rating_update_time_seconds": 1679848500,
+                    "old_rating": 1068,
+                    "new_rating": 1106
+                },
+                {
+                    "contest_id": 1809,
+                    "contest_name": "Educational Codeforces Round 145 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 12049,
+                    "rating_update_time_seconds": 1679589300,
+                    "old_rating": 1162,
+                    "new_rating": 1068
+                },
+                {
+                    "contest_id": 1804,
+                    "contest_name": "Nebius Welcome Round (Div. 1 + Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 4421,
+                    "rating_update_time_seconds": 1678638900,
+                    "old_rating": 1118,
+                    "new_rating": 1162
+                },
+                {
+                    "contest_id": 1802,
+                    "contest_name": "Codeforces Round 857 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 3902,
+                    "rating_update_time_seconds": 1678365300,
+                    "old_rating": 1118,
+                    "new_rating": 1118
+                },
+                {
+                    "contest_id": 1800,
+                    "contest_name": "Codeforces Round 855 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 4226,
+                    "rating_update_time_seconds": 1677775800,
+                    "old_rating": 1052,
+                    "new_rating": 1118
+                },
+                {
+                    "contest_id": 1796,
+                    "contest_name": "Educational Codeforces Round 144 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 9414,
+                    "rating_update_time_seconds": 1677602100,
+                    "old_rating": 1130,
+                    "new_rating": 1052
+                },
+                {
+                    "contest_id": 1799,
+                    "contest_name": "Codeforces Round 854 by cybercats (Div. 1 + Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 5796,
+                    "rating_update_time_seconds": 1677519300,
+                    "old_rating": 1192,
+                    "new_rating": 1130
+                },
+                {
+                    "contest_id": 1789,
+                    "contest_name": "Codeforces Round 853 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 4157,
+                    "rating_update_time_seconds": 1677342000,
+                    "old_rating": 1174,
+                    "new_rating": 1192
+                },
+                {
+                    "contest_id": 1778,
+                    "contest_name": "Codeforces Round 848 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 8098,
+                    "rating_update_time_seconds": 1675269300,
+                    "old_rating": 1216,
+                    "new_rating": 1174
+                },
+                {
+                    "contest_id": 1770,
+                    "contest_name": "Good Bye 2022: 2023 is NEAR",
+                    "handle": "dry_myrica",
+                    "rank": 6309,
+                    "rating_update_time_seconds": 1672419900,
+                    "old_rating": 1121,
+                    "new_rating": 1216
+                },
+                {
+                    "contest_id": 1772,
+                    "contest_name": "Codeforces Round 839 (Div. 3)",
+                    "handle": "dry_myrica",
+                    "rank": 4197,
+                    "rating_update_time_seconds": 1671382200,
+                    "old_rating": 1007,
+                    "new_rating": 1121
+                },
+                {
+                    "contest_id": 1767,
+                    "contest_name": "Educational Codeforces Round 140 (Rated for Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 5122,
+                    "rating_update_time_seconds": 1671208500,
+                    "old_rating": 816,
+                    "new_rating": 1007
+                },
+                {
+                    "contest_id": 1771,
+                    "contest_name": "Codeforces Round 837 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 8638,
+                    "rating_update_time_seconds": 1670780100,
+                    "old_rating": 663,
+                    "new_rating": 816
+                },
+                {
+                    "contest_id": 1760,
+                    "contest_name": "Codeforces Round 835 (Div. 4)",
+                    "handle": "dry_myrica",
+                    "rank": 8935,
+                    "rating_update_time_seconds": 1669050000,
+                    "old_rating": 394,
+                    "new_rating": 663
+                },
+                {
+                    "contest_id": 1748,
+                    "contest_name": "Codeforces Round 833 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 8383,
+                    "rating_update_time_seconds": 1668270900,
+                    "old_rating": 0,
+                    "new_rating": 394
+                }
+            ]
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -2311,7 +2800,72 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 80
+            "problem_total": 80,
+            "contest_info": [
+                {
+                    "contest_id": 1921,
+                    "contest_name": "Codeforces Round 920 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 10074,
+                    "rating_update_time_seconds": 1705337400,
+                    "old_rating": 1329,
+                    "new_rating": 1273
+                },
+                {
+                    "contest_id": 1914,
+                    "contest_name": "Codeforces Round 916 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 5765,
+                    "rating_update_time_seconds": 1703005500,
+                    "old_rating": 1319,
+                    "new_rating": 1329
+                },
+                {
+                    "contest_id": 1907,
+                    "contest_name": "Codeforces Round 913 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 2508,
+                    "rating_update_time_seconds": 1701795600,
+                    "old_rating": 1201,
+                    "new_rating": 1319
+                },
+                {
+                    "contest_id": 1884,
+                    "contest_name": "Codeforces Round 904 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 2264,
+                    "rating_update_time_seconds": 1697965500,
+                    "old_rating": 1001,
+                    "new_rating": 1201
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 9258,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 814,
+                    "new_rating": 1001
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "SHOJIG",
+                    "rank": 4986,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 474,
+                    "new_rating": 814
+                },
+                {
+                    "contest_id": 1809,
+                    "contest_name": "Educational Codeforces Round 145 (Rated for Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 4846,
+                    "rating_update_time_seconds": 1679589300,
+                    "old_rating": 0,
+                    "new_rating": 474
+                }
+            ]
         },
         "章诚益": {
             "name": "章诚益",
@@ -2645,5 +3199,5 @@
             "problem_total": 67
         }
     },
-    "update_time": "2024-01-24 12:44:38"
+    "update_time": "2024-01-24 12:54:51"
 }
