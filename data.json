@@ -1241,7 +1241,938 @@
             "name": "童春琦",
             "grade": 2021,
             "codeforces_handle": "tententen"
+        },
+        "周奕": {
+            "name": "周奕",
+            "grade": 2022,
+            "codeforces_handle": "Zeoy",
+            "rating": 1587
+        },
+        "陈俊安": {
+            "name": "陈俊安",
+            "grade": 2022,
+            "codeforces_handle": "chenchen336",
+            "problem_total": 40
+        },
+        "蔡宇欣": {
+            "name": "蔡宇欣",
+            "grade": 2022,
+            "codeforces_handle": "EdGrass",
+            "contest_info": [
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 803,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1840,
+                    "new_rating": 1852
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "EdGrass",
+                    "rank": 1506,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1801,
+                    "new_rating": 1840
+                },
+                {
+                    "contest_id": 1909,
+                    "contest_name": "Pinely Round 3 (Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1419,
+                    "rating_update_time_seconds": 1703352900,
+                    "old_rating": 1784,
+                    "new_rating": 1801
+                },
+                {
+                    "contest_id": 1913,
+                    "contest_name": "Educational Codeforces Round 160 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 503,
+                    "rating_update_time_seconds": 1702917300,
+                    "old_rating": 1725,
+                    "new_rating": 1784
+                },
+                {
+                    "contest_id": 1903,
+                    "contest_name": "Codeforces Round 912 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1139,
+                    "rating_update_time_seconds": 1701370200,
+                    "old_rating": 1755,
+                    "new_rating": 1725
+                },
+                {
+                    "contest_id": 1900,
+                    "contest_name": "Codeforces Round 911 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2123,
+                    "rating_update_time_seconds": 1701016500,
+                    "old_rating": 1833,
+                    "new_rating": 1755
+                },
+                {
+                    "contest_id": 1898,
+                    "contest_name": "Codeforces Round 910 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 358,
+                    "rating_update_time_seconds": 1700411700,
+                    "old_rating": 1766,
+                    "new_rating": 1833
+                },
+                {
+                    "contest_id": 1894,
+                    "contest_name": "Codeforces Round 908 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 413,
+                    "rating_update_time_seconds": 1699374900,
+                    "old_rating": 1709,
+                    "new_rating": 1766
+                },
+                {
+                    "contest_id": 1886,
+                    "contest_name": "Educational Codeforces Round 156 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1520,
+                    "rating_update_time_seconds": 1696869300,
+                    "old_rating": 1708,
+                    "new_rating": 1709
+                },
+                {
+                    "contest_id": 1867,
+                    "contest_name": "Codeforces Round 897 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 604,
+                    "rating_update_time_seconds": 1694450100,
+                    "old_rating": 1616,
+                    "new_rating": 1708
+                },
+                {
+                    "contest_id": 1862,
+                    "contest_name": "Codeforces Round 894 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 645,
+                    "rating_update_time_seconds": 1692895800,
+                    "old_rating": 1562,
+                    "new_rating": 1616
+                },
+                {
+                    "contest_id": 1860,
+                    "contest_name": "Educational Codeforces Round 153 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 3532,
+                    "rating_update_time_seconds": 1692290100,
+                    "old_rating": 1585,
+                    "new_rating": 1562
+                },
+                {
+                    "contest_id": 1858,
+                    "contest_name": "Codeforces Round 893 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1595,
+                    "rating_update_time_seconds": 1692117300,
+                    "old_rating": 1533,
+                    "new_rating": 1585
+                },
+                {
+                    "contest_id": 1857,
+                    "contest_name": "Codeforces Round 891 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 608,
+                    "rating_update_time_seconds": 1691427000,
+                    "old_rating": 1439,
+                    "new_rating": 1533
+                },
+                {
+                    "contest_id": 1849,
+                    "contest_name": "Educational Codeforces Round 152 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 7981,
+                    "rating_update_time_seconds": 1690475700,
+                    "old_rating": 1530,
+                    "new_rating": 1439
+                },
+                {
+                    "contest_id": 1851,
+                    "contest_name": "Codeforces Round 888 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 1270,
+                    "rating_update_time_seconds": 1690303800,
+                    "old_rating": 1501,
+                    "new_rating": 1530
+                },
+                {
+                    "contest_id": 1844,
+                    "contest_name": "Codeforces Round 884 (Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 3329,
+                    "rating_update_time_seconds": 1689096900,
+                    "old_rating": 1488,
+                    "new_rating": 1501
+                },
+                {
+                    "contest_id": 1846,
+                    "contest_name": "Codeforces Round 883 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 2684,
+                    "rating_update_time_seconds": 1688748600,
+                    "old_rating": 1509,
+                    "new_rating": 1488
+                },
+                {
+                    "contest_id": 1847,
+                    "contest_name": "Codeforces Round 882 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 5219,
+                    "rating_update_time_seconds": 1688662200,
+                    "old_rating": 1581,
+                    "new_rating": 1509
+                },
+                {
+                    "contest_id": 1843,
+                    "contest_name": "Codeforces Round 881 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 1216,
+                    "rating_update_time_seconds": 1687279800,
+                    "old_rating": 1579,
+                    "new_rating": 1581
+                },
+                {
+                    "contest_id": 1831,
+                    "contest_name": "Codeforces Round 875 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 878,
+                    "rating_update_time_seconds": 1685293500,
+                    "old_rating": 1509,
+                    "new_rating": 1579
+                },
+                {
+                    "contest_id": 1837,
+                    "contest_name": "Educational Codeforces Round 149 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2217,
+                    "rating_update_time_seconds": 1685032500,
+                    "old_rating": 1492,
+                    "new_rating": 1509
+                },
+                {
+                    "contest_id": 1825,
+                    "contest_name": "Codeforces Round 872 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1446,
+                    "rating_update_time_seconds": 1683554700,
+                    "old_rating": 1470,
+                    "new_rating": 1492
+                },
+                {
+                    "contest_id": 1826,
+                    "contest_name": "Codeforces Round 870 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1947,
+                    "rating_update_time_seconds": 1683304500,
+                    "old_rating": 1429,
+                    "new_rating": 1470
+                },
+                {
+                    "contest_id": 1818,
+                    "contest_name": "Codeforces Round 869 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1365,
+                    "rating_update_time_seconds": 1682787000,
+                    "old_rating": 1380,
+                    "new_rating": 1429
+                },
+                {
+                    "contest_id": 1822,
+                    "contest_name": "Codeforces Round 867 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 1571,
+                    "rating_update_time_seconds": 1682355000,
+                    "old_rating": 1345,
+                    "new_rating": 1380
+                },
+                {
+                    "contest_id": 1821,
+                    "contest_name": "Educational Codeforces Round 147 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 3505,
+                    "rating_update_time_seconds": 1682008500,
+                    "old_rating": 1361,
+                    "new_rating": 1345
+                },
+                {
+                    "contest_id": 1820,
+                    "contest_name": "Codeforces Round 866 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2816,
+                    "rating_update_time_seconds": 1681556700,
+                    "old_rating": 1387,
+                    "new_rating": 1361
+                },
+                {
+                    "contest_id": 1816,
+                    "contest_name": "Codeforces Round 865 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 3311,
+                    "rating_update_time_seconds": 1681059600,
+                    "old_rating": 1405,
+                    "new_rating": 1387
+                },
+                {
+                    "contest_id": 1797,
+                    "contest_name": "Codeforces Round 864 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 4463,
+                    "rating_update_time_seconds": 1680969900,
+                    "old_rating": 1461,
+                    "new_rating": 1405
+                },
+                {
+                    "contest_id": 1811,
+                    "contest_name": "Codeforces Round 863 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 1275,
+                    "rating_update_time_seconds": 1680627000,
+                    "old_rating": 1411,
+                    "new_rating": 1461
+                },
+                {
+                    "contest_id": 1808,
+                    "contest_name": "Codeforces Round 861 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2802,
+                    "rating_update_time_seconds": 1680087900,
+                    "old_rating": 1426,
+                    "new_rating": 1411
+                },
+                {
+                    "contest_id": 1798,
+                    "contest_name": "Codeforces Round 860 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2278,
+                    "rating_update_time_seconds": 1679848500,
+                    "old_rating": 1385,
+                    "new_rating": 1426
+                },
+                {
+                    "contest_id": 1809,
+                    "contest_name": "Educational Codeforces Round 145 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2661,
+                    "rating_update_time_seconds": 1679589300,
+                    "old_rating": 1350,
+                    "new_rating": 1385
+                },
+                {
+                    "contest_id": 1802,
+                    "contest_name": "Codeforces Round 857 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2221,
+                    "rating_update_time_seconds": 1678365300,
+                    "old_rating": 1346,
+                    "new_rating": 1350
+                },
+                {
+                    "contest_id": 1800,
+                    "contest_name": "Codeforces Round 855 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 4147,
+                    "rating_update_time_seconds": 1677775800,
+                    "old_rating": 1367,
+                    "new_rating": 1346
+                },
+                {
+                    "contest_id": 1796,
+                    "contest_name": "Educational Codeforces Round 144 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 4510,
+                    "rating_update_time_seconds": 1677602100,
+                    "old_rating": 1407,
+                    "new_rating": 1367
+                },
+                {
+                    "contest_id": 1799,
+                    "contest_name": "Codeforces Round 854 by cybercats (Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 3100,
+                    "rating_update_time_seconds": 1677519300,
+                    "old_rating": 1423,
+                    "new_rating": 1407
+                },
+                {
+                    "contest_id": 1789,
+                    "contest_name": "Codeforces Round 853 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 3270,
+                    "rating_update_time_seconds": 1677342000,
+                    "old_rating": 1449,
+                    "new_rating": 1423
+                },
+                {
+                    "contest_id": 1778,
+                    "contest_name": "Codeforces Round 848 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2165,
+                    "rating_update_time_seconds": 1675269300,
+                    "old_rating": 1410,
+                    "new_rating": 1449
+                },
+                {
+                    "contest_id": 1787,
+                    "contest_name": "TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "EdGrass",
+                    "rank": 1450,
+                    "rating_update_time_seconds": 1675013700,
+                    "old_rating": 1266,
+                    "new_rating": 1410
+                },
+                {
+                    "contest_id": 1790,
+                    "contest_name": "Codeforces Round 847 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 5681,
+                    "rating_update_time_seconds": 1674838200,
+                    "old_rating": 1289,
+                    "new_rating": 1266
+                },
+                {
+                    "contest_id": 1792,
+                    "contest_name": "Educational Codeforces Round 142 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 6230,
+                    "rating_update_time_seconds": 1674578100,
+                    "old_rating": 1326,
+                    "new_rating": 1289
+                },
+                {
+                    "contest_id": 1777,
+                    "contest_name": "Codeforces Round 845 (Div. 2) and ByteRace 2023",
+                    "handle": "EdGrass",
+                    "rank": 3330,
+                    "rating_update_time_seconds": 1674318900,
+                    "old_rating": 1323,
+                    "new_rating": 1326
+                },
+                {
+                    "contest_id": 1783,
+                    "contest_name": "Educational Codeforces Round 141 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 4048,
+                    "rating_update_time_seconds": 1673195700,
+                    "old_rating": 1302,
+                    "new_rating": 1323
+                },
+                {
+                    "contest_id": 1768,
+                    "contest_name": "Codeforces Round 842 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 4139,
+                    "rating_update_time_seconds": 1672936500,
+                    "old_rating": 1272,
+                    "new_rating": 1302
+                },
+                {
+                    "contest_id": 1779,
+                    "contest_name": "Hello 2023",
+                    "handle": "EdGrass",
+                    "rank": 8373,
+                    "rating_update_time_seconds": 1672765500,
+                    "old_rating": 1314,
+                    "new_rating": 1272
+                },
+                {
+                    "contest_id": 1770,
+                    "contest_name": "Good Bye 2022: 2023 is NEAR",
+                    "handle": "EdGrass",
+                    "rank": 6971,
+                    "rating_update_time_seconds": 1672419900,
+                    "old_rating": 1322,
+                    "new_rating": 1314
+                },
+                {
+                    "contest_id": 1731,
+                    "contest_name": "Codeforces Round 841 (Div. 2) and Divide by Zero 2022",
+                    "handle": "EdGrass",
+                    "rank": 7207,
+                    "rating_update_time_seconds": 1672158900,
+                    "old_rating": 1391,
+                    "new_rating": 1322
+                },
+                {
+                    "contest_id": 1763,
+                    "contest_name": "Codeforces Round 840 (Div. 2) and Enigma 2022 - Cybros LNMIIT",
+                    "handle": "EdGrass",
+                    "rank": 2108,
+                    "rating_update_time_seconds": 1671467700,
+                    "old_rating": 1347,
+                    "new_rating": 1391
+                },
+                {
+                    "contest_id": 1772,
+                    "contest_name": "Codeforces Round 839 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 638,
+                    "rating_update_time_seconds": 1671382200,
+                    "old_rating": 1211,
+                    "new_rating": 1347
+                },
+                {
+                    "contest_id": 1774,
+                    "contest_name": "Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "EdGrass",
+                    "rank": 3217,
+                    "rating_update_time_seconds": 1671296700,
+                    "old_rating": 1114,
+                    "new_rating": 1211
+                },
+                {
+                    "contest_id": 1767,
+                    "contest_name": "Educational Codeforces Round 140 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 5568,
+                    "rating_update_time_seconds": 1671208500,
+                    "old_rating": 1070,
+                    "new_rating": 1114
+                },
+                {
+                    "contest_id": 1766,
+                    "contest_name": "Educational Codeforces Round 139 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 8295,
+                    "rating_update_time_seconds": 1670862900,
+                    "old_rating": 1108,
+                    "new_rating": 1070
+                },
+                {
+                    "contest_id": 1758,
+                    "contest_name": "Codeforces Round 836 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 5555,
+                    "rating_update_time_seconds": 1669397700,
+                    "old_rating": 1096,
+                    "new_rating": 1108
+                },
+                {
+                    "contest_id": 1760,
+                    "contest_name": "Codeforces Round 835 (Div. 4)",
+                    "handle": "EdGrass",
+                    "rank": 6529,
+                    "rating_update_time_seconds": 1669050000,
+                    "old_rating": 1106,
+                    "new_rating": 1096
+                },
+                {
+                    "contest_id": 1761,
+                    "contest_name": "Pinely Round 1 (Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 4749,
+                    "rating_update_time_seconds": 1668963900,
+                    "old_rating": 1036,
+                    "new_rating": 1106
+                },
+                {
+                    "contest_id": 1759,
+                    "contest_name": "Codeforces Round  834 (Div. 3)",
+                    "handle": "EdGrass",
+                    "rank": 4760,
+                    "rating_update_time_seconds": 1668790200,
+                    "old_rating": 900,
+                    "new_rating": 1036
+                },
+                {
+                    "contest_id": 1748,
+                    "contest_name": "Codeforces Round 833 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 8138,
+                    "rating_update_time_seconds": 1668270900,
+                    "old_rating": 806,
+                    "new_rating": 900
+                },
+                {
+                    "contest_id": 1747,
+                    "contest_name": "Codeforces Round 832 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 12456,
+                    "rating_update_time_seconds": 1667579700,
+                    "old_rating": 690,
+                    "new_rating": 806
+                },
+                {
+                    "contest_id": 1740,
+                    "contest_name": "Codeforces Round 831 (Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 6407,
+                    "rating_update_time_seconds": 1667044500,
+                    "old_rating": 436,
+                    "new_rating": 690
+                },
+                {
+                    "contest_id": 1754,
+                    "contest_name": "Codeforces Round 829 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 5305,
+                    "rating_update_time_seconds": 1666518600,
+                    "old_rating": 0,
+                    "new_rating": 436
+                }
+            ]
+        },
+        "邵茹怡": {
+            "name": "邵茹怡",
+            "grade": 2022,
+            "codeforces_handle": "dry_myrica"
+        },
+        "叶宏健": {
+            "name": "叶宏健",
+            "grade": 2022,
+            "codeforces_handle": "pekolim",
+            "rating": 1353
+        },
+        "尤馨然": {
+            "name": "尤馨然",
+            "grade": 2022,
+            "codeforces_handle": "Youxinranw"
+        },
+        "江宇帆": {
+            "name": "江宇帆",
+            "grade": 2022,
+            "codeforces_handle": "NONEEDDEBUG12"
+        },
+        "戴子晟": {
+            "name": "戴子晟",
+            "grade": 2022,
+            "codeforces_handle": "SHOJIG"
+        },
+        "章诚益": {
+            "name": "章诚益",
+            "grade": 2022,
+            "codeforces_handle": "smartzhcy",
+            "problem_total": 45
+        },
+        "林丰": {
+            "name": "林丰",
+            "grade": 2022,
+            "codeforces_handle": "afeng111",
+            "contest_info": [
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 985,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1726,
+                    "new_rating": 1754
+                },
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1881,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1746,
+                    "new_rating": 1726
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "afeng111",
+                    "rank": 2263,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1728,
+                    "new_rating": 1746
+                },
+                {
+                    "contest_id": 1900,
+                    "contest_name": "Codeforces Round 911 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1415,
+                    "rating_update_time_seconds": 1701016500,
+                    "old_rating": 1757,
+                    "new_rating": 1728
+                },
+                {
+                    "contest_id": 1896,
+                    "contest_name": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "afeng111",
+                    "rank": 1480,
+                    "rating_update_time_seconds": 1700932800,
+                    "old_rating": 1741,
+                    "new_rating": 1757
+                },
+                {
+                    "contest_id": 1901,
+                    "contest_name": "Educational Codeforces Round 158 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 3334,
+                    "rating_update_time_seconds": 1700843700,
+                    "old_rating": 1843,
+                    "new_rating": 1741
+                },
+                {
+                    "contest_id": 1898,
+                    "contest_name": "Codeforces Round 910 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 150,
+                    "rating_update_time_seconds": 1700411700,
+                    "old_rating": 1701,
+                    "new_rating": 1843
+                },
+                {
+                    "contest_id": 1894,
+                    "contest_name": "Codeforces Round 908 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 155,
+                    "rating_update_time_seconds": 1699374900,
+                    "old_rating": 1533,
+                    "new_rating": 1701
+                },
+                {
+                    "contest_id": 1886,
+                    "contest_name": "Educational Codeforces Round 156 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 4266,
+                    "rating_update_time_seconds": 1696869300,
+                    "old_rating": 1586,
+                    "new_rating": 1533
+                },
+                {
+                    "contest_id": 1862,
+                    "contest_name": "Codeforces Round 894 (Div. 3)",
+                    "handle": "afeng111",
+                    "rank": 1206,
+                    "rating_update_time_seconds": 1692895800,
+                    "old_rating": 1569,
+                    "new_rating": 1586
+                },
+                {
+                    "contest_id": 1860,
+                    "contest_name": "Educational Codeforces Round 153 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 2318,
+                    "rating_update_time_seconds": 1692290100,
+                    "old_rating": 1550,
+                    "new_rating": 1569
+                },
+                {
+                    "contest_id": 1858,
+                    "contest_name": "Codeforces Round 893 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1098,
+                    "rating_update_time_seconds": 1692117300,
+                    "old_rating": 1446,
+                    "new_rating": 1550
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 7582,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 1522,
+                    "new_rating": 1446
+                },
+                {
+                    "contest_id": 1857,
+                    "contest_name": "Codeforces Round 891 (Div. 3)",
+                    "handle": "afeng111",
+                    "rank": 1144,
+                    "rating_update_time_seconds": 1691427000,
+                    "old_rating": 1422,
+                    "new_rating": 1522
+                },
+                {
+                    "contest_id": 1849,
+                    "contest_name": "Educational Codeforces Round 152 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 2974,
+                    "rating_update_time_seconds": 1690475700,
+                    "old_rating": 1309,
+                    "new_rating": 1422
+                },
+                {
+                    "contest_id": 1851,
+                    "contest_name": "Codeforces Round 888 (Div. 3)",
+                    "handle": "afeng111",
+                    "rank": 728,
+                    "rating_update_time_seconds": 1690303800,
+                    "old_rating": 1055,
+                    "new_rating": 1309
+                },
+                {
+                    "contest_id": 1802,
+                    "contest_name": "Codeforces Round 857 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 2020,
+                    "rating_update_time_seconds": 1678365300,
+                    "old_rating": 791,
+                    "new_rating": 1055
+                },
+                {
+                    "contest_id": 1796,
+                    "contest_name": "Educational Codeforces Round 144 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 3271,
+                    "rating_update_time_seconds": 1677602100,
+                    "old_rating": 429,
+                    "new_rating": 791
+                },
+                {
+                    "contest_id": 1799,
+                    "contest_name": "Codeforces Round 854 by cybercats (Div. 1 + Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 4886,
+                    "rating_update_time_seconds": 1677519300,
+                    "old_rating": 0,
+                    "new_rating": 429
+                }
+            ]
+        },
+        "张朝": {
+            "name": "张朝",
+            "grade": 2022,
+            "codeforces_handle": "f3f3f3f3"
+        },
+        "何家琛": {
+            "name": "何家琛",
+            "grade": 2022,
+            "codeforces_handle": "setter_K",
+            "problem_total": 70
+        },
+        "凌子豪": {
+            "name": "凌子豪",
+            "grade": 2022,
+            "codeforces_handle": "Before_Sunset",
+            "contest_info": [
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 5072,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1342,
+                    "new_rating": 1345
+                },
+                {
+                    "contest_id": 1905,
+                    "contest_name": "Codeforces Round 915 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 4025,
+                    "rating_update_time_seconds": 1702744500,
+                    "old_rating": 1344,
+                    "new_rating": 1342
+                },
+                {
+                    "contest_id": 1907,
+                    "contest_name": "Codeforces Round 913 (Div. 3)",
+                    "handle": "Before_Sunset",
+                    "rank": 843,
+                    "rating_update_time_seconds": 1701795600,
+                    "old_rating": 1211,
+                    "new_rating": 1344
+                },
+                {
+                    "contest_id": 1894,
+                    "contest_name": "Codeforces Round 908 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 5617,
+                    "rating_update_time_seconds": 1699374900,
+                    "old_rating": 1250,
+                    "new_rating": 1211
+                },
+                {
+                    "contest_id": 1895,
+                    "contest_name": "Educational Codeforces Round 157 (Rated for Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 1890,
+                    "rating_update_time_seconds": 1699029300,
+                    "old_rating": 1101,
+                    "new_rating": 1250
+                },
+                {
+                    "contest_id": 1890,
+                    "contest_name": "Codeforces Round 906 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 7106,
+                    "rating_update_time_seconds": 1698512700,
+                    "old_rating": 1133,
+                    "new_rating": 1101
+                },
+                {
+                    "contest_id": 1884,
+                    "contest_name": "Codeforces Round 904 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 6664,
+                    "rating_update_time_seconds": 1697965500,
+                    "old_rating": 1198,
+                    "new_rating": 1133
+                },
+                {
+                    "contest_id": 1886,
+                    "contest_name": "Educational Codeforces Round 156 (Rated for Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 6095,
+                    "rating_update_time_seconds": 1696869300,
+                    "old_rating": 1190,
+                    "new_rating": 1198
+                },
+                {
+                    "contest_id": 1882,
+                    "contest_name": "Codeforces Round 899 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 8879,
+                    "rating_update_time_seconds": 1695659700,
+                    "old_rating": 1192,
+                    "new_rating": 1190
+                },
+                {
+                    "contest_id": 1879,
+                    "contest_name": "Educational Codeforces Round 155 (Rated for Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 5462,
+                    "rating_update_time_seconds": 1695573300,
+                    "old_rating": 1076,
+                    "new_rating": 1192
+                },
+                {
+                    "contest_id": 1870,
+                    "contest_name": "CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "Before_Sunset",
+                    "rank": 4770,
+                    "rating_update_time_seconds": 1695055800,
+                    "old_rating": 880,
+                    "new_rating": 1076
+                },
+                {
+                    "contest_id": 1867,
+                    "contest_name": "Codeforces Round 897 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 9277,
+                    "rating_update_time_seconds": 1694450100,
+                    "old_rating": 714,
+                    "new_rating": 880
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 9345,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 418,
+                    "new_rating": 714
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "Before_Sunset",
+                    "rank": 9954,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 0,
+                    "new_rating": 418
+                }
+            ]
         }
     },
-    "update_time": "2024-01-24 12:31:19"
+    "update_time": "2024-01-24 12:42:27"
 }
