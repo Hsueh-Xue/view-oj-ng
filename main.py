@@ -1,3 +1,4 @@
+import time
 from datetime import datetime
 
 from spider.codeforces_spider import CodeforcesSpider
@@ -29,6 +30,7 @@ def main():
         data = json.load(f)
     user_data = data.get('user_info', {})
     with open('user.json', 'r') as f:
+        time.sleep(0.5)
         user_info = json.load(f)
         user_map = {}
         for user in user_info:
