@@ -1,9 +1,10 @@
 import time
 from datetime import datetime
 
-from spider.codeforces_spider import CodeforcesSpider
 import json
 import re
+
+from spider.codeforces_spider import get_user_rating, get_user_contest_info, get_problem_info
 
 
 def to_snake_case(camel_str):
@@ -41,14 +42,13 @@ def main():
             origin_user_info['name'] = user_name
             origin_user_info['grade'] = user.get('grade', 0)
             origin_user_info['codeforces_handle'] = handle
-            codeforces_spider = CodeforcesSpider()
-            rating = codeforces_spider.get_user_rating(handle)
+            rating = get_user_rating(handle)
             if rating != 0:
                 origin_user_info['rating'] = rating
-            problem_total = codeforces_spider.get_problem_info(handle)
+            problem_total = get_problem_info(handle)
             if problem_total != 0:
                 origin_user_info['problem_total'] = problem_total
-            content_info = codeforces_spider.get_user_contest_info(handle)
+            content_info = get_user_contest_info(handle)
             if len(content_info) != 0:
                 origin_user_info['contest_info'] = content_info
                 origin_user_info['contest_total'] = len(content_info)
