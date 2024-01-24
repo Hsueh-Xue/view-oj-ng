@@ -1250,7 +1250,7 @@
             "name": "周奕",
             "grade": 2022,
             "codeforces_handle": "Zeoy",
-            "rating": 1490,
+            "rating": 1590,
             "problem_total": 740,
             "contest_info": [
                 {
@@ -1495,9 +1495,27 @@
                     "rating_update_time_seconds": 1703955000,
                     "old_rating": 1534,
                     "new_rating": 1490
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "Zeoy",
+                    "rank": 3619,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1490,
+                    "new_rating": 1523
+                },
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "Zeoy",
+                    "rank": 1306,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1523,
+                    "new_rating": 1590
                 }
             ],
-            "contest_total": 27
+            "contest_total": 29
         },
         "陈俊安": {
             "name": "陈俊安",
@@ -2080,11 +2098,29 @@
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1784,
                     "new_rating": 1801
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "EdGrass",
+                    "rank": 1500,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1801,
+                    "new_rating": 1840
+                },
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 792,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1840,
+                    "new_rating": 1853
                 }
             ],
-            "rating": 1801,
+            "rating": 1853,
             "problem_total": 816,
-            "contest_total": 60
+            "contest_total": 62
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3346,10 +3382,19 @@
                     "rating_update_time_seconds": 1703005500,
                     "old_rating": 1319,
                     "new_rating": 1329
+                },
+                {
+                    "contest_id": 1921,
+                    "contest_name": "Codeforces Round 920 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 9822,
+                    "rating_update_time_seconds": 1705337400,
+                    "old_rating": 1329,
+                    "new_rating": 1274
                 }
             ],
-            "rating": 1329,
-            "contest_total": 6
+            "rating": 1274,
+            "contest_total": 7
         },
         "章诚益": {
             "name": "章诚益",
@@ -3581,11 +3626,29 @@
                     "rating_update_time_seconds": 1701016500,
                     "old_rating": 1757,
                     "new_rating": 1728
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "afeng111",
+                    "rank": 2257,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1728,
+                    "new_rating": 1747
+                },
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1860,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1747,
+                    "new_rating": 1728
                 }
             ],
             "problem_total": 290,
             "rating": 1728,
-            "contest_total": 16
+            "contest_total": 18
         },
         "张朝": {
             "name": "张朝",
@@ -3987,11 +4050,29 @@
                     "rating_update_time_seconds": 1703955000,
                     "old_rating": 1715,
                     "new_rating": 1742
+                },
+                {
+                    "contest_id": 1919,
+                    "contest_name": "Hello 2024",
+                    "handle": "BowTen",
+                    "rank": 7457,
+                    "rating_update_time_seconds": 1704560700,
+                    "old_rating": 1742,
+                    "new_rating": 1637
+                },
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 980,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1637,
+                    "new_rating": 1691
                 }
             ],
-            "contest_total": 44,
+            "contest_total": 46,
             "problem_total": 563,
-            "rating": 1742
+            "rating": 1691
         },
         "何家琛": {
             "name": "何家琛",
@@ -4259,12 +4340,21 @@
                     "rating_update_time_seconds": 1702744500,
                     "old_rating": 1344,
                     "new_rating": 1342
+                },
+                {
+                    "contest_id": 1920,
+                    "contest_name": "Codeforces Round 919 (Div. 2)",
+                    "handle": "Before_Sunset",
+                    "rank": 4954,
+                    "rating_update_time_seconds": 1705163700,
+                    "old_rating": 1342,
+                    "new_rating": 1347
                 }
             ],
             "problem_total": 67,
-            "rating": 1342,
-            "contest_total": 13
+            "rating": 1347,
+            "contest_total": 14
         }
     },
-    "update_time": "2024-01-24 23:37:20"
+    "update_time": "2024-01-25 00:20:25"
 }
