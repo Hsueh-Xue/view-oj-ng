@@ -2112,7 +2112,8 @@
                     "new_rating": 436
                 }
             ],
-            "rating": 1852
+            "rating": 1852,
+            "problem_total": 816
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3062,7 +3063,8 @@
             "name": "何家琛",
             "grade": 2022,
             "codeforces_handle": "setter_K",
-            "problem_total": 70
+            "problem_total": 70,
+            "rating": 1466
         },
         "凌子豪": {
             "name": "凌子豪",
@@ -3199,5 +3201,5 @@
             "problem_total": 67
         }
     },
-    "update_time": "2024-01-24 12:54:51"
+    "update_time": "2024-01-24 13:12:26"
 }
