@@ -2606,7 +2606,8 @@
                     "old_rating": 0,
                     "new_rating": 394
                 }
-            ]
+            ],
+            "rating": 1668
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -2785,7 +2786,8 @@
                     "old_rating": 0,
                     "new_rating": 457
                 }
-            ]
+            ],
+            "problem_total": 252
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -2873,7 +2875,81 @@
             "grade": 2022,
             "codeforces_handle": "smartzhcy",
             "problem_total": 45,
-            "rating": 1239
+            "rating": 1239,
+            "contest_info": [
+                {
+                    "contest_id": 1907,
+                    "contest_name": "Codeforces Round 913 (Div. 3)",
+                    "handle": "smartzhcy",
+                    "rank": 4705,
+                    "rating_update_time_seconds": 1701795600,
+                    "old_rating": 1237,
+                    "new_rating": 1239
+                },
+                {
+                    "contest_id": 1899,
+                    "contest_name": "Codeforces Round 909 (Div. 3)",
+                    "handle": "smartzhcy",
+                    "rank": 4038,
+                    "rating_update_time_seconds": 1700239800,
+                    "old_rating": 1222,
+                    "new_rating": 1237
+                },
+                {
+                    "contest_id": 1884,
+                    "contest_name": "Codeforces Round 904 (Div. 2)",
+                    "handle": "smartzhcy",
+                    "rank": 2824,
+                    "rating_update_time_seconds": 1697965500,
+                    "old_rating": 1102,
+                    "new_rating": 1222
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "smartzhcy",
+                    "rank": 9202,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 1019,
+                    "new_rating": 1102
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "smartzhcy",
+                    "rank": 5881,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 831,
+                    "new_rating": 1019
+                },
+                {
+                    "contest_id": 1748,
+                    "contest_name": "Codeforces Round 833 (Div. 2)",
+                    "handle": "smartzhcy",
+                    "rank": 10485,
+                    "rating_update_time_seconds": 1668270900,
+                    "old_rating": 697,
+                    "new_rating": 831
+                },
+                {
+                    "contest_id": 1740,
+                    "contest_name": "Codeforces Round 831 (Div. 1 + Div. 2)",
+                    "handle": "smartzhcy",
+                    "rank": 5452,
+                    "rating_update_time_seconds": 1667044500,
+                    "old_rating": 414,
+                    "new_rating": 697
+                },
+                {
+                    "contest_id": 1754,
+                    "contest_name": "Codeforces Round 829 (Div. 2)",
+                    "handle": "smartzhcy",
+                    "rank": 6374,
+                    "rating_update_time_seconds": 1666518600,
+                    "old_rating": 0,
+                    "new_rating": 414
+                }
+            ]
         },
         "林丰": {
             "name": "林丰",
@@ -3201,5 +3277,5 @@
             "problem_total": 67
         }
     },
-    "update_time": "2024-01-24 13:12:26"
+    "update_time": "2024-01-24 13:30:14"
 }
