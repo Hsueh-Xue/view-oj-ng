@@ -2607,7 +2607,8 @@
                     "new_rating": 394
                 }
             ],
-            "rating": 1668
+            "rating": 1668,
+            "problem_total": 301
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -3275,8 +3276,9 @@
                     "new_rating": 418
                 }
             ],
-            "problem_total": 67
+            "problem_total": 67,
+            "rating": 1345
         }
     },
-    "update_time": "2024-01-24 13:39:19"
+    "update_time": "2024-01-24 13:48:13"
 }
