@@ -3142,7 +3142,144 @@
             "grade": 2022,
             "codeforces_handle": "setter_K",
             "problem_total": 70,
-            "rating": 1466
+            "rating": 1466,
+            "contest_info": [
+                {
+                    "contest_id": 1896,
+                    "contest_name": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "setter_K",
+                    "rank": 1624,
+                    "rating_update_time_seconds": 1700932800,
+                    "old_rating": 1356,
+                    "new_rating": 1466
+                },
+                {
+                    "contest_id": 1901,
+                    "contest_name": "Educational Codeforces Round 158 (Rated for Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 6073,
+                    "rating_update_time_seconds": 1700843700,
+                    "old_rating": 1426,
+                    "new_rating": 1356
+                },
+                {
+                    "contest_id": 1898,
+                    "contest_name": "Codeforces Round 910 (Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 2549,
+                    "rating_update_time_seconds": 1700411700,
+                    "old_rating": 1431,
+                    "new_rating": 1426
+                },
+                {
+                    "contest_id": 1899,
+                    "contest_name": "Codeforces Round 909 (Div. 3)",
+                    "handle": "setter_K",
+                    "rank": 1654,
+                    "rating_update_time_seconds": 1700239800,
+                    "old_rating": 1405,
+                    "new_rating": 1431
+                },
+                {
+                    "contest_id": 1869,
+                    "contest_name": "Codeforces Round 896 (Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 2484,
+                    "rating_update_time_seconds": 1694363700,
+                    "old_rating": 1379,
+                    "new_rating": 1405
+                },
+                {
+                    "contest_id": 1872,
+                    "contest_name": "Codeforces Round 895 (Div. 3)",
+                    "handle": "setter_K",
+                    "rank": 3441,
+                    "rating_update_time_seconds": 1694105400,
+                    "old_rating": 1379,
+                    "new_rating": 1379
+                },
+                {
+                    "contest_id": 1860,
+                    "contest_name": "Educational Codeforces Round 153 (Rated for Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 4125,
+                    "rating_update_time_seconds": 1692290100,
+                    "old_rating": 1359,
+                    "new_rating": 1379
+                },
+                {
+                    "contest_id": 1859,
+                    "contest_name": "Codeforces Round 892 (Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 4121,
+                    "rating_update_time_seconds": 1691858100,
+                    "old_rating": 1329,
+                    "new_rating": 1359
+                },
+                {
+                    "contest_id": 1857,
+                    "contest_name": "Codeforces Round 891 (Div. 3)",
+                    "handle": "setter_K",
+                    "rank": 3639,
+                    "rating_update_time_seconds": 1691427000,
+                    "old_rating": 1301,
+                    "new_rating": 1329
+                },
+                {
+                    "contest_id": 1856,
+                    "contest_name": "Codeforces Round 890 (Div. 2) supported by Constructor Institute",
+                    "handle": "setter_K",
+                    "rank": 7590,
+                    "rating_update_time_seconds": 1691253300,
+                    "old_rating": 1298,
+                    "new_rating": 1301
+                },
+                {
+                    "contest_id": 1855,
+                    "contest_name": "Codeforces Round 889 (Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 9831,
+                    "rating_update_time_seconds": 1690650300,
+                    "old_rating": 1292,
+                    "new_rating": 1298
+                },
+                {
+                    "contest_id": 1849,
+                    "contest_name": "Educational Codeforces Round 152 (Rated for Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 3545,
+                    "rating_update_time_seconds": 1690475700,
+                    "old_rating": 1140,
+                    "new_rating": 1292
+                },
+                {
+                    "contest_id": 1851,
+                    "contest_name": "Codeforces Round 888 (Div. 3)",
+                    "handle": "setter_K",
+                    "rank": 1702,
+                    "rating_update_time_seconds": 1690303800,
+                    "old_rating": 849,
+                    "new_rating": 1140
+                },
+                {
+                    "contest_id": 1853,
+                    "contest_name": "Codeforces Round 887 (Div. 2)",
+                    "handle": "setter_K",
+                    "rank": 5198,
+                    "rating_update_time_seconds": 1690131900,
+                    "old_rating": 544,
+                    "new_rating": 849
+                },
+                {
+                    "contest_id": 1850,
+                    "contest_name": "Codeforces Round 886 (Div. 4)",
+                    "handle": "setter_K",
+                    "rank": 1547,
+                    "rating_update_time_seconds": 1689957300,
+                    "old_rating": 0,
+                    "new_rating": 544
+                }
+            ]
         },
         "凌子豪": {
             "name": "凌子豪",
@@ -3280,5 +3417,5 @@
             "rating": 1345
         }
     },
-    "update_time": "2024-01-24 13:48:13"
+    "update_time": "2024-01-24 13:57:30"
 }
