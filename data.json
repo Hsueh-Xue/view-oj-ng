@@ -1250,7 +1250,7 @@
             "name": "周奕",
             "grade": 2022,
             "codeforces_handle": "Zeoy",
-            "rating": 1534,
+            "rating": 1490,
             "problem_total": 740,
             "contest_info": [
                 {
@@ -1486,9 +1486,18 @@
                     "rating_update_time_seconds": 1703005500,
                     "old_rating": 1482,
                     "new_rating": 1534
+                },
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "Zeoy",
+                    "rank": 6932,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1534,
+                    "new_rating": 1490
                 }
             ],
-            "contest_total": 26
+            "contest_total": 27
         },
         "陈俊安": {
             "name": "陈俊安",
@@ -2558,17 +2567,26 @@
                     "rating_update_time_seconds": 1702917300,
                     "old_rating": 1656,
                     "new_rating": 1615
+                },
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "dry_myrica",
+                    "rank": 2247,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1615,
+                    "new_rating": 1668
                 }
             ],
-            "rating": 1615,
+            "rating": 1668,
             "problem_total": 301,
-            "contest_total": 53
+            "contest_total": 54
         },
         "叶宏健": {
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1345,
+            "rating": 1355,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2731,10 +2749,19 @@
                     "rating_update_time_seconds": 1703783100,
                     "old_rating": 1308,
                     "new_rating": 1345
+                },
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "pekolim",
+                    "rank": 6505,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1345,
+                    "new_rating": 1355
                 }
             ],
             "problem_total": 252,
-            "contest_total": 18
+            "contest_total": 19
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -3951,11 +3978,20 @@
                     "rating_update_time_seconds": 1703435700,
                     "old_rating": 1725,
                     "new_rating": 1715
+                },
+                {
+                    "contest_id": 1916,
+                    "contest_name": "Good Bye 2023",
+                    "handle": "BowTen",
+                    "rank": 2261,
+                    "rating_update_time_seconds": 1703955000,
+                    "old_rating": 1715,
+                    "new_rating": 1742
                 }
             ],
-            "contest_total": 43,
+            "contest_total": 44,
             "problem_total": 563,
-            "rating": 1715
+            "rating": 1742
         },
         "何家琛": {
             "name": "何家琛",
@@ -4230,5 +4266,5 @@
             "contest_total": 13
         }
     },
-    "update_time": "2024-01-24 23:17:11"
+    "update_time": "2024-01-24 23:37:20"
 }
