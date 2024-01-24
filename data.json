@@ -2568,7 +2568,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1308,
+            "rating": 1345,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2722,10 +2722,19 @@
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1354,
                     "new_rating": 1308
+                },
+                {
+                    "contest_id": 1915,
+                    "contest_name": "Codeforces Round 918 (Div. 4)",
+                    "handle": "pekolim",
+                    "rank": 2206,
+                    "rating_update_time_seconds": 1703783100,
+                    "old_rating": 1308,
+                    "new_rating": 1345
                 }
             ],
             "problem_total": 252,
-            "contest_total": 17
+            "contest_total": 18
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -4221,5 +4230,5 @@
             "contest_total": 13
         }
     },
-    "update_time": "2024-01-24 22:38:25"
+    "update_time": "2024-01-24 23:17:11"
 }
