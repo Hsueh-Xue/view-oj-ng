@@ -2525,10 +2525,19 @@
                     "rating_update_time_seconds": 1703005500,
                     "old_rating": 1319,
                     "new_rating": 1329
+                },
+                {
+                    "contest_id": 1921,
+                    "contest_name": "Codeforces Round 920 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 9822,
+                    "rating_update_time_seconds": 1705337400,
+                    "old_rating": 1329,
+                    "new_rating": 1274
                 }
             ],
-            "rating": 1329,
-            "contest_total": 6
+            "rating": 1274,
+            "contest_total": 7
         },
         "章诚益": {
             "name": "章诚益",
@@ -2778,11 +2787,20 @@
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1747,
                     "new_rating": 1729
+                },
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 958,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1729,
+                    "new_rating": 1758
                 }
             ],
             "problem_total": 294,
-            "rating": 1729,
-            "contest_total": 18
+            "rating": 1758,
+            "contest_total": 19
         },
         "张朝": {
             "name": "张朝",
@@ -3202,11 +3220,20 @@
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1639,
                     "new_rating": 1694
+                },
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 439,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1694,
+                    "new_rating": 1782
                 }
             ],
-            "contest_total": 46,
+            "contest_total": 47,
             "problem_total": 564,
-            "rating": 1694
+            "rating": 1782
         },
         "何家琛": {
             "name": "何家琛",
@@ -4347,5 +4374,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-01-25 23:34:19"
+    "update_time": "2024-01-26 00:12:27"
 }
