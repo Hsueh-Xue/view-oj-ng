@@ -34,7 +34,7 @@ jobs:
       run: |
         git config --global user.name Hsueh-Xue
         git config --global user.email 867997466@qq.com
-        git add data.json
+        git add public/data.json
         git commit -m "Update data"
     - name: Push changes
       uses: ad-m/github-push-action@master
