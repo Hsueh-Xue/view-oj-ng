@@ -3309,20 +3309,11 @@
                     "rank": 5765,
                     "rating_update_time_seconds": 1703005500,
                     "old_rating": 1319,
-                    "new_rating": 1329
-                },
-                {
-                    "contest_id": 1921,
-                    "contest_name": "Codeforces Round 920 (Div. 3)",
-                    "handle": "SHOJIG",
-                    "rank": 9822,
-                    "rating_update_time_seconds": 1705337400,
-                    "old_rating": 1329,
                     "new_rating": 1274
                 }
             ],
             "rating": 1274,
-            "contest_total": 7
+            "contest_total": 6
         },
         "章诚益": {
             "name": "章诚益",
@@ -4221,5 +4212,5 @@
             "contest_total": 13
         }
     },
-    "update_time": "2024-01-25 19:13:41"
+    "update_time": "2024-01-25 19:39:01"
 }
