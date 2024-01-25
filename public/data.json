@@ -1250,7 +1250,7 @@
             "name": "周奕",
             "grade": 2022,
             "codeforces_handle": "Zeoy",
-            "rating": 1587,
+            "rating": 1534,
             "problem_total": 740,
             "contest_info": [
                 {
@@ -1485,7 +1485,7 @@
                     "rank": 860,
                     "rating_update_time_seconds": 1703005500,
                     "old_rating": 1482,
-                    "new_rating": 1587
+                    "new_rating": 1534
                 }
             ],
             "contest_total": 26
@@ -2070,10 +2070,10 @@
                     "rank": 1419,
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1784,
-                    "new_rating": 1852
+                    "new_rating": 1801
                 }
             ],
-            "rating": 1852,
+            "rating": 1801,
             "problem_total": 816,
             "contest_total": 60
         },
@@ -2557,10 +2557,10 @@
                     "rank": 2782,
                     "rating_update_time_seconds": 1702917300,
                     "old_rating": 1656,
-                    "new_rating": 1668
+                    "new_rating": 1615
                 }
             ],
-            "rating": 1668,
+            "rating": 1615,
             "problem_total": 301,
             "contest_total": 53
         },
@@ -2568,7 +2568,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1353,
+            "rating": 1308,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2721,7 +2721,7 @@
                     "rank": 5825,
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1354,
-                    "new_rating": 1353
+                    "new_rating": 1308
                 }
             ],
             "problem_total": 252,
@@ -3309,10 +3309,10 @@
                     "rank": 5765,
                     "rating_update_time_seconds": 1703005500,
                     "old_rating": 1319,
-                    "new_rating": 1273
+                    "new_rating": 1329
                 }
             ],
-            "rating": 1273,
+            "rating": 1329,
             "contest_total": 6
         },
         "章诚益": {
@@ -3544,11 +3544,11 @@
                     "rank": 1415,
                     "rating_update_time_seconds": 1701016500,
                     "old_rating": 1757,
-                    "new_rating": 1754
+                    "new_rating": 1728
                 }
             ],
-            "problem_total": 290,
-            "rating": 1754,
+            "problem_total": 294,
+            "rating": 1728,
             "contest_total": 16
         },
         "张朝": {
@@ -3933,20 +3933,11 @@
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1679,
                     "new_rating": 1725
-                },
-                {
-                    "contest_id": 1917,
-                    "contest_name": "Codeforces Round 917 (Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1563,
-                    "rating_update_time_seconds": 1703435700,
-                    "old_rating": 1725,
-                    "new_rating": 1778
                 }
             ],
-            "contest_total": 43,
-            "problem_total": 563,
-            "rating": 1778
+            "contest_total": 42,
+            "problem_total": 564,
+            "rating": 1725
         },
         "何家琛": {
             "name": "何家琛",
@@ -4213,13 +4204,13 @@
                     "rank": 4025,
                     "rating_update_time_seconds": 1702744500,
                     "old_rating": 1344,
-                    "new_rating": 1345
+                    "new_rating": 1342
                 }
             ],
             "problem_total": 67,
-            "rating": 1345,
+            "rating": 1342,
             "contest_total": 13
         }
     },
-    "update_time": "2024-01-24 21:37:08"
+    "update_time": "2024-01-25 22:38:04"
 }
