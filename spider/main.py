@@ -4,7 +4,7 @@ from datetime import datetime
 import json
 import re
 
-from spider.codeforces_spider import get_user_rating, get_user_contest_info, get_problem_info
+from codeforces_spider import get_user_rating, get_user_contest_info, get_problem_info
 
 
 def to_snake_case(camel_str):
@@ -27,7 +27,7 @@ def convert_keys_to_snake_case(data):
 
 
 def main():
-    with open('/public/data.json', 'r') as f:
+    with open('../public/data.json', 'r') as f:
         data = json.load(f)
     user_data = data.get('user_info', {})
     with open('user.json', 'r') as f:
@@ -65,7 +65,7 @@ def main():
     formatted_time = current_time.strftime('%Y-%m-%d %H:%M:%S')
     data['update_time'] = formatted_time
     data = convert_keys_to_snake_case(data)
-    with open('/public/data.json', 'w', encoding='utf-8') as f:
+    with open('../public/data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 
