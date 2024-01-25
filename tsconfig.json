@@ -1,0 +1,19 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "types": ["vite/client", "axios", "element-plus/global"],
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    },
+    {
+      "path": "./tsconfig.vitest.json"
+    }
+  ]
+}
