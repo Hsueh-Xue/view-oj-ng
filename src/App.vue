@@ -46,6 +46,7 @@ export default defineComponent({
   border: 0;
   text-decoration: none;
   list-style-type: none;
+  background: white;
 }
 
 #app {

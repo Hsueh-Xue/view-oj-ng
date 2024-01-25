@@ -50,7 +50,7 @@ def main():
                 origin_user_info['problem_total'] = problem_total
             content_info = get_user_contest_info(handle)
             if len(content_info) != 0:
-                origin_user_info['contest_info'] = content_info
+                origin_user_info['contest_info'] = convert_keys_to_snake_case(content_info)
                 origin_user_info['contest_total'] = len(content_info)
             user_data[user_name] = origin_user_info
         user_to_remove = []
@@ -64,7 +64,6 @@ def main():
     current_time = datetime.now()
     formatted_time = current_time.strftime('%Y-%m-%d %H:%M:%S')
     data['update_time'] = formatted_time
-    data = convert_keys_to_snake_case(data)
     with open('public/data.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
