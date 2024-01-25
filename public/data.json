@@ -2568,7 +2568,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1308,
+            "rating": 1345,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2722,10 +2722,19 @@
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1354,
                     "new_rating": 1308
+                },
+                {
+                    "contest_id": 1915,
+                    "contest_name": "Codeforces Round 918 (Div. 4)",
+                    "handle": "pekolim",
+                    "rank": 2187,
+                    "rating_update_time_seconds": 1703783100,
+                    "old_rating": 1308,
+                    "new_rating": 1345
                 }
             ],
             "problem_total": 252,
-            "contest_total": 17
+            "contest_total": 18
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -3933,11 +3942,20 @@
                     "rating_update_time_seconds": 1703352900,
                     "old_rating": 1679,
                     "new_rating": 1725
+                },
+                {
+                    "contest_id": 1917,
+                    "contest_name": "Codeforces Round 917 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1544,
+                    "rating_update_time_seconds": 1703435700,
+                    "old_rating": 1725,
+                    "new_rating": 1715
                 }
             ],
-            "contest_total": 42,
+            "contest_total": 43,
             "problem_total": 564,
-            "rating": 1725
+            "rating": 1715
         },
         "何家琛": {
             "name": "何家琛",
@@ -4212,5 +4230,5 @@
             "contest_total": 13
         }
     },
-    "update_time": "2024-01-25 22:38:04"
+    "update_time": "2024-01-25 22:58:02"
 }
