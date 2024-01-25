@@ -3655,7 +3655,7 @@
                     "new_rating": 1757
                 }
             ],
-            "problem_total": 293,
+            "problem_total": 294,
             "rating": 1757,
             "contest_total": 19
         },
@@ -4089,7 +4089,7 @@
                 }
             ],
             "contest_total": 47,
-            "problem_total": 563,
+            "problem_total": 564,
             "rating": 1779
         },
         "何家琛": {
@@ -4374,5 +4374,5 @@
             "contest_total": 14
         }
     },
-    "update_time": "2024-01-25 14:39:31"
+    "update_time": "2024-01-25 15:14:59"
 }
