@@ -2798,7 +2798,7 @@
                     "new_rating": 1758
                 }
             ],
-            "problem_total": 300,
+            "problem_total": 301,
             "rating": 1758,
             "contest_total": 19
         },
@@ -4374,5 +4374,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-01-28 02:10:20"
+    "update_time": "2024-01-28 02:33:51"
 }
