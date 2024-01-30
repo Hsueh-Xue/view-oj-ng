@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1590,
-            "problem_total": 745,
+            "problem_total": 746,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -1758,7 +1758,7 @@
                 }
             ],
             "rating": 1669,
-            "problem_total": 301,
+            "problem_total": 302,
             "contest_total": 54
         },
         "叶宏健": {
@@ -2229,7 +2229,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 250
+            "problem_total": 253
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2470,7 +2470,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 80,
+            "problem_total": 81,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -2807,7 +2807,7 @@
                     "new_rating": 1806
                 }
             ],
-            "problem_total": 303,
+            "problem_total": 305,
             "rating": 1806,
             "contest_total": 20
         },
@@ -3250,14 +3250,14 @@
                 }
             ],
             "contest_total": 48,
-            "problem_total": 574,
+            "problem_total": 575,
             "rating": 1771
         },
         "何家琛": {
             "name": "何家琛",
             "grade": 2022,
             "codeforces_handle": "setter_K",
-            "problem_total": 71,
+            "problem_total": 72,
             "rating": 1466,
             "contest_info": [
                 {
@@ -3530,7 +3530,7 @@
                     "new_rating": 1348
                 }
             ],
-            "problem_total": 75,
+            "problem_total": 76,
             "rating": 1348,
             "contest_total": 14
         },
@@ -4392,5 +4392,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-01-31 00:39:52"
+    "update_time": "2024-01-31 01:11:57"
 }
