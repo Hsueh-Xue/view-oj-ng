@@ -2229,7 +2229,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 249
+            "problem_total": 250
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2543,7 +2543,7 @@
             "name": "章诚益",
             "grade": 2022,
             "codeforces_handle": "smartzhcy",
-            "problem_total": 47,
+            "problem_total": 48,
             "rating": 1239,
             "contest_info": [
                 {
@@ -4392,5 +4392,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-01-30 20:44:41"
+    "update_time": "2024-01-30 21:09:43"
 }
