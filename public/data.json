@@ -3257,7 +3257,7 @@
             "name": "何家琛",
             "grade": 2022,
             "codeforces_handle": "setter_K",
-            "problem_total": 70,
+            "problem_total": 71,
             "rating": 1466,
             "contest_info": [
                 {
@@ -3530,7 +3530,7 @@
                     "new_rating": 1348
                 }
             ],
-            "problem_total": 73,
+            "problem_total": 75,
             "rating": 1348,
             "contest_total": 14
         },
@@ -4392,5 +4392,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-01-30 19:33:55"
+    "update_time": "2024-01-30 20:15:44"
 }
