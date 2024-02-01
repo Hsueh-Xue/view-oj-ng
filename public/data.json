@@ -2247,7 +2247,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 256
+            "problem_total": 257
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2488,7 +2488,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 83,
+            "problem_total": 84,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -4455,5 +4455,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-01 13:09:13"
+    "update_time": "2024-02-01 13:33:49"
 }
