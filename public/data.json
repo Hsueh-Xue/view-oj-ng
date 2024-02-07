@@ -393,7 +393,7 @@
             "name": "周奕",
             "grade": 2022,
             "codeforces_handle": "Zeoy",
-            "rating": 1577,
+            "rating": 1692,
             "problem_total": 765,
             "contest_info": [
                 {
@@ -665,9 +665,18 @@
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1590,
                     "new_rating": 1577
+                },
+                {
+                    "contest_id": 1927,
+                    "contest_name": "Codeforces Round 923 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 215,
+                    "rating_update_time_seconds": 1707238800,
+                    "old_rating": 1577,
+                    "new_rating": 1692
                 }
             ],
-            "contest_total": 30
+            "contest_total": 31
         },
         "陈俊安": {
             "name": "陈俊安",
@@ -2561,10 +2570,19 @@
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1274,
                     "new_rating": 1333
+                },
+                {
+                    "contest_id": 1927,
+                    "contest_name": "Codeforces Round 923 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 623,
+                    "rating_update_time_seconds": 1707238800,
+                    "old_rating": 1333,
+                    "new_rating": 1467
                 }
             ],
-            "rating": 1333,
-            "contest_total": 8
+            "rating": 1467,
+            "contest_total": 9
         },
         "章诚益": {
             "name": "章诚益",
@@ -4455,5 +4473,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-08 01:34:07"
+    "update_time": "2024-02-08 02:11:37"
 }
