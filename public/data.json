@@ -2488,7 +2488,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 87,
+            "problem_total": 88,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -2843,7 +2843,7 @@
                     "new_rating": 1919
                 }
             ],
-            "problem_total": 311,
+            "problem_total": 312,
             "rating": 1919,
             "contest_total": 21
         },
@@ -4455,5 +4455,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-07 18:10:50"
+    "update_time": "2024-02-07 18:33:54"
 }
