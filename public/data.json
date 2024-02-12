@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1692,
-            "problem_total": 769,
+            "problem_total": 770,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -1755,20 +1755,11 @@
                     "rating_update_time_seconds": 1703955000,
                     "old_rating": 1615,
                     "new_rating": 1669
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "dry_myrica",
-                    "rank": 2147,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1669,
-                    "new_rating": 1661
                 }
             ],
             "rating": 1661,
             "problem_total": 307,
-            "contest_total": 55
+            "contest_total": 54
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -1945,20 +1936,11 @@
                     "rank": 6486,
                     "rating_update_time_seconds": 1703955000,
                     "old_rating": 1345,
-                    "new_rating": 1355
-                },
-                {
-                    "contest_id": 1928,
-                    "contest_name": "Codeforces Round 924 (Div. 2)",
-                    "handle": "pekolim",
-                    "rank": 5098,
-                    "rating_update_time_seconds": 1707651300,
-                    "old_rating": 1355,
                     "new_rating": 1328
                 }
             ],
             "problem_total": 258,
-            "contest_total": 20
+            "contest_total": 19
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -2551,29 +2533,11 @@
                     "rank": 9822,
                     "rating_update_time_seconds": 1705337400,
                     "old_rating": 1329,
-                    "new_rating": 1274
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "SHOJIG",
-                    "rank": 3612,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1274,
-                    "new_rating": 1333
-                },
-                {
-                    "contest_id": 1927,
-                    "contest_name": "Codeforces Round 923 (Div. 3)",
-                    "handle": "SHOJIG",
-                    "rank": 623,
-                    "rating_update_time_seconds": 1707238800,
-                    "old_rating": 1333,
                     "new_rating": 1467
                 }
             ],
             "rating": 1467,
-            "contest_total": 9
+            "contest_total": 7
         },
         "章诚益": {
             "name": "章诚益",
@@ -2822,12 +2786,30 @@
                     "rank": 1845,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1747,
+                    "new_rating": 1729
+                },
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 958,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1729,
+                    "new_rating": 1754
+                },
+                {
+                    "contest_id": 1925,
+                    "contest_name": "Codeforces Round 921 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 451,
+                    "rating_update_time_seconds": 1706373900,
+                    "old_rating": 1754,
                     "new_rating": 1919
                 }
             ],
             "problem_total": 316,
             "rating": 1919,
-            "contest_total": 18
+            "contest_total": 20
         },
         "张朝": {
             "name": "张朝",
@@ -3246,10 +3228,28 @@
                     "rank": 965,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1639,
+                    "new_rating": 1694
+                },
+                {
+                    "contest_id": 1922,
+                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 439,
+                    "rating_update_time_seconds": 1705595700,
+                    "old_rating": 1694,
+                    "new_rating": 1779
+                },
+                {
+                    "contest_id": 1925,
+                    "contest_name": "Codeforces Round 921 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1147,
+                    "rating_update_time_seconds": 1706373900,
+                    "old_rating": 1779,
                     "new_rating": 1710
                 }
             ],
-            "contest_total": 46,
+            "contest_total": 48,
             "problem_total": 608,
             "rating": 1710
         },
@@ -3393,19 +3393,10 @@
                     "rank": 1624,
                     "rating_update_time_seconds": 1700932800,
                     "old_rating": 1356,
-                    "new_rating": 1466
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "setter_K",
-                    "rank": 8134,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1466,
                     "new_rating": 1401
                 }
             ],
-            "contest_total": 16
+            "contest_total": 15
         },
         "凌子豪": {
             "name": "凌子豪",
@@ -4401,5 +4392,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-12 20:16:32"
+    "update_time": "2024-02-12 20:49:01"
 }
