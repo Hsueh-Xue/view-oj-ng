@@ -393,7 +393,7 @@
             "name": "周奕",
             "grade": 2022,
             "codeforces_handle": "Zeoy",
-            "rating": 1579,
+            "rating": 1694,
             "problem_total": 770,
             "contest_info": [
                 {
@@ -665,9 +665,18 @@
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1590,
                     "new_rating": 1579
+                },
+                {
+                    "contest_id": 1927,
+                    "contest_name": "Codeforces Round 923 (Div. 3)",
+                    "handle": "Zeoy",
+                    "rank": 212,
+                    "rating_update_time_seconds": 1707238800,
+                    "old_rating": 1579,
+                    "new_rating": 1694
                 }
             ],
-            "contest_total": 30
+            "contest_total": 31
         },
         "陈俊安": {
             "name": "陈俊安",
@@ -1271,7 +1280,7 @@
                 }
             ],
             "rating": 1855,
-            "problem_total": 847,
+            "problem_total": 848,
             "contest_total": 62
         },
         "邵茹怡": {
@@ -2561,10 +2570,19 @@
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1274,
                     "new_rating": 1335
+                },
+                {
+                    "contest_id": 1927,
+                    "contest_name": "Codeforces Round 923 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 609,
+                    "rating_update_time_seconds": 1707238800,
+                    "old_rating": 1335,
+                    "new_rating": 1469
                 }
             ],
-            "rating": 1335,
-            "contest_total": 8
+            "rating": 1469,
+            "contest_total": 9
         },
         "章诚益": {
             "name": "章诚益",
@@ -4455,5 +4473,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-12 21:33:56"
+    "update_time": "2024-02-12 22:10:26"
 }
