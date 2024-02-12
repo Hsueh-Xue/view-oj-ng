@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1692,
-            "problem_total": 768,
+            "problem_total": 769,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -655,28 +655,10 @@
                     "rank": 1291,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1523,
-                    "new_rating": 1590
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "Zeoy",
-                    "rank": 3018,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1590,
-                    "new_rating": 1577
-                },
-                {
-                    "contest_id": 1927,
-                    "contest_name": "Codeforces Round 923 (Div. 3)",
-                    "handle": "Zeoy",
-                    "rank": 215,
-                    "rating_update_time_seconds": 1707238800,
-                    "old_rating": 1577,
                     "new_rating": 1692
                 }
             ],
-            "contest_total": 31
+            "contest_total": 29
         },
         "陈俊安": {
             "name": "陈俊安",
@@ -2840,39 +2822,12 @@
                     "rank": 1845,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1747,
-                    "new_rating": 1729
-                },
-                {
-                    "contest_id": 1922,
-                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 958,
-                    "rating_update_time_seconds": 1705595700,
-                    "old_rating": 1729,
-                    "new_rating": 1758
-                },
-                {
-                    "contest_id": 1925,
-                    "contest_name": "Codeforces Round 921 (Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 458,
-                    "rating_update_time_seconds": 1706373900,
-                    "old_rating": 1758,
-                    "new_rating": 1806
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 172,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1806,
                     "new_rating": 1919
                 }
             ],
             "problem_total": 316,
             "rating": 1919,
-            "contest_total": 21
+            "contest_total": 18
         },
         "张朝": {
             "name": "张朝",
@@ -3291,37 +3246,10 @@
                     "rank": 965,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1639,
-                    "new_rating": 1694
-                },
-                {
-                    "contest_id": 1922,
-                    "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 439,
-                    "rating_update_time_seconds": 1705595700,
-                    "old_rating": 1694,
-                    "new_rating": 1782
-                },
-                {
-                    "contest_id": 1925,
-                    "contest_name": "Codeforces Round 921 (Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1166,
-                    "rating_update_time_seconds": 1706373900,
-                    "old_rating": 1782,
-                    "new_rating": 1771
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 3227,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1771,
                     "new_rating": 1710
                 }
             ],
-            "contest_total": 49,
+            "contest_total": 46,
             "problem_total": 608,
             "rating": 1710
         },
@@ -3608,21 +3536,12 @@
                     "rank": 4939,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1342,
-                    "new_rating": 1348
-                },
-                {
-                    "contest_id": 1918,
-                    "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "Before_Sunset",
-                    "rank": 6156,
-                    "rating_update_time_seconds": 1706633100,
-                    "old_rating": 1348,
                     "new_rating": 1337
                 }
             ],
             "problem_total": 79,
             "rating": 1337,
-            "contest_total": 15
+            "contest_total": 14
         },
         "Hsueh": {
             "name": "Hsueh",
@@ -4482,5 +4401,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-12 19:34:48"
+    "update_time": "2024-02-12 20:16:32"
 }
