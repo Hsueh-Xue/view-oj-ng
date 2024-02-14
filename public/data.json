@@ -1280,7 +1280,7 @@
                 }
             ],
             "rating": 1855,
-            "problem_total": 866,
+            "problem_total": 869,
             "contest_total": 62
         },
         "邵茹怡": {
@@ -1975,7 +1975,7 @@
                     "new_rating": 1330
                 }
             ],
-            "problem_total": 263,
+            "problem_total": 264,
             "contest_total": 20
         },
         "尤馨然": {
@@ -2870,7 +2870,7 @@
                     "new_rating": 1915
                 }
             ],
-            "problem_total": 317,
+            "problem_total": 318,
             "rating": 1915,
             "contest_total": 21
         },
@@ -4482,5 +4482,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-14 14:13:06"
+    "update_time": "2024-02-14 14:34:05"
 }
