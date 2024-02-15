@@ -1277,11 +1277,20 @@
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1840,
                     "new_rating": 1855
+                },
+                {
+                    "contest_id": 1929,
+                    "contest_name": "Codeforces Round 926 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2673,
+                    "rating_update_time_seconds": 1708014900,
+                    "old_rating": 1855,
+                    "new_rating": 1786
                 }
             ],
-            "rating": 1855,
+            "rating": 1786,
             "problem_total": 878,
-            "contest_total": 62
+            "contest_total": 63
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -2505,11 +2514,20 @@
                     "rating_update_time_seconds": 1698512700,
                     "old_rating": 1321,
                     "new_rating": 1182
+                },
+                {
+                    "contest_id": 1929,
+                    "contest_name": "Codeforces Round 926 (Div. 2)",
+                    "handle": "Joyfine_12",
+                    "rank": 1518,
+                    "rating_update_time_seconds": 1708014900,
+                    "old_rating": 1182,
+                    "new_rating": 1344
                 }
             ],
-            "contest_total": 25,
+            "contest_total": 26,
             "problem_total": 515,
-            "rating": 1182
+            "rating": 1344
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -2886,11 +2904,20 @@
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1800,
                     "new_rating": 1915
+                },
+                {
+                    "contest_id": 1929,
+                    "contest_name": "Codeforces Round 926 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1124,
+                    "rating_update_time_seconds": 1708014900,
+                    "old_rating": 1915,
+                    "new_rating": 1889
                 }
             ],
             "problem_total": 322,
-            "rating": 1915,
-            "contest_total": 21
+            "rating": 1889,
+            "contest_total": 22
         },
         "张朝": {
             "name": "张朝",
@@ -3337,11 +3364,20 @@
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1764,
                     "new_rating": 1706
+                },
+                {
+                    "contest_id": 1929,
+                    "contest_name": "Codeforces Round 926 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1244,
+                    "rating_update_time_seconds": 1708014900,
+                    "old_rating": 1706,
+                    "new_rating": 1727
                 }
             ],
-            "contest_total": 49,
+            "contest_total": 50,
             "problem_total": 628,
-            "rating": 1706
+            "rating": 1727
         },
         "何家琛": {
             "name": "何家琛",
@@ -4500,5 +4536,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-16 01:33:40"
+    "update_time": "2024-02-16 02:12:14"
 }
