@@ -1280,7 +1280,7 @@
                 }
             ],
             "rating": 1855,
-            "problem_total": 874,
+            "problem_total": 878,
             "contest_total": 62
         },
         "邵茹怡": {
@@ -2508,7 +2508,7 @@
                 }
             ],
             "contest_total": 25,
-            "problem_total": 512,
+            "problem_total": 515,
             "rating": 1182
         },
         "戴子晟": {
@@ -2888,7 +2888,7 @@
                     "new_rating": 1915
                 }
             ],
-            "problem_total": 319,
+            "problem_total": 322,
             "rating": 1915,
             "contest_total": 21
         },
@@ -3340,7 +3340,7 @@
                 }
             ],
             "contest_total": 49,
-            "problem_total": 624,
+            "problem_total": 628,
             "rating": 1706
         },
         "何家琛": {
@@ -4500,5 +4500,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-16 00:37:49"
+    "update_time": "2024-02-16 01:09:46"
 }
