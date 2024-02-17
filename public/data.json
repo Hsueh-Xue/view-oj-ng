@@ -1286,11 +1286,20 @@
                     "rating_update_time_seconds": 1708014900,
                     "old_rating": 1855,
                     "new_rating": 1786
+                },
+                {
+                    "contest_id": 1930,
+                    "contest_name": "think-cell Round 1",
+                    "handle": "EdGrass",
+                    "rank": 1647,
+                    "rating_update_time_seconds": 1708191300,
+                    "old_rating": 1786,
+                    "new_rating": 1789
                 }
             ],
-            "rating": 1786,
+            "rating": 1789,
             "problem_total": 889,
-            "contest_total": 63
+            "contest_total": 64
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3373,11 +3382,20 @@
                     "rating_update_time_seconds": 1708014900,
                     "old_rating": 1706,
                     "new_rating": 1727
+                },
+                {
+                    "contest_id": 1930,
+                    "contest_name": "think-cell Round 1",
+                    "handle": "BowTen",
+                    "rank": 1262,
+                    "rating_update_time_seconds": 1708191300,
+                    "old_rating": 1727,
+                    "new_rating": 1772
                 }
             ],
-            "contest_total": 50,
+            "contest_total": 51,
             "problem_total": 638,
-            "rating": 1727
+            "rating": 1772
         },
         "何家琛": {
             "name": "何家琛",
@@ -4536,5 +4554,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-18 03:08:15"
+    "update_time": "2024-02-18 03:33:28"
 }
