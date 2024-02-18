@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1694,
-            "problem_total": 789,
+            "problem_total": 790,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -1803,7 +1803,7 @@
                 }
             ],
             "rating": 1663,
-            "problem_total": 316,
+            "problem_total": 317,
             "contest_total": 55
         },
         "叶宏健": {
@@ -4554,5 +4554,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-18 21:33:48"
+    "update_time": "2024-02-18 22:08:08"
 }
