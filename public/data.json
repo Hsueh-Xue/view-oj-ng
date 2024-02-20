@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1694,
-            "problem_total": 790,
+            "problem_total": 791,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2535,7 +2535,7 @@
                 }
             ],
             "contest_total": 26,
-            "problem_total": 530,
+            "problem_total": 533,
             "rating": 1344
         },
         "戴子晟": {
@@ -4554,5 +4554,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-20 11:34:39"
+    "update_time": "2024-02-20 12:12:25"
 }
