@@ -2532,11 +2532,20 @@
                     "rating_update_time_seconds": 1708014900,
                     "old_rating": 1182,
                     "new_rating": 1344
+                },
+                {
+                    "contest_id": 1926,
+                    "contest_name": "Codeforces Round 928 (Div. 4)",
+                    "handle": "Joyfine_12",
+                    "rank": 572,
+                    "rating_update_time_seconds": 1708361400,
+                    "old_rating": 1344,
+                    "new_rating": 1446
                 }
             ],
-            "contest_total": 26,
+            "contest_total": 27,
             "problem_total": 547,
-            "rating": 1344
+            "rating": 1446
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -4554,5 +4563,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-23 20:44:19"
+    "update_time": "2024-02-23 21:10:19"
 }
