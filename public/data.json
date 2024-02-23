@@ -1276,30 +1276,12 @@
                     "rank": 777,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1840,
-                    "new_rating": 1855
-                },
-                {
-                    "contest_id": 1929,
-                    "contest_name": "Codeforces Round 926 (Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 2673,
-                    "rating_update_time_seconds": 1708014900,
-                    "old_rating": 1855,
-                    "new_rating": 1786
-                },
-                {
-                    "contest_id": 1930,
-                    "contest_name": "think-cell Round 1",
-                    "handle": "EdGrass",
-                    "rank": 1647,
-                    "rating_update_time_seconds": 1708191300,
-                    "old_rating": 1786,
                     "new_rating": 1789
                 }
             ],
             "rating": 1789,
             "problem_total": 891,
-            "contest_total": 64
+            "contest_total": 62
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4491,5 +4473,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-23 18:10:59"
+    "update_time": "2024-02-23 18:34:16"
 }
