@@ -1276,10 +1276,10 @@
                     "rank": 777,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1840,
-                    "new_rating": 1789
+                    "new_rating": 1855
                 }
             ],
-            "rating": 1789,
+            "rating": 1855,
             "problem_total": 891,
             "contest_total": 62
         },
@@ -1792,7 +1792,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1404,
+            "rating": 1330,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -1963,11 +1963,20 @@
                     "rank": 6486,
                     "rating_update_time_seconds": 1703955000,
                     "old_rating": 1345,
-                    "new_rating": 1404
+                    "new_rating": 1355
+                },
+                {
+                    "contest_id": 1928,
+                    "contest_name": "Codeforces Round 924 (Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 5004,
+                    "rating_update_time_seconds": 1707651300,
+                    "old_rating": 1355,
+                    "new_rating": 1330
                 }
             ],
             "problem_total": 264,
-            "contest_total": 19
+            "contest_total": 20
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -2486,12 +2495,12 @@
                     "rank": 10122,
                     "rating_update_time_seconds": 1698512700,
                     "old_rating": 1321,
-                    "new_rating": 1442
+                    "new_rating": 1182
                 }
             ],
             "contest_total": 25,
             "problem_total": 547,
-            "rating": 1442
+            "rating": 1182
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -2578,10 +2587,10 @@
                     "rank": 609,
                     "rating_update_time_seconds": 1707238800,
                     "old_rating": 1335,
-                    "new_rating": 1510
+                    "new_rating": 1469
                 }
             ],
-            "rating": 1510,
+            "rating": 1469,
             "contest_total": 9
         },
         "章诚益": {
@@ -2858,11 +2867,11 @@
                     "rank": 170,
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1800,
-                    "new_rating": 1889
+                    "new_rating": 1915
                 }
             ],
             "problem_total": 329,
-            "rating": 1889,
+            "rating": 1915,
             "contest_total": 21
         },
         "张朝": {
@@ -3309,12 +3318,12 @@
                     "rank": 3197,
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1764,
-                    "new_rating": 1772
+                    "new_rating": 1706
                 }
             ],
             "contest_total": 49,
             "problem_total": 641,
-            "rating": 1772
+            "rating": 1706
         },
         "何家琛": {
             "name": "何家琛",
@@ -4473,5 +4482,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-23 18:34:16"
+    "update_time": "2024-02-23 19:08:16"
 }
