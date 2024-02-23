@@ -1792,7 +1792,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1330,
+            "rating": 1404,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -1973,10 +1973,19 @@
                     "rating_update_time_seconds": 1707651300,
                     "old_rating": 1355,
                     "new_rating": 1330
+                },
+                {
+                    "contest_id": 1931,
+                    "contest_name": "Codeforces Round 925 (Div. 3)",
+                    "handle": "pekolim",
+                    "rank": 1668,
+                    "rating_update_time_seconds": 1707843000,
+                    "old_rating": 1330,
+                    "new_rating": 1404
                 }
             ],
             "problem_total": 264,
-            "contest_total": 20
+            "contest_total": 21
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -2588,10 +2597,19 @@
                     "rating_update_time_seconds": 1707238800,
                     "old_rating": 1335,
                     "new_rating": 1469
+                },
+                {
+                    "contest_id": 1931,
+                    "contest_name": "Codeforces Round 925 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 1452,
+                    "rating_update_time_seconds": 1707843000,
+                    "old_rating": 1469,
+                    "new_rating": 1510
                 }
             ],
-            "rating": 1469,
-            "contest_total": 9
+            "rating": 1510,
+            "contest_total": 10
         },
         "章诚益": {
             "name": "章诚益",
@@ -4482,5 +4500,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-23 19:08:16"
+    "update_time": "2024-02-23 19:33:52"
 }
