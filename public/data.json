@@ -1298,7 +1298,7 @@
                 }
             ],
             "rating": 1790,
-            "problem_total": 897,
+            "problem_total": 898,
             "contest_total": 64
         },
         "邵茹怡": {
@@ -1803,7 +1803,7 @@
                 }
             ],
             "rating": 1663,
-            "problem_total": 321,
+            "problem_total": 322,
             "contest_total": 55
         },
         "叶宏健": {
@@ -4563,5 +4563,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-24 18:09:22"
+    "update_time": "2024-02-24 18:34:24"
 }
