@@ -2571,7 +2571,7 @@
                 }
             ],
             "contest_total": 28,
-            "problem_total": 567,
+            "problem_total": 568,
             "rating": 1468
         },
         "戴子晟": {
@@ -3448,7 +3448,7 @@
                 }
             ],
             "contest_total": 52,
-            "problem_total": 662,
+            "problem_total": 663,
             "rating": 1712
         },
         "何家琛": {
@@ -4608,5 +4608,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-27 14:11:59"
+    "update_time": "2024-02-27 14:33:36"
 }
