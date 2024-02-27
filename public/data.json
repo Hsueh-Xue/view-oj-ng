@@ -2969,7 +2969,7 @@
                     "new_rating": 1902
                 }
             ],
-            "problem_total": 336,
+            "problem_total": 337,
             "rating": 1902,
             "contest_total": 23
         },
@@ -4608,5 +4608,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-27 20:15:33"
+    "update_time": "2024-02-27 20:44:47"
 }
