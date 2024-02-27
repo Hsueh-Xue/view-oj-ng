@@ -2571,14 +2571,14 @@
                 }
             ],
             "contest_total": 28,
-            "problem_total": 571,
+            "problem_total": 574,
             "rating": 1468
         },
         "戴子晟": {
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 112,
+            "problem_total": 113,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -4608,5 +4608,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-28 00:11:58"
+    "update_time": "2024-02-28 00:36:41"
 }
