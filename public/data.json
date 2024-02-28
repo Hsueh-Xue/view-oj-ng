@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1694,
-            "problem_total": 832,
+            "problem_total": 833,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2568,11 +2568,20 @@
                     "rating_update_time_seconds": 1708706100,
                     "old_rating": 1446,
                     "new_rating": 1468
+                },
+                {
+                    "contest_id": 1933,
+                    "contest_name": "Codeforces Round 929 (Div. 3)",
+                    "handle": "Joyfine_12",
+                    "rank": 2844,
+                    "rating_update_time_seconds": 1709052600,
+                    "old_rating": 1468,
+                    "new_rating": 1470
                 }
             ],
-            "contest_total": 28,
-            "problem_total": 574,
-            "rating": 1468
+            "contest_total": 29,
+            "problem_total": 575,
+            "rating": 1470
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -2669,10 +2678,19 @@
                     "rating_update_time_seconds": 1707843000,
                     "old_rating": 1469,
                     "new_rating": 1510
+                },
+                {
+                    "contest_id": 1933,
+                    "contest_name": "Codeforces Round 929 (Div. 3)",
+                    "handle": "SHOJIG",
+                    "rank": 1354,
+                    "rating_update_time_seconds": 1709052600,
+                    "old_rating": 1510,
+                    "new_rating": 1543
                 }
             ],
-            "rating": 1510,
-            "contest_total": 10
+            "rating": 1543,
+            "contest_total": 11
         },
         "章诚益": {
             "name": "章诚益",
@@ -4608,5 +4626,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-28 17:08:48"
+    "update_time": "2024-02-28 17:34:51"
 }
