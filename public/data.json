@@ -1818,11 +1818,20 @@
                     "rating_update_time_seconds": 1708706100,
                     "old_rating": 1663,
                     "new_rating": 1657
+                },
+                {
+                    "contest_id": 1937,
+                    "contest_name": "Codeforces Round 930 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 740,
+                    "rating_update_time_seconds": 1709224500,
+                    "old_rating": 1657,
+                    "new_rating": 1708
                 }
             ],
-            "rating": 1657,
+            "rating": 1708,
             "problem_total": 331,
-            "contest_total": 56
+            "contest_total": 57
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -3463,11 +3472,20 @@
                     "rating_update_time_seconds": 1708706100,
                     "old_rating": 1773,
                     "new_rating": 1712
+                },
+                {
+                    "contest_id": 1937,
+                    "contest_name": "Codeforces Round 930 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 472,
+                    "rating_update_time_seconds": 1709224500,
+                    "old_rating": 1712,
+                    "new_rating": 1773
                 }
             ],
-            "contest_total": 52,
+            "contest_total": 53,
             "problem_total": 678,
-            "rating": 1712
+            "rating": 1773
         },
         "何家琛": {
             "name": "何家琛",
@@ -4626,5 +4644,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-03-01 05:10:24"
+    "update_time": "2024-03-01 05:33:40"
 }
