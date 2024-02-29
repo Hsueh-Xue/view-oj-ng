@@ -2020,7 +2020,7 @@
                     "new_rating": 1404
                 }
             ],
-            "problem_total": 275,
+            "problem_total": 276,
             "contest_total": 21
         },
         "尤馨然": {
@@ -2310,7 +2310,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 279
+            "problem_total": 280
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -4626,5 +4626,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-02-29 18:35:42"
+    "update_time": "2024-02-29 19:07:34"
 }
