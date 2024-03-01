@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1694,
-            "problem_total": 836,
+            "problem_total": 837,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2319,7 +2319,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 280
+            "problem_total": 281
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2589,7 +2589,7 @@
                 }
             ],
             "contest_total": 29,
-            "problem_total": 583,
+            "problem_total": 584,
             "rating": 1470
         },
         "戴子晟": {
@@ -3484,7 +3484,7 @@
                 }
             ],
             "contest_total": 53,
-            "problem_total": 678,
+            "problem_total": 679,
             "rating": 1773
         },
         "何家琛": {
@@ -4644,5 +4644,5 @@
             "contest_total": 84
         }
     },
-    "update_time": "2024-03-01 19:33:50"
+    "update_time": "2024-03-01 20:15:29"
 }
