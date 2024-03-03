@@ -42,16 +42,25 @@ def main():
             origin_user_info['name'] = user_name
             origin_user_info['grade'] = user.get('grade', 0)
             origin_user_info['codeforces_handle'] = handle
+
             rating = get_user_rating(handle)
             if rating != 0:
                 origin_user_info['rating'] = rating
+            if 'rating' not in origin_user_info:
+                origin_user_info['rating'] = 0
+
             problem_total = get_problem_info(handle)
             if problem_total != 0:
                 origin_user_info['problem_total'] = problem_total
+            if 'problem_total' not in origin_user_info:
+                origin_user_info['problem_total'] = 0
+
             content_info = get_user_contest_info(handle)
             if len(content_info) != 0:
                 origin_user_info['contest_info'] = convert_keys_to_snake_case(content_info)
                 origin_user_info['contest_total'] = len(content_info)
+            if 'content_total' not in origin_user_info:
+                origin_user_info['contest_total'] = 0
             user_data[user_name] = origin_user_info
             print(user_name, ' done')
         user_to_remove = []
