@@ -5498,7 +5498,15 @@
             ],
             "contest_total": 2,
             "problem_total": 0
+        },
+        "程天婺": {
+            "name": "程天婺",
+            "grade": 2023,
+            "codeforces_handle": "MRcheng",
+            "rating": 0,
+            "problem_total": 1,
+            "contest_total": 0
         }
     },
-    "update_time": "2024-03-03 20:48:21"
+    "update_time": "2024-03-03 21:06:21"
 }
