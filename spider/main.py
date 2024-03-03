@@ -53,6 +53,7 @@ def main():
                 origin_user_info['contest_info'] = convert_keys_to_snake_case(content_info)
                 origin_user_info['contest_total'] = len(content_info)
             user_data[user_name] = origin_user_info
+            print(user_name, ' done')
         user_to_remove = []
         for user_name in user_data:
             if user_name not in user_map:

@@ -34,7 +34,9 @@ def get_user_rating(username):
     res = get_with_retry(url)
     if res:
         if res['status'] == "OK":
-            rating = res['result'][0]['rating']
+            print(res)
+            if 'rating' in res['result'][0]:
+                rating = res['result'][0]['rating']
     return rating
 
 
