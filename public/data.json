@@ -260,7 +260,7 @@
             "name": "江宇杰",
             "grade": 2020,
             "codeforces_handle": "xyisreallycuteee",
-            "contest_total": 28
+            "contest_total": 0
         },
         "童春琦": {
             "rating": 1782,
@@ -387,7 +387,7 @@
             "name": "童春琦",
             "grade": 2021,
             "codeforces_handle": "tententen",
-            "contest_total": 13
+            "contest_total": 0
         },
         "周奕": {
             "name": "周奕",
@@ -685,7 +685,7 @@
                     "new_rating": 1790
                 }
             ],
-            "contest_total": 32
+            "contest_total": 0
         },
         "陈俊安": {
             "name": "陈俊安",
@@ -722,7 +722,7 @@
                     "new_rating": 936
                 }
             ],
-            "contest_total": 3
+            "contest_total": 0
         },
         "蔡宇欣": {
             "name": "蔡宇欣",
@@ -1326,7 +1326,7 @@
             ],
             "rating": 1744,
             "problem_total": 935,
-            "contest_total": 66
+            "contest_total": 0
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -1858,7 +1858,7 @@
             ],
             "rating": 1621,
             "problem_total": 334,
-            "contest_total": 58
+            "contest_total": 0
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -2057,7 +2057,7 @@
                 }
             ],
             "problem_total": 276,
-            "contest_total": 21
+            "contest_total": 0
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -2345,7 +2345,7 @@
                     "new_rating": 1736
                 }
             ],
-            "contest_total": 31,
+            "contest_total": 0,
             "problem_total": 284
         },
         "江宇帆": {
@@ -2624,7 +2624,7 @@
                     "new_rating": 1437
                 }
             ],
-            "contest_total": 30,
+            "contest_total": 0,
             "problem_total": 588,
             "rating": 1437
         },
@@ -2735,7 +2735,7 @@
                 }
             ],
             "rating": 1543,
-            "contest_total": 11
+            "contest_total": 0
         },
         "章诚益": {
             "name": "章诚益",
@@ -2817,7 +2817,7 @@
                     "new_rating": 1239
                 }
             ],
-            "contest_total": 8
+            "contest_total": 0
         },
         "林丰": {
             "name": "林丰",
@@ -3043,7 +3043,7 @@
             ],
             "problem_total": 346,
             "rating": 1934,
-            "contest_total": 24
+            "contest_total": 0
         },
         "张朝": {
             "name": "张朝",
@@ -3537,7 +3537,7 @@
                     "new_rating": 1861
                 }
             ],
-            "contest_total": 54,
+            "contest_total": 0,
             "problem_total": 687,
             "rating": 1861
         },
@@ -3693,7 +3693,7 @@
                     "new_rating": 1404
                 }
             ],
-            "contest_total": 16
+            "contest_total": 0
         },
         "凌子豪": {
             "name": "凌子豪",
@@ -3847,7 +3847,7 @@
             ],
             "problem_total": 82,
             "rating": 1483,
-            "contest_total": 16
+            "contest_total": 0
         },
         "Hsueh": {
             "name": "Hsueh",
@@ -3938,7 +3938,7 @@
                     "new_rating": 1980
                 }
             ],
-            "contest_total": 9
+            "contest_total": 0
         },
         "Dup4": {
             "name": "Dup4",
@@ -4704,7 +4704,7 @@
                     "new_rating": 2294
                 }
             ],
-            "contest_total": 84
+            "contest_total": 0
         },
         "鲁安鹏": {
             "name": "鲁安鹏",
@@ -4723,7 +4723,7 @@
                     "new_rating": 465
                 }
             ],
-            "contest_total": 1
+            "contest_total": 0
         },
         "何敏璐": {
             "name": "何敏璐",
@@ -4823,13 +4823,15 @@
                     "new_rating": 1221
                 }
             ],
-            "contest_total": 10
+            "contest_total": 0
         },
         "徐嘉豪": {
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 44
+            "problem_total": 44,
+            "rating": 0,
+            "contest_total": 0
         },
         "温从锭": {
             "name": "温从锭",
@@ -4911,7 +4913,7 @@
                     "new_rating": 1464
                 }
             ],
-            "contest_total": 8
+            "contest_total": 0
         },
         "张卓": {
             "name": "张卓",
@@ -5083,7 +5085,7 @@
                     "new_rating": 1283
                 }
             ],
-            "contest_total": 18
+            "contest_total": 0
         },
         "葛先步": {
             "name": "葛先步",
@@ -5138,24 +5140,31 @@
                     "new_rating": 1135
                 }
             ],
-            "contest_total": 5
+            "contest_total": 0
         },
         "薛博文": {
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 6
+            "problem_total": 6,
+            "rating": 0,
+            "contest_total": 0
         },
         "王科然": {
             "name": "王科然",
             "grade": 2023,
-            "codeforces_handle": "wkr111"
+            "codeforces_handle": "wkr111",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "程子豪": {
             "name": "程子豪",
             "grade": 2023,
             "codeforces_handle": "Query.c",
-            "problem_total": 12
+            "problem_total": 12,
+            "rating": 0,
+            "contest_total": 0
         },
         "张俊涛": {
             "name": "张俊涛",
@@ -5210,19 +5219,23 @@
                     "new_rating": 1155
                 }
             ],
-            "contest_total": 5
+            "contest_total": 0
         },
         "刘旭": {
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 1
+            "problem_total": 1,
+            "rating": 0,
+            "contest_total": 0
         },
         "葛宇逍": {
             "name": "葛宇逍",
             "grade": 2023,
             "codeforces_handle": "Garfield_114514",
-            "problem_total": 2
+            "problem_total": 2,
+            "rating": 0,
+            "contest_total": 0
         },
         "叶杰凯": {
             "name": "叶杰凯",
@@ -5241,7 +5254,7 @@
                     "new_rating": 456
                 }
             ],
-            "contest_total": 1
+            "contest_total": 0
         },
         "徐鑫懿": {
             "name": "徐鑫懿",
@@ -5287,13 +5300,15 @@
                     "new_rating": 1272
                 }
             ],
-            "contest_total": 4
+            "contest_total": 0
         },
         "叶志汉": {
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 1
+            "problem_total": 1,
+            "rating": 0,
+            "contest_total": 0
         },
         "徐浩哲": {
             "name": "徐浩哲",
@@ -5339,51 +5354,71 @@
                     "new_rating": 1151
                 }
             ],
-            "contest_total": 4
+            "contest_total": 0
         },
         "陈天意": {
             "name": "陈天意",
             "grade": 2023,
             "codeforces_handle": "diannaaav",
-            "problem_total": 1
+            "problem_total": 1,
+            "rating": 0,
+            "contest_total": 0
         },
         "王子康": {
             "name": "王子康",
             "grade": 2023,
-            "codeforces_handle": "MrKing"
+            "codeforces_handle": "MrKing",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "叶守俊": {
             "name": "叶守俊",
             "grade": 2023,
-            "codeforces_handle": "ye_j1"
+            "codeforces_handle": "ye_j1",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "陈宇雯": {
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 2
+            "problem_total": 2,
+            "rating": 0,
+            "contest_total": 0
         },
         "许志杰": {
             "name": "许志杰",
             "grade": 2023,
             "codeforces_handle": "hanekawa8",
-            "problem_total": 7
+            "problem_total": 7,
+            "rating": 0,
+            "contest_total": 0
         },
         "吴睿萱": {
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 15
+            "problem_total": 15,
+            "rating": 0,
+            "contest_total": 0
         },
         "王展怡": {
             "name": "王展怡",
             "grade": 2023,
-            "codeforces_handle": "xingyeai"
+            "codeforces_handle": "xingyeai",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "陈玥汕": {
             "name": "陈玥汕",
             "grade": 2023,
-            "codeforces_handle": "chenyueshan"
+            "codeforces_handle": "chenyueshan",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "沈万婷": {
             "name": "沈万婷",
@@ -5402,28 +5437,39 @@
                     "new_rating": 360
                 }
             ],
-            "contest_total": 1
+            "contest_total": 0
         },
         "何天页": {
             "name": "何天页",
             "grade": 2023,
             "codeforces_handle": "seanid",
-            "problem_total": 1
+            "problem_total": 1,
+            "rating": 0,
+            "contest_total": 0
         },
         "韩浙斌": {
             "name": "韩浙斌",
             "grade": 2023,
-            "codeforces_handle": "hbss"
+            "codeforces_handle": "hbss",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "黄焰": {
             "name": "黄焰",
             "grade": 2023,
-            "codeforces_handle": "xiuyan_"
+            "codeforces_handle": "xiuyan_",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "金岸": {
             "name": "金岸",
             "grade": 2023,
-            "codeforces_handle": "qqbb111"
+            "codeforces_handle": "qqbb111",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         },
         "孙胜杰": {
             "name": "孙胜杰",
@@ -5450,8 +5496,9 @@
                     "new_rating": 572
                 }
             ],
-            "contest_total": 2
+            "contest_total": 0,
+            "problem_total": 0
         }
     },
-    "update_time": "2024-03-03 20:29:58"
+    "update_time": "2024-03-03 20:35:20"
 }
