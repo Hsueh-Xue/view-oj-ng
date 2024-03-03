@@ -13,10 +13,7 @@ export default defineComponent({
     const pageMainBox: Ref<any> = ref(null)
     const pageBox: Ref<any> = ref(null)
     onMounted(() => {
-      let clientHeight = window.innerHeight
       let clientWidth = window.innerWidth
-      pageMainBox.value.style.height = clientHeight - 61 - 544 - 120 + 10 + 'px'
-      pageBox.value.style.height = clientHeight + 'px'
       pageBox.value.style.width = clientWidth + 'px'
     })
     return {
@@ -34,6 +31,7 @@ export default defineComponent({
       <div class="page-main-box" ref="pageMainBox">
         <RouterView></RouterView>
       </div>
+      <br>
       <page_foot></page_foot>
     </div>
   </div>

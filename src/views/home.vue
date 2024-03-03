@@ -35,8 +35,6 @@
       </template>
     </el-table-column>
   </el-table>
-  <br>
-  <br>
   <div class="update_time">
     <el-text>UpdateTime: {{ reactiveData.updateTime }}</el-text>
   </div>
