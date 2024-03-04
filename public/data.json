@@ -2346,7 +2346,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 291
+            "problem_total": 292
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2632,7 +2632,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 113,
+            "problem_total": 114,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -3041,7 +3041,7 @@
                     "new_rating": 1934
                 }
             ],
-            "problem_total": 347,
+            "problem_total": 348,
             "rating": 1934,
             "contest_total": 24
         },
@@ -4838,7 +4838,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1464,
-            "problem_total": 112,
+            "problem_total": 113,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5508,5 +5508,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-04 20:05:25"
+    "update_time": "2024-03-04 20:48:59"
 }
