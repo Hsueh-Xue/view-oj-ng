@@ -1325,7 +1325,7 @@
                 }
             ],
             "rating": 1744,
-            "problem_total": 947,
+            "problem_total": 949,
             "contest_total": 66
         },
         "邵茹怡": {
@@ -1857,7 +1857,7 @@
                 }
             ],
             "rating": 1621,
-            "problem_total": 334,
+            "problem_total": 336,
             "contest_total": 58
         },
         "叶宏健": {
@@ -3538,7 +3538,7 @@
                 }
             ],
             "contest_total": 54,
-            "problem_total": 698,
+            "problem_total": 700,
             "rating": 1861
         },
         "何家琛": {
@@ -4730,7 +4730,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1221,
-            "problem_total": 93,
+            "problem_total": 94,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -4838,7 +4838,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1464,
-            "problem_total": 114,
+            "problem_total": 116,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5092,7 +5092,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1135,
-            "problem_total": 41,
+            "problem_total": 42,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -5171,7 +5171,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1155,
-            "problem_total": 47,
+            "problem_total": 49,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -5261,7 +5261,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1272,
-            "problem_total": 96,
+            "problem_total": 97,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5306,7 +5306,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 1,
+            "problem_total": 2,
             "rating": 0,
             "contest_total": 0
         },
@@ -5468,7 +5468,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 0,
-            "problem_total": 0,
+            "problem_total": 1,
             "contest_total": 0
         },
         "孙胜杰": {
@@ -5508,5 +5508,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-06 00:38:48"
+    "update_time": "2024-03-06 01:10:41"
 }
