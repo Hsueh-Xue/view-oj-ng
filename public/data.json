@@ -1325,7 +1325,7 @@
                 }
             ],
             "rating": 1744,
-            "problem_total": 946,
+            "problem_total": 947,
             "contest_total": 66
         },
         "邵茹怡": {
@@ -3538,7 +3538,7 @@
                 }
             ],
             "contest_total": 54,
-            "problem_total": 697,
+            "problem_total": 698,
             "rating": 1861
         },
         "何家琛": {
@@ -5261,7 +5261,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1272,
-            "problem_total": 95,
+            "problem_total": 96,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5508,5 +5508,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-06 00:11:05"
+    "update_time": "2024-03-06 00:38:48"
 }
