@@ -3041,7 +3041,7 @@
                     "new_rating": 1934
                 }
             ],
-            "problem_total": 348,
+            "problem_total": 349,
             "rating": 1934,
             "contest_total": 24
         },
@@ -5171,7 +5171,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1155,
-            "problem_total": 46,
+            "problem_total": 47,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -5508,5 +5508,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-05 11:09:53"
+    "update_time": "2024-03-05 11:34:16"
 }
