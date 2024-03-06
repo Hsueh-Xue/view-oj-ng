@@ -1334,7 +1334,7 @@
                 }
             ],
             "rating": 1756,
-            "problem_total": 949,
+            "problem_total": 950,
             "contest_total": 67
         },
         "邵茹怡": {
@@ -2364,7 +2364,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 306
+            "problem_total": 307
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5598,9 +5598,9 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 1,
+            "problem_total": 2,
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-06 11:10:10"
+    "update_time": "2024-03-06 11:34:01"
 }
