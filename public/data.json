@@ -2643,7 +2643,7 @@
                 }
             ],
             "contest_total": 30,
-            "problem_total": 602,
+            "problem_total": 603,
             "rating": 1437
         },
         "戴子晟": {
@@ -4874,7 +4874,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1434,
-            "problem_total": 119,
+            "problem_total": 120,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5602,5 +5602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-07 20:16:21"
+    "update_time": "2024-03-07 20:45:08"
 }
