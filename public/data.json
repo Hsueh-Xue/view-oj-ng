@@ -2364,7 +2364,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 331
+            "problem_total": 332
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -3059,7 +3059,7 @@
                     "new_rating": 1934
                 }
             ],
-            "problem_total": 362,
+            "problem_total": 363,
             "rating": 1934,
             "contest_total": 24
         },
@@ -4965,7 +4965,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1283,
-            "problem_total": 220,
+            "problem_total": 221,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5324,7 +5324,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1352,
-            "problem_total": 109,
+            "problem_total": 111,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5378,7 +5378,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 3,
+            "problem_total": 4,
             "rating": 381,
             "contest_total": 1,
             "contest_info": [
@@ -5602,5 +5602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-12 17:33:53"
+    "update_time": "2024-03-12 18:09:57"
 }
