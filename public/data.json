@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1790,
-            "problem_total": 869,
+            "problem_total": 870,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -1334,7 +1334,7 @@
                 }
             ],
             "rating": 1756,
-            "problem_total": 960,
+            "problem_total": 961,
             "contest_total": 67
         },
         "邵茹怡": {
@@ -2650,7 +2650,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 124,
+            "problem_total": 125,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -4757,7 +4757,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1160,
-            "problem_total": 99,
+            "problem_total": 100,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -4874,7 +4874,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1434,
-            "problem_total": 125,
+            "problem_total": 126,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -4965,7 +4965,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1283,
-            "problem_total": 221,
+            "problem_total": 222,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5378,7 +5378,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 4,
+            "problem_total": 5,
             "rating": 381,
             "contest_total": 1,
             "contest_info": [
@@ -5551,7 +5551,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 382,
-            "problem_total": 3,
+            "problem_total": 4,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -5602,5 +5602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-12 18:09:57"
+    "update_time": "2024-03-12 18:33:40"
 }
