@@ -2652,14 +2652,14 @@
                 }
             ],
             "contest_total": 30,
-            "problem_total": 621,
+            "problem_total": 622,
             "rating": 1437
         },
         "戴子晟": {
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 128,
+            "problem_total": 129,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -4910,7 +4910,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1507,
-            "problem_total": 131,
+            "problem_total": 132,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5683,5 +5683,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-13 20:16:39"
+    "update_time": "2024-03-13 20:46:18"
 }
