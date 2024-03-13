@@ -4910,7 +4910,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1507,
-            "problem_total": 130,
+            "problem_total": 131,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5470,7 +5470,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1151,
-            "problem_total": 39,
+            "problem_total": 40,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5683,5 +5683,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-13 18:33:54"
+    "update_time": "2024-03-13 19:09:50"
 }
