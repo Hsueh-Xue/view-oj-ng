@@ -5010,7 +5010,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1392,
-            "problem_total": 225,
+            "problem_total": 227,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5279,7 +5279,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1236,
-            "problem_total": 51,
+            "problem_total": 52,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -5683,5 +5683,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-14 13:33:55"
+    "update_time": "2024-03-14 14:12:22"
 }
