@@ -2659,7 +2659,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 133,
+            "problem_total": 134,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -3075,11 +3075,20 @@
                     "rating_update_time_seconds": 1709310900,
                     "old_rating": 1902,
                     "new_rating": 1934
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 562,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1934,
+                    "new_rating": 1949
                 }
             ],
-            "problem_total": 378,
-            "rating": 1934,
-            "contest_total": 24
+            "problem_total": 379,
+            "rating": 1949,
+            "contest_total": 25
         },
         "张朝": {
             "name": "张朝",
@@ -3580,11 +3589,20 @@
                     "rating_update_time_seconds": 1709656500,
                     "old_rating": 1860,
                     "new_rating": 1813
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 3072,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1813,
+                    "new_rating": 1750
                 }
             ],
-            "contest_total": 55,
-            "problem_total": 730,
-            "rating": 1813
+            "contest_total": 56,
+            "problem_total": 731,
+            "rating": 1750
         },
         "何家琛": {
             "name": "何家琛",
@@ -4909,7 +4927,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1511,
+            "rating": 1519,
             "problem_total": 142,
             "contest_info": [
                 {
@@ -5001,16 +5019,25 @@
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1437,
                     "new_rating": 1511
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "tiying",
+                    "rank": 3229,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1511,
+                    "new_rating": 1519
                 }
             ],
-            "contest_total": 10
+            "contest_total": 11
         },
         "张卓": {
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1392,
-            "problem_total": 249,
+            "rating": 1484,
+            "problem_total": 250,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5182,9 +5209,18 @@
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1287,
                     "new_rating": 1392
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 1716,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1392,
+                    "new_rating": 1484
                 }
             ],
-            "contest_total": 19
+            "contest_total": 20
         },
         "葛先步": {
             "name": "葛先步",
@@ -5683,5 +5719,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-16 20:44:11"
+    "update_time": "2024-03-16 21:14:13"
 }
