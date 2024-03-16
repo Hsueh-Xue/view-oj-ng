@@ -2652,7 +2652,7 @@
                 }
             ],
             "contest_total": 30,
-            "problem_total": 633,
+            "problem_total": 636,
             "rating": 1440
         },
         "戴子晟": {
@@ -4802,7 +4802,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1205,
-            "problem_total": 112,
+            "problem_total": 114,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5037,7 +5037,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1484,
-            "problem_total": 250,
+            "problem_total": 251,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5686,7 +5686,7 @@
             "name": "孙胜杰",
             "grade": 2023,
             "codeforces_handle": "sun_sheng_jie",
-            "rating": 571,
+            "rating": 856,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5705,9 +5705,18 @@
                     "rating_update_time_seconds": 1709224500,
                     "old_rating": 349,
                     "new_rating": 571
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "sun_sheng_jie",
+                    "rank": 7370,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 571,
+                    "new_rating": 856
                 }
             ],
-            "contest_total": 2,
+            "contest_total": 3,
             "problem_total": 2
         },
         "程天婺": {
@@ -5719,5 +5728,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-16 21:14:13"
+    "update_time": "2024-03-16 21:34:32"
 }
