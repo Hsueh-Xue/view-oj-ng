@@ -1884,7 +1884,7 @@
                 }
             ],
             "rating": 1530,
-            "problem_total": 349,
+            "problem_total": 352,
             "contest_total": 60
         },
         "叶宏健": {
@@ -3086,7 +3086,7 @@
                     "new_rating": 1949
                 }
             ],
-            "problem_total": 379,
+            "problem_total": 380,
             "rating": 1949,
             "contest_total": 25
         },
@@ -3601,7 +3601,7 @@
                 }
             ],
             "contest_total": 56,
-            "problem_total": 731,
+            "problem_total": 735,
             "rating": 1750
         },
         "何家琛": {
@@ -5037,7 +5037,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1484,
-            "problem_total": 253,
+            "problem_total": 258,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5728,5 +5728,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-17 02:42:47"
+    "update_time": "2024-03-17 03:08:06"
 }
