@@ -3086,7 +3086,7 @@
                     "new_rating": 1949
                 }
             ],
-            "problem_total": 375,
+            "problem_total": 379,
             "rating": 1949,
             "contest_total": 25
         },
@@ -4802,7 +4802,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1205,
-            "problem_total": 114,
+            "problem_total": 115,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5728,5 +5728,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-16 22:08:00"
+    "update_time": "2024-03-16 22:34:07"
 }
