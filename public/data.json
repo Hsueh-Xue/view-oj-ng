@@ -3077,7 +3077,7 @@
                     "new_rating": 1934
                 }
             ],
-            "problem_total": 377,
+            "problem_total": 375,
             "rating": 1934,
             "contest_total": 24
         },
@@ -3583,7 +3583,7 @@
                 }
             ],
             "contest_total": 55,
-            "problem_total": 729,
+            "problem_total": 727,
             "rating": 1813
         },
         "何家琛": {
@@ -4910,7 +4910,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1511,
-            "problem_total": 142,
+            "problem_total": 140,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5010,7 +5010,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1392,
-            "problem_total": 249,
+            "problem_total": 247,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5672,7 +5672,7 @@
                 }
             ],
             "contest_total": 2,
-            "problem_total": 2
+            "problem_total": 1
         },
         "程天婺": {
             "name": "程天婺",
@@ -5683,5 +5683,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-16 18:09:32"
+    "update_time": "2024-03-16 18:33:37"
 }
