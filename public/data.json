@@ -1881,11 +1881,20 @@
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1596,
                     "new_rating": 1530
+                },
+                {
+                    "contest_id": 1944,
+                    "contest_name": "Codeforces Round 934 (Div. 2)",
+                    "handle": "dry_myrica",
+                    "rank": 1769,
+                    "rating_update_time_seconds": 1710608400,
+                    "old_rating": 1530,
+                    "new_rating": 1555
                 }
             ],
-            "rating": 1530,
+            "rating": 1555,
             "problem_total": 352,
-            "contest_total": 60
+            "contest_total": 61
         },
         "叶宏健": {
             "name": "叶宏健",
@@ -3084,11 +3093,20 @@
                     "rating_update_time_seconds": 1710520500,
                     "old_rating": 1934,
                     "new_rating": 1949
+                },
+                {
+                    "contest_id": 1943,
+                    "contest_name": "Codeforces Round 934 (Div. 1)",
+                    "handle": "afeng111",
+                    "rank": 991,
+                    "rating_update_time_seconds": 1710608400,
+                    "old_rating": 1949,
+                    "new_rating": 1892
                 }
             ],
             "problem_total": 380,
-            "rating": 1949,
-            "contest_total": 25
+            "rating": 1892,
+            "contest_total": 26
         },
         "张朝": {
             "name": "张朝",
@@ -3598,11 +3616,20 @@
                     "rating_update_time_seconds": 1710520500,
                     "old_rating": 1813,
                     "new_rating": 1750
+                },
+                {
+                    "contest_id": 1944,
+                    "contest_name": "Codeforces Round 934 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 114,
+                    "rating_update_time_seconds": 1710608400,
+                    "old_rating": 1750,
+                    "new_rating": 1874
                 }
             ],
-            "contest_total": 56,
+            "contest_total": 57,
             "problem_total": 735,
-            "rating": 1750
+            "rating": 1874
         },
         "何家琛": {
             "name": "何家琛",
@@ -5036,7 +5063,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1484,
+            "rating": 1443,
             "problem_total": 258,
             "contest_info": [
                 {
@@ -5218,9 +5245,18 @@
                     "rating_update_time_seconds": 1710520500,
                     "old_rating": 1392,
                     "new_rating": 1484
+                },
+                {
+                    "contest_id": 1944,
+                    "contest_name": "Codeforces Round 934 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 4540,
+                    "rating_update_time_seconds": 1710608400,
+                    "old_rating": 1484,
+                    "new_rating": 1443
                 }
             ],
-            "contest_total": 20
+            "contest_total": 21
         },
         "葛先步": {
             "name": "葛先步",
@@ -5728,5 +5764,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-17 15:33:58"
+    "update_time": "2024-03-17 16:10:51"
 }
