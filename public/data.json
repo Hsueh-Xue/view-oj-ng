@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 888,
+            "problem_total": 889,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2092,7 +2092,7 @@
                     "new_rating": 1404
                 }
             ],
-            "problem_total": 289,
+            "problem_total": 290,
             "contest_total": 21
         },
         "尤馨然": {
@@ -2382,7 +2382,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 342
+            "problem_total": 343
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5064,7 +5064,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1443,
-            "problem_total": 269,
+            "problem_total": 270,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5764,5 +5764,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-19 13:33:42"
+    "update_time": "2024-03-19 14:12:15"
 }
