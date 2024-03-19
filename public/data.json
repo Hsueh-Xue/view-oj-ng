@@ -1893,7 +1893,7 @@
                 }
             ],
             "rating": 1555,
-            "problem_total": 352,
+            "problem_total": 354,
             "contest_total": 61
         },
         "叶宏健": {
@@ -2092,7 +2092,7 @@
                     "new_rating": 1404
                 }
             ],
-            "problem_total": 293,
+            "problem_total": 294,
             "contest_total": 21
         },
         "尤馨然": {
@@ -2382,7 +2382,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 345
+            "problem_total": 346
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2668,7 +2668,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 138,
+            "problem_total": 139,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -3104,7 +3104,7 @@
                     "new_rating": 1892
                 }
             ],
-            "problem_total": 387,
+            "problem_total": 388,
             "rating": 1892,
             "contest_total": 26
         },
@@ -3628,7 +3628,7 @@
                 }
             ],
             "contest_total": 57,
-            "problem_total": 743,
+            "problem_total": 744,
             "rating": 1874
         },
         "何家琛": {
@@ -4946,7 +4946,7 @@
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 51,
+            "problem_total": 52,
             "rating": 0,
             "contest_total": 0
         },
@@ -4955,7 +4955,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1519,
-            "problem_total": 144,
+            "problem_total": 145,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5064,7 +5064,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1443,
-            "problem_total": 275,
+            "problem_total": 277,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5351,7 +5351,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1236,
-            "problem_total": 55,
+            "problem_total": 56,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -5764,5 +5764,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-19 15:34:03"
+    "update_time": "2024-03-19 16:12:09"
 }
