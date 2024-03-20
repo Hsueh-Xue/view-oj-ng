@@ -3104,7 +3104,7 @@
                     "new_rating": 1892
                 }
             ],
-            "problem_total": 393,
+            "problem_total": 394,
             "rating": 1892,
             "contest_total": 26
         },
@@ -4829,7 +4829,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1205,
-            "problem_total": 127,
+            "problem_total": 130,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5064,7 +5064,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1443,
-            "problem_total": 283,
+            "problem_total": 284,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5764,5 +5764,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-20 09:41:48"
+    "update_time": "2024-03-20 10:15:51"
 }
