@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 890,
+            "problem_total": 892,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2382,7 +2382,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 352
+            "problem_total": 353
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -3628,7 +3628,7 @@
                 }
             ],
             "contest_total": 57,
-            "problem_total": 748,
+            "problem_total": 749,
             "rating": 1874
         },
         "何家琛": {
@@ -4829,7 +4829,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1205,
-            "problem_total": 133,
+            "problem_total": 138,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -4946,7 +4946,7 @@
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 54,
+            "problem_total": 55,
             "rating": 0,
             "contest_total": 0
         },
@@ -4955,7 +4955,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1519,
-            "problem_total": 149,
+            "problem_total": 151,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5064,7 +5064,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1443,
-            "problem_total": 283,
+            "problem_total": 285,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5450,7 +5450,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1365,
-            "problem_total": 139,
+            "problem_total": 146,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5627,7 +5627,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 15,
+            "problem_total": 17,
             "rating": 0,
             "contest_total": 0
         },
@@ -5764,5 +5764,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-20 19:08:49"
+    "update_time": "2024-03-20 19:34:17"
 }
