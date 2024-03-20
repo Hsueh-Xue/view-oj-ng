@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 892,
+            "problem_total": 894,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2661,7 +2661,7 @@
                 }
             ],
             "contest_total": 30,
-            "problem_total": 643,
+            "problem_total": 644,
             "rating": 1440
         },
         "戴子晟": {
@@ -4829,7 +4829,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1205,
-            "problem_total": 138,
+            "problem_total": 139,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -4955,7 +4955,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1519,
-            "problem_total": 151,
+            "problem_total": 154,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5064,7 +5064,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1443,
-            "problem_total": 285,
+            "problem_total": 288,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5542,7 +5542,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1154,
-            "problem_total": 41,
+            "problem_total": 45,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5695,7 +5695,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 682,
-            "problem_total": 8,
+            "problem_total": 9,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -5764,5 +5764,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-20 19:34:17"
+    "update_time": "2024-03-20 20:16:16"
 }
