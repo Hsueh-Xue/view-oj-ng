@@ -3075,11 +3075,20 @@
                     "rating_update_time_seconds": 1709310900,
                     "old_rating": 1902,
                     "new_rating": 1934
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 550,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1934,
+                    "new_rating": 1949
                 }
             ],
             "problem_total": 402,
-            "rating": 1934,
-            "contest_total": 24
+            "rating": 1949,
+            "contest_total": 25
         },
         "张朝": {
             "name": "张朝",
@@ -3580,11 +3589,20 @@
                     "rating_update_time_seconds": 1709656500,
                     "old_rating": 1860,
                     "new_rating": 1813
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 2964,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1813,
+                    "new_rating": 1751
                 }
             ],
-            "contest_total": 55,
+            "contest_total": 56,
             "problem_total": 753,
-            "rating": 1813
+            "rating": 1751
         },
         "何家琛": {
             "name": "何家琛",
@@ -4920,7 +4938,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1511,
+            "rating": 1520,
             "problem_total": 162,
             "contest_info": [
                 {
@@ -5012,15 +5030,24 @@
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1437,
                     "new_rating": 1511
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "tiying",
+                    "rank": 3121,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1511,
+                    "new_rating": 1520
                 }
             ],
-            "contest_total": 10
+            "contest_total": 11
         },
         "张卓": {
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1392,
+            "rating": 1484,
             "problem_total": 290,
             "contest_info": [
                 {
@@ -5193,9 +5220,18 @@
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1287,
                     "new_rating": 1392
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 1695,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 1392,
+                    "new_rating": 1484
                 }
             ],
-            "contest_total": 19
+            "contest_total": 20
         },
         "葛先步": {
             "name": "葛先步",
@@ -5661,7 +5697,7 @@
             "name": "孙胜杰",
             "grade": 2023,
             "codeforces_handle": "sun_sheng_jie",
-            "rating": 571,
+            "rating": 859,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5680,9 +5716,18 @@
                     "rating_update_time_seconds": 1709224500,
                     "old_rating": 349,
                     "new_rating": 571
+                },
+                {
+                    "contest_id": 1948,
+                    "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
+                    "handle": "sun_sheng_jie",
+                    "rank": 7072,
+                    "rating_update_time_seconds": 1710520500,
+                    "old_rating": 571,
+                    "new_rating": 859
                 }
             ],
-            "contest_total": 2,
+            "contest_total": 3,
             "problem_total": 2
         },
         "程天婺": {
@@ -5694,5 +5739,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-22 02:12:19"
+    "update_time": "2024-03-22 02:34:35"
 }
