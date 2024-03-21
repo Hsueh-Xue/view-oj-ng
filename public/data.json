@@ -1334,7 +1334,7 @@
                 }
             ],
             "rating": 1759,
-            "problem_total": 970,
+            "problem_total": 972,
             "contest_total": 67
         },
         "邵茹怡": {
@@ -4993,7 +4993,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1578,
-            "problem_total": 154,
+            "problem_total": 155,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5865,5 +5865,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-21 13:34:03"
+    "update_time": "2024-03-21 14:12:15"
 }
