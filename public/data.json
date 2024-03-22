@@ -2804,10 +2804,19 @@
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1557,
                     "new_rating": 1647
+                },
+                {
+                    "contest_id": 1946,
+                    "contest_name": "Codeforces Round 936 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 2417,
+                    "rating_update_time_seconds": 1711125300,
+                    "old_rating": 1647,
+                    "new_rating": 1635
                 }
             ],
-            "rating": 1647,
-            "contest_total": 13
+            "rating": 1635,
+            "contest_total": 14
         },
         "章诚益": {
             "name": "章诚益",
@@ -3129,11 +3138,20 @@
                     "rating_update_time_seconds": 1710608400,
                     "old_rating": 1949,
                     "new_rating": 1893
+                },
+                {
+                    "contest_id": 1946,
+                    "contest_name": "Codeforces Round 936 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1162,
+                    "rating_update_time_seconds": 1711125300,
+                    "old_rating": 1893,
+                    "new_rating": 1872
                 }
             ],
             "problem_total": 408,
-            "rating": 1893,
-            "contest_total": 26
+            "rating": 1872,
+            "contest_total": 27
         },
         "张朝": {
             "name": "张朝",
@@ -3652,11 +3670,20 @@
                     "rating_update_time_seconds": 1710608400,
                     "old_rating": 1751,
                     "new_rating": 1875
+                },
+                {
+                    "contest_id": 1946,
+                    "contest_name": "Codeforces Round 936 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 529,
+                    "rating_update_time_seconds": 1711125300,
+                    "old_rating": 1875,
+                    "new_rating": 1908
                 }
             ],
-            "contest_total": 57,
+            "contest_total": 58,
             "problem_total": 758,
-            "rating": 1875
+            "rating": 1908
         },
         "何家琛": {
             "name": "何家琛",
@@ -4992,7 +5019,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1579,
+            "rating": 1572,
             "problem_total": 173,
             "contest_info": [
                 {
@@ -5102,15 +5129,24 @@
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1520,
                     "new_rating": 1579
+                },
+                {
+                    "contest_id": 1946,
+                    "contest_name": "Codeforces Round 936 (Div. 2)",
+                    "handle": "tiying",
+                    "rank": 2824,
+                    "rating_update_time_seconds": 1711125300,
+                    "old_rating": 1579,
+                    "new_rating": 1572
                 }
             ],
-            "contest_total": 12
+            "contest_total": 13
         },
         "张卓": {
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1523,
+            "rating": 1636,
             "problem_total": 294,
             "contest_info": [
                 {
@@ -5310,9 +5346,18 @@
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1445,
                     "new_rating": 1523
+                },
+                {
+                    "contest_id": 1946,
+                    "contest_name": "Codeforces Round 936 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 726,
+                    "rating_update_time_seconds": 1711125300,
+                    "old_rating": 1523,
+                    "new_rating": 1636
                 }
             ],
-            "contest_total": 22
+            "contest_total": 23
         },
         "葛先步": {
             "name": "葛先步",
@@ -5865,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-23 01:34:09"
+    "update_time": "2024-03-23 02:12:16"
 }
