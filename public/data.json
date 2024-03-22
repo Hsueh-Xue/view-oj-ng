@@ -1902,7 +1902,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 359,
+            "problem_total": 360,
             "contest_total": 62
         },
         "叶宏健": {
@@ -2400,7 +2400,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 359
+            "problem_total": 360
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5865,5 +5865,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-22 20:45:05"
+    "update_time": "2024-03-22 21:09:35"
 }
