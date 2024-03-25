@@ -2400,7 +2400,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 360
+            "problem_total": 361
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5533,7 +5533,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 14,
+            "problem_total": 15,
             "rating": 0,
             "contest_total": 0
         },
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-25 08:41:42"
+    "update_time": "2024-03-25 09:44:27"
 }
