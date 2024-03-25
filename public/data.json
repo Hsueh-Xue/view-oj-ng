@@ -3149,7 +3149,7 @@
                     "new_rating": 1872
                 }
             ],
-            "problem_total": 408,
+            "problem_total": 409,
             "rating": 1872,
             "contest_total": 27
         },
@@ -5147,7 +5147,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1636,
-            "problem_total": 295,
+            "problem_total": 296,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-25 12:35:04"
+    "update_time": "2024-03-25 13:09:59"
 }
