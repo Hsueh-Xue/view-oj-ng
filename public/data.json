@@ -1334,7 +1334,7 @@
                 }
             ],
             "rating": 1759,
-            "problem_total": 977,
+            "problem_total": 978,
             "contest_total": 67
         },
         "邵茹怡": {
@@ -2400,7 +2400,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 363
+            "problem_total": 364
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5578,7 +5578,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1365,
-            "problem_total": 152,
+            "problem_total": 153,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-26 08:40:09"
+    "update_time": "2024-03-26 09:41:56"
 }
