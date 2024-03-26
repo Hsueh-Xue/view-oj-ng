@@ -2400,7 +2400,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 366
+            "problem_total": 367
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5679,7 +5679,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1154,
-            "problem_total": 52,
+            "problem_total": 53,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-26 18:36:54"
+    "update_time": "2024-03-26 19:09:01"
 }
