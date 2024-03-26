@@ -2803,10 +2803,10 @@
                     "rank": 228,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1557,
-                    "new_rating": 1635
+                    "new_rating": 1647
                 }
             ],
-            "rating": 1635,
+            "rating": 1647,
             "contest_total": 13
         },
         "章诚益": {
@@ -3128,11 +3128,11 @@
                     "rank": 988,
                     "rating_update_time_seconds": 1710608400,
                     "old_rating": 1949,
-                    "new_rating": 1872
+                    "new_rating": 1893
                 }
             ],
             "problem_total": 415,
-            "rating": 1872,
+            "rating": 1893,
             "contest_total": 26
         },
         "张朝": {
@@ -3651,12 +3651,12 @@
                     "rank": 112,
                     "rating_update_time_seconds": 1710608400,
                     "old_rating": 1751,
-                    "new_rating": 1908
+                    "new_rating": 1875
                 }
             ],
             "contest_total": 57,
             "problem_total": 762,
-            "rating": 1908
+            "rating": 1875
         },
         "何家琛": {
             "name": "何家琛",
@@ -4992,7 +4992,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1572,
+            "rating": 1579,
             "problem_total": 175,
             "contest_info": [
                 {
@@ -5101,7 +5101,7 @@
                     "rank": 497,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1520,
-                    "new_rating": 1572
+                    "new_rating": 1579
                 }
             ],
             "contest_total": 12
@@ -5110,7 +5110,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1636,
+            "rating": 1523,
             "problem_total": 307,
             "contest_info": [
                 {
@@ -5309,7 +5309,7 @@
                     "rank": 521,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1445,
-                    "new_rating": 1636
+                    "new_rating": 1523
                 }
             ],
             "contest_total": 22
@@ -5865,5 +5865,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-27 02:35:08"
+    "update_time": "2024-03-27 03:08:46"
 }
