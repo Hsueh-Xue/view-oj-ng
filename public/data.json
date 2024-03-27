@@ -2110,7 +2110,7 @@
                     "new_rating": 1383
                 }
             ],
-            "problem_total": 309,
+            "problem_total": 311,
             "contest_total": 22
         },
         "尤馨然": {
@@ -4883,7 +4883,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1205,
-            "problem_total": 162,
+            "problem_total": 163,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-27 21:09:52"
+    "update_time": "2024-03-27 21:34:24"
 }
