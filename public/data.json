@@ -2110,7 +2110,7 @@
                     "new_rating": 1383
                 }
             ],
-            "problem_total": 313,
+            "problem_total": 314,
             "contest_total": 22
         },
         "尤馨然": {
@@ -5679,7 +5679,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1154,
-            "problem_total": 58,
+            "problem_total": 60,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-28 15:35:22"
+    "update_time": "2024-03-28 16:11:50"
 }
