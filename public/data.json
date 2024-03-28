@@ -2110,7 +2110,7 @@
                     "new_rating": 1383
                 }
             ],
-            "problem_total": 311,
+            "problem_total": 313,
             "contest_total": 22
         },
         "尤馨然": {
@@ -3682,7 +3682,7 @@
                 }
             ],
             "contest_total": 58,
-            "problem_total": 765,
+            "problem_total": 766,
             "rating": 1907
         },
         "何家琛": {
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-28 15:09:14"
+    "update_time": "2024-03-28 15:35:22"
 }
