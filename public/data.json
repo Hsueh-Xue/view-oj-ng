@@ -2400,7 +2400,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 374
+            "problem_total": 375
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5452,7 +5452,7 @@
             "name": "程子豪",
             "grade": 2023,
             "codeforces_handle": "Query.c",
-            "problem_total": 12,
+            "problem_total": 13,
             "rating": 0,
             "contest_total": 0
         },
@@ -5641,7 +5641,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 13,
+            "problem_total": 14,
             "rating": 865,
             "contest_total": 3,
             "contest_info": [
@@ -5910,5 +5910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-29 14:35:52"
+    "update_time": "2024-03-29 15:10:15"
 }
