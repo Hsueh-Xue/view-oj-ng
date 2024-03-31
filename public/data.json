@@ -4043,7 +4043,7 @@
             "grade": 2017,
             "codeforces_handle": "HsuehHtao",
             "rating": 1980,
-            "problem_total": 1196,
+            "problem_total": 1188,
             "contest_info": [
                 {
                     "contest_id": 978,
@@ -4134,7 +4134,7 @@
             "grade": 2017,
             "codeforces_handle": "Dup4",
             "rating": 2294,
-            "problem_total": 1988,
+            "problem_total": 1984,
             "contest_info": [
                 {
                     "contest_id": 1062,
@@ -6065,5 +6065,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-03-31 13:33:35"
+    "update_time": "2024-03-31 14:11:15"
 }
