@@ -2128,7 +2128,7 @@
                     "new_rating": 1498
                 }
             ],
-            "problem_total": 327,
+            "problem_total": 328,
             "contest_total": 23
         },
         "尤馨然": {
@@ -3167,7 +3167,7 @@
                     "new_rating": 1873
                 }
             ],
-            "problem_total": 417,
+            "problem_total": 418,
             "rating": 1873,
             "contest_total": 27
         },
@@ -3709,7 +3709,7 @@
                 }
             ],
             "contest_total": 59,
-            "problem_total": 777,
+            "problem_total": 778,
             "rating": 1832
         },
         "何家琛": {
@@ -6065,5 +6065,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-04-01 18:35:49"
+    "update_time": "2024-04-01 19:10:02"
 }
