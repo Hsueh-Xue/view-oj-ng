@@ -1343,7 +1343,7 @@
                 }
             ],
             "rating": 1818,
-            "problem_total": 996,
+            "problem_total": 997,
             "contest_total": 68
         },
         "邵茹怡": {
@@ -5083,7 +5083,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1607,
-            "problem_total": 185,
+            "problem_total": 187,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5796,7 +5796,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1350,
-            "problem_total": 70,
+            "problem_total": 72,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6065,5 +6065,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-04-01 20:17:37"
+    "update_time": "2024-04-01 20:47:30"
 }
