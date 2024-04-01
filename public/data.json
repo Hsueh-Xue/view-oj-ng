@@ -1911,7 +1911,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 362,
+            "problem_total": 363,
             "contest_total": 62
         },
         "叶宏健": {
@@ -5551,7 +5551,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1246,
-            "problem_total": 67,
+            "problem_total": 68,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -6065,5 +6065,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2024-04-01 12:34:39"
+    "update_time": "2024-04-01 13:10:43"
 }
