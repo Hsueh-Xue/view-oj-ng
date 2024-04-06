@@ -5677,7 +5677,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1424,
-            "problem_total": 180,
+            "problem_total": 181,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6063,7 +6063,116 @@
             "rating": 0,
             "problem_total": 6,
             "contest_total": 0
+        },
+        "魏炜": {
+            "name": "魏炜",
+            "grade": 2018,
+            "codeforces_handle": "wifePie",
+            "rating": 1711,
+            "problem_total": 68,
+            "contest_info": [
+                {
+                    "contest_id": 1478,
+                    "contest_name": "Codeforces Round 698 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 295,
+                    "rating_update_time_seconds": 1611852600,
+                    "old_rating": 0,
+                    "new_rating": 687
+                },
+                {
+                    "contest_id": 1481,
+                    "contest_name": "Codeforces Round 699 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 3357,
+                    "rating_update_time_seconds": 1612542900,
+                    "old_rating": 687,
+                    "new_rating": 1011
+                },
+                {
+                    "contest_id": 1480,
+                    "contest_name": "Codeforces Round 700 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 1221,
+                    "rating_update_time_seconds": 1612716600,
+                    "old_rating": 1011,
+                    "new_rating": 1313
+                },
+                {
+                    "contest_id": 1485,
+                    "contest_name": "Codeforces Round 701 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 1997,
+                    "rating_update_time_seconds": 1613148600,
+                    "old_rating": 1313,
+                    "new_rating": 1467
+                },
+                {
+                    "contest_id": 1487,
+                    "contest_name": "Educational Codeforces Round 104 (Rated for Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 899,
+                    "rating_update_time_seconds": 1613406900,
+                    "old_rating": 1467,
+                    "new_rating": 1633
+                },
+                {
+                    "contest_id": 1493,
+                    "contest_name": "Codeforces Round 705 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 1285,
+                    "rating_update_time_seconds": 1615047600,
+                    "old_rating": 1633,
+                    "new_rating": 1694
+                },
+                {
+                    "contest_id": 1496,
+                    "contest_name": "Codeforces Round 706 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 4475,
+                    "rating_update_time_seconds": 1615385100,
+                    "old_rating": 1694,
+                    "new_rating": 1595
+                },
+                {
+                    "contest_id": 1501,
+                    "contest_name": "Codeforces Round 707 (Div. 2, based on Moscow Open Olympiad in Informatics)",
+                    "handle": "wifePie",
+                    "rank": 947,
+                    "rating_update_time_seconds": 1615635300,
+                    "old_rating": 1595,
+                    "new_rating": 1624
+                },
+                {
+                    "contest_id": 1499,
+                    "contest_name": "Educational Codeforces Round 106 (Rated for Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 2973,
+                    "rating_update_time_seconds": 1616086200,
+                    "old_rating": 1624,
+                    "new_rating": 1579
+                },
+                {
+                    "contest_id": 1484,
+                    "contest_name": "Codeforces Round 709 (Div. 2, based on Technocup 2021 Final Round)",
+                    "handle": "wifePie",
+                    "rank": 151,
+                    "rating_update_time_seconds": 1616340900,
+                    "old_rating": 1579,
+                    "new_rating": 1721
+                },
+                {
+                    "contest_id": 1513,
+                    "contest_name": "Divide by Zero 2021 and Codeforces Round 714 (Div. 2)",
+                    "handle": "wifePie",
+                    "rank": 1393,
+                    "rating_update_time_seconds": 1618158900,
+                    "old_rating": 1721,
+                    "new_rating": 1711
+                }
+            ],
+            "contest_total": 11
         }
     },
-    "update_time": "2024-04-06 14:11:54"
+    "update_time": "2024-04-06 14:30:53"
 }
