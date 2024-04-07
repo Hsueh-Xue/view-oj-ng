@@ -2137,7 +2137,7 @@
                     "new_rating": 1498
                 }
             ],
-            "problem_total": 333,
+            "problem_total": 335,
             "contest_total": 23
         },
         "尤馨然": {
@@ -2427,7 +2427,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 391
+            "problem_total": 393
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2706,7 +2706,7 @@
                 }
             ],
             "contest_total": 30,
-            "problem_total": 678,
+            "problem_total": 679,
             "rating": 1440
         },
         "戴子晟": {
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-07 18:09:21"
+    "update_time": "2024-04-07 18:35:01"
 }
