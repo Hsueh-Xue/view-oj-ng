@@ -4937,7 +4937,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1434,
-            "problem_total": 194,
+            "problem_total": 195,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5255,7 +5255,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1867,
-            "problem_total": 356,
+            "problem_total": 363,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-09 01:10:25"
+    "update_time": "2024-04-09 01:33:53"
 }
