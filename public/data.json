@@ -1352,7 +1352,7 @@
                 }
             ],
             "rating": 1657,
-            "problem_total": 1011,
+            "problem_total": 1013,
             "contest_total": 69
         },
         "邵茹怡": {
@@ -1920,7 +1920,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 363,
+            "problem_total": 364,
             "contest_total": 62
         },
         "叶宏健": {
@@ -5110,7 +5110,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1657,
-            "problem_total": 205,
+            "problem_total": 206,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-08 19:34:13"
+    "update_time": "2024-04-08 20:16:48"
 }
