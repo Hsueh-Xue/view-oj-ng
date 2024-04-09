@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 935,
+            "problem_total": 936,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -4937,7 +4937,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1434,
-            "problem_total": 193,
+            "problem_total": 194,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5722,7 +5722,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1424,
-            "problem_total": 193,
+            "problem_total": 194,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-10 00:11:10"
+    "update_time": "2024-04-10 00:37:27"
 }
