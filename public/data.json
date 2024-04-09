@@ -3176,7 +3176,7 @@
                     "new_rating": 1873
                 }
             ],
-            "problem_total": 422,
+            "problem_total": 423,
             "rating": 1873,
             "contest_total": 27
         },
@@ -5110,7 +5110,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1657,
-            "problem_total": 208,
+            "problem_total": 209,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-09 15:11:06"
+    "update_time": "2024-04-09 15:34:21"
 }
