@@ -5081,7 +5081,7 @@
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 68,
+            "problem_total": 69,
             "rating": 757,
             "contest_total": 2,
             "contest_info": [
@@ -5255,7 +5255,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1867,
-            "problem_total": 363,
+            "problem_total": 364,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-09 13:09:54"
+    "update_time": "2024-04-09 13:33:51"
 }
