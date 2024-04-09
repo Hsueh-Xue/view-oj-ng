@@ -3727,7 +3727,7 @@
                 }
             ],
             "contest_total": 60,
-            "problem_total": 797,
+            "problem_total": 798,
             "rating": 1935
         },
         "何家琛": {
@@ -5841,7 +5841,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1350,
-            "problem_total": 86,
+            "problem_total": 87,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-09 11:11:27"
+    "update_time": "2024-04-09 11:34:54"
 }
