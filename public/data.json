@@ -1920,7 +1920,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 364,
+            "problem_total": 365,
             "contest_total": 62
         },
         "叶宏健": {
@@ -2706,7 +2706,7 @@
                 }
             ],
             "contest_total": 30,
-            "problem_total": 692,
+            "problem_total": 694,
             "rating": 1440
         },
         "戴子晟": {
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-09 21:34:19"
+    "update_time": "2024-04-09 22:09:36"
 }
