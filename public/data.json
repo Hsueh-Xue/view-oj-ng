@@ -2137,7 +2137,7 @@
                     "new_rating": 1498
                 }
             ],
-            "problem_total": 339,
+            "problem_total": 340,
             "contest_total": 23
         },
         "尤馨然": {
@@ -3727,7 +3727,7 @@
                 }
             ],
             "contest_total": 60,
-            "problem_total": 798,
+            "problem_total": 799,
             "rating": 1935
         },
         "何家琛": {
@@ -4937,7 +4937,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1434,
-            "problem_total": 196,
+            "problem_total": 197,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5110,7 +5110,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1657,
-            "problem_total": 207,
+            "problem_total": 208,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6228,5 +6228,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-09 14:12:46"
+    "update_time": "2024-04-09 14:35:01"
 }
