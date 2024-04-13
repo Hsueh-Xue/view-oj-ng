@@ -1927,7 +1927,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1512,
+            "rating": 1585,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2144,10 +2144,19 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 1498,
                     "new_rating": 1512
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 1206,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 1512,
+                    "new_rating": 1585
                 }
             ],
             "problem_total": 352,
-            "contest_total": 24
+            "contest_total": 25
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -5642,9 +5651,9 @@
             "name": "王科然",
             "grade": 2023,
             "codeforces_handle": "wkr111",
-            "rating": 494,
+            "rating": 785,
             "problem_total": 15,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 1955,
@@ -5654,6 +5663,15 @@
                     "rating_update_time_seconds": 1712595000,
                     "old_rating": 0,
                     "new_rating": 494
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "wkr111",
+                    "rank": 6549,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 494,
+                    "new_rating": 785
                 }
             ]
         },
@@ -5752,8 +5770,8 @@
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
             "problem_total": 36,
-            "rating": 439,
-            "contest_total": 1,
+            "rating": 724,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -5763,6 +5781,15 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 0,
                     "new_rating": 439
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "shale_sensei",
+                    "rank": 7528,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 439,
+                    "new_rating": 724
                 }
             ]
         },
@@ -6032,9 +6059,9 @@
             "name": "叶守俊",
             "grade": 2023,
             "codeforces_handle": "ye_j1",
-            "rating": 418,
+            "rating": 646,
             "problem_total": 4,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -6044,6 +6071,15 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 0,
                     "new_rating": 418
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "ye_j1",
+                    "rank": 11322,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 418,
+                    "new_rating": 646
                 }
             ]
         },
@@ -6378,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-14 03:33:51"
+    "update_time": "2024-04-14 04:08:54"
 }
