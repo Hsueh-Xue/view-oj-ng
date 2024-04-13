@@ -5724,7 +5724,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 33,
+            "problem_total": 34,
             "rating": 0,
             "contest_total": 0
         },
@@ -5986,7 +5986,7 @@
             "grade": 2023,
             "codeforces_handle": "ye_j1",
             "rating": 0,
-            "problem_total": 1,
+            "problem_total": 3,
             "contest_total": 0
         },
         "陈宇雯": {
@@ -6009,7 +6009,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 19,
+            "problem_total": 21,
             "rating": 0,
             "contest_total": 0
         },
@@ -6311,5 +6311,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-13 19:34:06"
+    "update_time": "2024-04-13 20:13:38"
 }
