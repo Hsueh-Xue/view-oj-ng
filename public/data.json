@@ -4954,7 +4954,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 730,
-            "problem_total": 35,
+            "problem_total": 36,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -5135,7 +5135,7 @@
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 74,
+            "problem_total": 75,
             "rating": 757,
             "contest_total": 2,
             "contest_info": [
@@ -5553,7 +5553,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1223,
-            "problem_total": 53,
+            "problem_total": 54,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-14 11:50:35"
+    "update_time": "2024-04-14 12:34:17"
 }
