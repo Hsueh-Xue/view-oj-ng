@@ -2155,7 +2155,7 @@
                     "new_rating": 1585
                 }
             ],
-            "problem_total": 361,
+            "problem_total": 365,
             "contest_total": 25
         },
         "尤馨然": {
@@ -5309,7 +5309,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1955,
-            "problem_total": 417,
+            "problem_total": 421,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-18 23:33:43"
+    "update_time": "2024-04-19 00:11:34"
 }
