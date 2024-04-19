@@ -2445,7 +2445,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 409
+            "problem_total": 410
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -3203,7 +3203,7 @@
                     "new_rating": 1873
                 }
             ],
-            "problem_total": 424,
+            "problem_total": 425,
             "rating": 1873,
             "contest_total": 27
         },
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-19 08:41:18"
+    "update_time": "2024-04-19 09:44:39"
 }
