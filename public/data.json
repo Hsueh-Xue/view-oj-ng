@@ -2155,7 +2155,7 @@
                     "new_rating": 1585
                 }
             ],
-            "problem_total": 373,
+            "problem_total": 374,
             "contest_total": 25
         },
         "尤馨然": {
@@ -3203,7 +3203,7 @@
                     "new_rating": 1873
                 }
             ],
-            "problem_total": 426,
+            "problem_total": 428,
             "rating": 1873,
             "contest_total": 27
         },
@@ -3754,7 +3754,7 @@
                 }
             ],
             "contest_total": 60,
-            "problem_total": 824,
+            "problem_total": 826,
             "rating": 1935
         },
         "何家琛": {
@@ -4088,7 +4088,7 @@
                     "new_rating": 1483
                 }
             ],
-            "problem_total": 95,
+            "problem_total": 97,
             "rating": 1483,
             "contest_total": 19
         },
@@ -4982,7 +4982,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1422,
-            "problem_total": 206,
+            "problem_total": 208,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5309,7 +5309,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1955,
-            "problem_total": 444,
+            "problem_total": 446,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5769,7 +5769,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 37,
+            "problem_total": 38,
             "rating": 724,
             "contest_total": 2,
             "contest_info": [
@@ -5834,7 +5834,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1414,
-            "problem_total": 219,
+            "problem_total": 220,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-22 00:36:28"
+    "update_time": "2024-04-22 01:09:47"
 }
