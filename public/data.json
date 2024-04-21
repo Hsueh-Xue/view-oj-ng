@@ -3754,7 +3754,7 @@
                 }
             ],
             "contest_total": 60,
-            "problem_total": 820,
+            "problem_total": 822,
             "rating": 1935
         },
         "何家琛": {
@@ -5135,7 +5135,7 @@
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 77,
+            "problem_total": 79,
             "rating": 757,
             "contest_total": 2,
             "contest_info": [
@@ -6103,7 +6103,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 24,
+            "problem_total": 25,
             "rating": 0,
             "contest_total": 0
         },
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-21 08:44:51"
+    "update_time": "2024-04-21 09:52:20"
 }
