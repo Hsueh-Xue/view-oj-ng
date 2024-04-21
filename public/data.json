@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 953,
+            "problem_total": 954,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2155,7 +2155,7 @@
                     "new_rating": 1585
                 }
             ],
-            "problem_total": 372,
+            "problem_total": 373,
             "contest_total": 25
         },
         "尤馨然": {
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-21 22:08:54"
+    "update_time": "2024-04-21 22:41:52"
 }
