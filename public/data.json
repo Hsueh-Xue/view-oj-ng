@@ -3754,7 +3754,7 @@
                 }
             ],
             "contest_total": 60,
-            "problem_total": 823,
+            "problem_total": 824,
             "rating": 1935
         },
         "何家琛": {
@@ -6103,7 +6103,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 27,
+            "problem_total": 28,
             "rating": 0,
             "contest_total": 0
         },
@@ -6414,5 +6414,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-21 10:38:17"
+    "update_time": "2024-04-21 11:09:58"
 }
