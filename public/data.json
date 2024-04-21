@@ -1927,7 +1927,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1525,
+            "rating": 1585,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2161,7 +2161,7 @@
                     "rank": 4526,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1585,
-                    "new_rating": 1525
+                    "new_rating": 1585
                 }
             ],
             "problem_total": 375,
@@ -3218,11 +3218,11 @@
                     "rank": 580,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1873,
-                    "new_rating": 1892
+                    "new_rating": 1873
                 }
             ],
             "problem_total": 430,
-            "rating": 1892,
+            "rating": 1873,
             "contest_total": 28
         },
         "张朝": {
@@ -3777,12 +3777,12 @@
                     "rank": 449,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1935,
-                    "new_rating": 1953
+                    "new_rating": 1935
                 }
             ],
             "contest_total": 61,
             "problem_total": 828,
-            "rating": 1953
+            "rating": 1935
         },
         "何家琛": {
             "name": "何家琛",
@@ -4121,11 +4121,11 @@
                     "rank": 1872,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1483,
-                    "new_rating": 1526
+                    "new_rating": 1483
                 }
             ],
             "problem_total": 98,
-            "rating": 1526,
+            "rating": 1483,
             "contest_total": 20
         },
         "Hsueh": {
@@ -5017,7 +5017,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1441,
+            "rating": 1422,
             "problem_total": 208,
             "contest_info": [
                 {
@@ -5171,7 +5171,7 @@
                     "rank": 2969,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1422,
-                    "new_rating": 1441
+                    "new_rating": 1422
                 }
             ],
             "contest_total": 17
@@ -5353,7 +5353,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1968,
+            "rating": 1955,
             "problem_total": 448,
             "contest_info": [
                 {
@@ -5597,7 +5597,7 @@
                     "rank": 451,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1955,
-                    "new_rating": 1968
+                    "new_rating": 1955
                 }
             ],
             "contest_total": 27
@@ -5824,7 +5824,7 @@
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
             "problem_total": 39,
-            "rating": 915,
+            "rating": 724,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -5852,7 +5852,7 @@
                     "rank": 8399,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 724,
-                    "new_rating": 915
+                    "new_rating": 724
                 }
             ]
         },
@@ -5896,7 +5896,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1405,
+            "rating": 1414,
             "problem_total": 221,
             "contest_info": [
                 {
@@ -5987,7 +5987,7 @@
                     "rank": 4048,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1414,
-                    "new_rating": 1405
+                    "new_rating": 1414
                 }
             ],
             "contest_total": 10
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-22 05:34:01"
+    "update_time": "2024-04-22 06:09:44"
 }
