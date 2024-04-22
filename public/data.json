@@ -2107,47 +2107,11 @@
                     "rank": 2936,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1404,
-                    "new_rating": 1383
-                },
-                {
-                    "contest_id": 1950,
-                    "contest_name": "Codeforces Round 937 (Div. 4)",
-                    "handle": "pekolim",
-                    "rank": 411,
-                    "rating_update_time_seconds": 1711645200,
-                    "old_rating": 1383,
-                    "new_rating": 1498
-                },
-                {
-                    "contest_id": 1954,
-                    "contest_name": "Educational Codeforces Round 164 (Rated for Div. 2)",
-                    "handle": "pekolim",
-                    "rank": 2940,
-                    "rating_update_time_seconds": 1712939700,
-                    "old_rating": 1498,
-                    "new_rating": 1512
-                },
-                {
-                    "contest_id": 1956,
-                    "contest_name": "Codeforces Round 939 (Div. 2)",
-                    "handle": "pekolim",
-                    "rank": 1206,
-                    "rating_update_time_seconds": 1713026100,
-                    "old_rating": 1512,
-                    "new_rating": 1585
-                },
-                {
-                    "contest_id": 1957,
-                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
-                    "handle": "pekolim",
-                    "rank": 4526,
-                    "rating_update_time_seconds": 1713718200,
-                    "old_rating": 1585,
                     "new_rating": 1525
                 }
             ],
             "problem_total": 376,
-            "contest_total": 26
+            "contest_total": 22
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -5183,7 +5147,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1968,
-            "problem_total": 463,
+            "problem_total": 467,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5463,28 +5427,10 @@
                     "rank": 2185,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1155,
-                    "new_rating": 1230
-                },
-                {
-                    "contest_id": 1950,
-                    "contest_name": "Codeforces Round 937 (Div. 4)",
-                    "handle": "gexianbu",
-                    "rank": 5023,
-                    "rating_update_time_seconds": 1711645200,
-                    "old_rating": 1230,
-                    "new_rating": 1246
-                },
-                {
-                    "contest_id": 1955,
-                    "contest_name": "Codeforces Round 938 (Div. 3)",
-                    "handle": "gexianbu",
-                    "rank": 8837,
-                    "rating_update_time_seconds": 1712595000,
-                    "old_rating": 1246,
                     "new_rating": 1223
                 }
             ],
-            "contest_total": 9
+            "contest_total": 7
         },
         "薛博文": {
             "name": "薛博文",
@@ -5818,28 +5764,10 @@
                     "rank": 6199,
                     "rating_update_time_seconds": 1709224500,
                     "old_rating": 1036,
-                    "new_rating": 1154
-                },
-                {
-                    "contest_id": 1950,
-                    "contest_name": "Codeforces Round 937 (Div. 4)",
-                    "handle": "blhxsdzjr",
-                    "rank": 935,
-                    "rating_update_time_seconds": 1711645200,
-                    "old_rating": 1154,
-                    "new_rating": 1350
-                },
-                {
-                    "contest_id": 1955,
-                    "contest_name": "Codeforces Round 938 (Div. 3)",
-                    "handle": "blhxsdzjr",
-                    "rank": 2116,
-                    "rating_update_time_seconds": 1712595000,
-                    "old_rating": 1350,
                     "new_rating": 1439
                 }
             ],
-            "contest_total": 6
+            "contest_total": 4
         },
         "陈天意": {
             "name": "陈天意",
@@ -6198,5 +6126,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-22 23:34:54"
+    "update_time": "2024-04-23 00:11:41"
 }
