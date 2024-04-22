@@ -1920,7 +1920,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 370,
+            "problem_total": 371,
             "contest_total": 62
         },
         "叶宏健": {
@@ -5354,7 +5354,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1968,
-            "problem_total": 450,
+            "problem_total": 451,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-22 19:08:20"
+    "update_time": "2024-04-22 19:35:24"
 }
