@@ -1330,10 +1330,10 @@
                     "rank": 1325,
                     "rating_update_time_seconds": 1709656500,
                     "old_rating": 1744,
-                    "new_rating": 1645
+                    "new_rating": 1759
                 }
             ],
-            "rating": 1645,
+            "rating": 1759,
             "problem_total": 1034,
             "contest_total": 67
         },
@@ -1909,7 +1909,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1508,
+            "rating": 1383,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2107,7 +2107,7 @@
                     "rank": 2936,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1404,
-                    "new_rating": 1508
+                    "new_rating": 1383
                 }
             ],
             "problem_total": 382,
@@ -2675,12 +2675,12 @@
                     "rank": 4814,
                     "rating_update_time_seconds": 1709310900,
                     "old_rating": 1472,
-                    "new_rating": 1459
+                    "new_rating": 1440
                 }
             ],
             "contest_total": 30,
             "problem_total": 730,
-            "rating": 1459
+            "rating": 1440
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -3146,11 +3146,11 @@
                     "rank": 1141,
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1893,
-                    "new_rating": 1891
+                    "new_rating": 1873
                 }
             ],
             "problem_total": 430,
-            "rating": 1891,
+            "rating": 1873,
             "contest_total": 27
         },
         "张朝": {
@@ -3678,12 +3678,12 @@
                     "rank": 523,
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1875,
-                    "new_rating": 1953
+                    "new_rating": 1907
                 }
             ],
             "contest_total": 58,
             "problem_total": 832,
-            "rating": 1953
+            "rating": 1907
         },
         "何家琛": {
             "name": "何家琛",
@@ -3995,11 +3995,11 @@
                     "rank": 19503,
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1483,
-                    "new_rating": 1502
+                    "new_rating": 1347
                 }
             ],
             "problem_total": 99,
-            "rating": 1502,
+            "rating": 1347,
             "contest_total": 17
         },
         "Hsueh": {
@@ -4863,7 +4863,7 @@
             "name": "鲁安鹏",
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
-            "rating": 792,
+            "rating": 468,
             "problem_total": 41,
             "contest_info": [
                 {
@@ -4873,7 +4873,7 @@
                     "rank": 5927,
                     "rating_update_time_seconds": 1709310900,
                     "old_rating": 0,
-                    "new_rating": 792
+                    "new_rating": 468
                 }
             ],
             "contest_total": 1
@@ -4882,7 +4882,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1244,
+            "rating": 1205,
             "problem_total": 223,
             "contest_info": [
                 {
@@ -4991,7 +4991,7 @@
                     "rank": 5387,
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1164,
-                    "new_rating": 1244
+                    "new_rating": 1205
                 }
             ],
             "contest_total": 12
@@ -5001,7 +5001,7 @@
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
             "problem_total": 80,
-            "rating": 818,
+            "rating": 472,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -5011,7 +5011,7 @@
                     "rank": 3685,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 0,
-                    "new_rating": 818
+                    "new_rating": 472
                 }
             ]
         },
@@ -5019,7 +5019,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1652,
+            "rating": 1573,
             "problem_total": 216,
             "contest_info": [
                 {
@@ -5137,7 +5137,7 @@
                     "rank": 2785,
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1579,
-                    "new_rating": 1652
+                    "new_rating": 1573
                 }
             ],
             "contest_total": 13
@@ -5146,7 +5146,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1968,
+            "rating": 1637,
             "problem_total": 477,
             "contest_info": [
                 {
@@ -5354,7 +5354,7 @@
                     "rank": 714,
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1523,
-                    "new_rating": 1968
+                    "new_rating": 1637
                 }
             ],
             "contest_total": 23
@@ -5363,7 +5363,7 @@
             "name": "葛先步",
             "grade": 2023,
             "codeforces_handle": "gexianbu",
-            "rating": 1191,
+            "rating": 1230,
             "problem_total": 55,
             "contest_info": [
                 {
@@ -5427,7 +5427,7 @@
                     "rank": 2185,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1155,
-                    "new_rating": 1191
+                    "new_rating": 1230
                 }
             ],
             "contest_total": 7
@@ -5480,7 +5480,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1232,
+            "rating": 1266,
             "problem_total": 70,
             "contest_info": [
                 {
@@ -5544,7 +5544,7 @@
                     "rank": 2754,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1236,
-                    "new_rating": 1232
+                    "new_rating": 1266
                 }
             ],
             "contest_total": 7
@@ -5626,7 +5626,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1377,
+            "rating": 1365,
             "problem_total": 234,
             "contest_info": [
                 {
@@ -5681,7 +5681,7 @@
                     "rank": 6600,
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1354,
-                    "new_rating": 1377
+                    "new_rating": 1365
                 }
             ],
             "contest_total": 6
@@ -5691,7 +5691,7 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 22,
-            "rating": 1120,
+            "rating": 865,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -5719,7 +5719,7 @@
                     "rank": 7411,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 680,
-                    "new_rating": 1120
+                    "new_rating": 865
                 }
             ]
         },
@@ -5727,7 +5727,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1459,
+            "rating": 1154,
             "problem_total": 94,
             "contest_info": [
                 {
@@ -5764,7 +5764,7 @@
                     "rank": 6199,
                     "rating_update_time_seconds": 1709224500,
                     "old_rating": 1036,
-                    "new_rating": 1459
+                    "new_rating": 1154
                 }
             ],
             "contest_total": 4
@@ -5938,7 +5938,7 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1254,
+            "rating": 940,
             "problem_total": 22,
             "contest_total": 3,
             "contest_info": [
@@ -5967,7 +5967,7 @@
                     "rank": 3583,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 682,
-                    "new_rating": 1254
+                    "new_rating": 940
                 }
             ]
         },
@@ -6126,5 +6126,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-24 05:42:47"
+    "update_time": "2024-04-24 06:10:57"
 }
