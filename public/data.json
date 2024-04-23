@@ -5209,7 +5209,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1652,
-            "problem_total": 214,
+            "problem_total": 215,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5354,7 +5354,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1968,
-            "problem_total": 471,
+            "problem_total": 473,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-23 15:09:49"
+    "update_time": "2024-04-23 15:34:28"
 }
