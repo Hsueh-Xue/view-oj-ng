@@ -1340,11 +1340,20 @@
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1759,
                     "new_rating": 1819
+                },
+                {
+                    "contest_id": 1951,
+                    "contest_name": "Codeforces Global Round 25",
+                    "handle": "EdGrass",
+                    "rank": 7513,
+                    "rating_update_time_seconds": 1712424900,
+                    "old_rating": 1819,
+                    "new_rating": 1662
                 }
             ],
-            "rating": 1819,
+            "rating": 1662,
             "problem_total": 1034,
-            "contest_total": 68
+            "contest_total": 69
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3706,11 +3715,20 @@
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1907,
                     "new_rating": 1834
+                },
+                {
+                    "contest_id": 1951,
+                    "contest_name": "Codeforces Global Round 25",
+                    "handle": "BowTen",
+                    "rank": 566,
+                    "rating_update_time_seconds": 1712424900,
+                    "old_rating": 1834,
+                    "new_rating": 1939
                 }
             ],
-            "contest_total": 59,
+            "contest_total": 60,
             "problem_total": 834,
-            "rating": 1834
+            "rating": 1939
         },
         "何家琛": {
             "name": "何家琛",
@@ -4918,7 +4936,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1251,
+            "rating": 1124,
             "problem_total": 223,
             "contest_info": [
                 {
@@ -5046,9 +5064,18 @@
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1211,
                     "new_rating": 1251
+                },
+                {
+                    "contest_id": 1951,
+                    "contest_name": "Codeforces Global Round 25",
+                    "handle": "xuki",
+                    "rank": 10455,
+                    "rating_update_time_seconds": 1712424900,
+                    "old_rating": 1251,
+                    "new_rating": 1124
                 }
             ],
-            "contest_total": 14
+            "contest_total": 15
         },
         "徐嘉豪": {
             "name": "徐嘉豪",
@@ -5082,7 +5109,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1608,
+            "rating": 1659,
             "problem_total": 218,
             "contest_info": [
                 {
@@ -5210,15 +5237,24 @@
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1573,
                     "new_rating": 1608
+                },
+                {
+                    "contest_id": 1951,
+                    "contest_name": "Codeforces Global Round 25",
+                    "handle": "tiying",
+                    "rank": 1750,
+                    "rating_update_time_seconds": 1712424900,
+                    "old_rating": 1608,
+                    "new_rating": 1659
                 }
             ],
-            "contest_total": 14
+            "contest_total": 15
         },
         "张卓": {
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1740,
+            "rating": 1868,
             "problem_total": 477,
             "contest_info": [
                 {
@@ -5436,9 +5472,18 @@
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1637,
                     "new_rating": 1740
+                },
+                {
+                    "contest_id": 1951,
+                    "contest_name": "Codeforces Global Round 25",
+                    "handle": "Healexr",
+                    "rank": 574,
+                    "rating_update_time_seconds": 1712424900,
+                    "old_rating": 1740,
+                    "new_rating": 1868
                 }
             ],
-            "contest_total": 24
+            "contest_total": 25
         },
         "葛先步": {
             "name": "葛先步",
@@ -6003,8 +6048,8 @@
             "grade": 2023,
             "codeforces_handle": "seanid",
             "problem_total": 9,
-            "rating": 436,
-            "contest_total": 1,
+            "rating": 729,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 1950,
@@ -6014,6 +6059,15 @@
                     "rating_update_time_seconds": 1711645200,
                     "old_rating": 0,
                     "new_rating": 436
+                },
+                {
+                    "contest_id": 1951,
+                    "contest_name": "Codeforces Global Round 25",
+                    "handle": "seanid",
+                    "rank": 7829,
+                    "rating_update_time_seconds": 1712424900,
+                    "old_rating": 436,
+                    "new_rating": 729
                 }
             ]
         },
@@ -6243,5 +6297,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-24 15:09:47"
+    "update_time": "2024-04-24 15:34:35"
 }
