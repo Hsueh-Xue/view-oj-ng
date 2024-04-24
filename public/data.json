@@ -1331,11 +1331,20 @@
                     "rating_update_time_seconds": 1709656500,
                     "old_rating": 1744,
                     "new_rating": 1759
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "EdGrass",
+                    "rank": 1111,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1759,
+                    "new_rating": 1819
                 }
             ],
-            "rating": 1759,
+            "rating": 1819,
             "problem_total": 1034,
-            "contest_total": 67
+            "contest_total": 68
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3688,11 +3697,20 @@
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1875,
                     "new_rating": 1907
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "BowTen",
+                    "rank": 2789,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1907,
+                    "new_rating": 1834
                 }
             ],
-            "contest_total": 58,
-            "problem_total": 833,
-            "rating": 1907
+            "contest_total": 59,
+            "problem_total": 834,
+            "rating": 1834
         },
         "何家琛": {
             "name": "何家琛",
@@ -4900,7 +4918,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1211,
+            "rating": 1251,
             "problem_total": 223,
             "contest_info": [
                 {
@@ -5019,9 +5037,18 @@
                     "rating_update_time_seconds": 1711645200,
                     "old_rating": 1205,
                     "new_rating": 1211
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "xuki",
+                    "rank": 4656,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1211,
+                    "new_rating": 1251
                 }
             ],
-            "contest_total": 13
+            "contest_total": 14
         },
         "徐嘉豪": {
             "name": "徐嘉豪",
@@ -5055,7 +5082,7 @@
             "name": "温从锭",
             "grade": 2023,
             "codeforces_handle": "tiying",
-            "rating": 1573,
+            "rating": 1608,
             "problem_total": 218,
             "contest_info": [
                 {
@@ -5174,15 +5201,24 @@
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1579,
                     "new_rating": 1573
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "tiying",
+                    "rank": 2195,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1573,
+                    "new_rating": 1608
                 }
             ],
-            "contest_total": 13
+            "contest_total": 14
         },
         "张卓": {
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1637,
+            "rating": 1740,
             "problem_total": 477,
             "contest_info": [
                 {
@@ -5391,9 +5427,18 @@
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1523,
                     "new_rating": 1637
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "Healexr",
+                    "rank": 997,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1637,
+                    "new_rating": 1740
                 }
             ],
-            "contest_total": 23
+            "contest_total": 24
         },
         "葛先步": {
             "name": "葛先步",
@@ -5525,7 +5570,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1266,
+            "rating": 1248,
             "problem_total": 70,
             "contest_info": [
                 {
@@ -5590,9 +5635,18 @@
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1236,
                     "new_rating": 1266
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "QF_shengxiu",
+                    "rank": 6144,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1266,
+                    "new_rating": 1248
                 }
             ],
-            "contest_total": 7
+            "contest_total": 8
         },
         "刘旭": {
             "name": "刘旭",
@@ -5672,7 +5726,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1425,
-            "problem_total": 236,
+            "problem_total": 237,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -5983,9 +6037,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1106,
+            "rating": 1209,
             "problem_total": 22,
-            "contest_total": 4,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -6022,6 +6076,15 @@
                     "rating_update_time_seconds": 1711645200,
                     "old_rating": 940,
                     "new_rating": 1106
+                },
+                {
+                    "contest_id": 1942,
+                    "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "qqbb111",
+                    "rank": 5457,
+                    "rating_update_time_seconds": 1711820100,
+                    "old_rating": 1106,
+                    "new_rating": 1209
                 }
             ]
         },
@@ -6180,5 +6243,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-24 14:38:57"
+    "update_time": "2024-04-24 15:09:47"
 }
