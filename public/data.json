@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 958,
+            "problem_total": 959,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -1927,7 +1927,7 @@
             "name": "叶宏健",
             "grade": 2022,
             "codeforces_handle": "pekolim",
-            "rating": 1514,
+            "rating": 1527,
             "contest_info": [
                 {
                     "contest_id": 1811,
@@ -2144,10 +2144,28 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 1498,
                     "new_rating": 1514
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "pekolim",
+                    "rank": 1189,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 1514,
+                    "new_rating": 1587
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "pekolim",
+                    "rank": 4437,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1587,
+                    "new_rating": 1527
                 }
             ],
             "problem_total": 382,
-            "contest_total": 24
+            "contest_total": 26
         },
         "尤馨然": {
             "name": "尤馨然",
@@ -3192,11 +3210,20 @@
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1893,
                     "new_rating": 1873
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "afeng111",
+                    "rank": 577,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1873,
+                    "new_rating": 1893
                 }
             ],
             "problem_total": 430,
-            "rating": 1873,
-            "contest_total": 27
+            "rating": 1893,
+            "contest_total": 28
         },
         "张朝": {
             "name": "张朝",
@@ -3742,11 +3769,20 @@
                     "rating_update_time_seconds": 1712424900,
                     "old_rating": 1834,
                     "new_rating": 1939
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "BowTen",
+                    "rank": 446,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1939,
+                    "new_rating": 1956
                 }
             ],
-            "contest_total": 60,
+            "contest_total": 61,
             "problem_total": 835,
-            "rating": 1939
+            "rating": 1956
         },
         "何家琛": {
             "name": "何家琛",
@@ -4077,11 +4113,20 @@
                     "rating_update_time_seconds": 1712595000,
                     "old_rating": 1487,
                     "new_rating": 1484
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "Before_Sunset",
+                    "rank": 1851,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1484,
+                    "new_rating": 1527
                 }
             ],
             "problem_total": 99,
-            "rating": 1484,
-            "contest_total": 19
+            "rating": 1527,
+            "contest_total": 20
         },
         "Hsueh": {
             "name": "Hsueh",
@@ -4972,7 +5017,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1204,
+            "rating": 1289,
             "problem_total": 223,
             "contest_info": [
                 {
@@ -5118,9 +5163,18 @@
                     "rating_update_time_seconds": 1712595000,
                     "old_rating": 1124,
                     "new_rating": 1204
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "xuki",
+                    "rank": 2888,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1204,
+                    "new_rating": 1289
                 }
             ],
-            "contest_total": 16
+            "contest_total": 17
         },
         "徐嘉豪": {
             "name": "徐嘉豪",
@@ -5299,7 +5353,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1957,
+            "rating": 1970,
             "problem_total": 477,
             "contest_info": [
                 {
@@ -5535,9 +5589,18 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 1868,
                     "new_rating": 1957
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "Healexr",
+                    "rank": 448,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1957,
+                    "new_rating": 1970
                 }
             ],
-            "contest_total": 26
+            "contest_total": 27
         },
         "葛先步": {
             "name": "葛先步",
@@ -5642,9 +5705,9 @@
             "name": "王科然",
             "grade": 2023,
             "codeforces_handle": "wkr111",
-            "rating": 496,
+            "rating": 787,
             "problem_total": 15,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 1955,
@@ -5654,6 +5717,15 @@
                     "rating_update_time_seconds": 1712595000,
                     "old_rating": 0,
                     "new_rating": 496
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "wkr111",
+                    "rank": 6474,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 496,
+                    "new_rating": 787
                 }
             ]
         },
@@ -5752,8 +5824,8 @@
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
             "problem_total": 39,
-            "rating": 442,
-            "contest_total": 1,
+            "rating": 918,
+            "contest_total": 3,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -5763,6 +5835,24 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 0,
                     "new_rating": 442
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "shale_sensei",
+                    "rank": 7448,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 442,
+                    "new_rating": 727
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "shale_sensei",
+                    "rank": 8250,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 727,
+                    "new_rating": 918
                 }
             ]
         },
@@ -5806,7 +5896,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1418,
+            "rating": 1410,
             "problem_total": 237,
             "contest_info": [
                 {
@@ -5889,9 +5979,18 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 1415,
                     "new_rating": 1418
+                },
+                {
+                    "contest_id": 1957,
+                    "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
+                    "handle": "padding",
+                    "rank": 3961,
+                    "rating_update_time_seconds": 1713718200,
+                    "old_rating": 1418,
+                    "new_rating": 1410
                 }
             ],
-            "contest_total": 9
+            "contest_total": 10
         },
         "叶志汉": {
             "name": "叶志汉",
@@ -6032,9 +6131,9 @@
             "name": "叶守俊",
             "grade": 2023,
             "codeforces_handle": "ye_j1",
-            "rating": 422,
+            "rating": 650,
             "problem_total": 5,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -6044,6 +6143,15 @@
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 0,
                     "new_rating": 422
+                },
+                {
+                    "contest_id": 1956,
+                    "contest_name": "Codeforces Round 939 (Div. 2)",
+                    "handle": "ye_j1",
+                    "rank": 11155,
+                    "rating_update_time_seconds": 1713026100,
+                    "old_rating": 422,
+                    "new_rating": 650
                 }
             ]
         },
@@ -6378,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-24 17:34:07"
+    "update_time": "2024-04-24 18:11:29"
 }
