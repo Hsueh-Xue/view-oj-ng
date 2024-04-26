@@ -2164,7 +2164,7 @@
                     "new_rating": 1527
                 }
             ],
-            "problem_total": 388,
+            "problem_total": 389,
             "contest_total": 26
         },
         "尤馨然": {
@@ -2742,7 +2742,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 741,
+            "problem_total": 742,
             "rating": 1471
         },
         "戴子晟": {
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-26 21:34:04"
+    "update_time": "2024-04-26 22:09:17"
 }
