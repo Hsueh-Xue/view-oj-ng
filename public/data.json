@@ -2742,7 +2742,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 740,
+            "problem_total": 741,
             "rating": 1471
         },
         "戴子晟": {
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-26 21:10:04"
+    "update_time": "2024-04-26 21:34:04"
 }
