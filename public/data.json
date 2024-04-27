@@ -2164,7 +2164,7 @@
                     "new_rating": 1527
                 }
             ],
-            "problem_total": 389,
+            "problem_total": 391,
             "contest_total": 26
         },
         "尤馨然": {
@@ -2742,7 +2742,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 744,
+            "problem_total": 745,
             "rating": 1471
         },
         "戴子晟": {
@@ -6132,7 +6132,7 @@
             "grade": 2023,
             "codeforces_handle": "ye_j1",
             "rating": 650,
-            "problem_total": 9,
+            "problem_total": 10,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-27 20:44:37"
+    "update_time": "2024-04-27 21:11:11"
 }
