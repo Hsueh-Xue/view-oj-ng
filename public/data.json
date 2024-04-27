@@ -1352,7 +1352,7 @@
                 }
             ],
             "rating": 1662,
-            "problem_total": 1046,
+            "problem_total": 1048,
             "contest_total": 69
         },
         "邵茹怡": {
@@ -2164,7 +2164,7 @@
                     "new_rating": 1527
                 }
             ],
-            "problem_total": 392,
+            "problem_total": 394,
             "contest_total": 26
         },
         "尤馨然": {
@@ -2742,7 +2742,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 745,
+            "problem_total": 747,
             "rating": 1471
         },
         "戴子晟": {
@@ -3781,7 +3781,7 @@
                 }
             ],
             "contest_total": 61,
-            "problem_total": 841,
+            "problem_total": 842,
             "rating": 1956
         },
         "何家琛": {
@@ -5354,7 +5354,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1970,
-            "problem_total": 488,
+            "problem_total": 489,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5607,7 +5607,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1227,
-            "problem_total": 55,
+            "problem_total": 57,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -5823,7 +5823,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 42,
+            "problem_total": 43,
             "rating": 918,
             "contest_total": 3,
             "contest_info": [
@@ -5897,7 +5897,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1410,
-            "problem_total": 250,
+            "problem_total": 251,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6052,7 +6052,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1442,
-            "problem_total": 97,
+            "problem_total": 98,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6486,5 +6486,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-28 01:08:18"
+    "update_time": "2024-04-28 01:33:47"
 }
