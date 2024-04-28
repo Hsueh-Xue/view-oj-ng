@@ -1361,7 +1361,7 @@
                 }
             ],
             "rating": 1699,
-            "problem_total": 1051,
+            "problem_total": 1052,
             "contest_total": 70
         },
         "邵茹怡": {
@@ -6222,7 +6222,7 @@
             "grade": 2023,
             "codeforces_handle": "ye_j1",
             "rating": 650,
-            "problem_total": 11,
+            "problem_total": 12,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -6576,5 +6576,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-28 15:34:07"
+    "update_time": "2024-04-28 16:13:44"
 }
