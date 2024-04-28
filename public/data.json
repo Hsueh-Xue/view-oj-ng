@@ -3248,7 +3248,7 @@
                     "new_rating": 1893
                 }
             ],
-            "problem_total": 431,
+            "problem_total": 433,
             "rating": 1893,
             "contest_total": 28
         },
@@ -6222,7 +6222,7 @@
             "grade": 2023,
             "codeforces_handle": "ye_j1",
             "rating": 650,
-            "problem_total": 10,
+            "problem_total": 11,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -6576,5 +6576,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-28 10:24:40"
+    "update_time": "2024-04-28 10:40:51"
 }
