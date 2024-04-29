@@ -2776,7 +2776,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 164,
+            "problem_total": 165,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -5390,7 +5390,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1986,
-            "problem_total": 506,
+            "problem_total": 510,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6576,5 +6576,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-04-30 00:38:13"
+    "update_time": "2024-04-30 01:08:47"
 }
