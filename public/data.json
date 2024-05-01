@@ -6104,7 +6104,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1432,
-            "problem_total": 259,
+            "problem_total": 260,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6720,5 +6720,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-01 21:33:53"
+    "update_time": "2024-05-01 22:11:07"
 }
