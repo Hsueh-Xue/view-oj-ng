@@ -1367,11 +1367,20 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1699,
                     "new_rating": 1744
+                },
+                {
+                    "contest_id": 1972,
+                    "contest_name": "Codeforces Round 942 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 70,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1744,
+                    "new_rating": 1894
                 }
             ],
-            "rating": 1744,
+            "rating": 1894,
             "problem_total": 1067,
-            "contest_total": 71
+            "contest_total": 72
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -2793,11 +2802,20 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1416,
                     "new_rating": 1479
+                },
+                {
+                    "contest_id": 1972,
+                    "contest_name": "Codeforces Round 942 (Div. 2)",
+                    "handle": "Joyfine_12",
+                    "rank": 1732,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1479,
+                    "new_rating": 1514
                 }
             ],
-            "contest_total": 33,
+            "contest_total": 34,
             "problem_total": 762,
-            "rating": 1479
+            "rating": 1514
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -2939,10 +2957,19 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1635,
                     "new_rating": 1659
+                },
+                {
+                    "contest_id": 1972,
+                    "contest_name": "Codeforces Round 942 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 2719,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1659,
+                    "new_rating": 1613
                 }
             ],
-            "rating": 1659,
-            "contest_total": 15
+            "rating": 1613,
+            "contest_total": 16
         },
         "章诚益": {
             "name": "章诚益",
@@ -3859,11 +3886,20 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1882,
                     "new_rating": 1885
+                },
+                {
+                    "contest_id": 1972,
+                    "contest_name": "Codeforces Round 942 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1070,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1885,
+                    "new_rating": 1848
                 }
             ],
-            "contest_total": 63,
+            "contest_total": 64,
             "problem_total": 853,
-            "rating": 1885
+            "rating": 1848
         },
         "何家琛": {
             "name": "何家琛",
@@ -5098,7 +5134,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1340,
+            "rating": 1410,
             "problem_total": 234,
             "contest_info": [
                 {
@@ -5262,9 +5298,18 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1289,
                     "new_rating": 1340
+                },
+                {
+                    "contest_id": 1972,
+                    "contest_name": "Codeforces Round 942 (Div. 2)",
+                    "handle": "xuki",
+                    "rank": 1852,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1340,
+                    "new_rating": 1410
                 }
             ],
-            "contest_total": 18
+            "contest_total": 19
         },
         "徐嘉豪": {
             "name": "徐嘉豪",
@@ -5443,7 +5488,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1986,
+            "rating": 1999,
             "problem_total": 516,
             "contest_info": [
                 {
@@ -5697,9 +5742,18 @@
                     "rating_update_time_seconds": 1714235700,
                     "old_rating": 1970,
                     "new_rating": 1986
+                },
+                {
+                    "contest_id": 1967,
+                    "contest_name": "Codeforces Round 942 (Div. 1)",
+                    "handle": "Healexr",
+                    "rank": 651,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1986,
+                    "new_rating": 1999
                 }
             ],
-            "contest_total": 28
+            "contest_total": 29
         },
         "葛先步": {
             "name": "葛先步",
@@ -5950,8 +6004,8 @@
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
             "problem_total": 49,
-            "rating": 1143,
-            "contest_total": 5,
+            "rating": 1100,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -5997,6 +6051,15 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1072,
                     "new_rating": 1143
+                },
+                {
+                    "contest_id": 1972,
+                    "contest_name": "Codeforces Round 942 (Div. 2)",
+                    "handle": "shale_sensei",
+                    "rank": 9596,
+                    "rating_update_time_seconds": 1714496700,
+                    "old_rating": 1143,
+                    "new_rating": 1100
                 }
             ]
         },
@@ -6657,5 +6720,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-01 17:34:01"
+    "update_time": "2024-05-01 18:11:13"
 }
