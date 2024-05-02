@@ -5344,7 +5344,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 238,
+            "problem_total": 240,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6003,7 +6003,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 49,
+            "problem_total": 50,
             "rating": 1100,
             "contest_total": 6,
             "contest_info": [
@@ -6720,5 +6720,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-02 21:34:55"
+    "update_time": "2024-05-02 22:10:07"
 }
