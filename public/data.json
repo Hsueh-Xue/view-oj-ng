@@ -1379,7 +1379,7 @@
                 }
             ],
             "rating": 1894,
-            "problem_total": 1067,
+            "problem_total": 1069,
             "contest_total": 72
         },
         "邵茹怡": {
@@ -3311,7 +3311,7 @@
                     "new_rating": 1893
                 }
             ],
-            "problem_total": 442,
+            "problem_total": 443,
             "rating": 1893,
             "contest_total": 28
         },
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-07 15:15:40"
+    "update_time": "2024-05-07 15:33:50"
 }
