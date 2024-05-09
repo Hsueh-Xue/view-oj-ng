@@ -2209,7 +2209,7 @@
                     "new_rating": 1494
                 }
             ],
-            "problem_total": 410,
+            "problem_total": 411,
             "contest_total": 28
         },
         "尤馨然": {
@@ -3311,7 +3311,7 @@
                     "new_rating": 1893
                 }
             ],
-            "problem_total": 444,
+            "problem_total": 445,
             "rating": 1893,
             "contest_total": 28
         },
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-09 19:35:41"
+    "update_time": "2024-05-09 20:17:33"
 }
