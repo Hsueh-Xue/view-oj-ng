@@ -5498,7 +5498,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1999,
-            "problem_total": 530,
+            "problem_total": 537,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6012,7 +6012,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 58,
+            "problem_total": 59,
             "rating": 1100,
             "contest_total": 6,
             "contest_info": [
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-12 00:35:37"
+    "update_time": "2024-05-12 01:10:29"
 }
