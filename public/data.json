@@ -5107,7 +5107,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 734,
-            "problem_total": 50,
+            "problem_total": 51,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -6012,7 +6012,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 56,
+            "problem_total": 57,
             "rating": 1100,
             "contest_total": 6,
             "contest_info": [
@@ -6113,7 +6113,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1412,
-            "problem_total": 286,
+            "problem_total": 287,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6420,7 +6420,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 5,
+            "problem_total": 6,
             "rating": 0,
             "contest_total": 0
         },
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-11 19:07:51"
+    "update_time": "2024-05-11 19:33:51"
 }
