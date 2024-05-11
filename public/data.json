@@ -2209,7 +2209,7 @@
                     "new_rating": 1494
                 }
             ],
-            "problem_total": 413,
+            "problem_total": 414,
             "contest_total": 28
         },
         "尤馨然": {
@@ -5353,7 +5353,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 256,
+            "problem_total": 257,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-11 21:09:25"
+    "update_time": "2024-05-11 21:33:59"
 }
