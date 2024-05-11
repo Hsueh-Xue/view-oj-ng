@@ -6012,7 +6012,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 55,
+            "problem_total": 56,
             "rating": 1100,
             "contest_total": 6,
             "contest_info": [
@@ -6420,7 +6420,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 4,
+            "problem_total": 5,
             "rating": 0,
             "contest_total": 0
         },
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-11 18:35:08"
+    "update_time": "2024-05-11 19:07:51"
 }
