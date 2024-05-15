@@ -5135,7 +5135,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1403,
-            "problem_total": 246,
+            "problem_total": 247,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5768,7 +5768,7 @@
             "name": "葛先步",
             "grade": 2023,
             "codeforces_handle": "gexianbu",
-            "rating": 1455,
+            "rating": 1276,
             "problem_total": 67,
             "contest_info": [
                 {
@@ -5868,7 +5868,7 @@
                     "rank": 5158,
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1285,
-                    "new_rating": 1455
+                    "new_rating": 1276
                 }
             ],
             "contest_total": 11
@@ -6013,7 +6013,7 @@
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
             "problem_total": 59,
-            "rating": 1200,
+            "rating": 1100,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -6068,7 +6068,7 @@
                     "rank": 9429,
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1144,
-                    "new_rating": 1200
+                    "new_rating": 1100
                 }
             ]
         },
@@ -6113,7 +6113,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1412,
-            "problem_total": 296,
+            "problem_total": 297,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6747,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-15 19:09:47"
+    "update_time": "2024-05-15 19:34:22"
 }
