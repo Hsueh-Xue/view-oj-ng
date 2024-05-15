@@ -5868,19 +5868,10 @@
                     "rank": 5158,
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1285,
-                    "new_rating": 1276
-                },
-                {
-                    "contest_id": 1971,
-                    "contest_name": "Codeforces Round 944 (Div. 4)",
-                    "handle": "gexianbu",
-                    "rank": 188,
-                    "rating_update_time_seconds": 1715359800,
-                    "old_rating": 1276,
                     "new_rating": 1455
                 }
             ],
-            "contest_total": 12
+            "contest_total": 11
         },
         "薛博文": {
             "name": "薛博文",
@@ -6023,7 +6014,7 @@
             "codeforces_handle": "shale_sensei",
             "problem_total": 59,
             "rating": 1200,
-            "contest_total": 7,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -6077,15 +6068,6 @@
                     "rank": 9429,
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1144,
-                    "new_rating": 1100
-                },
-                {
-                    "contest_id": 1971,
-                    "contest_name": "Codeforces Round 944 (Div. 4)",
-                    "handle": "shale_sensei",
-                    "rank": 2172,
-                    "rating_update_time_seconds": 1715359800,
-                    "old_rating": 1100,
                     "new_rating": 1200
                 }
             ]
@@ -6765,5 +6747,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-15 17:34:26"
+    "update_time": "2024-05-15 18:11:37"
 }
