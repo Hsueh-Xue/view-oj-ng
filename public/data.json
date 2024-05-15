@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1013,
+            "problem_total": 1014,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -1379,7 +1379,7 @@
                 }
             ],
             "rating": 1891,
-            "problem_total": 1095,
+            "problem_total": 1096,
             "contest_total": 72
         },
         "邵茹怡": {
@@ -5768,7 +5768,7 @@
             "name": "葛先步",
             "grade": 2023,
             "codeforces_handle": "gexianbu",
-            "rating": 1276,
+            "rating": 1455,
             "problem_total": 67,
             "contest_info": [
                 {
@@ -5869,9 +5869,18 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1285,
                     "new_rating": 1276
+                },
+                {
+                    "contest_id": 1971,
+                    "contest_name": "Codeforces Round 944 (Div. 4)",
+                    "handle": "gexianbu",
+                    "rank": 186,
+                    "rating_update_time_seconds": 1715359800,
+                    "old_rating": 1276,
+                    "new_rating": 1455
                 }
             ],
-            "contest_total": 11
+            "contest_total": 12
         },
         "薛博文": {
             "name": "薛博文",
@@ -6013,8 +6022,8 @@
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
             "problem_total": 59,
-            "rating": 1100,
-            "contest_total": 6,
+            "rating": 1201,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 1954,
@@ -6069,6 +6078,15 @@
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1144,
                     "new_rating": 1100
+                },
+                {
+                    "contest_id": 1971,
+                    "contest_name": "Codeforces Round 944 (Div. 4)",
+                    "handle": "shale_sensei",
+                    "rank": 2111,
+                    "rating_update_time_seconds": 1715359800,
+                    "old_rating": 1100,
+                    "new_rating": 1201
                 }
             ]
         },
@@ -6747,5 +6765,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-15 19:34:22"
+    "update_time": "2024-05-15 20:19:14"
 }
