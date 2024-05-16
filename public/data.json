@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1017,
+            "problem_total": 1019,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -6131,7 +6131,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1412,
-            "problem_total": 297,
+            "problem_total": 298,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6765,5 +6765,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-16 22:10:56"
+    "update_time": "2024-05-16 22:34:28"
 }
