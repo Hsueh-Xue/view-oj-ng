@@ -2811,11 +2811,20 @@
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1480,
                     "new_rating": 1514
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "Joyfine_12",
+                    "rank": 806,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 1514,
+                    "new_rating": 1617
                 }
             ],
-            "contest_total": 34,
+            "contest_total": 35,
             "problem_total": 796,
-            "rating": 1514
+            "rating": 1617
         },
         "戴子晟": {
             "name": "戴子晟",
@@ -2966,10 +2975,19 @@
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1660,
                     "new_rating": 1613
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 1146,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 1613,
+                    "new_rating": 1663
                 }
             ],
-            "rating": 1613,
-            "contest_total": 16
+            "rating": 1663,
+            "contest_total": 17
         },
         "章诚益": {
             "name": "章诚益",
@@ -3895,11 +3913,20 @@
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1885,
                     "new_rating": 1847
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1809,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 1847,
+                    "new_rating": 1806
                 }
             ],
-            "contest_total": 64,
+            "contest_total": 65,
             "problem_total": 898,
-            "rating": 1847
+            "rating": 1806
         },
         "何家琛": {
             "name": "何家琛",
@@ -5497,7 +5524,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1999,
+            "rating": 2077,
             "problem_total": 555,
             "contest_info": [
                 {
@@ -5760,9 +5787,18 @@
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1986,
                     "new_rating": 1999
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 113,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 1999,
+                    "new_rating": 2077
                 }
             ],
-            "contest_total": 29
+            "contest_total": 30
         },
         "葛先步": {
             "name": "葛先步",
@@ -5894,9 +5930,9 @@
             "name": "王科然",
             "grade": 2023,
             "codeforces_handle": "wkr111",
-            "rating": 968,
+            "rating": 1123,
             "problem_total": 20,
-            "contest_total": 3,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 1955,
@@ -5924,6 +5960,15 @@
                     "rating_update_time_seconds": 1714235700,
                     "old_rating": 787,
                     "new_rating": 968
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "wkr111",
+                    "rank": 5862,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 968,
+                    "new_rating": 1123
                 }
             ]
         },
@@ -6102,7 +6147,7 @@
             "name": "叶杰凯",
             "grade": 2023,
             "codeforces_handle": "MrPwn",
-            "rating": 716,
+            "rating": 933,
             "problem_total": 8,
             "contest_info": [
                 {
@@ -6122,15 +6167,24 @@
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 458,
                     "new_rating": 716
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "MrPwn",
+                    "rank": 8067,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 716,
+                    "new_rating": 933
                 }
             ],
-            "contest_total": 2
+            "contest_total": 3
         },
         "徐鑫懿": {
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1412,
+            "rating": 1436,
             "problem_total": 303,
             "contest_info": [
                 {
@@ -6240,9 +6294,18 @@
                     "rating_update_time_seconds": 1714669200,
                     "old_rating": 1432,
                     "new_rating": 1412
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "padding",
+                    "rank": 3223,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 1412,
+                    "new_rating": 1436
                 }
             ],
-            "contest_total": 12
+            "contest_total": 13
         },
         "叶志汉": {
             "name": "叶志汉",
@@ -6303,7 +6366,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1218,
+            "rating": 1284,
             "problem_total": 118,
             "contest_info": [
                 {
@@ -6377,9 +6440,18 @@
                     "rating_update_time_seconds": 1714408500,
                     "old_rating": 1359,
                     "new_rating": 1218
+                },
+                {
+                    "contest_id": 1973,
+                    "contest_name": "Codeforces Round 945 (Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 3755,
+                    "rating_update_time_seconds": 1715963700,
+                    "old_rating": 1218,
+                    "new_rating": 1284
                 }
             ],
-            "contest_total": 8
+            "contest_total": 9
         },
         "陈天意": {
             "name": "陈天意",
@@ -6765,5 +6837,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-18 01:09:24"
+    "update_time": "2024-05-18 01:34:11"
 }
