@@ -2814,14 +2814,14 @@
                 }
             ],
             "contest_total": 34,
-            "problem_total": 793,
+            "problem_total": 796,
             "rating": 1514
         },
         "戴子晟": {
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 181,
+            "problem_total": 184,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -3898,7 +3898,7 @@
                 }
             ],
             "contest_total": 64,
-            "problem_total": 895,
+            "problem_total": 898,
             "rating": 1847
         },
         "何家琛": {
@@ -5498,7 +5498,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 1999,
-            "problem_total": 551,
+            "problem_total": 555,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5895,7 +5895,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 968,
-            "problem_total": 18,
+            "problem_total": 20,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -6103,7 +6103,7 @@
             "grade": 2023,
             "codeforces_handle": "MrPwn",
             "rating": 716,
-            "problem_total": 7,
+            "problem_total": 8,
             "contest_info": [
                 {
                     "contest_id": 1933,
@@ -6131,7 +6131,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1412,
-            "problem_total": 301,
+            "problem_total": 303,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6304,7 +6304,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1218,
-            "problem_total": 116,
+            "problem_total": 118,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6765,5 +6765,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-18 00:38:17"
+    "update_time": "2024-05-18 01:09:24"
 }
