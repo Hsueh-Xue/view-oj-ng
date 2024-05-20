@@ -5162,7 +5162,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1403,
-            "problem_total": 247,
+            "problem_total": 249,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5805,7 +5805,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1455,
-            "problem_total": 68,
+            "problem_total": 70,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -5931,7 +5931,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1123,
-            "problem_total": 20,
+            "problem_total": 22,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -5985,7 +5985,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1248,
-            "problem_total": 72,
+            "problem_total": 74,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -6066,7 +6066,7 @@
             "name": "刘旭",
             "grade": 2023,
             "codeforces_handle": "shale_sensei",
-            "problem_total": 60,
+            "problem_total": 62,
             "rating": 1201,
             "contest_total": 7,
             "contest_info": [
@@ -6148,7 +6148,7 @@
             "grade": 2023,
             "codeforces_handle": "MrPwn",
             "rating": 933,
-            "problem_total": 8,
+            "problem_total": 9,
             "contest_info": [
                 {
                     "contest_id": 1933,
@@ -6185,7 +6185,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1436,
-            "problem_total": 307,
+            "problem_total": 309,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6367,7 +6367,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1284,
-            "problem_total": 122,
+            "problem_total": 124,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6837,5 +6837,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-20 22:36:36"
+    "update_time": "2024-05-20 23:17:23"
 }
