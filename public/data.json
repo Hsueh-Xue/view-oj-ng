@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1026,
+            "problem_total": 1027,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -6148,7 +6148,7 @@
             "grade": 2023,
             "codeforces_handle": "MrPwn",
             "rating": 933,
-            "problem_total": 10,
+            "problem_total": 11,
             "contest_info": [
                 {
                     "contest_id": 1933,
@@ -6837,5 +6837,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-21 11:35:14"
+    "update_time": "2024-05-21 12:12:19"
 }
