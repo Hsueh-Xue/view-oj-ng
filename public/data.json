@@ -2823,7 +2823,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 810,
+            "problem_total": 811,
             "rating": 1615
         },
         "戴子晟": {
@@ -3925,7 +3925,7 @@
                 }
             ],
             "contest_total": 65,
-            "problem_total": 904,
+            "problem_total": 905,
             "rating": 1802
         },
         "何家琛": {
@@ -5134,7 +5134,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 734,
-            "problem_total": 60,
+            "problem_total": 61,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -6909,5 +6909,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-23 19:10:31"
+    "update_time": "2024-05-23 19:35:28"
 }
