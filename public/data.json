@@ -5389,7 +5389,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 269,
+            "problem_total": 270,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5949,7 +5949,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1311,
-            "problem_total": 27,
+            "problem_total": 28,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -6909,5 +6909,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-25 19:34:35"
+    "update_time": "2024-05-25 20:17:50"
 }
