@@ -1379,7 +1379,7 @@
                 }
             ],
             "rating": 1891,
-            "problem_total": 1098,
+            "problem_total": 1100,
             "contest_total": 72
         },
         "邵茹怡": {
@@ -3925,7 +3925,7 @@
                 }
             ],
             "contest_total": 65,
-            "problem_total": 908,
+            "problem_total": 910,
             "rating": 1802
         },
         "何家琛": {
@@ -5534,7 +5534,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2077,
-            "problem_total": 586,
+            "problem_total": 587,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6239,7 +6239,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1445,
-            "problem_total": 323,
+            "problem_total": 324,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6430,7 +6430,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1369,
-            "problem_total": 131,
+            "problem_total": 133,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6909,5 +6909,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-26 01:35:46"
+    "update_time": "2024-05-26 02:11:56"
 }
