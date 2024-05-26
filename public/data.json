@@ -6092,7 +6092,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1193,
+            "rating": 1185,
             "problem_total": 79,
             "contest_info": [
                 {
@@ -6183,7 +6183,7 @@
                     "rank": 12162,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1288,
-                    "new_rating": 1193
+                    "new_rating": 1185
                 }
             ],
             "contest_total": 10
@@ -7044,5 +7044,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-27 02:35:12"
+    "update_time": "2024-05-27 03:08:14"
 }
