@@ -4310,11 +4310,11 @@
                     "rank": 3690,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1527,
-                    "new_rating": 1505
+                    "new_rating": 1501
                 }
             ],
             "problem_total": 101,
-            "rating": 1505,
+            "rating": 1501,
             "contest_total": 21
         },
         "Hsueh": {
@@ -6346,7 +6346,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1427,
+            "rating": 1422,
             "problem_total": 330,
             "contest_info": [
                 {
@@ -6491,7 +6491,7 @@
                     "rank": 3652,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1421,
-                    "new_rating": 1427
+                    "new_rating": 1422
                 }
             ],
             "contest_total": 16
@@ -7044,5 +7044,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-27 02:12:11"
+    "update_time": "2024-05-27 02:35:12"
 }
