@@ -1375,21 +1375,12 @@
                     "rank": 70,
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1744,
-                    "new_rating": 1891
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 1151,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 1891,
                     "new_rating": 1862
                 }
             ],
             "rating": 1862,
             "problem_total": 1108,
-            "contest_total": 73
+            "contest_total": 72
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3930,20 +3921,11 @@
                     "rank": 1774,
                     "rating_update_time_seconds": 1715963700,
                     "old_rating": 1847,
-                    "new_rating": 1802
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1060,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 1802,
                     "new_rating": 1773
                 }
             ],
-            "contest_total": 66,
-            "problem_total": 917,
+            "contest_total": 65,
+            "problem_total": 918,
             "rating": 1773
         },
         "何家琛": {
@@ -5170,19 +5152,10 @@
                     "rank": 10531,
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 468,
-                    "new_rating": 734
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "blizzard1900",
-                    "rank": 11884,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 734,
                     "new_rating": 848
                 }
             ],
-            "contest_total": 3
+            "contest_total": 2
         },
         "何敏璐": {
             "name": "何敏璐",
@@ -5977,7 +5950,7 @@
             "codeforces_handle": "wkr111",
             "rating": 1330,
             "problem_total": 31,
-            "contest_total": 6,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 1955,
@@ -6022,15 +5995,6 @@
                     "rank": 3937,
                     "rating_update_time_seconds": 1716223800,
                     "old_rating": 1182,
-                    "new_rating": 1311
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "wkr111",
-                    "rank": 6042,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 1311,
                     "new_rating": 1330
                 }
             ]
@@ -6265,19 +6229,10 @@
                     "rank": 8515,
                     "rating_update_time_seconds": 1716223800,
                     "old_rating": 1026,
-                    "new_rating": 1154
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "MrPwn",
-                    "rank": 5887,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 1154,
                     "new_rating": 1196
                 }
             ],
-            "contest_total": 5
+            "contest_total": 4
         },
         "徐鑫懿": {
             "name": "徐鑫懿",
@@ -6410,19 +6365,10 @@
                     "rank": 2290,
                     "rating_update_time_seconds": 1716223800,
                     "old_rating": 1432,
-                    "new_rating": 1445
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "padding",
-                    "rank": 4776,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 1445,
                     "new_rating": 1422
                 }
             ],
-            "contest_total": 15
+            "contest_total": 14
         },
         "叶志汉": {
             "name": "叶志汉",
@@ -6963,5 +6909,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-28 00:11:57"
+    "update_time": "2024-05-28 00:38:38"
 }
