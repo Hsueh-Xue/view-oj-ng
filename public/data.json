@@ -5831,28 +5831,10 @@
                     "rank": 112,
                     "rating_update_time_seconds": 1715963700,
                     "old_rating": 1999,
-                    "new_rating": 2077
-                },
-                {
-                    "contest_id": 1975,
-                    "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 1759,
-                    "rating_update_time_seconds": 1716658500,
-                    "old_rating": 2077,
-                    "new_rating": 1999
-                },
-                {
-                    "contest_id": 1977,
-                    "contest_name": "Codeforces Round 948 (Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 235,
-                    "rating_update_time_seconds": 1716741300,
-                    "old_rating": 1999,
                     "new_rating": 2035
                 }
             ],
-            "contest_total": 32
+            "contest_total": 30
         },
         "葛先步": {
             "name": "葛先步",
@@ -6502,7 +6484,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1427,
-            "problem_total": 142,
+            "problem_total": 143,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6981,5 +6963,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-27 23:33:47"
+    "update_time": "2024-05-28 00:11:57"
 }
