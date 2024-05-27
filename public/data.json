@@ -2841,7 +2841,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 820,
+            "problem_total": 821,
             "rating": 1615
         },
         "戴子晟": {
@@ -5588,7 +5588,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2035,
-            "problem_total": 607,
+            "problem_total": 609,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6556,7 +6556,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1427,
-            "problem_total": 140,
+            "problem_total": 141,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7044,5 +7044,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-27 18:36:32"
+    "update_time": "2024-05-27 19:10:17"
 }
