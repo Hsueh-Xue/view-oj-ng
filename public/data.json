@@ -5216,7 +5216,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 258,
+            "problem_total": 259,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6931,7 +6931,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 9,
+            "problem_total": 10,
             "contest_total": 0
         },
         "魏炜": {
@@ -7044,5 +7044,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-29 15:34:25"
+    "update_time": "2024-05-29 16:14:28"
 }
