@@ -2227,7 +2227,7 @@
                     "new_rating": 1494
                 }
             ],
-            "problem_total": 418,
+            "problem_total": 419,
             "contest_total": 28
         },
         "尤馨然": {
@@ -5179,7 +5179,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 848,
-            "problem_total": 64,
+            "problem_total": 65,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7044,5 +7044,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-05-30 18:36:22"
+    "update_time": "2024-05-30 19:09:01"
 }
