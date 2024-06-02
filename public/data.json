@@ -5633,7 +5633,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2035,
-            "problem_total": 633,
+            "problem_total": 634,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6655,7 +6655,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1443,
-            "problem_total": 149,
+            "problem_total": 150,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7161,5 +7161,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-02 19:09:09"
+    "update_time": "2024-06-02 19:33:43"
 }
