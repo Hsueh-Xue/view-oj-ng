@@ -1415,7 +1415,7 @@
                 }
             ],
             "rating": 1832,
-            "problem_total": 1122,
+            "problem_total": 1123,
             "contest_total": 76
         },
         "邵茹怡": {
@@ -2859,7 +2859,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 826,
+            "problem_total": 827,
             "rating": 1615
         },
         "戴子晟": {
@@ -7161,5 +7161,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-02 14:14:16"
+    "update_time": "2024-06-02 14:37:31"
 }
