@@ -6418,7 +6418,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1532,
+            "rating": 1455,
             "problem_total": 340,
             "contest_info": [
                 {
@@ -6582,9 +6582,18 @@
                     "rating_update_time_seconds": 1717157100,
                     "old_rating": 1489,
                     "new_rating": 1532
+                },
+                {
+                    "contest_id": 1980,
+                    "contest_name": "Codeforces Round 950 (Div. 3)",
+                    "handle": "padding",
+                    "rank": 8512,
+                    "rating_update_time_seconds": 1717433400,
+                    "old_rating": 1532,
+                    "new_rating": 1455
                 }
             ],
-            "contest_total": 18
+            "contest_total": 19
         },
         "叶志汉": {
             "name": "叶志汉",
@@ -6654,8 +6663,8 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1444,
-            "problem_total": 155,
+            "rating": 1415,
+            "problem_total": 157,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6773,9 +6782,18 @@
                     "rating_update_time_seconds": 1717157100,
                     "old_rating": 1495,
                     "new_rating": 1444
+                },
+                {
+                    "contest_id": 1980,
+                    "contest_name": "Codeforces Round 950 (Div. 3)",
+                    "handle": "blhxsdzjr",
+                    "rank": 5678,
+                    "rating_update_time_seconds": 1717433400,
+                    "old_rating": 1444,
+                    "new_rating": 1415
                 }
             ],
-            "contest_total": 13
+            "contest_total": 14
         },
         "陈天意": {
             "name": "陈天意",
@@ -7161,5 +7179,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-05 03:34:04"
+    "update_time": "2024-06-05 04:10:54"
 }
