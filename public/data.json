@@ -4358,7 +4358,7 @@
             "grade": 2017,
             "codeforces_handle": "HsuehHtao",
             "rating": 1980,
-            "problem_total": 1188,
+            "problem_total": 1196,
             "contest_info": [
                 {
                     "contest_id": 978,
@@ -4449,7 +4449,7 @@
             "grade": 2017,
             "codeforces_handle": "Dup4",
             "rating": 2294,
-            "problem_total": 1984,
+            "problem_total": 1988,
             "contest_info": [
                 {
                     "contest_id": 1062,
@@ -7179,5 +7179,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-06 04:11:39"
+    "update_time": "2024-06-06 04:34:25"
 }
