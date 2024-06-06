@@ -3997,7 +3997,7 @@
                 }
             ],
             "contest_total": 69,
-            "problem_total": 937,
+            "problem_total": 938,
             "rating": 1715
         },
         "何家琛": {
@@ -5459,7 +5459,7 @@
             "name": "徐嘉豪",
             "grade": 2023,
             "codeforces_handle": "ruanmeisdog",
-            "problem_total": 80,
+            "problem_total": 81,
             "rating": 759,
             "contest_total": 2,
             "contest_info": [
@@ -7179,5 +7179,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-06 08:44:29"
+    "update_time": "2024-06-06 09:55:27"
 }
