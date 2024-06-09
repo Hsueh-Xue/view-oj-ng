@@ -5650,7 +5650,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2035,
+            "rating": 2075,
             "problem_total": 662,
             "contest_info": [
                 {
@@ -5940,9 +5940,18 @@
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1999,
                     "new_rating": 2035
+                },
+                {
+                    "contest_id": 1984,
+                    "contest_name": "Codeforces Global Round 26",
+                    "handle": "Healexr",
+                    "rank": 634,
+                    "rating_update_time_seconds": 1717954500,
+                    "old_rating": 2035,
+                    "new_rating": 2075
                 }
             ],
-            "contest_total": 32
+            "contest_total": 33
         },
         "葛先步": {
             "name": "葛先步",
@@ -7206,5 +7215,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-10 03:09:35"
+    "update_time": "2024-06-10 03:33:52"
 }
