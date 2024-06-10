@@ -5650,7 +5650,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2075,
+            "rating": 2035,
             "problem_total": 675,
             "contest_info": [
                 {
@@ -5939,7 +5939,7 @@
                     "rank": 234,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1999,
-                    "new_rating": 2075
+                    "new_rating": 2035
                 }
             ],
             "contest_total": 32
@@ -7206,5 +7206,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-10 21:34:47"
+    "update_time": "2024-06-10 22:12:29"
 }
