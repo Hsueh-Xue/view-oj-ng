@@ -5506,7 +5506,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 290,
+            "problem_total": 291,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5651,7 +5651,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2075,
-            "problem_total": 670,
+            "problem_total": 675,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5939,19 +5939,10 @@
                     "rank": 234,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1999,
-                    "new_rating": 2035
-                },
-                {
-                    "contest_id": 1984,
-                    "contest_name": "Codeforces Global Round 26",
-                    "handle": "Healexr",
-                    "rank": 634,
-                    "rating_update_time_seconds": 1717954500,
-                    "old_rating": 2035,
                     "new_rating": 2075
                 }
             ],
-            "contest_total": 33
+            "contest_total": 32
         },
         "葛先步": {
             "name": "葛先步",
@@ -7215,5 +7206,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-10 19:35:21"
+    "update_time": "2024-06-10 20:21:21"
 }
