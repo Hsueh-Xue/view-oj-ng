@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1064,
+            "problem_total": 1065,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -4015,7 +4015,7 @@
                 }
             ],
             "contest_total": 70,
-            "problem_total": 943,
+            "problem_total": 944,
             "rating": 1741
         },
         "何家琛": {
@@ -5233,7 +5233,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 78,
+            "problem_total": 79,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7215,5 +7215,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-11 19:10:30"
+    "update_time": "2024-06-11 19:34:38"
 }
