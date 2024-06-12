@@ -5651,7 +5651,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2074,
-            "problem_total": 683,
+            "problem_total": 676,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6446,7 +6446,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1470,
-            "problem_total": 342,
+            "problem_total": 336,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7102,7 +7102,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 14,
+            "problem_total": 12,
             "contest_total": 0
         },
         "魏炜": {
@@ -7215,5 +7215,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-12 17:34:36"
+    "update_time": "2024-06-12 18:11:40"
 }
