@@ -3374,7 +3374,7 @@
                     "new_rating": 1893
                 }
             ],
-            "problem_total": 457,
+            "problem_total": 459,
             "rating": 1893,
             "contest_total": 28
         },
@@ -5651,7 +5651,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2074,
-            "problem_total": 676,
+            "problem_total": 683,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7102,7 +7102,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 12,
+            "problem_total": 13,
             "contest_total": 0
         },
         "魏炜": {
@@ -7215,5 +7215,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-12 11:11:58"
+    "update_time": "2024-06-12 11:35:53"
 }
