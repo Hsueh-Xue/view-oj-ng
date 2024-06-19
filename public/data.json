@@ -1421,11 +1421,20 @@
                     "rating_update_time_seconds": 1717691700,
                     "old_rating": 1838,
                     "new_rating": 1866
+                },
+                {
+                    "contest_id": 1978,
+                    "contest_name": "Codeforces Round 953 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 214,
+                    "rating_update_time_seconds": 1718535900,
+                    "old_rating": 1866,
+                    "new_rating": 1938
                 }
             ],
-            "rating": 1866,
+            "rating": 1938,
             "problem_total": 1174,
-            "contest_total": 77
+            "contest_total": 78
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4012,11 +4021,20 @@
                     "rating_update_time_seconds": 1717691700,
                     "old_rating": 1718,
                     "new_rating": 1741
+                },
+                {
+                    "contest_id": 1978,
+                    "contest_name": "Codeforces Round 953 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 178,
+                    "rating_update_time_seconds": 1718535900,
+                    "old_rating": 1741,
+                    "new_rating": 1860
                 }
             ],
-            "contest_total": 70,
+            "contest_total": 71,
             "problem_total": 955,
-            "rating": 1741
+            "rating": 1860
         },
         "何家琛": {
             "name": "何家琛",
@@ -7215,5 +7233,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-20 00:39:02"
+    "update_time": "2024-06-20 01:10:46"
 }
