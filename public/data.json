@@ -4030,11 +4030,20 @@
                     "rating_update_time_seconds": 1718535900,
                     "old_rating": 1741,
                     "new_rating": 1860
+                },
+                {
+                    "contest_id": 1982,
+                    "contest_name": "Codeforces Round 955 (Div. 2, with prizes from NEAR!)",
+                    "handle": "BowTen",
+                    "rank": 1243,
+                    "rating_update_time_seconds": 1719333300,
+                    "old_rating": 1860,
+                    "new_rating": 1840
                 }
             ],
-            "contest_total": 71,
+            "contest_total": 72,
             "problem_total": 959,
-            "rating": 1860
+            "rating": 1840
         },
         "何家琛": {
             "name": "何家琛",
@@ -7233,5 +7242,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-06-27 20:19:11"
+    "update_time": "2024-06-27 20:51:23"
 }
