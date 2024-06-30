@@ -5677,7 +5677,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2048,
+            "rating": 2005,
             "problem_total": 755,
             "contest_info": [
                 {
@@ -5985,9 +5985,18 @@
                     "rating_update_time_seconds": 1719506100,
                     "old_rating": 2075,
                     "new_rating": 2048
+                },
+                {
+                    "contest_id": 1987,
+                    "contest_name": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 1417,
+                    "rating_update_time_seconds": 1719768900,
+                    "old_rating": 2048,
+                    "new_rating": 2005
                 }
             ],
-            "contest_total": 34
+            "contest_total": 35
         },
         "葛先步": {
             "name": "葛先步",
@@ -7251,5 +7260,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-01 02:46:46"
+    "update_time": "2024-07-01 03:33:46"
 }
