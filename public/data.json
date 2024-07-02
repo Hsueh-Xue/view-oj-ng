@@ -2001,7 +2001,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 382,
+            "problem_total": 384,
             "contest_total": 62
         },
         "叶宏健": {
@@ -3383,7 +3383,7 @@
                     "new_rating": 1893
                 }
             ],
-            "problem_total": 464,
+            "problem_total": 465,
             "rating": 1893,
             "contest_total": 28
         },
@@ -7269,5 +7269,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-02 08:45:38"
+    "update_time": "2024-07-02 09:58:39"
 }
