@@ -1433,7 +1433,7 @@
                 }
             ],
             "rating": 1938,
-            "problem_total": 1174,
+            "problem_total": 1176,
             "contest_total": 78
         },
         "邵茹怡": {
@@ -4051,7 +4051,7 @@
                 }
             ],
             "contest_total": 73,
-            "problem_total": 970,
+            "problem_total": 971,
             "rating": 1852
         },
         "何家琛": {
@@ -5687,7 +5687,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2005,
-            "problem_total": 777,
+            "problem_total": 778,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7269,5 +7269,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-08 00:43:44"
+    "update_time": "2024-07-08 01:09:47"
 }
