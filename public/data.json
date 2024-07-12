@@ -6272,7 +6272,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1195,
+            "rating": 1366,
             "problem_total": 84,
             "contest_info": [
                 {
@@ -6364,9 +6364,18 @@
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1288,
                     "new_rating": 1195
+                },
+                {
+                    "contest_id": 1992,
+                    "contest_name": "Codeforces Round 957 (Div. 3)",
+                    "handle": "QF_shengxiu",
+                    "rank": 748,
+                    "rating_update_time_seconds": 1720716600,
+                    "old_rating": 1195,
+                    "new_rating": 1366
                 }
             ],
-            "contest_total": 10
+            "contest_total": 11
         },
         "刘旭": {
             "name": "刘旭",
@@ -7296,5 +7305,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-12 21:13:54"
+    "update_time": "2024-07-12 21:36:49"
 }
