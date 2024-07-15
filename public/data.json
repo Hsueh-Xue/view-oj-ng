@@ -4066,11 +4066,20 @@
                     "rating_update_time_seconds": 1720371000,
                     "old_rating": 1852,
                     "new_rating": 1814
+                },
+                {
+                    "contest_id": 1988,
+                    "contest_name": "Codeforces Round 958 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1313,
+                    "rating_update_time_seconds": 1721061300,
+                    "old_rating": 1814,
+                    "new_rating": 1807
                 }
             ],
-            "contest_total": 74,
+            "contest_total": 75,
             "problem_total": 980,
-            "rating": 1814
+            "rating": 1807
         },
         "何家琛": {
             "name": "何家琛",
@@ -5704,7 +5713,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1951,
+            "rating": 1988,
             "problem_total": 804,
             "contest_info": [
                 {
@@ -6030,9 +6039,18 @@
                     "rating_update_time_seconds": 1720371000,
                     "old_rating": 2005,
                     "new_rating": 1951
+                },
+                {
+                    "contest_id": 1988,
+                    "contest_name": "Codeforces Round 958 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 349,
+                    "rating_update_time_seconds": 1721061300,
+                    "old_rating": 1951,
+                    "new_rating": 1988
                 }
             ],
-            "contest_total": 36
+            "contest_total": 37
         },
         "葛先步": {
             "name": "葛先步",
@@ -7305,5 +7323,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-16 03:09:54"
+    "update_time": "2024-07-16 03:34:29"
 }
