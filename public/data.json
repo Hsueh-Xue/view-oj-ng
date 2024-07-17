@@ -6057,7 +6057,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 89,
+            "problem_total": 90,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -6210,7 +6210,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 50,
+            "problem_total": 52,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7323,5 +7323,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-17 16:37:46"
+    "update_time": "2024-07-17 17:14:07"
 }
