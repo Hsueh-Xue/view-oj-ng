@@ -5677,7 +5677,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2075,
+            "rating": 2049,
             "problem_total": 805,
             "contest_info": [
                 {
@@ -5976,9 +5976,18 @@
                     "rating_update_time_seconds": 1717954500,
                     "old_rating": 2035,
                     "new_rating": 2075
+                },
+                {
+                    "contest_id": 1989,
+                    "contest_name": "Educational Codeforces Round 167 (Rated for Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 578,
+                    "rating_update_time_seconds": 1719506100,
+                    "old_rating": 2075,
+                    "new_rating": 2049
                 }
             ],
-            "contest_total": 33
+            "contest_total": 34
         },
         "葛先步": {
             "name": "葛先步",
@@ -7242,5 +7251,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-18 18:37:39"
+    "update_time": "2024-07-18 19:10:23"
 }
