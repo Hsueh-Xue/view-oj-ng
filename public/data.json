@@ -4066,11 +4066,20 @@
                     "rating_update_time_seconds": 1720371000,
                     "old_rating": 1855,
                     "new_rating": 1817
+                },
+                {
+                    "contest_id": 1988,
+                    "contest_name": "Codeforces Round 958 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1310,
+                    "rating_update_time_seconds": 1721061300,
+                    "old_rating": 1817,
+                    "new_rating": 1809
                 }
             ],
-            "contest_total": 74,
-            "problem_total": 986,
-            "rating": 1817
+            "contest_total": 75,
+            "problem_total": 987,
+            "rating": 1809
         },
         "何家琛": {
             "name": "何家琛",
@@ -5704,7 +5713,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1955,
+            "rating": 1991,
             "problem_total": 808,
             "contest_info": [
                 {
@@ -6030,9 +6039,18 @@
                     "rating_update_time_seconds": 1720371000,
                     "old_rating": 2010,
                     "new_rating": 1955
+                },
+                {
+                    "contest_id": 1988,
+                    "contest_name": "Codeforces Round 958 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 348,
+                    "rating_update_time_seconds": 1721061300,
+                    "old_rating": 1955,
+                    "new_rating": 1991
                 }
             ],
-            "contest_total": 36
+            "contest_total": 37
         },
         "葛先步": {
             "name": "葛先步",
@@ -6536,7 +6554,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1470,
-            "problem_total": 368,
+            "problem_total": 369,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7305,5 +7323,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-18 20:20:27"
+    "update_time": "2024-07-18 20:53:14"
 }
