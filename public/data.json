@@ -1429,21 +1429,12 @@
                     "rank": 214,
                     "rating_update_time_seconds": 1718535900,
                     "old_rating": 1866,
-                    "new_rating": 1938
-                },
-                {
-                    "contest_id": 1983,
-                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
-                    "handle": "EdGrass",
-                    "rank": 2966,
-                    "rating_update_time_seconds": 1720371000,
-                    "old_rating": 1938,
                     "new_rating": 1849
                 }
             ],
             "rating": 1849,
             "problem_total": 1178,
-            "contest_total": 79
+            "contest_total": 78
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4047,37 +4038,10 @@
                     "rank": 1243,
                     "rating_update_time_seconds": 1719333300,
                     "old_rating": 1860,
-                    "new_rating": 1840
-                },
-                {
-                    "contest_id": 1987,
-                    "contest_name": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1380,
-                    "rating_update_time_seconds": 1719768900,
-                    "old_rating": 1840,
-                    "new_rating": 1852
-                },
-                {
-                    "contest_id": 1983,
-                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
-                    "handle": "BowTen",
-                    "rank": 1859,
-                    "rating_update_time_seconds": 1720371000,
-                    "old_rating": 1852,
-                    "new_rating": 1814
-                },
-                {
-                    "contest_id": 1988,
-                    "contest_name": "Codeforces Round 958 (Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1313,
-                    "rating_update_time_seconds": 1721061300,
-                    "old_rating": 1814,
                     "new_rating": 1807
                 }
             ],
-            "contest_total": 75,
+            "contest_total": 72,
             "problem_total": 984,
             "rating": 1807
         },
@@ -6011,46 +5975,10 @@
                     "rank": 630,
                     "rating_update_time_seconds": 1717954500,
                     "old_rating": 2035,
-                    "new_rating": 2075
-                },
-                {
-                    "contest_id": 1989,
-                    "contest_name": "Educational Codeforces Round 167 (Rated for Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 583,
-                    "rating_update_time_seconds": 1719506100,
-                    "old_rating": 2075,
-                    "new_rating": 2048
-                },
-                {
-                    "contest_id": 1987,
-                    "contest_name": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 1417,
-                    "rating_update_time_seconds": 1719768900,
-                    "old_rating": 2048,
-                    "new_rating": 2005
-                },
-                {
-                    "contest_id": 1983,
-                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
-                    "handle": "Healexr",
-                    "rank": 1341,
-                    "rating_update_time_seconds": 1720371000,
-                    "old_rating": 2005,
-                    "new_rating": 1951
-                },
-                {
-                    "contest_id": 1988,
-                    "contest_name": "Codeforces Round 958 (Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 349,
-                    "rating_update_time_seconds": 1721061300,
-                    "old_rating": 1951,
                     "new_rating": 1988
                 }
             ],
-            "contest_total": 37
+            "contest_total": 33
         },
         "葛先步": {
             "name": "葛先步",
@@ -6381,19 +6309,10 @@
                     "rank": 11703,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1288,
-                    "new_rating": 1195
-                },
-                {
-                    "contest_id": 1992,
-                    "contest_name": "Codeforces Round 957 (Div. 3)",
-                    "handle": "QF_shengxiu",
-                    "rank": 748,
-                    "rating_update_time_seconds": 1720716600,
-                    "old_rating": 1195,
                     "new_rating": 1366
                 }
             ],
-            "contest_total": 11
+            "contest_total": 10
         },
         "刘旭": {
             "name": "刘旭",
@@ -7323,5 +7242,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-18 15:34:37"
+    "update_time": "2024-07-18 16:14:21"
 }
