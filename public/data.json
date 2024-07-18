@@ -1430,11 +1430,20 @@
                     "rating_update_time_seconds": 1718535900,
                     "old_rating": 1866,
                     "new_rating": 1938
+                },
+                {
+                    "contest_id": 1983,
+                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
+                    "handle": "EdGrass",
+                    "rank": 2788,
+                    "rating_update_time_seconds": 1720371000,
+                    "old_rating": 1938,
+                    "new_rating": 1852
                 }
             ],
-            "rating": 1938,
+            "rating": 1852,
             "problem_total": 1178,
-            "contest_total": 78
+            "contest_total": 79
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4048,11 +4057,20 @@
                     "rating_update_time_seconds": 1719768900,
                     "old_rating": 1840,
                     "new_rating": 1855
+                },
+                {
+                    "contest_id": 1983,
+                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
+                    "handle": "BowTen",
+                    "rank": 1819,
+                    "rating_update_time_seconds": 1720371000,
+                    "old_rating": 1855,
+                    "new_rating": 1817
                 }
             ],
-            "contest_total": 73,
-            "problem_total": 985,
-            "rating": 1855
+            "contest_total": 74,
+            "problem_total": 986,
+            "rating": 1817
         },
         "何家琛": {
             "name": "何家琛",
@@ -5686,7 +5704,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2010,
+            "rating": 1955,
             "problem_total": 808,
             "contest_info": [
                 {
@@ -6003,9 +6021,18 @@
                     "rating_update_time_seconds": 1719768900,
                     "old_rating": 2049,
                     "new_rating": 2010
+                },
+                {
+                    "contest_id": 1983,
+                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
+                    "handle": "Healexr",
+                    "rank": 1323,
+                    "rating_update_time_seconds": 1720371000,
+                    "old_rating": 2010,
+                    "new_rating": 1955
                 }
             ],
-            "contest_total": 35
+            "contest_total": 36
         },
         "葛先步": {
             "name": "葛先步",
@@ -6245,7 +6272,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1195,
+            "rating": 1366,
             "problem_total": 84,
             "contest_info": [
                 {
@@ -6337,9 +6364,18 @@
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1288,
                     "new_rating": 1195
+                },
+                {
+                    "contest_id": 1992,
+                    "contest_name": "Codeforces Round 957 (Div. 3)",
+                    "handle": "QF_shengxiu",
+                    "rank": 741,
+                    "rating_update_time_seconds": 1720716600,
+                    "old_rating": 1195,
+                    "new_rating": 1366
                 }
             ],
-            "contest_total": 10
+            "contest_total": 11
         },
         "刘旭": {
             "name": "刘旭",
@@ -6500,7 +6536,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1470,
-            "problem_total": 367,
+            "problem_total": 368,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -6754,7 +6790,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1420,
-            "problem_total": 162,
+            "problem_total": 163,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7269,5 +7305,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-18 19:34:48"
+    "update_time": "2024-07-18 20:20:27"
 }
