@@ -1429,10 +1429,10 @@
                     "rank": 214,
                     "rating_update_time_seconds": 1718535900,
                     "old_rating": 1866,
-                    "new_rating": 1849
+                    "new_rating": 1938
                 }
             ],
-            "rating": 1849,
+            "rating": 1938,
             "problem_total": 1178,
             "contest_total": 78
         },
@@ -4038,12 +4038,12 @@
                     "rank": 1243,
                     "rating_update_time_seconds": 1719333300,
                     "old_rating": 1860,
-                    "new_rating": 1807
+                    "new_rating": 1840
                 }
             ],
             "contest_total": 72,
             "problem_total": 984,
-            "rating": 1807
+            "rating": 1840
         },
         "何家琛": {
             "name": "何家琛",
@@ -5677,7 +5677,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1988,
+            "rating": 2075,
             "problem_total": 805,
             "contest_info": [
                 {
@@ -5975,7 +5975,7 @@
                     "rank": 630,
                     "rating_update_time_seconds": 1717954500,
                     "old_rating": 2035,
-                    "new_rating": 1988
+                    "new_rating": 2075
                 }
             ],
             "contest_total": 33
@@ -6218,7 +6218,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1366,
+            "rating": 1195,
             "problem_total": 84,
             "contest_info": [
                 {
@@ -6309,7 +6309,7 @@
                     "rank": 11703,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1288,
-                    "new_rating": 1366
+                    "new_rating": 1195
                 }
             ],
             "contest_total": 10
@@ -7242,5 +7242,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-18 17:36:31"
+    "update_time": "2024-07-18 18:15:48"
 }
