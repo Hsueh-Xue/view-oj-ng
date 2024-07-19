@@ -7032,7 +7032,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 12,
+            "problem_total": 13,
             "rating": 0,
             "contest_total": 0
         },
@@ -7146,7 +7146,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 0,
+            "problem_total": 2,
             "contest_total": 0
         },
         "金岸": {
@@ -7359,5 +7359,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-19 15:12:00"
+    "update_time": "2024-07-19 15:34:20"
 }
