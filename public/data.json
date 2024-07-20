@@ -4093,11 +4093,20 @@
                     "rating_update_time_seconds": 1721320500,
                     "old_rating": 1809,
                     "new_rating": 1783
+                },
+                {
+                    "contest_id": 1990,
+                    "contest_name": "Codeforces Round 960 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 620,
+                    "rating_update_time_seconds": 1721493300,
+                    "old_rating": 1783,
+                    "new_rating": 1833
                 }
             ],
-            "contest_total": 76,
+            "contest_total": 77,
             "problem_total": 1002,
-            "rating": 1783
+            "rating": 1833
         },
         "何家琛": {
             "name": "何家琛",
@@ -7359,5 +7368,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-21 01:33:48"
+    "update_time": "2024-07-21 02:13:41"
 }
