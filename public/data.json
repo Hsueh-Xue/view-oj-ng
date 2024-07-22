@@ -6788,7 +6788,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 24,
+            "problem_total": 25,
             "rating": 1110,
             "contest_total": 6,
             "contest_info": [
@@ -7041,7 +7041,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 14,
+            "problem_total": 15,
             "rating": 0,
             "contest_total": 0
         },
@@ -7155,7 +7155,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 2,
+            "problem_total": 3,
             "contest_total": 0
         },
         "金岸": {
@@ -7368,5 +7368,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-22 15:34:31"
+    "update_time": "2024-07-22 16:14:58"
 }
