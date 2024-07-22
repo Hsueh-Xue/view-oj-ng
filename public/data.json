@@ -2019,7 +2019,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 386,
+            "problem_total": 387,
             "contest_total": 62
         },
         "叶宏健": {
@@ -6599,7 +6599,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1470,
-            "problem_total": 371,
+            "problem_total": 372,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7368,5 +7368,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-22 19:34:36"
+    "update_time": "2024-07-22 20:20:05"
 }
