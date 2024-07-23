@@ -1448,11 +1448,20 @@
                     "rating_update_time_seconds": 1721320500,
                     "old_rating": 1852,
                     "new_rating": 1894
+                },
+                {
+                    "contest_id": 1995,
+                    "contest_name": "Codeforces Round 961 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 2155,
+                    "rating_update_time_seconds": 1721752500,
+                    "old_rating": 1894,
+                    "new_rating": 1830
                 }
             ],
-            "rating": 1894,
+            "rating": 1830,
             "problem_total": 1187,
-            "contest_total": 80
+            "contest_total": 81
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4102,11 +4111,20 @@
                     "rating_update_time_seconds": 1721493300,
                     "old_rating": 1783,
                     "new_rating": 1833
+                },
+                {
+                    "contest_id": 1995,
+                    "contest_name": "Codeforces Round 961 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1503,
+                    "rating_update_time_seconds": 1721752500,
+                    "old_rating": 1833,
+                    "new_rating": 1808
                 }
             ],
-            "contest_total": 77,
+            "contest_total": 78,
             "problem_total": 1006,
-            "rating": 1833
+            "rating": 1808
         },
         "何家琛": {
             "name": "何家琛",
@@ -5740,7 +5758,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2007,
+            "rating": 1962,
             "problem_total": 820,
             "contest_info": [
                 {
@@ -6084,9 +6102,18 @@
                     "rating_update_time_seconds": 1721320500,
                     "old_rating": 1991,
                     "new_rating": 2007
+                },
+                {
+                    "contest_id": 1995,
+                    "contest_name": "Codeforces Round 961 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 1057,
+                    "rating_update_time_seconds": 1721752500,
+                    "old_rating": 2007,
+                    "new_rating": 1962
                 }
             ],
-            "contest_total": 38
+            "contest_total": 39
         },
         "葛先步": {
             "name": "葛先步",
@@ -6789,8 +6816,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 26,
-            "rating": 1110,
-            "contest_total": 6,
+            "rating": 1037,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -6845,6 +6872,15 @@
                     "rating_update_time_seconds": 1717157100,
                     "old_rating": 1083,
                     "new_rating": 1110
+                },
+                {
+                    "contest_id": 1995,
+                    "contest_name": "Codeforces Round 961 (Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 12762,
+                    "rating_update_time_seconds": 1721752500,
+                    "old_rating": 1110,
+                    "new_rating": 1037
                 }
             ]
         },
@@ -7368,5 +7404,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-24 01:11:00"
+    "update_time": "2024-07-24 01:35:55"
 }
