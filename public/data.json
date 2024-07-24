@@ -6273,7 +6273,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 54,
+            "problem_total": 55,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -6626,7 +6626,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1470,
-            "problem_total": 375,
+            "problem_total": 376,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7404,5 +7404,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-24 19:09:19"
+    "update_time": "2024-07-24 19:34:09"
 }
