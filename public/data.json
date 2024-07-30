@@ -1457,11 +1457,20 @@
                     "rating_update_time_seconds": 1721752500,
                     "old_rating": 1894,
                     "new_rating": 1831
+                },
+                {
+                    "contest_id": 1991,
+                    "contest_name": "Pinely Round 4 (Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1713,
+                    "rating_update_time_seconds": 1722188100,
+                    "old_rating": 1831,
+                    "new_rating": 1835
                 }
             ],
-            "rating": 1831,
+            "rating": 1835,
             "problem_total": 1191,
-            "contest_total": 81
+            "contest_total": 82
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3408,11 +3417,20 @@
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1873,
                     "new_rating": 1893
+                },
+                {
+                    "contest_id": 1991,
+                    "contest_name": "Pinely Round 4 (Div. 1 + Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 2911,
+                    "rating_update_time_seconds": 1722188100,
+                    "old_rating": 1893,
+                    "new_rating": 1828
                 }
             ],
             "problem_total": 485,
-            "rating": 1893,
-            "contest_total": 28
+            "rating": 1828,
+            "contest_total": 29
         },
         "张朝": {
             "name": "张朝",
@@ -4120,11 +4138,20 @@
                     "rating_update_time_seconds": 1721752500,
                     "old_rating": 1833,
                     "new_rating": 1809
+                },
+                {
+                    "contest_id": 1991,
+                    "contest_name": "Pinely Round 4 (Div. 1 + Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1202,
+                    "rating_update_time_seconds": 1722188100,
+                    "old_rating": 1809,
+                    "new_rating": 1854
                 }
             ],
-            "contest_total": 78,
+            "contest_total": 79,
             "problem_total": 1019,
-            "rating": 1809
+            "rating": 1854
         },
         "何家琛": {
             "name": "何家琛",
@@ -7422,5 +7449,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-30 21:15:20"
+    "update_time": "2024-07-30 21:36:03"
 }
