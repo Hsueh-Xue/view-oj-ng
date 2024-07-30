@@ -1438,39 +1438,12 @@
                     "rank": 2788,
                     "rating_update_time_seconds": 1720371000,
                     "old_rating": 1938,
-                    "new_rating": 1852
-                },
-                {
-                    "contest_id": 1994,
-                    "contest_name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 1037,
-                    "rating_update_time_seconds": 1721320500,
-                    "old_rating": 1852,
-                    "new_rating": 1894
-                },
-                {
-                    "contest_id": 1995,
-                    "contest_name": "Codeforces Round 961 (Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 2155,
-                    "rating_update_time_seconds": 1721752500,
-                    "old_rating": 1894,
-                    "new_rating": 1830
-                },
-                {
-                    "contest_id": 1991,
-                    "contest_name": "Pinely Round 4 (Div. 1 + Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 1723,
-                    "rating_update_time_seconds": 1722188100,
-                    "old_rating": 1830,
                     "new_rating": 1834
                 }
             ],
             "rating": 1834,
             "problem_total": 1191,
-            "contest_total": 82
+            "contest_total": 79
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3416,21 +3389,12 @@
                     "rank": 577,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1873,
-                    "new_rating": 1893
-                },
-                {
-                    "contest_id": 1991,
-                    "contest_name": "Pinely Round 4 (Div. 1 + Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 3038,
-                    "rating_update_time_seconds": 1722188100,
-                    "old_rating": 1893,
                     "new_rating": 1825
                 }
             ],
             "problem_total": 485,
             "rating": 1825,
-            "contest_total": 29
+            "contest_total": 28
         },
         "张朝": {
             "name": "张朝",
@@ -4110,46 +4074,10 @@
                     "rank": 1310,
                     "rating_update_time_seconds": 1721061300,
                     "old_rating": 1817,
-                    "new_rating": 1809
-                },
-                {
-                    "contest_id": 1994,
-                    "contest_name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 2390,
-                    "rating_update_time_seconds": 1721320500,
-                    "old_rating": 1809,
-                    "new_rating": 1783
-                },
-                {
-                    "contest_id": 1990,
-                    "contest_name": "Codeforces Round 960 (Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 620,
-                    "rating_update_time_seconds": 1721493300,
-                    "old_rating": 1783,
-                    "new_rating": 1833
-                },
-                {
-                    "contest_id": 1995,
-                    "contest_name": "Codeforces Round 961 (Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1503,
-                    "rating_update_time_seconds": 1721752500,
-                    "old_rating": 1833,
-                    "new_rating": 1808
-                },
-                {
-                    "contest_id": 1991,
-                    "contest_name": "Pinely Round 4 (Div. 1 + Div. 2)",
-                    "handle": "BowTen",
-                    "rank": 1207,
-                    "rating_update_time_seconds": 1722188100,
-                    "old_rating": 1808,
                     "new_rating": 1853
                 }
             ],
-            "contest_total": 79,
+            "contest_total": 75,
             "problem_total": 1019,
             "rating": 1853
         },
@@ -6119,28 +6047,10 @@
                     "rank": 348,
                     "rating_update_time_seconds": 1721061300,
                     "old_rating": 1955,
-                    "new_rating": 1991
-                },
-                {
-                    "contest_id": 1994,
-                    "contest_name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 926,
-                    "rating_update_time_seconds": 1721320500,
-                    "old_rating": 1991,
-                    "new_rating": 2007
-                },
-                {
-                    "contest_id": 1995,
-                    "contest_name": "Codeforces Round 961 (Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 1057,
-                    "rating_update_time_seconds": 1721752500,
-                    "old_rating": 2007,
                     "new_rating": 1962
                 }
             ],
-            "contest_total": 39
+            "contest_total": 37
         },
         "葛先步": {
             "name": "葛先步",
@@ -6480,19 +6390,10 @@
                     "rank": 741,
                     "rating_update_time_seconds": 1720716600,
                     "old_rating": 1195,
-                    "new_rating": 1366
-                },
-                {
-                    "contest_id": 1994,
-                    "contest_name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
-                    "handle": "QF_shengxiu",
-                    "rank": 5385,
-                    "rating_update_time_seconds": 1721320500,
-                    "old_rating": 1366,
                     "new_rating": 1363
                 }
             ],
-            "contest_total": 12
+            "contest_total": 11
         },
         "刘旭": {
             "name": "刘旭",
@@ -6844,7 +6745,7 @@
             "codeforces_handle": "yaLen",
             "problem_total": 32,
             "rating": 1088,
-            "contest_total": 8,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -6898,24 +6799,6 @@
                     "rank": 7090,
                     "rating_update_time_seconds": 1717157100,
                     "old_rating": 1083,
-                    "new_rating": 1110
-                },
-                {
-                    "contest_id": 1995,
-                    "contest_name": "Codeforces Round 961 (Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 12762,
-                    "rating_update_time_seconds": 1721752500,
-                    "old_rating": 1110,
-                    "new_rating": 1037
-                },
-                {
-                    "contest_id": 1996,
-                    "contest_name": "Codeforces Round 962 (Div. 3)",
-                    "handle": "yaLen",
-                    "rank": 7742,
-                    "rating_update_time_seconds": 1722013500,
-                    "old_rating": 1037,
                     "new_rating": 1088
                 }
             ]
@@ -7236,7 +7119,7 @@
             "codeforces_handle": "qqbb111",
             "rating": 1246,
             "problem_total": 32,
-            "contest_total": 6,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7281,15 +7164,6 @@
                     "rank": 5457,
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1106,
-                    "new_rating": 1209
-                },
-                {
-                    "contest_id": 1996,
-                    "contest_name": "Codeforces Round 962 (Div. 3)",
-                    "handle": "qqbb111",
-                    "rank": 7699,
-                    "rating_update_time_seconds": 1722013500,
-                    "old_rating": 1209,
                     "new_rating": 1246
                 }
             ]
@@ -7449,5 +7323,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-30 17:34:36"
+    "update_time": "2024-07-30 18:12:52"
 }
