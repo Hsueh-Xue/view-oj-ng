@@ -5368,7 +5368,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 91,
+            "problem_total": 92,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7336,7 +7336,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 20,
+            "problem_total": 21,
             "contest_total": 0
         },
         "魏炜": {
@@ -7449,5 +7449,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-31 14:33:54"
+    "update_time": "2024-07-31 15:09:15"
 }
