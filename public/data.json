@@ -2037,7 +2037,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 390,
+            "problem_total": 391,
             "contest_total": 62
         },
         "叶宏健": {
@@ -5368,7 +5368,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 92,
+            "problem_total": 93,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7336,7 +7336,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 21,
+            "problem_total": 22,
             "contest_total": 0
         },
         "魏炜": {
@@ -7449,5 +7449,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-07-31 15:42:23"
+    "update_time": "2024-07-31 16:14:04"
 }
