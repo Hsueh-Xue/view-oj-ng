@@ -4177,7 +4177,7 @@
                 }
             ],
             "contest_total": 80,
-            "problem_total": 1027,
+            "problem_total": 1030,
             "rating": 1893
         },
         "何家琛": {
@@ -7390,7 +7390,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 25,
+            "problem_total": 26,
             "contest_total": 0
         },
         "魏炜": {
@@ -7503,5 +7503,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-01 10:07:44"
+    "update_time": "2024-08-01 10:51:38"
 }
