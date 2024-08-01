@@ -2598,7 +2598,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 500
+            "problem_total": 501
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -7390,7 +7390,7 @@
             "grade": 2023,
             "codeforces_handle": "MRcheng",
             "rating": 0,
-            "problem_total": 26,
+            "problem_total": 27,
             "contest_total": 0
         },
         "魏炜": {
@@ -7503,5 +7503,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-01 10:51:38"
+    "update_time": "2024-08-01 11:12:59"
 }
