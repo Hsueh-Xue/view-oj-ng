@@ -6327,7 +6327,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 10,
+            "problem_total": 11,
             "rating": 0,
             "contest_total": 0
         },
@@ -7272,7 +7272,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 4,
+            "problem_total": 5,
             "contest_total": 0
         },
         "金岸": {
@@ -7503,5 +7503,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-02 17:34:07"
+    "update_time": "2024-08-02 18:11:54"
 }
