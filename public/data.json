@@ -1433,7 +1433,7 @@
                 },
                 {
                     "contest_id": 1983,
-                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
+                    "contest_name": "Codeforces Round 956 (Div. 2) and ByteRace 2024",
                     "handle": "EdGrass",
                     "rank": 2788,
                     "rating_update_time_seconds": 1720371000,
@@ -4132,7 +4132,7 @@
                 },
                 {
                     "contest_id": 1983,
-                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
+                    "contest_name": "Codeforces Round 956 (Div. 2) and ByteRace 2024",
                     "handle": "BowTen",
                     "rank": 1819,
                     "rating_update_time_seconds": 1720371000,
@@ -6159,7 +6159,7 @@
                 },
                 {
                     "contest_id": 1983,
-                    "contest_name": "Codeforces Round #956 (Div. 2) and ByteRace 2024",
+                    "contest_name": "Codeforces Round 956 (Div. 2) and ByteRace 2024",
                     "handle": "Healexr",
                     "rank": 1323,
                     "rating_update_time_seconds": 1720371000,
@@ -7548,5 +7548,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-05 15:34:46"
+    "update_time": "2024-08-05 16:15:04"
 }
