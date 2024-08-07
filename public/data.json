@@ -6914,9 +6914,9 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 44,
-            "rating": 1176,
-            "contest_total": 10,
+            "problem_total": 45,
+            "rating": 1230,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7007,6 +7007,15 @@
                     "rating_update_time_seconds": 1722789300,
                     "old_rating": 1147,
                     "new_rating": 1176
+                },
+                {
+                    "contest_id": 1999,
+                    "contest_name": "Codeforces Round 964 (Div. 4)",
+                    "handle": "yaLen",
+                    "rank": 4146,
+                    "rating_update_time_seconds": 1722963600,
+                    "old_rating": 1176,
+                    "new_rating": 1230
                 }
             ]
         },
@@ -7548,5 +7557,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-08 04:35:39"
+    "update_time": "2024-08-08 05:12:34"
 }
