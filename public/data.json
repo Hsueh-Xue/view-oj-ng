@@ -5840,7 +5840,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2061,
-            "problem_total": 833,
+            "problem_total": 834,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6372,7 +6372,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 63,
+            "problem_total": 66,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7548,5 +7548,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-07 19:35:09"
+    "update_time": "2024-08-07 20:21:14"
 }
