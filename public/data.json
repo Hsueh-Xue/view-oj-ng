@@ -3464,7 +3464,7 @@
                     "new_rating": 1983
                 }
             ],
-            "problem_total": 496,
+            "problem_total": 500,
             "rating": 1983,
             "contest_total": 31
         },
@@ -4204,7 +4204,7 @@
                 }
             ],
             "contest_total": 81,
-            "problem_total": 1037,
+            "problem_total": 1041,
             "rating": 1915
         },
         "何家琛": {
@@ -5840,7 +5840,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2061,
-            "problem_total": 834,
+            "problem_total": 838,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6914,7 +6914,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 46,
+            "problem_total": 48,
             "rating": 1230,
             "contest_total": 11,
             "contest_info": [
@@ -7557,5 +7557,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-11 04:18:18"
+    "update_time": "2024-08-11 04:34:26"
 }
