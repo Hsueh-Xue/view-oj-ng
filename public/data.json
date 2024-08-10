@@ -1487,7 +1487,7 @@
                 }
             ],
             "rating": 1948,
-            "problem_total": 1203,
+            "problem_total": 1204,
             "contest_total": 84
         },
         "邵茹怡": {
@@ -2055,7 +2055,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 392,
+            "problem_total": 393,
             "contest_total": 62
         },
         "叶宏健": {
@@ -2607,7 +2607,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 509
+            "problem_total": 511
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -4204,7 +4204,7 @@
                 }
             ],
             "contest_total": 81,
-            "problem_total": 1035,
+            "problem_total": 1037,
             "rating": 1915
         },
         "何家琛": {
@@ -6372,7 +6372,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 68,
+            "problem_total": 69,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -6725,7 +6725,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1470,
-            "problem_total": 382,
+            "problem_total": 383,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7212,7 +7212,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 26,
+            "problem_total": 27,
             "rating": 0,
             "contest_total": 0
         },
@@ -7557,5 +7557,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-10 20:25:38"
+    "update_time": "2024-08-10 20:53:00"
 }
