@@ -3471,11 +3471,20 @@
                     "rating_update_time_seconds": 1723307700,
                     "old_rating": 1983,
                     "new_rating": 2003
+                },
+                {
+                    "contest_id": 2002,
+                    "contest_name": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1681,
+                    "rating_update_time_seconds": 1723397700,
+                    "old_rating": 2003,
+                    "new_rating": 1976
                 }
             ],
             "problem_total": 504,
-            "rating": 2003,
-            "contest_total": 32
+            "rating": 1976,
+            "contest_total": 33
         },
         "张朝": {
             "name": "张朝",
@@ -4219,11 +4228,20 @@
                     "rating_update_time_seconds": 1723307700,
                     "old_rating": 1915,
                     "new_rating": 1970
+                },
+                {
+                    "contest_id": 2002,
+                    "contest_name": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1570,
+                    "rating_update_time_seconds": 1723397700,
+                    "old_rating": 1970,
+                    "new_rating": 1958
                 }
             ],
-            "contest_total": 82,
+            "contest_total": 83,
             "problem_total": 1051,
-            "rating": 1970
+            "rating": 1958
         },
         "何家琛": {
             "name": "何家琛",
@@ -7593,5 +7611,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-12 03:34:20"
+    "update_time": "2024-08-12 04:11:37"
 }
