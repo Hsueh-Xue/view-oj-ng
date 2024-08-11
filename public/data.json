@@ -3473,7 +3473,7 @@
                     "new_rating": 2003
                 }
             ],
-            "problem_total": 500,
+            "problem_total": 503,
             "rating": 2003,
             "contest_total": 32
         },
@@ -4222,7 +4222,7 @@
                 }
             ],
             "contest_total": 82,
-            "problem_total": 1047,
+            "problem_total": 1050,
             "rating": 1970
         },
         "何家琛": {
@@ -7593,5 +7593,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-12 01:37:21"
+    "update_time": "2024-08-12 02:15:25"
 }
