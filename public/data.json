@@ -5876,7 +5876,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2106,
-            "problem_total": 838,
+            "problem_total": 839,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6959,7 +6959,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 48,
+            "problem_total": 49,
             "rating": 1235,
             "contest_total": 12,
             "contest_info": [
@@ -7611,5 +7611,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-14 17:11:47"
+    "update_time": "2024-08-14 17:34:45"
 }
