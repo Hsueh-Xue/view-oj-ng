@@ -1487,7 +1487,7 @@
                 }
             ],
             "rating": 1948,
-            "problem_total": 1211,
+            "problem_total": 1212,
             "contest_total": 84
         },
         "邵茹怡": {
@@ -3482,7 +3482,7 @@
                     "new_rating": 1976
                 }
             ],
-            "problem_total": 508,
+            "problem_total": 509,
             "rating": 1976,
             "contest_total": 33
         },
@@ -6959,7 +6959,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 49,
+            "problem_total": 50,
             "rating": 1235,
             "contest_total": 12,
             "contest_info": [
@@ -7611,5 +7611,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-14 18:38:21"
+    "update_time": "2024-08-14 19:10:49"
 }
