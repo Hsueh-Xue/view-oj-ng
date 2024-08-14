@@ -1487,7 +1487,7 @@
                 }
             ],
             "rating": 1948,
-            "problem_total": 1213,
+            "problem_total": 1214,
             "contest_total": 84
         },
         "邵茹怡": {
@@ -7388,7 +7388,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1252,
-            "problem_total": 39,
+            "problem_total": 40,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7611,5 +7611,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-14 20:53:23"
+    "update_time": "2024-08-14 21:15:30"
 }
