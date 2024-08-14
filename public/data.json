@@ -6960,8 +6960,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 52,
-            "rating": 1235,
-            "contest_total": 12,
+            "rating": 1240,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7070,6 +7070,15 @@
                     "rating_update_time_seconds": 1723307700,
                     "old_rating": 1230,
                     "new_rating": 1235
+                },
+                {
+                    "contest_id": 2000,
+                    "contest_name": "Codeforces Round 966 (Div. 3)",
+                    "handle": "yaLen",
+                    "rank": 8013,
+                    "rating_update_time_seconds": 1723568100,
+                    "old_rating": 1235,
+                    "new_rating": 1240
                 }
             ]
         },
@@ -7387,9 +7396,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1252,
+            "rating": 1255,
             "problem_total": 42,
-            "contest_total": 7,
+            "contest_total": 8,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7453,6 +7462,15 @@
                     "rating_update_time_seconds": 1722357300,
                     "old_rating": 1248,
                     "new_rating": 1252
+                },
+                {
+                    "contest_id": 2000,
+                    "contest_name": "Codeforces Round 966 (Div. 3)",
+                    "handle": "qqbb111",
+                    "rank": 7774,
+                    "rating_update_time_seconds": 1723568100,
+                    "old_rating": 1252,
+                    "new_rating": 1255
                 }
             ]
         },
@@ -7611,5 +7629,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-15 01:34:20"
+    "update_time": "2024-08-15 02:14:31"
 }
