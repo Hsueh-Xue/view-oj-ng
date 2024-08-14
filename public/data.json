@@ -4240,7 +4240,7 @@
                 }
             ],
             "contest_total": 83,
-            "problem_total": 1063,
+            "problem_total": 1066,
             "rating": 1958
         },
         "何家琛": {
@@ -6959,7 +6959,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 50,
+            "problem_total": 51,
             "rating": 1235,
             "contest_total": 12,
             "contest_info": [
@@ -7611,5 +7611,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-14 22:11:28"
+    "update_time": "2024-08-14 22:36:58"
 }
