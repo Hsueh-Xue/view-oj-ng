@@ -3479,11 +3479,11 @@
                     "rank": 1681,
                     "rating_update_time_seconds": 1723397700,
                     "old_rating": 2003,
-                    "new_rating": 1976
+                    "new_rating": 1957
                 }
             ],
             "problem_total": 515,
-            "rating": 1976,
+            "rating": 1957,
             "contest_total": 33
         },
         "张朝": {
@@ -4236,12 +4236,12 @@
                     "rank": 1570,
                     "rating_update_time_seconds": 1723397700,
                     "old_rating": 1970,
-                    "new_rating": 1958
+                    "new_rating": 1952
                 }
             ],
             "contest_total": 83,
             "problem_total": 1071,
-            "rating": 1958
+            "rating": 1952
         },
         "何家琛": {
             "name": "何家琛",
@@ -7629,5 +7629,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-17 07:35:18"
+    "update_time": "2024-08-17 08:45:54"
 }
