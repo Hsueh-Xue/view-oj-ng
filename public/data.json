@@ -3462,11 +3462,38 @@
                     "rating_update_time_seconds": 1722789300,
                     "old_rating": 1985,
                     "new_rating": 1984
+                },
+                {
+                    "contest_id": 1998,
+                    "contest_name": "Codeforces Round 965 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 441,
+                    "rating_update_time_seconds": 1723307700,
+                    "old_rating": 1984,
+                    "new_rating": 2004
+                },
+                {
+                    "contest_id": 2002,
+                    "contest_name": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 1229,
+                    "rating_update_time_seconds": 1723397700,
+                    "old_rating": 2004,
+                    "new_rating": 1998
+                },
+                {
+                    "contest_id": 2004,
+                    "contest_name": "Educational Codeforces Round 169 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 856,
+                    "rating_update_time_seconds": 1723739700,
+                    "old_rating": 1998,
+                    "new_rating": 1981
                 }
             ],
             "problem_total": 515,
-            "rating": 1984,
-            "contest_total": 31
+            "rating": 1981,
+            "contest_total": 34
         },
         "张朝": {
             "name": "张朝",
@@ -4201,11 +4228,38 @@
                     "rating_update_time_seconds": 1722789300,
                     "old_rating": 1893,
                     "new_rating": 1915
+                },
+                {
+                    "contest_id": 1998,
+                    "contest_name": "Codeforces Round 965 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 323,
+                    "rating_update_time_seconds": 1723307700,
+                    "old_rating": 1915,
+                    "new_rating": 1971
+                },
+                {
+                    "contest_id": 2002,
+                    "contest_name": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1133,
+                    "rating_update_time_seconds": 1723397700,
+                    "old_rating": 1971,
+                    "new_rating": 1981
+                },
+                {
+                    "contest_id": 2004,
+                    "contest_name": "Educational Codeforces Round 169 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 731,
+                    "rating_update_time_seconds": 1723739700,
+                    "old_rating": 1981,
+                    "new_rating": 1977
                 }
             ],
-            "contest_total": 81,
+            "contest_total": 84,
             "problem_total": 1083,
-            "rating": 1915
+            "rating": 1977
         },
         "何家琛": {
             "name": "何家琛",
@@ -5839,7 +5893,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2061,
+            "rating": 2107,
             "problem_total": 855,
             "contest_info": [
                 {
@@ -6210,9 +6264,18 @@
                     "rating_update_time_seconds": 1722789300,
                     "old_rating": 2016,
                     "new_rating": 2061
+                },
+                {
+                    "contest_id": 1998,
+                    "contest_name": "Codeforces Round 965 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 181,
+                    "rating_update_time_seconds": 1723307700,
+                    "old_rating": 2061,
+                    "new_rating": 2107
                 }
             ],
-            "contest_total": 41
+            "contest_total": 42
         },
         "葛先步": {
             "name": "葛先步",
@@ -6915,8 +6978,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 52,
-            "rating": 1233,
-            "contest_total": 11,
+            "rating": 1245,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7016,6 +7079,24 @@
                     "rating_update_time_seconds": 1722963600,
                     "old_rating": 1177,
                     "new_rating": 1233
+                },
+                {
+                    "contest_id": 1998,
+                    "contest_name": "Codeforces Round 965 (Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 7741,
+                    "rating_update_time_seconds": 1723307700,
+                    "old_rating": 1233,
+                    "new_rating": 1240
+                },
+                {
+                    "contest_id": 2000,
+                    "contest_name": "Codeforces Round 966 (Div. 3)",
+                    "handle": "yaLen",
+                    "rank": 7560,
+                    "rating_update_time_seconds": 1723568100,
+                    "old_rating": 1240,
+                    "new_rating": 1245
                 }
             ]
         },
@@ -7333,9 +7414,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1252,
+            "rating": 1256,
             "problem_total": 42,
-            "contest_total": 7,
+            "contest_total": 8,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7399,6 +7480,15 @@
                     "rating_update_time_seconds": 1722357300,
                     "old_rating": 1248,
                     "new_rating": 1252
+                },
+                {
+                    "contest_id": 2000,
+                    "contest_name": "Codeforces Round 966 (Div. 3)",
+                    "handle": "qqbb111",
+                    "rank": 7335,
+                    "rating_update_time_seconds": 1723568100,
+                    "old_rating": 1252,
+                    "new_rating": 1256
                 }
             ]
         },
@@ -7557,5 +7647,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-19 03:33:53"
+    "update_time": "2024-08-19 04:11:01"
 }
