@@ -3425,57 +3425,12 @@
                     "rank": 2911,
                     "rating_update_time_seconds": 1722188100,
                     "old_rating": 1893,
-                    "new_rating": 1828
-                },
-                {
-                    "contest_id": 1997,
-                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 90,
-                    "rating_update_time_seconds": 1722357300,
-                    "old_rating": 1828,
-                    "new_rating": 1985
-                },
-                {
-                    "contest_id": 1993,
-                    "contest_name": "Codeforces Round 963 (Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 639,
-                    "rating_update_time_seconds": 1722789300,
-                    "old_rating": 1985,
-                    "new_rating": 1983
-                },
-                {
-                    "contest_id": 1998,
-                    "contest_name": "Codeforces Round 965 (Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 448,
-                    "rating_update_time_seconds": 1723307700,
-                    "old_rating": 1983,
-                    "new_rating": 2003
-                },
-                {
-                    "contest_id": 2002,
-                    "contest_name": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 1681,
-                    "rating_update_time_seconds": 1723397700,
-                    "old_rating": 2003,
-                    "new_rating": 1976
-                },
-                {
-                    "contest_id": 2004,
-                    "contest_name": "Educational Codeforces Round 169 (Rated for Div. 2)",
-                    "handle": "afeng111",
-                    "rank": 964,
-                    "rating_update_time_seconds": 1723739700,
-                    "old_rating": 1976,
                     "new_rating": 1957
                 }
             ],
             "problem_total": 515,
             "rating": 1957,
-            "contest_total": 34
+            "contest_total": 29
         },
         "张朝": {
             "name": "张朝",
@@ -4195,7 +4150,7 @@
                 }
             ],
             "contest_total": 79,
-            "problem_total": 1082,
+            "problem_total": 1083,
             "rating": 1952
         },
         "何家琛": {
@@ -6889,7 +6844,7 @@
             "codeforces_handle": "yaLen",
             "problem_total": 52,
             "rating": 1240,
-            "contest_total": 13,
+            "contest_total": 8,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -6961,51 +6916,6 @@
                     "rank": 7541,
                     "rating_update_time_seconds": 1722013500,
                     "old_rating": 1040,
-                    "new_rating": 1092
-                },
-                {
-                    "contest_id": 1997,
-                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 7602,
-                    "rating_update_time_seconds": 1722357300,
-                    "old_rating": 1092,
-                    "new_rating": 1147
-                },
-                {
-                    "contest_id": 1993,
-                    "contest_name": "Codeforces Round 963 (Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 7769,
-                    "rating_update_time_seconds": 1722789300,
-                    "old_rating": 1147,
-                    "new_rating": 1176
-                },
-                {
-                    "contest_id": 1999,
-                    "contest_name": "Codeforces Round 964 (Div. 4)",
-                    "handle": "yaLen",
-                    "rank": 4146,
-                    "rating_update_time_seconds": 1722963600,
-                    "old_rating": 1176,
-                    "new_rating": 1230
-                },
-                {
-                    "contest_id": 1998,
-                    "contest_name": "Codeforces Round 965 (Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 8079,
-                    "rating_update_time_seconds": 1723307700,
-                    "old_rating": 1230,
-                    "new_rating": 1235
-                },
-                {
-                    "contest_id": 2000,
-                    "contest_name": "Codeforces Round 966 (Div. 3)",
-                    "handle": "yaLen",
-                    "rank": 8013,
-                    "rating_update_time_seconds": 1723568100,
-                    "old_rating": 1235,
                     "new_rating": 1240
                 }
             ]
@@ -7539,5 +7449,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-18 22:35:46"
+    "update_time": "2024-08-18 23:10:02"
 }
