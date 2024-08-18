@@ -7234,7 +7234,7 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1255,
+            "rating": 1248,
             "problem_total": 42,
             "contest_total": 6,
             "contest_info": [
@@ -7290,7 +7290,7 @@
                     "rank": 7498,
                     "rating_update_time_seconds": 1722013500,
                     "old_rating": 1209,
-                    "new_rating": 1255
+                    "new_rating": 1248
                 }
             ]
         },
@@ -7449,5 +7449,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-18 23:10:02"
+    "update_time": "2024-08-18 23:35:18"
 }
