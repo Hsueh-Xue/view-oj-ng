@@ -1466,11 +1466,20 @@
                     "rating_update_time_seconds": 1722188100,
                     "old_rating": 1831,
                     "new_rating": 1835
+                },
+                {
+                    "contest_id": 1997,
+                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 523,
+                    "rating_update_time_seconds": 1722357300,
+                    "old_rating": 1835,
+                    "new_rating": 1892
                 }
             ],
-            "rating": 1835,
+            "rating": 1892,
             "problem_total": 1228,
-            "contest_total": 82
+            "contest_total": 83
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3426,11 +3435,20 @@
                     "rating_update_time_seconds": 1722188100,
                     "old_rating": 1893,
                     "new_rating": 1828
+                },
+                {
+                    "contest_id": 1997,
+                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 89,
+                    "rating_update_time_seconds": 1722357300,
+                    "old_rating": 1828,
+                    "new_rating": 1985
                 }
             ],
             "problem_total": 515,
-            "rating": 1828,
-            "contest_total": 29
+            "rating": 1985,
+            "contest_total": 30
         },
         "张朝": {
             "name": "张朝",
@@ -4147,11 +4165,20 @@
                     "rating_update_time_seconds": 1722188100,
                     "old_rating": 1809,
                     "new_rating": 1854
+                },
+                {
+                    "contest_id": 1997,
+                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 646,
+                    "rating_update_time_seconds": 1722357300,
+                    "old_rating": 1854,
+                    "new_rating": 1893
                 }
             ],
-            "contest_total": 79,
+            "contest_total": 80,
             "problem_total": 1083,
-            "rating": 1854
+            "rating": 1893
         },
         "何家琛": {
             "name": "何家琛",
@@ -5785,7 +5812,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1963,
+            "rating": 2016,
             "problem_total": 855,
             "contest_info": [
                 {
@@ -6138,9 +6165,18 @@
                     "rating_update_time_seconds": 1721752500,
                     "old_rating": 2007,
                     "new_rating": 1963
+                },
+                {
+                    "contest_id": 1997,
+                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 304,
+                    "rating_update_time_seconds": 1722357300,
+                    "old_rating": 1963,
+                    "new_rating": 2016
                 }
             ],
-            "contest_total": 39
+            "contest_total": 40
         },
         "葛先步": {
             "name": "葛先步",
@@ -6843,8 +6879,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 52,
-            "rating": 1092,
-            "contest_total": 8,
+            "rating": 1147,
+            "contest_total": 9,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -6917,6 +6953,15 @@
                     "rating_update_time_seconds": 1722013500,
                     "old_rating": 1040,
                     "new_rating": 1092
+                },
+                {
+                    "contest_id": 1997,
+                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 7529,
+                    "rating_update_time_seconds": 1722357300,
+                    "old_rating": 1092,
+                    "new_rating": 1147
                 }
             ]
         },
@@ -7234,9 +7279,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1248,
+            "rating": 1252,
             "problem_total": 42,
-            "contest_total": 6,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7291,6 +7336,15 @@
                     "rating_update_time_seconds": 1722013500,
                     "old_rating": 1209,
                     "new_rating": 1248
+                },
+                {
+                    "contest_id": 1997,
+                    "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
+                    "handle": "qqbb111",
+                    "rank": 8003,
+                    "rating_update_time_seconds": 1722357300,
+                    "old_rating": 1248,
+                    "new_rating": 1252
                 }
             ]
         },
@@ -7449,5 +7503,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-19 02:36:53"
+    "update_time": "2024-08-19 03:09:13"
 }
