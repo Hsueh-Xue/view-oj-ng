@@ -3489,11 +3489,20 @@
                     "rating_update_time_seconds": 1723739700,
                     "old_rating": 1998,
                     "new_rating": 1981
+                },
+                {
+                    "contest_id": 2001,
+                    "contest_name": "Codeforces Round 967 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 238,
+                    "rating_update_time_seconds": 1724171700,
+                    "old_rating": 1981,
+                    "new_rating": 2036
                 }
             ],
             "problem_total": 519,
-            "rating": 1981,
-            "contest_total": 34
+            "rating": 2036,
+            "contest_total": 35
         },
         "张朝": {
             "name": "张朝",
@@ -6787,7 +6796,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1470,
+            "rating": 1473,
             "problem_total": 397,
             "contest_info": [
                 {
@@ -6969,9 +6978,18 @@
                     "rating_update_time_seconds": 1717691700,
                     "old_rating": 1461,
                     "new_rating": 1470
+                },
+                {
+                    "contest_id": 2001,
+                    "contest_name": "Codeforces Round 967 (Div. 2)",
+                    "handle": "padding",
+                    "rank": 4145,
+                    "rating_update_time_seconds": 1724171700,
+                    "old_rating": 1470,
+                    "new_rating": 1473
                 }
             ],
-            "contest_total": 20
+            "contest_total": 21
         },
         "叶志汉": {
             "name": "叶志汉",
@@ -7647,5 +7665,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-21 02:14:35"
+    "update_time": "2024-08-21 02:40:00"
 }
