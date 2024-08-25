@@ -1484,11 +1484,20 @@
                     "rating_update_time_seconds": 1722789300,
                     "old_rating": 1892,
                     "new_rating": 1949
+                },
+                {
+                    "contest_id": 2003,
+                    "contest_name": "Codeforces Round 968 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 313,
+                    "rating_update_time_seconds": 1724603700,
+                    "old_rating": 1949,
+                    "new_rating": 1996
                 }
             ],
-            "rating": 1949,
+            "rating": 1996,
             "problem_total": 1241,
-            "contest_total": 84
+            "contest_total": 85
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3092,10 +3101,19 @@
                     "rating_update_time_seconds": 1715963700,
                     "old_rating": 1613,
                     "new_rating": 1659
+                },
+                {
+                    "contest_id": 2003,
+                    "contest_name": "Codeforces Round 968 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 1630,
+                    "rating_update_time_seconds": 1724603700,
+                    "old_rating": 1659,
+                    "new_rating": 1683
                 }
             ],
-            "rating": 1659,
-            "contest_total": 17
+            "rating": 1683,
+            "contest_total": 18
         },
         "章诚益": {
             "name": "章诚益",
@@ -3498,11 +3516,20 @@
                     "rating_update_time_seconds": 1724171700,
                     "old_rating": 1981,
                     "new_rating": 2041
+                },
+                {
+                    "contest_id": 2003,
+                    "contest_name": "Codeforces Round 968 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 732,
+                    "rating_update_time_seconds": 1724603700,
+                    "old_rating": 2041,
+                    "new_rating": 2018
                 }
             ],
             "problem_total": 524,
-            "rating": 2041,
-            "contest_total": 35
+            "rating": 2018,
+            "contest_total": 36
         },
         "张朝": {
             "name": "张朝",
@@ -7665,5 +7692,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-26 02:13:02"
+    "update_time": "2024-08-26 02:37:01"
 }
