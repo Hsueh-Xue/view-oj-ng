@@ -1487,7 +1487,7 @@
                 }
             ],
             "rating": 1949,
-            "problem_total": 1236,
+            "problem_total": 1240,
             "contest_total": 84
         },
         "邵茹怡": {
@@ -2938,7 +2938,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 204,
+            "problem_total": 207,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -3500,7 +3500,7 @@
                     "new_rating": 2041
                 }
             ],
-            "problem_total": 519,
+            "problem_total": 521,
             "rating": 2041,
             "contest_total": 35
         },
@@ -7665,5 +7665,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-26 00:38:19"
+    "update_time": "2024-08-26 01:12:22"
 }
