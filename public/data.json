@@ -1496,7 +1496,7 @@
                 }
             ],
             "rating": 1996,
-            "problem_total": 1241,
+            "problem_total": 1242,
             "contest_total": 85
         },
         "邵茹怡": {
@@ -4294,7 +4294,7 @@
                 }
             ],
             "contest_total": 84,
-            "problem_total": 1140,
+            "problem_total": 1141,
             "rating": 1977
         },
         "何家琛": {
@@ -7692,5 +7692,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-31 01:12:04"
+    "update_time": "2024-08-31 01:36:41"
 }
