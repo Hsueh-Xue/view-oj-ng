@@ -2625,7 +2625,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 513
+            "problem_total": 514
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -5948,7 +5948,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 904,
+            "problem_total": 905,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7710,5 +7710,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-08-31 15:10:24"
+    "update_time": "2024-08-31 15:35:53"
 }
