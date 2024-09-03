@@ -3536,7 +3536,7 @@
                     "new_rating": 2020
                 }
             ],
-            "problem_total": 528,
+            "problem_total": 530,
             "rating": 2020,
             "contest_total": 36
         },
@@ -5948,7 +5948,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 924,
+            "problem_total": 929,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7177,7 +7177,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1420,
-            "problem_total": 191,
+            "problem_total": 194,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7728,5 +7728,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-03 08:50:35"
+    "update_time": "2024-09-03 10:06:48"
 }
