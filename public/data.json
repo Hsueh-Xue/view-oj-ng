@@ -2073,7 +2073,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 418,
+            "problem_total": 419,
             "contest_total": 62
         },
         "叶宏健": {
@@ -5803,7 +5803,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 341,
+            "problem_total": 342,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7728,5 +7728,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-03 16:15:08"
+    "update_time": "2024-09-03 16:40:16"
 }
