@@ -5803,7 +5803,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 356,
+            "problem_total": 357,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7728,5 +7728,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-06 21:18:50"
+    "update_time": "2024-09-06 21:39:24"
 }
