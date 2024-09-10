@@ -1493,11 +1493,20 @@
                     "rating_update_time_seconds": 1724603700,
                     "old_rating": 1949,
                     "new_rating": 1996
+                },
+                {
+                    "contest_id": 2006,
+                    "contest_name": "Codeforces Round 969 (Div. 1)",
+                    "handle": "EdGrass",
+                    "rank": 805,
+                    "rating_update_time_seconds": 1725037500,
+                    "old_rating": 1996,
+                    "new_rating": 1962
                 }
             ],
-            "rating": 1996,
+            "rating": 1962,
             "problem_total": 1253,
-            "contest_total": 85
+            "contest_total": 86
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4291,11 +4300,20 @@
                     "rating_update_time_seconds": 1723739700,
                     "old_rating": 1981,
                     "new_rating": 1977
+                },
+                {
+                    "contest_id": 2006,
+                    "contest_name": "Codeforces Round 969 (Div. 1)",
+                    "handle": "BowTen",
+                    "rank": 680,
+                    "rating_update_time_seconds": 1725037500,
+                    "old_rating": 1977,
+                    "new_rating": 1980
                 }
             ],
-            "contest_total": 84,
+            "contest_total": 85,
             "problem_total": 1158,
-            "rating": 1977
+            "rating": 1980
         },
         "何家琛": {
             "name": "何家琛",
@@ -7692,5 +7710,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-11 02:15:03"
+    "update_time": "2024-09-11 02:41:10"
 }
