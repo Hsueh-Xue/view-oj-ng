@@ -7040,7 +7040,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 68,
+            "problem_total": 69,
             "rating": 1200,
             "contest_total": 14,
             "contest_info": [
@@ -7487,7 +7487,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1254,
-            "problem_total": 59,
+            "problem_total": 60,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -7728,5 +7728,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-13 14:42:49"
+    "update_time": "2024-09-13 15:12:31"
 }
