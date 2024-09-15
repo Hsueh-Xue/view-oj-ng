@@ -5957,7 +5957,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 1001,
+            "problem_total": 1003,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7737,5 +7737,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-16 05:11:02"
+    "update_time": "2024-09-16 05:34:50"
 }
