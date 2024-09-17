@@ -2073,7 +2073,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 428,
+            "problem_total": 429,
             "contest_total": 62
         },
         "叶宏健": {
@@ -2625,7 +2625,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 530
+            "problem_total": 531
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -3545,7 +3545,7 @@
                     "new_rating": 2020
                 }
             ],
-            "problem_total": 534,
+            "problem_total": 535,
             "rating": 2020,
             "contest_total": 36
         },
@@ -5585,7 +5585,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 285,
+            "problem_total": 286,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5812,7 +5812,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 358,
+            "problem_total": 359,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7737,5 +7737,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-17 13:13:39"
+    "update_time": "2024-09-17 13:36:25"
 }
