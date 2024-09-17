@@ -3118,10 +3118,10 @@
                     "rank": 1526,
                     "rating_update_time_seconds": 1724603700,
                     "old_rating": 1659,
-                    "new_rating": 1767
+                    "new_rating": 1684
                 }
             ],
-            "rating": 1767,
+            "rating": 1684,
             "contest_total": 18
         },
         "章诚益": {
@@ -7728,5 +7728,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-18 03:09:53"
+    "update_time": "2024-09-18 03:35:20"
 }
