@@ -6354,7 +6354,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 110,
+            "problem_total": 108,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -7746,5 +7746,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-22 13:12:35"
+    "update_time": "2024-09-22 13:36:47"
 }
