@@ -3554,7 +3554,7 @@
                     "new_rating": 2020
                 }
             ],
-            "problem_total": 539,
+            "problem_total": 540,
             "rating": 2020,
             "contest_total": 36
         },
@@ -7746,5 +7746,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-24 15:12:24"
+    "update_time": "2024-09-24 15:34:39"
 }
