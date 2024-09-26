@@ -1501,21 +1501,12 @@
                     "rank": 805,
                     "rating_update_time_seconds": 1725037500,
                     "old_rating": 1996,
-                    "new_rating": 1962
-                },
-                {
-                    "contest_id": 2013,
-                    "contest_name": "Codeforces Round 973 (Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 224,
-                    "rating_update_time_seconds": 1726850100,
-                    "old_rating": 1962,
                     "new_rating": 2016
                 }
             ],
             "rating": 2016,
             "problem_total": 1275,
-            "contest_total": 87
+            "contest_total": 86
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -7746,5 +7737,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-26 21:41:23"
+    "update_time": "2024-09-26 22:12:02"
 }
