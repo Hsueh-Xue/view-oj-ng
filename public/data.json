@@ -2958,7 +2958,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 943,
+            "problem_total": 946,
             "rating": 1615
         },
         "戴子晟": {
@@ -6606,7 +6606,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1369,
-            "problem_total": 109,
+            "problem_total": 110,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7764,5 +7764,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-30 15:34:32"
+    "update_time": "2024-09-30 16:17:48"
 }
