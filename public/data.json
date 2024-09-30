@@ -2082,7 +2082,7 @@
                 }
             ],
             "rating": 1622,
-            "problem_total": 445,
+            "problem_total": 446,
             "contest_total": 62
         },
         "叶宏健": {
@@ -2634,7 +2634,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 538
+            "problem_total": 539
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -6372,7 +6372,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 112,
+            "problem_total": 114,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -7764,5 +7764,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-09-30 20:24:39"
+    "update_time": "2024-09-30 20:59:58"
 }
