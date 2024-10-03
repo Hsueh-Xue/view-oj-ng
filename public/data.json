@@ -3136,20 +3136,11 @@
                     "rank": 597,
                     "rating_update_time_seconds": 1726331700,
                     "old_rating": 1684,
-                    "new_rating": 1769
-                },
-                {
-                    "contest_id": 2019,
-                    "contest_name": "Codeforces Round 975 (Div. 2)",
-                    "handle": "SHOJIG",
-                    "rank": 3160,
-                    "rating_update_time_seconds": 1727453100,
-                    "old_rating": 1769,
                     "new_rating": 1700
                 }
             ],
             "rating": 1700,
-            "contest_total": 20
+            "contest_total": 19
         },
         "章诚益": {
             "name": "章诚益",
@@ -4335,19 +4326,10 @@
                     "rank": 680,
                     "rating_update_time_seconds": 1725037500,
                     "old_rating": 1977,
-                    "new_rating": 1980
-                },
-                {
-                    "contest_id": 2018,
-                    "contest_name": "Codeforces Round 975 (Div. 1)",
-                    "handle": "BowTen",
-                    "rank": 1128,
-                    "rating_update_time_seconds": 1727453100,
-                    "old_rating": 1980,
                     "new_rating": 1883
                 }
             ],
-            "contest_total": 86,
+            "contest_total": 85,
             "problem_total": 1188,
             "rating": 1883
         },
@@ -7764,5 +7746,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-03 20:29:22"
+    "update_time": "2024-10-03 20:58:23"
 }
