@@ -2634,7 +2634,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 540
+            "problem_total": 541
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -4348,7 +4348,7 @@
                 }
             ],
             "contest_total": 86,
-            "problem_total": 1188,
+            "problem_total": 1189,
             "rating": 1883
         },
         "何家琛": {
@@ -7401,7 +7401,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 32,
+            "problem_total": 33,
             "rating": 0,
             "contest_total": 0
         },
@@ -7764,5 +7764,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-04 10:15:23"
+    "update_time": "2024-10-04 11:02:12"
 }
