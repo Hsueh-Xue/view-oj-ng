@@ -3561,11 +3561,20 @@
                     "rating_update_time_seconds": 1724603700,
                     "old_rating": 2041,
                     "new_rating": 2020
+                },
+                {
+                    "contest_id": 2021,
+                    "contest_name": "Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",
+                    "handle": "afeng111",
+                    "rank": 489,
+                    "rating_update_time_seconds": 1728201900,
+                    "old_rating": 2020,
+                    "new_rating": 2017
                 }
             ],
             "problem_total": 548,
-            "rating": 2020,
-            "contest_total": 36
+            "rating": 2017,
+            "contest_total": 37
         },
         "张朝": {
             "name": "张朝",
@@ -7212,7 +7221,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1420,
+            "rating": 1384,
             "problem_total": 228,
             "contest_info": [
                 {
@@ -7340,9 +7349,18 @@
                     "rating_update_time_seconds": 1717433400,
                     "old_rating": 1445,
                     "new_rating": 1420
+                },
+                {
+                    "contest_id": 2021,
+                    "contest_name": "Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",
+                    "handle": "blhxsdzjr",
+                    "rank": 4908,
+                    "rating_update_time_seconds": 1728201900,
+                    "old_rating": 1420,
+                    "new_rating": 1384
                 }
             ],
-            "contest_total": 14
+            "contest_total": 15
         },
         "陈天意": {
             "name": "陈天意",
@@ -7764,5 +7782,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-06 16:39:25"
+    "update_time": "2024-10-06 17:14:42"
 }
