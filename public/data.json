@@ -3563,7 +3563,7 @@
                     "new_rating": 2020
                 }
             ],
-            "problem_total": 545,
+            "problem_total": 548,
             "rating": 2020,
             "contest_total": 36
         },
@@ -7213,7 +7213,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1420,
-            "problem_total": 225,
+            "problem_total": 228,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7764,5 +7764,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-06 16:14:21"
+    "update_time": "2024-10-06 16:39:25"
 }
