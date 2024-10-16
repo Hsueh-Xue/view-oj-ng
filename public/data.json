@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1275,
+            "problem_total": 1288,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2634,7 +2634,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 545
+            "problem_total": 546
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -2958,14 +2958,14 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 947,
+            "problem_total": 977,
             "rating": 1615
         },
         "戴子晟": {
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 233,
+            "problem_total": 236,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -3570,11 +3570,20 @@
                     "rating_update_time_seconds": 1728201900,
                     "old_rating": 2020,
                     "new_rating": 2017
+                },
+                {
+                    "contest_id": 2025,
+                    "contest_name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 495,
+                    "rating_update_time_seconds": 1728923700,
+                    "old_rating": 2017,
+                    "new_rating": 2015
                 }
             ],
-            "problem_total": 548,
-            "rating": 2017,
-            "contest_total": 37
+            "problem_total": 552,
+            "rating": 2015,
+            "contest_total": 38
         },
         "张朝": {
             "name": "张朝",
@@ -4354,11 +4363,20 @@
                     "rating_update_time_seconds": 1727453100,
                     "old_rating": 1980,
                     "new_rating": 1883
+                },
+                {
+                    "contest_id": 2025,
+                    "contest_name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1613,
+                    "rating_update_time_seconds": 1728923700,
+                    "old_rating": 1883,
+                    "new_rating": 1846
                 }
             ],
-            "contest_total": 86,
-            "problem_total": 1197,
-            "rating": 1883
+            "contest_total": 87,
+            "problem_total": 1210,
+            "rating": 1846
         },
         "何家琛": {
             "name": "何家琛",
@@ -5575,7 +5593,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 120,
+            "problem_total": 123,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -5621,7 +5639,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 292,
+            "problem_total": 293,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5848,7 +5866,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 368,
+            "problem_total": 371,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -5993,7 +6011,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 1026,
+            "problem_total": 1031,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6525,7 +6543,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 25,
+            "problem_total": 35,
             "rating": 0,
             "contest_total": 0
         },
@@ -6534,7 +6552,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 120,
+            "problem_total": 133,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -6615,7 +6633,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1369,
-            "problem_total": 112,
+            "problem_total": 118,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -6887,7 +6905,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 417,
+            "problem_total": 441,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7541,7 +7559,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1254,
-            "problem_total": 61,
+            "problem_total": 62,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -7782,5 +7800,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-10 07:13:39"
+    "update_time": "2024-10-17 00:13:28"
 }
