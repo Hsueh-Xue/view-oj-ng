@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1294,
+            "problem_total": 1296,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -7453,7 +7453,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 51,
+            "problem_total": 52,
             "rating": 0,
             "contest_total": 0
         },
@@ -7800,5 +7800,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-19 10:12:56"
+    "update_time": "2024-10-19 11:01:05"
 }
