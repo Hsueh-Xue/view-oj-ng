@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1305,
+            "problem_total": 1306,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -4384,7 +4384,7 @@
                 }
             ],
             "contest_total": 87,
-            "problem_total": 1216,
+            "problem_total": 1217,
             "rating": 1846
         },
         "何家琛": {
@@ -7809,5 +7809,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-22 21:25:22"
+    "update_time": "2024-10-22 21:40:25"
 }
