@@ -2958,7 +2958,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 982,
+            "problem_total": 984,
             "rating": 1615
         },
         "戴子晟": {
@@ -7567,9 +7567,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1254,
+            "rating": 1272,
             "problem_total": 69,
-            "contest_total": 9,
+            "contest_total": 10,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7651,6 +7651,15 @@
                     "rating_update_time_seconds": 1725209400,
                     "old_rating": 1256,
                     "new_rating": 1254
+                },
+                {
+                    "contest_id": 2033,
+                    "contest_name": "Codeforces Round 981 (Div. 3)",
+                    "handle": "qqbb111",
+                    "rank": 4888,
+                    "rating_update_time_seconds": 1729788600,
+                    "old_rating": 1254,
+                    "new_rating": 1272
                 }
             ]
         },
@@ -7809,5 +7818,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-25 19:35:41"
+    "update_time": "2024-10-25 20:22:14"
 }
