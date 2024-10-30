@@ -6552,7 +6552,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 39,
+            "problem_total": 40,
             "rating": 0,
             "contest_total": 0
         },
@@ -6561,7 +6561,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 147,
+            "problem_total": 148,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -6914,7 +6914,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 446,
+            "problem_total": 447,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7818,5 +7818,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-30 15:36:25"
+    "update_time": "2024-10-30 16:16:58"
 }
