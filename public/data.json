@@ -1514,7 +1514,7 @@
                 }
             ],
             "rating": 2016,
-            "problem_total": 1280,
+            "problem_total": 1281,
             "contest_total": 87
         },
         "邵茹怡": {
@@ -6020,7 +6020,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 1053,
+            "problem_total": 1057,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7818,5 +7818,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-10-30 20:23:07"
+    "update_time": "2024-10-30 20:58:51"
 }
