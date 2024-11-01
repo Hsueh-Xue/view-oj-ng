@@ -4384,7 +4384,7 @@
                 }
             ],
             "contest_total": 87,
-            "problem_total": 1219,
+            "problem_total": 1220,
             "rating": 1846
         },
         "何家琛": {
@@ -6642,7 +6642,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1369,
-            "problem_total": 129,
+            "problem_total": 130,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7818,5 +7818,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-01 13:12:52"
+    "update_time": "2024-11-01 13:38:59"
 }
