@@ -1510,10 +1510,10 @@
                     "rank": 220,
                     "rating_update_time_seconds": 1726850100,
                     "old_rating": 1962,
-                    "new_rating": 2024
+                    "new_rating": 2016
                 }
             ],
-            "rating": 2024,
+            "rating": 2016,
             "problem_total": 1286,
             "contest_total": 87
         },
@@ -3560,12 +3560,30 @@
                     "rank": 665,
                     "rating_update_time_seconds": 1724603700,
                     "old_rating": 2041,
-                    "new_rating": 1915
+                    "new_rating": 2020
+                },
+                {
+                    "contest_id": 2021,
+                    "contest_name": "Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",
+                    "handle": "afeng111",
+                    "rank": 482,
+                    "rating_update_time_seconds": 1728201900,
+                    "old_rating": 2020,
+                    "new_rating": 2018
+                },
+                {
+                    "contest_id": 2025,
+                    "contest_name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 483,
+                    "rating_update_time_seconds": 1728923700,
+                    "old_rating": 2018,
+                    "new_rating": 2017
                 }
             ],
             "problem_total": 555,
-            "rating": 1915,
-            "contest_total": 36
+            "rating": 2017,
+            "contest_total": 38
         },
         "张朝": {
             "name": "张朝",
@@ -4344,12 +4362,21 @@
                     "rank": 1127,
                     "rating_update_time_seconds": 1727453100,
                     "old_rating": 1980,
-                    "new_rating": 1760
+                    "new_rating": 1883
+                },
+                {
+                    "contest_id": 2025,
+                    "contest_name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 1579,
+                    "rating_update_time_seconds": 1728923700,
+                    "old_rating": 1883,
+                    "new_rating": 1847
                 }
             ],
-            "contest_total": 86,
+            "contest_total": 87,
             "problem_total": 1247,
-            "rating": 1760
+            "rating": 1847
         },
         "何家琛": {
             "name": "何家琛",
@@ -6605,7 +6632,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1365,
+            "rating": 1369,
             "problem_total": 138,
             "contest_info": [
                 {
@@ -6714,7 +6741,7 @@
                     "rank": 5086,
                     "rating_update_time_seconds": 1721320500,
                     "old_rating": 1366,
-                    "new_rating": 1365
+                    "new_rating": 1369
                 }
             ],
             "contest_total": 12
@@ -7212,7 +7239,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1384,
+            "rating": 1385,
             "problem_total": 247,
             "contest_info": [
                 {
@@ -7339,10 +7366,19 @@
                     "rank": 5193,
                     "rating_update_time_seconds": 1717433400,
                     "old_rating": 1445,
-                    "new_rating": 1384
+                    "new_rating": 1420
+                },
+                {
+                    "contest_id": 2021,
+                    "contest_name": "Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",
+                    "handle": "blhxsdzjr",
+                    "rank": 4766,
+                    "rating_update_time_seconds": 1728201900,
+                    "old_rating": 1420,
+                    "new_rating": 1385
                 }
             ],
-            "contest_total": 14
+            "contest_total": 15
         },
         "陈天意": {
             "name": "陈天意",
@@ -7522,7 +7558,7 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1272,
+            "rating": 1254,
             "problem_total": 69,
             "contest_total": 9,
             "contest_info": [
@@ -7605,7 +7641,7 @@
                     "rank": 6455,
                     "rating_update_time_seconds": 1725209400,
                     "old_rating": 1256,
-                    "new_rating": 1272
+                    "new_rating": 1254
                 }
             ]
         },
@@ -7764,5 +7800,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-07 02:16:06"
+    "update_time": "2024-11-07 02:43:09"
 }
