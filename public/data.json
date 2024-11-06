@@ -3579,11 +3579,20 @@
                     "rating_update_time_seconds": 1728923700,
                     "old_rating": 2018,
                     "new_rating": 2017
+                },
+                {
+                    "contest_id": 2030,
+                    "contest_name": "Codeforces Round 979 (Div. 2)",
+                    "handle": "afeng111",
+                    "rank": 2359,
+                    "rating_update_time_seconds": 1729354800,
+                    "old_rating": 2017,
+                    "new_rating": 1917
                 }
             ],
             "problem_total": 555,
-            "rating": 2017,
-            "contest_total": 38
+            "rating": 1917,
+            "contest_total": 39
         },
         "张朝": {
             "name": "张朝",
@@ -7800,5 +7809,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-07 02:43:09"
+    "update_time": "2024-11-07 03:10:22"
 }
