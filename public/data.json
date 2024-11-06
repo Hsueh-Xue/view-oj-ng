@@ -1511,11 +1511,20 @@
                     "rating_update_time_seconds": 1726850100,
                     "old_rating": 1962,
                     "new_rating": 2016
+                },
+                {
+                    "contest_id": 2032,
+                    "contest_name": "Codeforces Round 983 (Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 409,
+                    "rating_update_time_seconds": 1730478900,
+                    "old_rating": 2016,
+                    "new_rating": 2024
                 }
             ],
-            "rating": 2016,
+            "rating": 2024,
             "problem_total": 1286,
-            "contest_total": 87
+            "contest_total": 88
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4381,11 +4390,20 @@
                     "rating_update_time_seconds": 1728923700,
                     "old_rating": 1883,
                     "new_rating": 1847
+                },
+                {
+                    "contest_id": 2032,
+                    "contest_name": "Codeforces Round 983 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 3219,
+                    "rating_update_time_seconds": 1730478900,
+                    "old_rating": 1847,
+                    "new_rating": 1765
                 }
             ],
-            "contest_total": 87,
+            "contest_total": 88,
             "problem_total": 1247,
-            "rating": 1847
+            "rating": 1765
         },
         "何家琛": {
             "name": "何家琛",
@@ -6641,7 +6659,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1369,
+            "rating": 1371,
             "problem_total": 138,
             "contest_info": [
                 {
@@ -6751,9 +6769,18 @@
                     "rating_update_time_seconds": 1721320500,
                     "old_rating": 1366,
                     "new_rating": 1369
+                },
+                {
+                    "contest_id": 2032,
+                    "contest_name": "Codeforces Round 983 (Div. 2)",
+                    "handle": "QF_shengxiu",
+                    "rank": 4535,
+                    "rating_update_time_seconds": 1730478900,
+                    "old_rating": 1369,
+                    "new_rating": 1371
                 }
             ],
-            "contest_total": 12
+            "contest_total": 13
         },
         "刘旭": {
             "name": "刘旭",
@@ -7818,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-07 03:35:46"
+    "update_time": "2024-11-07 04:13:34"
 }
