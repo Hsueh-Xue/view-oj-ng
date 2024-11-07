@@ -5620,7 +5620,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 152,
+            "problem_total": 153,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -6038,7 +6038,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 1080,
+            "problem_total": 1085,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-07 08:54:03"
+    "update_time": "2024-11-07 10:12:45"
 }
