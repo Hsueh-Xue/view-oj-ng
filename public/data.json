@@ -2967,7 +2967,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1017,
+            "problem_total": 1018,
             "rating": 1615
         },
         "戴子晟": {
@@ -6038,7 +6038,7 @@
             "grade": 2023,
             "codeforces_handle": "Healexr",
             "rating": 2107,
-            "problem_total": 1085,
+            "problem_total": 1086,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-07 22:36:50"
+    "update_time": "2024-11-07 23:12:35"
 }
