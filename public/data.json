@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1356,
+            "problem_total": 1357,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -2967,14 +2967,14 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1018,
+            "problem_total": 1019,
             "rating": 1615
         },
         "戴子晟": {
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 262,
+            "problem_total": 263,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-09 13:11:31"
+    "update_time": "2024-11-09 13:36:32"
 }
