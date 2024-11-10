@@ -5893,7 +5893,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 385,
+            "problem_total": 386,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7595,7 +7595,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1273,
-            "problem_total": 69,
+            "problem_total": 70,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-10 16:13:48"
+    "update_time": "2024-11-10 16:37:55"
 }
