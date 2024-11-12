@@ -6426,7 +6426,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 124,
+            "problem_total": 125,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -6579,7 +6579,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 173,
+            "problem_total": 174,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7489,7 +7489,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 65,
+            "problem_total": 66,
             "rating": 0,
             "contest_total": 0
         },
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-12 21:38:46"
+    "update_time": "2024-11-12 22:12:00"
 }
