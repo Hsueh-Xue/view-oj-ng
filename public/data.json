@@ -2967,7 +2967,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1021,
+            "problem_total": 1022,
             "rating": 1615
         },
         "戴子晟": {
@@ -6579,7 +6579,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 183,
+            "problem_total": 184,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-13 21:22:08"
+    "update_time": "2024-11-13 21:38:37"
 }
