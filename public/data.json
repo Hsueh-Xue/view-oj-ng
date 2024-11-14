@@ -4402,7 +4402,7 @@
                 }
             ],
             "contest_total": 88,
-            "problem_total": 1274,
+            "problem_total": 1275,
             "rating": 1765
         },
         "何家琛": {
@@ -6579,7 +6579,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 191,
+            "problem_total": 193,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-14 19:34:39"
+    "update_time": "2024-11-14 20:22:57"
 }
