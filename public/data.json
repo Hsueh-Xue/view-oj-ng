@@ -1523,7 +1523,7 @@
                 }
             ],
             "rating": 2024,
-            "problem_total": 1287,
+            "problem_total": 1290,
             "contest_total": 88
         },
         "邵茹怡": {
@@ -4399,11 +4399,20 @@
                     "rating_update_time_seconds": 1730478900,
                     "old_rating": 1847,
                     "new_rating": 1765
+                },
+                {
+                    "contest_id": 2031,
+                    "contest_name": "Codeforces Round 987 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 570,
+                    "rating_update_time_seconds": 1731681300,
+                    "old_rating": 1765,
+                    "new_rating": 1816
                 }
             ],
-            "contest_total": 88,
+            "contest_total": 89,
             "problem_total": 1283,
-            "rating": 1765
+            "rating": 1816
         },
         "何家琛": {
             "name": "何家琛",
@@ -7845,5 +7854,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-15 23:38:14"
+    "update_time": "2024-11-16 00:15:31"
 }
