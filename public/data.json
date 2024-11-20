@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1377,
+            "problem_total": 1379,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -6669,7 +6669,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1371,
-            "problem_total": 158,
+            "problem_total": 159,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7854,5 +7854,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-20 22:12:35"
+    "update_time": "2024-11-20 22:41:31"
 }
