@@ -5902,7 +5902,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 393,
+            "problem_total": 394,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6579,7 +6579,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 72,
+            "problem_total": 73,
             "rating": 0,
             "contest_total": 0
         },
@@ -7854,5 +7854,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-20 11:08:44"
+    "update_time": "2024-11-20 11:46:38"
 }
