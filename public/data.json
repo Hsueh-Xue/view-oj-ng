@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1382,
+            "problem_total": 1383,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -4399,11 +4399,20 @@
                     "rating_update_time_seconds": 1730478900,
                     "old_rating": 1847,
                     "new_rating": 1765
+                },
+                {
+                    "contest_id": 2031,
+                    "contest_name": "Codeforces Round 987 (Div. 2)",
+                    "handle": "BowTen",
+                    "rank": 567,
+                    "rating_update_time_seconds": 1731681300,
+                    "old_rating": 1765,
+                    "new_rating": 1817
                 }
             ],
-            "contest_total": 88,
+            "contest_total": 89,
             "problem_total": 1304,
-            "rating": 1765
+            "rating": 1817
         },
         "何家琛": {
             "name": "何家琛",
@@ -7845,5 +7854,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-21 22:40:57"
+    "update_time": "2024-11-21 23:13:13"
 }
