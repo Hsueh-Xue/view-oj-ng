@@ -4398,12 +4398,12 @@
                     "rank": 3219,
                     "rating_update_time_seconds": 1730478900,
                     "old_rating": 1847,
-                    "new_rating": 1816
+                    "new_rating": 1765
                 }
             ],
             "contest_total": 88,
             "problem_total": 1304,
-            "rating": 1816
+            "rating": 1765
         },
         "何家琛": {
             "name": "何家琛",
@@ -7845,5 +7845,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-21 22:12:21"
+    "update_time": "2024-11-21 22:40:57"
 }
