@@ -6453,7 +6453,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 129,
+            "problem_total": 130,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -7303,7 +7303,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1385,
-            "problem_total": 260,
+            "problem_total": 261,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7872,5 +7872,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-24 07:37:27"
+    "update_time": "2024-11-24 09:01:34"
 }
