@@ -6402,7 +6402,7 @@
                 },
                 {
                     "contest_id": 1994,
-                    "contest_name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
+                    "contest_name": "Codeforces Round 959 при поддержке NEAR (Div. 1 + Div. 2)",
                     "handle": "Healexr",
                     "rank": 926,
                     "rating_update_time_seconds": 1721320500,
@@ -7872,5 +7872,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-11-25 18:14:11"
+    "update_time": "2024-11-25 18:43:01"
 }
