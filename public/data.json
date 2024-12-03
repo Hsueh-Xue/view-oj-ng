@@ -5920,7 +5920,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 403,
+            "problem_total": 404,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6064,7 +6064,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1928,
+            "rating": 1927,
             "problem_total": 1152,
             "contest_info": [
                 {
@@ -6453,9 +6453,18 @@
                     "rating_update_time_seconds": 1732988100,
                     "old_rating": 2107,
                     "new_rating": 1928
+                },
+                {
+                    "contest_id": 2042,
+                    "contest_name": "Educational Codeforces Round 172 (Rated for Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 614,
+                    "rating_update_time_seconds": 1733157300,
+                    "old_rating": 1928,
+                    "new_rating": 1927
                 }
             ],
-            "contest_total": 43
+            "contest_total": 44
         },
         "葛先步": {
             "name": "葛先步",
@@ -7542,7 +7551,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 4,
+            "problem_total": 5,
             "contest_total": 0
         },
         "沈万婷": {
@@ -7881,5 +7890,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-03 19:11:37"
+    "update_time": "2024-12-03 19:35:27"
 }
