@@ -4407,19 +4407,10 @@
                     "rank": 567,
                     "rating_update_time_seconds": 1731681300,
                     "old_rating": 1765,
-                    "new_rating": 1817
-                },
-                {
-                    "contest_id": 2039,
-                    "contest_name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
-                    "handle": "BowTen",
-                    "rank": 1244,
-                    "rating_update_time_seconds": 1732383300,
-                    "old_rating": 1817,
                     "new_rating": 1848
                 }
             ],
-            "contest_total": 90,
+            "contest_total": 89,
             "problem_total": 1316,
             "rating": 1848
         },
@@ -7863,5 +7854,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-05 15:13:09"
+    "update_time": "2024-12-05 15:37:25"
 }
