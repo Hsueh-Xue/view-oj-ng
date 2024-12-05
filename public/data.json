@@ -1519,21 +1519,12 @@
                     "rank": 409,
                     "rating_update_time_seconds": 1730478900,
                     "old_rating": 2016,
-                    "new_rating": 2024
-                },
-                {
-                    "contest_id": 2039,
-                    "contest_name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
-                    "handle": "EdGrass",
-                    "rank": 1825,
-                    "rating_update_time_seconds": 1732383300,
-                    "old_rating": 2024,
                     "new_rating": 1960
                 }
             ],
             "rating": 1960,
             "problem_total": 1294,
-            "contest_total": 89
+            "contest_total": 88
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -6443,37 +6434,10 @@
                     "rank": 181,
                     "rating_update_time_seconds": 1723307700,
                     "old_rating": 2061,
-                    "new_rating": 2107
-                },
-                {
-                    "contest_id": 2034,
-                    "contest_name": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 4476,
-                    "rating_update_time_seconds": 1732988100,
-                    "old_rating": 2107,
-                    "new_rating": 1928
-                },
-                {
-                    "contest_id": 2042,
-                    "contest_name": "Educational Codeforces Round 172 (Rated for Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 614,
-                    "rating_update_time_seconds": 1733157300,
-                    "old_rating": 1928,
-                    "new_rating": 1927
-                },
-                {
-                    "contest_id": 2046,
-                    "contest_name": "Codeforces Round 990 (Div. 1)",
-                    "handle": "Healexr",
-                    "rank": 725,
-                    "rating_update_time_seconds": 1733214300,
-                    "old_rating": 1927,
                     "new_rating": 1843
                 }
             ],
-            "contest_total": 45
+            "contest_total": 42
         },
         "葛先步": {
             "name": "葛先步",
@@ -7899,5 +7863,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-05 14:46:57"
+    "update_time": "2024-12-05 15:13:09"
 }
