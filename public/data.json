@@ -1519,10 +1519,10 @@
                     "rank": 409,
                     "rating_update_time_seconds": 1730478900,
                     "old_rating": 2016,
-                    "new_rating": 1960
+                    "new_rating": 2024
                 }
             ],
-            "rating": 1960,
+            "rating": 2024,
             "problem_total": 1294,
             "contest_total": 88
         },
@@ -4407,12 +4407,12 @@
                     "rank": 567,
                     "rating_update_time_seconds": 1731681300,
                     "old_rating": 1765,
-                    "new_rating": 1848
+                    "new_rating": 1817
                 }
             ],
             "contest_total": 89,
             "problem_total": 1316,
-            "rating": 1848
+            "rating": 1817
         },
         "何家琛": {
             "name": "何家琛",
@@ -6046,7 +6046,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1843,
+            "rating": 2107,
             "problem_total": 1153,
             "contest_info": [
                 {
@@ -6425,7 +6425,7 @@
                     "rank": 181,
                     "rating_update_time_seconds": 1723307700,
                     "old_rating": 2061,
-                    "new_rating": 1843
+                    "new_rating": 2107
                 }
             ],
             "contest_total": 42
@@ -7854,5 +7854,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-05 15:37:25"
+    "update_time": "2024-12-05 16:18:07"
 }
