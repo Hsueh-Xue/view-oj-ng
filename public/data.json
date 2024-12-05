@@ -6064,7 +6064,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1929,
+            "rating": 1845,
             "problem_total": 1153,
             "contest_info": [
                 {
@@ -6462,9 +6462,18 @@
                     "rating_update_time_seconds": 1733157300,
                     "old_rating": 1931,
                     "new_rating": 1929
+                },
+                {
+                    "contest_id": 2046,
+                    "contest_name": "Codeforces Round 990 (Div. 1)",
+                    "handle": "Healexr",
+                    "rank": 725,
+                    "rating_update_time_seconds": 1733214300,
+                    "old_rating": 1929,
+                    "new_rating": 1845
                 }
             ],
-            "contest_total": 44
+            "contest_total": 45
         },
         "葛先步": {
             "name": "葛先步",
@@ -7890,5 +7899,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-05 17:39:27"
+    "update_time": "2024-12-05 18:14:30"
 }
