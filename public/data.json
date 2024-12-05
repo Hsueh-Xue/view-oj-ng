@@ -1520,11 +1520,20 @@
                     "rating_update_time_seconds": 1730478900,
                     "old_rating": 2016,
                     "new_rating": 2024
+                },
+                {
+                    "contest_id": 2039,
+                    "contest_name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "EdGrass",
+                    "rank": 1817,
+                    "rating_update_time_seconds": 1732383300,
+                    "old_rating": 2024,
+                    "new_rating": 1961
                 }
             ],
-            "rating": 2024,
+            "rating": 1961,
             "problem_total": 1294,
-            "contest_total": 88
+            "contest_total": 89
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -4408,11 +4417,20 @@
                     "rating_update_time_seconds": 1731681300,
                     "old_rating": 1765,
                     "new_rating": 1817
+                },
+                {
+                    "contest_id": 2039,
+                    "contest_name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
+                    "handle": "BowTen",
+                    "rank": 1242,
+                    "rating_update_time_seconds": 1732383300,
+                    "old_rating": 1817,
+                    "new_rating": 1848
                 }
             ],
-            "contest_total": 89,
+            "contest_total": 90,
             "problem_total": 1316,
-            "rating": 1817
+            "rating": 1848
         },
         "何家琛": {
             "name": "何家琛",
@@ -7854,5 +7872,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-05 16:18:07"
+    "update_time": "2024-12-05 16:44:52"
 }
