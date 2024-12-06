@@ -2652,7 +2652,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 550
+            "problem_total": 551
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -7544,8 +7544,19 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 69,
-            "rating": 0,
-            "contest_total": 0
+            "rating": 464,
+            "contest_total": 1,
+            "contest_info": [
+                {
+                    "contest_id": 2050,
+                    "contest_name": "Codeforces Round 991 (Div. 3)",
+                    "handle": "LuCiiiD",
+                    "rank": 5744,
+                    "rating_update_time_seconds": 1733417400,
+                    "old_rating": 0,
+                    "new_rating": 464
+                }
+            ]
         },
         "王展怡": {
             "name": "王展怡",
@@ -7899,5 +7910,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-06 17:14:14"
+    "update_time": "2024-12-06 17:38:50"
 }
