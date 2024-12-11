@@ -1532,7 +1532,7 @@
                 }
             ],
             "rating": 1961,
-            "problem_total": 1305,
+            "problem_total": 1309,
             "contest_total": 89
         },
         "邵茹怡": {
@@ -6064,8 +6064,8 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1845,
-            "problem_total": 1169,
+            "rating": 1639,
+            "problem_total": 1178,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6471,16 +6471,25 @@
                     "rating_update_time_seconds": 1733214300,
                     "old_rating": 1929,
                     "new_rating": 1845
+                },
+                {
+                    "contest_id": 2040,
+                    "contest_name": "Codeforces Round 992 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 12908,
+                    "rating_update_time_seconds": 1733675700,
+                    "old_rating": 1845,
+                    "new_rating": 1639
                 }
             ],
-            "contest_total": 45
+            "contest_total": 46
         },
         "葛先步": {
             "name": "葛先步",
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 131,
+            "problem_total": 133,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -7910,5 +7919,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-08 09:04:18"
+    "update_time": "2024-12-11 23:03:47"
 }
