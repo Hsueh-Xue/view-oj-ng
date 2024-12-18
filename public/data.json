@@ -7553,8 +7553,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 76,
-            "rating": 465,
-            "contest_total": 1,
+            "rating": 749,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7564,6 +7564,15 @@
                     "rating_update_time_seconds": 1733417400,
                     "old_rating": 0,
                     "new_rating": 465
+                },
+                {
+                    "contest_id": 2044,
+                    "contest_name": "Codeforces Round 993 (Div. 4)",
+                    "handle": "LuCiiiD",
+                    "rank": 8118,
+                    "rating_update_time_seconds": 1734281400,
+                    "old_rating": 465,
+                    "new_rating": 749
                 }
             ]
         },
@@ -7919,5 +7928,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-18 23:39:14"
+    "update_time": "2024-12-19 00:15:18"
 }
