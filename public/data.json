@@ -6064,7 +6064,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1639,
+            "rating": 1845,
             "problem_total": 1230,
             "contest_info": [
                 {
@@ -6470,7 +6470,7 @@
                     "rank": 725,
                     "rating_update_time_seconds": 1733214300,
                     "old_rating": 1929,
-                    "new_rating": 1639
+                    "new_rating": 1845
                 }
             ],
             "contest_total": 45
@@ -7544,26 +7544,17 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 76,
-            "rating": 748,
-            "contest_total": 2,
+            "rating": 465,
+            "contest_total": 1,
             "contest_info": [
                 {
                     "contest_id": 2050,
                     "contest_name": "Codeforces Round 991 (Div. 3)",
                     "handle": "LuCiiiD",
-                    "rank": 5744,
+                    "rank": 5561,
                     "rating_update_time_seconds": 1733417400,
                     "old_rating": 0,
-                    "new_rating": 464
-                },
-                {
-                    "contest_id": 2044,
-                    "contest_name": "Codeforces Round 993 (Div. 4)",
-                    "handle": "LuCiiiD",
-                    "rank": 8391,
-                    "rating_update_time_seconds": 1734281400,
-                    "old_rating": 464,
-                    "new_rating": 748
+                    "new_rating": 465
                 }
             ]
         },
@@ -7919,5 +7910,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-18 22:40:45"
+    "update_time": "2024-12-18 23:13:25"
 }
