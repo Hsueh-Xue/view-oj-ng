@@ -6064,7 +6064,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1611,
+            "rating": 1763,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -6489,9 +6489,18 @@
                     "rating_update_time_seconds": 1734629700,
                     "old_rating": 1639,
                     "new_rating": 1611
+                },
+                {
+                    "contest_id": 2049,
+                    "contest_name": "Codeforces Round 994 (Div. 2)",
+                    "handle": "Healexr",
+                    "rank": 256,
+                    "rating_update_time_seconds": 1734712500,
+                    "old_rating": 1611,
+                    "new_rating": 1763
                 }
             ],
-            "contest_total": 47
+            "contest_total": 48
         },
         "葛先步": {
             "name": "葛先步",
@@ -7937,5 +7946,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2024-12-21 02:41:54"
+    "update_time": "2024-12-21 03:10:25"
 }
