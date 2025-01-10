@@ -7571,8 +7571,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 83,
-            "rating": 749,
-            "contest_total": 2,
+            "rating": 1016,
+            "contest_total": 3,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7591,6 +7591,15 @@
                     "rating_update_time_seconds": 1734281400,
                     "old_rating": 465,
                     "new_rating": 749
+                },
+                {
+                    "contest_id": 2051,
+                    "contest_name": "Codeforces Round 995 (Div. 3)",
+                    "handle": "LuCiiiD",
+                    "rank": 4041,
+                    "rating_update_time_seconds": 1734886200,
+                    "old_rating": 749,
+                    "new_rating": 1016
                 }
             ]
         },
@@ -7946,5 +7955,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2025-01-11 05:35:21"
+    "update_time": "2025-01-11 06:11:50"
 }
