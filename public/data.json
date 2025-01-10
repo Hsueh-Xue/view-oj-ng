@@ -4871,19 +4871,10 @@
                     "rank": 639,
                     "rating_update_time_seconds": 1568475300,
                     "old_rating": 1947,
-                    "new_rating": 1980
-                },
-                {
-                    "contest_id": 2053,
-                    "contest_name": "Good Bye 2024: 2025 is NEAR",
-                    "handle": "HsuehHtao",
-                    "rank": 5994,
-                    "rating_update_time_seconds": 1735407300,
-                    "old_rating": 1980,
                     "new_rating": 1827
                 }
             ],
-            "contest_total": 10
+            "contest_total": 9
         },
         "Dup4": {
             "name": "Dup4",
@@ -7955,5 +7946,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2025-01-11 03:35:44"
+    "update_time": "2025-01-11 04:14:05"
 }
