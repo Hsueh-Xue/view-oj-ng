@@ -4789,7 +4789,7 @@
             "name": "Hsueh",
             "grade": 2017,
             "codeforces_handle": "HsuehHtao",
-            "rating": 1980,
+            "rating": 1832,
             "problem_total": 1204,
             "contest_info": [
                 {
@@ -4872,9 +4872,18 @@
                     "rating_update_time_seconds": 1568475300,
                     "old_rating": 1947,
                     "new_rating": 1980
+                },
+                {
+                    "contest_id": 2053,
+                    "contest_name": "Good Bye 2024: 2025 is NEAR",
+                    "handle": "HsuehHtao",
+                    "rank": 5639,
+                    "rating_update_time_seconds": 1735407300,
+                    "old_rating": 1980,
+                    "new_rating": 1832
                 }
             ],
-            "contest_total": 9
+            "contest_total": 10
         },
         "Dup4": {
             "name": "Dup4",
@@ -7955,5 +7964,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2025-01-11 06:38:56"
+    "update_time": "2025-01-11 07:12:11"
 }
