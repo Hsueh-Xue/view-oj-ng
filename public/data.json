@@ -4789,7 +4789,7 @@
             "name": "Hsueh",
             "grade": 2017,
             "codeforces_handle": "HsuehHtao",
-            "rating": 1827,
+            "rating": 1980,
             "problem_total": 1204,
             "contest_info": [
                 {
@@ -4871,7 +4871,7 @@
                     "rank": 639,
                     "rating_update_time_seconds": 1568475300,
                     "old_rating": 1947,
-                    "new_rating": 1827
+                    "new_rating": 1980
                 }
             ],
             "contest_total": 9
@@ -6064,7 +6064,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1798,
+            "rating": 1612,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -7571,7 +7571,7 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 83,
-            "rating": 1014,
+            "rating": 749,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -7590,7 +7590,7 @@
                     "rank": 8118,
                     "rating_update_time_seconds": 1734281400,
                     "old_rating": 465,
-                    "new_rating": 1014
+                    "new_rating": 749
                 }
             ]
         },
@@ -7946,5 +7946,5 @@
             "contest_total": 11
         }
     },
-    "update_time": "2025-01-11 04:37:49"
+    "update_time": "2025-01-11 05:11:45"
 }
