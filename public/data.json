@@ -7962,7 +7962,338 @@
                 }
             ],
             "contest_total": 11
+        },
+        "冷题名": {
+            "name": "冷题名",
+            "grade": 2024,
+            "codeforces_handle": "Zero.2",
+            "rating": 0,
+            "problem_total": 37,
+            "contest_total": 0
+        },
+        "龚俊杰": {
+            "name": "龚俊杰",
+            "grade": 2024,
+            "codeforces_handle": "gggjjj",
+            "rating": 0,
+            "problem_total": 68,
+            "contest_total": 0
+        },
+        "周徐彬": {
+            "name": "周徐彬",
+            "grade": 2024,
+            "codeforces_handle": "zxb557242",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "詹伟": {
+            "name": "詹伟",
+            "grade": 2024,
+            "codeforces_handle": "WEirdows",
+            "rating": 892,
+            "problem_total": 235,
+            "contest_info": [
+                {
+                    "contest_id": 2044,
+                    "contest_name": "Codeforces Round 993 (Div. 4)",
+                    "handle": "WEirdows",
+                    "rank": 11457,
+                    "rating_update_time_seconds": 1734281400,
+                    "old_rating": 0,
+                    "new_rating": 416
+                },
+                {
+                    "contest_id": 2053,
+                    "contest_name": "Good Bye 2024: 2025 is NEAR",
+                    "handle": "WEirdows",
+                    "rank": 10623,
+                    "rating_update_time_seconds": 1735407300,
+                    "old_rating": 416,
+                    "new_rating": 687
+                },
+                {
+                    "contest_id": 2057,
+                    "contest_name": "Hello 2025",
+                    "handle": "WEirdows",
+                    "rank": 10035,
+                    "rating_update_time_seconds": 1736010300,
+                    "old_rating": 687,
+                    "new_rating": 892
+                }
+            ],
+            "contest_total": 3
+        },
+        "黄欣怡": {
+            "name": "黄欣怡",
+            "grade": 2024,
+            "codeforces_handle": "yellow_one",
+            "rating": 1144,
+            "problem_total": 23,
+            "contest_info": [
+                {
+                    "contest_id": 2044,
+                    "contest_name": "Codeforces Round 993 (Div. 4)",
+                    "handle": "yellow_one",
+                    "rank": 12914,
+                    "rating_update_time_seconds": 1734281400,
+                    "old_rating": 0,
+                    "new_rating": 406
+                },
+                {
+                    "contest_id": 2048,
+                    "contest_name": "Codeforces Global Round 28",
+                    "handle": "yellow_one",
+                    "rank": 11415,
+                    "rating_update_time_seconds": 1734629700,
+                    "old_rating": 406,
+                    "new_rating": 662
+                },
+                {
+                    "contest_id": 2049,
+                    "contest_name": "Codeforces Round 994 (Div. 2)",
+                    "handle": "yellow_one",
+                    "rank": 5947,
+                    "rating_update_time_seconds": 1734712500,
+                    "old_rating": 662,
+                    "new_rating": 930
+                },
+                {
+                    "contest_id": 2051,
+                    "contest_name": "Codeforces Round 995 (Div. 3)",
+                    "handle": "yellow_one",
+                    "rank": 8582,
+                    "rating_update_time_seconds": 1734886200,
+                    "old_rating": 930,
+                    "new_rating": 1053
+                },
+                {
+                    "contest_id": 2057,
+                    "contest_name": "Hello 2025",
+                    "handle": "yellow_one",
+                    "rank": 8311,
+                    "rating_update_time_seconds": 1736010300,
+                    "old_rating": 1053,
+                    "new_rating": 1144
+                }
+            ],
+            "contest_total": 5
+        },
+        "潘铖棋": {
+            "name": "潘铖棋",
+            "grade": 2024,
+            "codeforces_handle": "ginyako",
+            "rating": 0,
+            "problem_total": 9,
+            "contest_total": 0
+        },
+        "刘彦冰": {
+            "name": "刘彦冰",
+            "grade": 2024,
+            "codeforces_handle": "damor",
+            "rating": 0,
+            "problem_total": 47,
+            "contest_total": 0
+        },
+        "唐嘉奇": {
+            "name": "唐嘉奇",
+            "grade": 2024,
+            "codeforces_handle": "Tsq2",
+            "rating": 393,
+            "problem_total": 8,
+            "contest_info": [
+                {
+                    "contest_id": 2044,
+                    "contest_name": "Codeforces Round 993 (Div. 4)",
+                    "handle": "Tsq2",
+                    "rank": 15015,
+                    "rating_update_time_seconds": 1734281400,
+                    "old_rating": 0,
+                    "new_rating": 393
+                }
+            ],
+            "contest_total": 1
+        },
+        "尚怡廷": {
+            "name": "尚怡廷",
+            "grade": 2024,
+            "codeforces_handle": "lemonyy_",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "邓量": {
+            "name": "邓量",
+            "grade": 2024,
+            "codeforces_handle": "starlaw",
+            "rating": 0,
+            "problem_total": 16,
+            "contest_total": 0
+        },
+        "穆浩元": {
+            "name": "穆浩元",
+            "grade": 2024,
+            "codeforces_handle": "Lisa.h",
+            "rating": 0,
+            "problem_total": 3,
+            "contest_total": 0
+        },
+        "谢晨尧": {
+            "name": "谢晨尧",
+            "grade": 2024,
+            "codeforces_handle": "cc8",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "乔迪": {
+            "name": "乔迪",
+            "grade": 2024,
+            "codeforces_handle": "qiaodifehf",
+            "rating": 0,
+            "problem_total": 14,
+            "contest_total": 0
+        },
+        "黄子力": {
+            "name": "黄子力",
+            "grade": 2024,
+            "codeforces_handle": "sillybird",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "应亦君": {
+            "name": "应亦君",
+            "grade": 2024,
+            "codeforces_handle": "ying1m",
+            "rating": 0,
+            "problem_total": 12,
+            "contest_total": 0
+        },
+        "贾宜儒": {
+            "name": "贾宜儒",
+            "grade": 2024,
+            "codeforces_handle": "R_coder2055",
+            "rating": 0,
+            "problem_total": 39,
+            "contest_total": 0
+        },
+        "余司成": {
+            "name": "余司成",
+            "grade": 2024,
+            "codeforces_handle": "Yusc__",
+            "rating": 0,
+            "problem_total": 1,
+            "contest_total": 0
+        },
+        "王鑫康": {
+            "name": "王鑫康",
+            "grade": 2024,
+            "codeforces_handle": "WXKKK",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "黄祺恺": {
+            "name": "黄祺恺",
+            "grade": 2024,
+            "codeforces_handle": "_QLe",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "李书暄": {
+            "name": "李书暄",
+            "grade": 2024,
+            "codeforces_handle": "PROPOSE.",
+            "rating": 0,
+            "problem_total": 52,
+            "contest_total": 0
+        },
+        "胡嘉皓": {
+            "name": "胡嘉皓",
+            "grade": 2024,
+            "codeforces_handle": "Plus.h",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "王振晓": {
+            "name": "王振晓",
+            "grade": 2024,
+            "codeforces_handle": "Perses_Fruith",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "杨兰欣": {
+            "name": "杨兰欣",
+            "grade": 2024,
+            "codeforces_handle": "GorillaWarrior",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "吴佳鹏": {
+            "name": "吴佳鹏",
+            "grade": 2024,
+            "codeforces_handle": "ToffeeSG",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "胡文涵": {
+            "name": "胡文涵",
+            "grade": 2024,
+            "codeforces_handle": "fushen",
+            "rating": 667,
+            "problem_total": 17,
+            "contest_info": [
+                {
+                    "contest_id": 2050,
+                    "contest_name": "Codeforces Round 991 (Div. 3)",
+                    "handle": "fushen",
+                    "rank": 10138,
+                    "rating_update_time_seconds": 1733417400,
+                    "old_rating": 0,
+                    "new_rating": 415
+                },
+                {
+                    "contest_id": 2044,
+                    "contest_name": "Codeforces Round 993 (Div. 4)",
+                    "handle": "fushen",
+                    "rank": 13943,
+                    "rating_update_time_seconds": 1734281400,
+                    "old_rating": 415,
+                    "new_rating": 667
+                }
+            ],
+            "contest_total": 2
+        },
+        "雷天宝": {
+            "name": "雷天宝",
+            "grade": 2024,
+            "codeforces_handle": "tbac-ing",
+            "rating": 0,
+            "problem_total": 27,
+            "contest_total": 0
+        },
+        "梁棋策": {
+            "name": "梁棋策",
+            "grade": 2024,
+            "codeforces_handle": "MacAznou",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
+        },
+        "俞徐乐涵": {
+            "name": "俞徐乐涵",
+            "grade": 2024,
+            "codeforces_handle": "Jacker5",
+            "rating": 0,
+            "problem_total": 0,
+            "contest_total": 0
         }
     },
-    "update_time": "2025-01-11 21:34:55"
+    "update_time": "2025-01-11 21:56:21"
 }
