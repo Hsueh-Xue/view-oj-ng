@@ -8012,7 +8012,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1058,
-            "problem_total": 246,
+            "problem_total": 247,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8287,7 +8287,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 869,
-            "problem_total": 19,
+            "problem_total": 20,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-13 19:37:51"
+    "update_time": "2025-01-13 20:25:11"
 }
