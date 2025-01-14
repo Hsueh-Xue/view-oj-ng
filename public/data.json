@@ -7375,7 +7375,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1385,
-            "problem_total": 263,
+            "problem_total": 264,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8247,7 +8247,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 0,
-            "problem_total": 52,
+            "problem_total": 53,
             "contest_total": 0
         },
         "胡嘉皓": {
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-14 21:39:00"
+    "update_time": "2025-01-14 22:13:33"
 }
