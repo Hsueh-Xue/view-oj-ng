@@ -7040,7 +7040,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 518,
+            "problem_total": 519,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7238,7 +7238,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 80,
+            "problem_total": 81,
             "rating": 1200,
             "contest_total": 14,
             "contest_info": [
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-14 16:41:36"
+    "update_time": "2025-01-14 17:14:57"
 }
