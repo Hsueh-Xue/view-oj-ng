@@ -5702,7 +5702,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 293,
+            "problem_total": 294,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-14 12:39:02"
+    "update_time": "2025-01-14 13:12:32"
 }
