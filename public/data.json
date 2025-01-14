@@ -7723,7 +7723,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1273,
-            "problem_total": 80,
+            "problem_total": 82,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-14 17:14:57"
+    "update_time": "2025-01-14 17:36:40"
 }
