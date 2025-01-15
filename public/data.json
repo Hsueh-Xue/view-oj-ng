@@ -6669,7 +6669,7 @@
             "grade": 2023,
             "codeforces_handle": "wkr111",
             "rating": 1283,
-            "problem_total": 232,
+            "problem_total": 233,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -7572,7 +7572,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 40,
+            "problem_total": 41,
             "rating": 0,
             "contest_total": 0
         },
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-15 14:17:34"
+    "update_time": "2025-01-15 14:43:27"
 }
