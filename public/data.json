@@ -8183,7 +8183,7 @@
             "grade": 2024,
             "codeforces_handle": "cc8",
             "rating": 0,
-            "problem_total": 0,
+            "problem_total": 1,
             "contest_total": 0
         },
         "乔迪": {
@@ -8247,7 +8247,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 0,
-            "problem_total": 53,
+            "problem_total": 54,
             "contest_total": 0
         },
         "胡嘉皓": {
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-15 20:57:54"
+    "update_time": "2025-01-15 21:19:46"
 }
