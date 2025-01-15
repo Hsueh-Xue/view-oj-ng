@@ -8271,7 +8271,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 0,
-            "problem_total": 0,
+            "problem_total": 1,
             "contest_total": 0
         },
         "吴佳鹏": {
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-15 23:37:49"
+    "update_time": "2025-01-16 00:15:39"
 }
