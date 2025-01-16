@@ -8012,7 +8012,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1058,
-            "problem_total": 255,
+            "problem_total": 256,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8344,5 +8344,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-16 15:37:39"
+    "update_time": "2025-01-16 16:15:57"
 }
