@@ -8057,7 +8057,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1144,
+            "rating": 1142,
             "problem_total": 25,
             "contest_info": [
                 {
@@ -8104,9 +8104,18 @@
                     "rating_update_time_seconds": 1736010300,
                     "old_rating": 1053,
                     "new_rating": 1144
+                },
+                {
+                    "contest_id": 2056,
+                    "contest_name": "Codeforces Round 997 (Div. 2)",
+                    "handle": "yellow_one",
+                    "rank": 12071,
+                    "rating_update_time_seconds": 1737131700,
+                    "old_rating": 1144,
+                    "new_rating": 1142
                 }
             ],
-            "contest_total": 5
+            "contest_total": 6
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8344,5 +8353,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-18 03:36:12"
+    "update_time": "2025-01-18 04:13:53"
 }
