@@ -5656,7 +5656,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 174,
+            "problem_total": 175,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7996,7 +7996,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 0,
-            "problem_total": 70,
+            "problem_total": 71,
             "contest_total": 0
         },
         "周徐彬": {
@@ -8353,5 +8353,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-18 21:35:38"
+    "update_time": "2025-01-18 22:11:42"
 }
