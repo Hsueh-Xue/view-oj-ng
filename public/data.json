@@ -7977,7 +7977,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 618,
-            "problem_total": 46,
+            "problem_total": 47,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -8176,7 +8176,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 0,
-            "problem_total": 18,
+            "problem_total": 19,
             "contest_total": 0
         },
         "穆浩元": {
@@ -8353,5 +8353,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-18 20:52:33"
+    "update_time": "2025-01-18 21:14:33"
 }
