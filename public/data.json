@@ -5656,7 +5656,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 172,
+            "problem_total": 173,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7040,7 +7040,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 530,
+            "problem_total": 531,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8353,5 +8353,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-18 19:10:54"
+    "update_time": "2025-01-18 19:36:19"
 }
