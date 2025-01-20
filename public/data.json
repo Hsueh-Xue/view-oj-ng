@@ -7589,8 +7589,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 91,
-            "rating": 1016,
-            "contest_total": 3,
+            "rating": 1129,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7618,6 +7618,15 @@
                     "rating_update_time_seconds": 1734886200,
                     "old_rating": 749,
                     "new_rating": 1016
+                },
+                {
+                    "contest_id": 2060,
+                    "contest_name": "Codeforces Round 998 (Div. 3)",
+                    "handle": "LuCiiiD",
+                    "rank": 8823,
+                    "rating_update_time_seconds": 1737306300,
+                    "old_rating": 1016,
+                    "new_rating": 1129
                 }
             ]
         },
@@ -8057,7 +8066,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1142,
+            "rating": 1076,
             "problem_total": 28,
             "contest_info": [
                 {
@@ -8113,9 +8122,18 @@
                     "rating_update_time_seconds": 1737131700,
                     "old_rating": 1144,
                     "new_rating": 1142
+                },
+                {
+                    "contest_id": 2060,
+                    "contest_name": "Codeforces Round 998 (Div. 3)",
+                    "handle": "yellow_one",
+                    "rank": 17215,
+                    "rating_update_time_seconds": 1737306300,
+                    "old_rating": 1142,
+                    "new_rating": 1076
                 }
             ],
-            "contest_total": 6
+            "contest_total": 7
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8353,5 +8371,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-21 05:11:54"
+    "update_time": "2025-01-21 05:36:22"
 }
