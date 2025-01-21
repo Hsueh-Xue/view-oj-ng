@@ -8005,7 +8005,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 0,
-            "problem_total": 73,
+            "problem_total": 74,
             "contest_total": 0
         },
         "周徐彬": {
@@ -8021,7 +8021,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1058,
-            "problem_total": 275,
+            "problem_total": 276,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8371,5 +8371,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-21 22:39:58"
+    "update_time": "2025-01-21 23:13:36"
 }
