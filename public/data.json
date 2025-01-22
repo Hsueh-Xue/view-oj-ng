@@ -7040,7 +7040,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 537,
+            "problem_total": 538,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7724,7 +7724,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 16,
+            "problem_total": 17,
             "contest_total": 0
         },
         "金岸": {
@@ -8371,5 +8371,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-22 10:13:38"
+    "update_time": "2025-01-22 11:00:36"
 }
