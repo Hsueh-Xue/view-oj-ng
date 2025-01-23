@@ -5656,7 +5656,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 178,
+            "problem_total": 181,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -7606,7 +7606,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 98,
+            "problem_total": 100,
             "rating": 1129,
             "contest_total": 4,
             "contest_info": [
@@ -8195,7 +8195,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 62,
+            "problem_total": 63,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8278,7 +8278,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 0,
-            "problem_total": 42,
+            "problem_total": 44,
             "contest_total": 0
         },
         "余司成": {
@@ -8407,5 +8407,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-23 08:56:33"
+    "update_time": "2025-01-23 10:12:50"
 }
