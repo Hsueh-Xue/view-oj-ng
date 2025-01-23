@@ -5656,7 +5656,7 @@
             "grade": 2023,
             "codeforces_handle": "blizzard1900",
             "rating": 972,
-            "problem_total": 184,
+            "problem_total": 185,
             "contest_info": [
                 {
                     "contest_id": 1934,
@@ -8048,7 +8048,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1058,
-            "problem_total": 294,
+            "problem_total": 295,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8407,5 +8407,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-23 18:42:14"
+    "update_time": "2025-01-23 19:11:45"
 }
