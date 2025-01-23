@@ -7590,7 +7590,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 52,
+            "problem_total": 53,
             "rating": 0,
             "contest_total": 0
         },
@@ -8048,7 +8048,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1058,
-            "problem_total": 288,
+            "problem_total": 289,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8387,7 +8387,7 @@
             "grade": 2024,
             "codeforces_handle": "tbac-ing",
             "rating": 0,
-            "problem_total": 28,
+            "problem_total": 30,
             "contest_total": 0
         },
         "梁棋策": {
@@ -8407,5 +8407,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-23 15:36:20"
+    "update_time": "2025-01-23 16:16:41"
 }
