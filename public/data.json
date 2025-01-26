@@ -7616,8 +7616,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 104,
-            "rating": 1129,
-            "contest_total": 4,
+            "rating": 1222,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7654,6 +7654,15 @@
                     "rating_update_time_seconds": 1737306300,
                     "old_rating": 1016,
                     "new_rating": 1129
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "LuCiiiD",
+                    "rank": 7487,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1129,
+                    "new_rating": 1222
                 }
             ]
         },
@@ -7758,9 +7767,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1290,
+            "rating": 1278,
             "problem_total": 99,
-            "contest_total": 11,
+            "contest_total": 12,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7860,6 +7869,15 @@
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1273,
                     "new_rating": 1290
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "qqbb111",
+                    "rank": 7613,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1290,
+                    "new_rating": 1278
                 }
             ]
         },
@@ -8425,5 +8443,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-27 02:41:55"
+    "update_time": "2025-01-27 03:10:06"
 }
