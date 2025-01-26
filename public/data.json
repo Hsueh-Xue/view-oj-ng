@@ -7392,7 +7392,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1385,
+            "rating": 1439,
             "problem_total": 284,
             "contest_info": [
                 {
@@ -7529,9 +7529,18 @@
                     "rating_update_time_seconds": 1728201900,
                     "old_rating": 1420,
                     "new_rating": 1385
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 3522,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1385,
+                    "new_rating": 1439
                 }
             ],
-            "contest_total": 15
+            "contest_total": 16
         },
         "陈天意": {
             "name": "陈天意",
@@ -8047,7 +8056,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1058,
+            "rating": 1201,
             "problem_total": 309,
             "contest_info": [
                 {
@@ -8085,9 +8094,18 @@
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 892,
                     "new_rating": 1058
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 5878,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1058,
+                    "new_rating": 1201
                 }
             ],
-            "contest_total": 4
+            "contest_total": 5
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -8407,5 +8425,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-27 02:16:36"
+    "update_time": "2025-01-27 02:41:55"
 }
