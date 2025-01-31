@@ -8075,7 +8075,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1201,
-            "problem_total": 331,
+            "problem_total": 332,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8266,7 +8266,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 0,
-            "problem_total": 24,
+            "problem_total": 25,
             "contest_total": 0
         },
         "穆浩元": {
@@ -8443,5 +8443,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-01-31 13:12:53"
+    "update_time": "2025-01-31 13:37:49"
 }
