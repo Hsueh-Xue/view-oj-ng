@@ -7392,7 +7392,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1439,
+            "rating": 1349,
             "problem_total": 287,
             "contest_info": [
                 {
@@ -7538,9 +7538,18 @@
                     "rating_update_time_seconds": 1737911100,
                     "old_rating": 1385,
                     "new_rating": 1439
+                },
+                {
+                    "contest_id": 2059,
+                    "contest_name": "Codeforces Round 1002 (Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 11328,
+                    "rating_update_time_seconds": 1738514100,
+                    "old_rating": 1439,
+                    "new_rating": 1349
                 }
             ],
-            "contest_total": 16
+            "contest_total": 17
         },
         "陈天意": {
             "name": "陈天意",
@@ -8039,7 +8048,7 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 618,
+            "rating": 943,
             "problem_total": 56,
             "contest_total": 1,
             "contest_info": [
@@ -8050,7 +8059,7 @@
                     "rank": 1293,
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 0,
-                    "new_rating": 618
+                    "new_rating": 943
                 }
             ]
         },
@@ -8443,5 +8452,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-03 01:36:34"
+    "update_time": "2025-02-03 02:16:13"
 }
