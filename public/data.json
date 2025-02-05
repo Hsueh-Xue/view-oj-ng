@@ -8049,7 +8049,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 943,
-            "problem_total": 57,
+            "problem_total": 59,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8249,7 +8249,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 86,
+            "problem_total": 87,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-05 17:14:01"
+    "update_time": "2025-02-05 17:49:30"
 }
