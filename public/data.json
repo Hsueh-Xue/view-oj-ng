@@ -8049,7 +8049,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 943,
-            "problem_total": 59,
+            "problem_total": 60,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8093,7 +8093,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1201,
-            "problem_total": 356,
+            "problem_total": 357,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-05 17:49:30"
+    "update_time": "2025-02-05 18:15:45"
 }
