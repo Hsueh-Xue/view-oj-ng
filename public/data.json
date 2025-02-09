@@ -7393,7 +7393,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1349,
-            "problem_total": 289,
+            "problem_total": 290,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7624,7 +7624,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 114,
+            "problem_total": 116,
             "rating": 1222,
             "contest_total": 5,
             "contest_info": [
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-09 10:17:43"
+    "update_time": "2025-02-09 11:02:03"
 }
