@@ -8049,7 +8049,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 943,
-            "problem_total": 63,
+            "problem_total": 64,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8249,7 +8249,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 93,
+            "problem_total": 94,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8364,7 +8364,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 0,
-            "problem_total": 56,
+            "problem_total": 57,
             "contest_total": 0
         },
         "胡嘉皓": {
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-09 19:36:26"
+    "update_time": "2025-02-09 20:21:19"
 }
