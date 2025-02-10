@@ -5929,7 +5929,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 433,
+            "problem_total": 434,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6750,7 +6750,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1520,
-            "problem_total": 183,
+            "problem_total": 184,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-10 17:38:52"
+    "update_time": "2025-02-10 18:15:07"
 }
