@@ -5702,7 +5702,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 296,
+            "problem_total": 298,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7393,7 +7393,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1349,
-            "problem_total": 291,
+            "problem_total": 292,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8049,7 +8049,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 943,
-            "problem_total": 64,
+            "problem_total": 65,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8093,7 +8093,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1201,
-            "problem_total": 385,
+            "problem_total": 388,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8249,7 +8249,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 94,
+            "problem_total": 95,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-10 08:57:28"
+    "update_time": "2025-02-10 10:14:42"
 }
