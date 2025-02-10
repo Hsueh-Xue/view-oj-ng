@@ -8147,7 +8147,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1042,
+            "rating": 1019,
             "problem_total": 32,
             "contest_info": [
                 {
@@ -8221,9 +8221,18 @@
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1076,
                     "new_rating": 1042
+                },
+                {
+                    "contest_id": 2065,
+                    "contest_name": "Codeforces Round 1003 (Div. 4)",
+                    "handle": "yellow_one",
+                    "rank": 14074,
+                    "rating_update_time_seconds": 1739119800,
+                    "old_rating": 1042,
+                    "new_rating": 1019
                 }
             ],
-            "contest_total": 8
+            "contest_total": 9
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8461,5 +8470,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-11 02:17:41"
+    "update_time": "2025-02-11 02:43:05"
 }
