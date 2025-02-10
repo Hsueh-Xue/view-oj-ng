@@ -8049,7 +8049,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 943,
-            "problem_total": 64,
+            "problem_total": 68,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8461,5 +8461,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-10 20:59:13"
+    "update_time": "2025-02-10 21:22:55"
 }
