@@ -8049,7 +8049,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 943,
-            "problem_total": 68,
+            "problem_total": 69,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8093,7 +8093,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1201,
-            "problem_total": 389,
+            "problem_total": 392,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8333,7 +8333,7 @@
             "grade": 2024,
             "codeforces_handle": "ying1m",
             "rating": 0,
-            "problem_total": 15,
+            "problem_total": 16,
             "contest_total": 0
         },
         "贾宜儒": {
@@ -8470,5 +8470,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-11 08:56:12"
+    "update_time": "2025-02-11 10:14:27"
 }
