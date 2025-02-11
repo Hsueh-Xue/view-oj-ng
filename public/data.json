@@ -7049,7 +7049,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 540,
+            "problem_total": 541,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8077,7 +8077,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 0,
-            "problem_total": 95,
+            "problem_total": 96,
             "contest_total": 0
         },
         "周徐彬": {
@@ -8470,5 +8470,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-11 20:23:24"
+    "update_time": "2025-02-11 20:58:43"
 }
