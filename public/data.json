@@ -6749,7 +6749,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1371,
+            "rating": 1520,
             "problem_total": 188,
             "contest_info": [
                 {
@@ -6876,7 +6876,7 @@
                     "rank": 5834,
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 1371,
-                    "new_rating": 1371
+                    "new_rating": 1520
                 }
             ],
             "contest_total": 14
@@ -7239,7 +7239,7 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 91,
-            "rating": 1200,
+            "rating": 1199,
             "contest_total": 14,
             "contest_info": [
                 {
@@ -7366,7 +7366,7 @@
                     "rank": 10776,
                     "rating_update_time_seconds": 1725209400,
                     "old_rating": 1245,
-                    "new_rating": 1200
+                    "new_rating": 1199
                 }
             ]
         },
@@ -7374,7 +7374,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1385,
+            "rating": 1349,
             "problem_total": 292,
             "contest_info": [
                 {
@@ -7510,7 +7510,7 @@
                     "rank": 4766,
                     "rating_update_time_seconds": 1728201900,
                     "old_rating": 1420,
-                    "new_rating": 1385
+                    "new_rating": 1349
                 }
             ],
             "contest_total": 15
@@ -7590,7 +7590,7 @@
             "codeforces_handle": "LuCiiiD",
             "problem_total": 119,
             "rating": 1222,
-            "contest_total": 3,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7617,6 +7617,15 @@
                     "rank": 4041,
                     "rating_update_time_seconds": 1734886200,
                     "old_rating": 749,
+                    "new_rating": 1016
+                },
+                {
+                    "contest_id": 2060,
+                    "contest_name": "Codeforces Round 998 (Div. 3)",
+                    "handle": "LuCiiiD",
+                    "rank": 8282,
+                    "rating_update_time_seconds": 1737306300,
+                    "old_rating": 1016,
                     "new_rating": 1222
                 }
             ]
@@ -7722,7 +7731,7 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1273,
+            "rating": 1278,
             "problem_total": 99,
             "contest_total": 10,
             "contest_info": [
@@ -7814,7 +7823,7 @@
                     "rank": 4715,
                     "rating_update_time_seconds": 1729788600,
                     "old_rating": 1254,
-                    "new_rating": 1273
+                    "new_rating": 1278
                 }
             ]
         },
@@ -7976,7 +7985,7 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 620,
+            "rating": 943,
             "problem_total": 70,
             "contest_total": 1,
             "contest_info": [
@@ -7987,7 +7996,7 @@
                     "rank": 1280,
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 0,
-                    "new_rating": 620
+                    "new_rating": 943
                 }
             ]
         },
@@ -8112,10 +8121,19 @@
                     "rank": 11941,
                     "rating_update_time_seconds": 1737131700,
                     "old_rating": 1144,
+                    "new_rating": 1142
+                },
+                {
+                    "contest_id": 2060,
+                    "contest_name": "Codeforces Round 998 (Div. 3)",
+                    "handle": "yellow_one",
+                    "rank": 16280,
+                    "rating_update_time_seconds": 1737306300,
+                    "old_rating": 1142,
                     "new_rating": 1019
                 }
             ],
-            "contest_total": 6
+            "contest_total": 7
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8353,5 +8371,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 07:14:47"
+    "update_time": "2025-02-12 07:38:19"
 }
