@@ -7581,7 +7581,7 @@
             "codeforces_handle": "LuCiiiD",
             "problem_total": 119,
             "rating": 1222,
-            "contest_total": 5,
+            "contest_total": 3,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7608,24 +7608,6 @@
                     "rank": 4041,
                     "rating_update_time_seconds": 1734886200,
                     "old_rating": 749,
-                    "new_rating": 1016
-                },
-                {
-                    "contest_id": 2060,
-                    "contest_name": "Codeforces Round 998 (Div. 3)",
-                    "handle": "LuCiiiD",
-                    "rank": 8823,
-                    "rating_update_time_seconds": 1737306300,
-                    "old_rating": 1016,
-                    "new_rating": 1129
-                },
-                {
-                    "contest_id": 2062,
-                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
-                    "handle": "LuCiiiD",
-                    "rank": 7487,
-                    "rating_update_time_seconds": 1737911100,
-                    "old_rating": 1129,
                     "new_rating": 1222
                 }
             ]
@@ -8344,5 +8326,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 05:36:21"
+    "update_time": "2025-02-12 06:13:16"
 }
