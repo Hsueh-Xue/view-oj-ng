@@ -7067,7 +7067,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 541,
+            "problem_total": 542,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7706,7 +7706,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 6,
+            "problem_total": 7,
             "contest_total": 0
         },
         "沈万婷": {
@@ -8335,7 +8335,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 0,
-            "problem_total": 14,
+            "problem_total": 15,
             "contest_total": 0
         },
         "黄子力": {
@@ -8488,5 +8488,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 11:01:37"
+    "update_time": "2025-02-12 11:23:07"
 }
