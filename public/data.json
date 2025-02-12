@@ -7392,7 +7392,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1349,
+            "rating": 1348,
             "problem_total": 292,
             "contest_info": [
                 {
@@ -7528,10 +7528,28 @@
                     "rank": 4766,
                     "rating_update_time_seconds": 1728201900,
                     "old_rating": 1420,
-                    "new_rating": 1349
+                    "new_rating": 1385
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 3510,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1385,
+                    "new_rating": 1439
+                },
+                {
+                    "contest_id": 2059,
+                    "contest_name": "Codeforces Round 1002 (Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 11328,
+                    "rating_update_time_seconds": 1738514100,
+                    "old_rating": 1439,
+                    "new_rating": 1348
                 }
             ],
-            "contest_total": 15
+            "contest_total": 17
         },
         "陈天意": {
             "name": "陈天意",
@@ -7607,8 +7625,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 119,
-            "rating": 1222,
-            "contest_total": 4,
+            "rating": 1227,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7644,7 +7662,16 @@
                     "rank": 8282,
                     "rating_update_time_seconds": 1737306300,
                     "old_rating": 1016,
-                    "new_rating": 1222
+                    "new_rating": 1133
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "LuCiiiD",
+                    "rank": 7238,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1133,
+                    "new_rating": 1227
                 }
             ]
         },
@@ -7749,9 +7776,9 @@
             "name": "金岸",
             "grade": 2023,
             "codeforces_handle": "qqbb111",
-            "rating": 1278,
+            "rating": 1284,
             "problem_total": 99,
-            "contest_total": 11,
+            "contest_total": 12,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7850,7 +7877,16 @@
                     "rank": 5495,
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1273,
-                    "new_rating": 1278
+                    "new_rating": 1294
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "qqbb111",
+                    "rank": 7356,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1294,
+                    "new_rating": 1284
                 }
             ]
         },
@@ -8012,9 +8048,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 943,
+            "rating": 944,
             "problem_total": 70,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8023,7 +8059,16 @@
                     "rank": 1280,
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 0,
-                    "new_rating": 943
+                    "new_rating": 620
+                },
+                {
+                    "contest_id": 2059,
+                    "contest_name": "Codeforces Round 1002 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 4850,
+                    "rating_update_time_seconds": 1738514100,
+                    "old_rating": 620,
+                    "new_rating": 944
                 }
             ]
         },
@@ -8047,8 +8092,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1201,
-            "problem_total": 393,
+            "rating": 1204,
+            "problem_total": 397,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8084,16 +8129,25 @@
                     "rank": 7797,
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 892,
-                    "new_rating": 1201
+                    "new_rating": 1059
+                },
+                {
+                    "contest_id": 2062,
+                    "contest_name": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 5735,
+                    "rating_update_time_seconds": 1737911100,
+                    "old_rating": 1059,
+                    "new_rating": 1204
                 }
             ],
-            "contest_total": 4
+            "contest_total": 5
         },
         "黄欣怡": {
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1019,
+            "rating": 1025,
             "problem_total": 32,
             "contest_info": [
                 {
@@ -8166,10 +8220,19 @@
                     "rank": 11517,
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1079,
-                    "new_rating": 1019
+                    "new_rating": 1049
+                },
+                {
+                    "contest_id": 2065,
+                    "contest_name": "Codeforces Round 1003 (Div. 4)",
+                    "handle": "yellow_one",
+                    "rank": 14074,
+                    "rating_update_time_seconds": 1739119800,
+                    "old_rating": 1049,
+                    "new_rating": 1025
                 }
             ],
-            "contest_total": 8
+            "contest_total": 9
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8407,5 +8470,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 08:56:51"
+    "update_time": "2025-02-12 10:14:30"
 }
