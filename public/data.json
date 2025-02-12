@@ -6749,7 +6749,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1520,
+            "rating": 1522,
             "problem_total": 188,
             "contest_info": [
                 {
@@ -6876,10 +6876,19 @@
                     "rank": 5834,
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 1371,
-                    "new_rating": 1520
+                    "new_rating": 1371
+                },
+                {
+                    "contest_id": 2063,
+                    "contest_name": "Codeforces Round 1000 (Div. 2)",
+                    "handle": "QF_shengxiu",
+                    "rank": 905,
+                    "rating_update_time_seconds": 1737554700,
+                    "old_rating": 1371,
+                    "new_rating": 1522
                 }
             ],
-            "contest_total": 14
+            "contest_total": 15
         },
         "刘旭": {
             "name": "刘旭",
@@ -7239,8 +7248,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 91,
-            "rating": 1199,
-            "contest_total": 14,
+            "rating": 1203,
+            "contest_total": 15,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7366,7 +7375,16 @@
                     "rank": 10776,
                     "rating_update_time_seconds": 1725209400,
                     "old_rating": 1245,
-                    "new_rating": 1199
+                    "new_rating": 1200
+                },
+                {
+                    "contest_id": 2063,
+                    "contest_name": "Codeforces Round 1000 (Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 7668,
+                    "rating_update_time_seconds": 1737554700,
+                    "old_rating": 1200,
+                    "new_rating": 1203
                 }
             ]
         },
@@ -7733,7 +7751,7 @@
             "codeforces_handle": "qqbb111",
             "rating": 1278,
             "problem_total": 99,
-            "contest_total": 10,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7823,6 +7841,15 @@
                     "rank": 4715,
                     "rating_update_time_seconds": 1729788600,
                     "old_rating": 1254,
+                    "new_rating": 1273
+                },
+                {
+                    "contest_id": 2063,
+                    "contest_name": "Codeforces Round 1000 (Div. 2)",
+                    "handle": "qqbb111",
+                    "rank": 5495,
+                    "rating_update_time_seconds": 1737554700,
+                    "old_rating": 1273,
                     "new_rating": 1278
                 }
             ]
@@ -8130,10 +8157,19 @@
                     "rank": 16280,
                     "rating_update_time_seconds": 1737306300,
                     "old_rating": 1142,
+                    "new_rating": 1079
+                },
+                {
+                    "contest_id": 2063,
+                    "contest_name": "Codeforces Round 1000 (Div. 2)",
+                    "handle": "yellow_one",
+                    "rank": 11517,
+                    "rating_update_time_seconds": 1737554700,
+                    "old_rating": 1079,
                     "new_rating": 1019
                 }
             ],
-            "contest_total": 7
+            "contest_total": 8
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8371,5 +8407,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 07:38:19"
+    "update_time": "2025-02-12 08:56:51"
 }
