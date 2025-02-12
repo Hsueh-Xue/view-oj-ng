@@ -6669,7 +6669,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 79,
+            "problem_total": 80,
             "rating": 0,
             "contest_total": 0
         },
@@ -7642,7 +7642,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 119,
+            "problem_total": 120,
             "rating": 1227,
             "contest_total": 5,
             "contest_info": [
@@ -8488,5 +8488,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 11:23:07"
+    "update_time": "2025-02-12 11:40:11"
 }
