@@ -6515,7 +6515,7 @@
             "name": "葛先步",
             "grade": 2023,
             "codeforces_handle": "gexianbu",
-            "rating": 1882,
+            "rating": 1857,
             "problem_total": 146,
             "contest_info": [
                 {
@@ -6652,9 +6652,18 @@
                     "rating_update_time_seconds": 1717691700,
                     "old_rating": 1736,
                     "new_rating": 1882
+                },
+                {
+                    "contest_id": 2067,
+                    "contest_name": "Codeforces Round 1004 (Div. 2)",
+                    "handle": "gexianbu",
+                    "rank": 1074,
+                    "rating_update_time_seconds": 1739291700,
+                    "old_rating": 1882,
+                    "new_rating": 1857
                 }
             ],
-            "contest_total": 15
+            "contest_total": 16
         },
         "薛博文": {
             "name": "薛博文",
@@ -6749,7 +6758,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1522,
+            "rating": 1632,
             "problem_total": 188,
             "contest_info": [
                 {
@@ -6886,9 +6895,18 @@
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1371,
                     "new_rating": 1522
+                },
+                {
+                    "contest_id": 2067,
+                    "contest_name": "Codeforces Round 1004 (Div. 2)",
+                    "handle": "QF_shengxiu",
+                    "rank": 566,
+                    "rating_update_time_seconds": 1739291700,
+                    "old_rating": 1522,
+                    "new_rating": 1632
                 }
             ],
-            "contest_total": 15
+            "contest_total": 16
         },
         "刘旭": {
             "name": "刘旭",
@@ -8266,7 +8284,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 393,
-            "problem_total": 11,
+            "problem_total": 12,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8470,5 +8488,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-12 10:14:30"
+    "update_time": "2025-02-12 11:01:37"
 }
