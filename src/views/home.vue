@@ -7,7 +7,13 @@
   >
     <el-table-column type="index" label="Rank" align="center" width="100px" />
     <el-table-column prop="name" label="Name" align="center" />
-    <el-table-column prop="grade" label="Grade" align="center" />
+    <el-table-column
+      prop="grade"
+      label="Grade"
+      align="center"
+      column-key="grade"
+      :filters="reactiveData.gradeData"
+      :filter-method="filterGradeMethod"/>
     <el-table-column prop="rating" label="Rating" sortable align="center" />
     <el-table-column prop="contest_total" label="ContestTotal" sortable align="center" />
     <el-table-column prop="problem_total" label="ProblemTotal" sortable align="center" />
@@ -53,7 +59,8 @@ import { getContestGraphOptions } from '@/type/rating_graph'
 
 const reactiveData = reactive<any>({
   updateTime: '',
-  tableData: []
+  tableData: [],
+  gradeData: []
 })
 
 async function fetchData(): Promise<user_data> {
@@ -72,12 +79,24 @@ async function processUserData() {
     const userData = await fetchData()
     reactiveData.updateTime = userData.update_time
     reactiveData.tableData = Object.values(userData.user_info)
+    const grades = new Set<number>();
+    Object.values(userData.user_info).forEach(user => {
+      grades.add(user.grade);
+    });
+    reactiveData.gradeData = Array.from(grades).
+      sort((a, b) => b - a).
+      map(grade => ({ text: `${grade}`, value: grade }));
   } catch (error) {
     console.error('Error processing user data:', error)
   }
 }
 
 processUserData()
+
+function filterGradeMethod(value: number, row: user_item) {
+  return row.grade === value;
+}
+
 
 function drawChart(row: user_item, expendRows: user_item[]) {
   const isExpend = expendRows.some(r => r.codeforces_handle == row.codeforces_handle)
