@@ -7642,7 +7642,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 125,
+            "problem_total": 127,
             "rating": 1227,
             "contest_total": 5,
             "contest_info": [
@@ -8067,7 +8067,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 944,
-            "problem_total": 72,
+            "problem_total": 74,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -8095,7 +8095,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 0,
-            "problem_total": 100,
+            "problem_total": 102,
             "contest_total": 0
         },
         "周徐彬": {
@@ -8166,7 +8166,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1025,
-            "problem_total": 33,
+            "problem_total": 34,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8257,7 +8257,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 452,
-            "problem_total": 16,
+            "problem_total": 17,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -8284,7 +8284,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 393,
-            "problem_total": 12,
+            "problem_total": 14,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8335,7 +8335,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 0,
-            "problem_total": 16,
+            "problem_total": 19,
             "contest_total": 0
         },
         "黄子力": {
@@ -8383,7 +8383,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 0,
-            "problem_total": 1,
+            "problem_total": 2,
             "contest_total": 0
         },
         "李书暄": {
@@ -8431,7 +8431,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 870,
-            "problem_total": 23,
+            "problem_total": 25,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8488,5 +8488,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-17 00:40:56"
+    "update_time": "2025-02-17 01:11:23"
 }
