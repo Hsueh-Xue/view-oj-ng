@@ -8450,7 +8450,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 388,
-            "problem_total": 2,
+            "problem_total": 3,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -8509,7 +8509,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1001,
-            "problem_total": 25,
+            "problem_total": 26,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8575,5 +8575,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-17 19:36:04"
+    "update_time": "2025-02-17 20:25:04"
 }
