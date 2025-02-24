@@ -7678,7 +7678,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 132,
+            "problem_total": 133,
             "rating": 1370,
             "contest_total": 6,
             "contest_info": [
@@ -8404,7 +8404,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 100,
+            "problem_total": 103,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8683,5 +8683,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-24 19:35:43"
+    "update_time": "2025-02-24 20:23:58"
 }
