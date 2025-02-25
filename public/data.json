@@ -6524,7 +6524,7 @@
             "name": "葛先步",
             "grade": 2023,
             "codeforces_handle": "gexianbu",
-            "rating": 1882,
+            "rating": 1857,
             "problem_total": 143,
             "contest_info": [
                 {
@@ -6660,7 +6660,7 @@
                     "rank": 138,
                     "rating_update_time_seconds": 1717691700,
                     "old_rating": 1736,
-                    "new_rating": 1882
+                    "new_rating": 1857
                 }
             ],
             "contest_total": 15
@@ -8674,5 +8674,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-25 07:54:48"
+    "update_time": "2025-02-25 08:57:35"
 }
