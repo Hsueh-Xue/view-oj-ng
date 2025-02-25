@@ -7076,7 +7076,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 548,
+            "problem_total": 549,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8448,7 +8448,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 0,
-            "problem_total": 63,
+            "problem_total": 64,
             "contest_total": 0
         },
         "穆浩元": {
@@ -8674,5 +8674,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-25 12:40:44"
+    "update_time": "2025-02-25 13:13:30"
 }
