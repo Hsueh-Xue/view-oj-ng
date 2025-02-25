@@ -7274,7 +7274,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 95,
+            "problem_total": 96,
             "rating": 1265,
             "contest_total": 16,
             "contest_info": [
@@ -7831,7 +7831,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1248,
-            "problem_total": 105,
+            "problem_total": 106,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -8112,7 +8112,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1323,
-            "problem_total": 83,
+            "problem_total": 84,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -8249,7 +8249,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1128,
-            "problem_total": 39,
+            "problem_total": 40,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8472,7 +8472,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 486,
-            "problem_total": 23,
+            "problem_total": 24,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -8674,5 +8674,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-25 23:14:24"
+    "update_time": "2025-02-25 23:39:26"
 }
