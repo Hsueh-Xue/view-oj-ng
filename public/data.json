@@ -7392,7 +7392,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1439,
+            "rating": 1348,
             "problem_total": 298,
             "contest_info": [
                 {
@@ -7538,9 +7538,18 @@
                     "rating_update_time_seconds": 1737911100,
                     "old_rating": 1385,
                     "new_rating": 1439
+                },
+                {
+                    "contest_id": 2059,
+                    "contest_name": "Codeforces Round 1002 (Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 10990,
+                    "rating_update_time_seconds": 1738514100,
+                    "old_rating": 1439,
+                    "new_rating": 1348
                 }
             ],
-            "contest_total": 16
+            "contest_total": 17
         },
         "陈天意": {
             "name": "陈天意",
@@ -8039,9 +8048,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 620,
+            "rating": 946,
             "problem_total": 87,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8051,6 +8060,15 @@
                     "rating_update_time_seconds": 1736699700,
                     "old_rating": 0,
                     "new_rating": 620
+                },
+                {
+                    "contest_id": 2059,
+                    "contest_name": "Codeforces Round 1002 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 4615,
+                    "rating_update_time_seconds": 1738514100,
+                    "old_rating": 620,
+                    "new_rating": 946
                 }
             ]
         },
@@ -8310,7 +8328,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 486,
-            "problem_total": 24,
+            "problem_total": 25,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -8494,5 +8512,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-26 21:25:36"
+    "update_time": "2025-02-26 21:49:41"
 }
