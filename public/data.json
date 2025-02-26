@@ -8112,7 +8112,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1323,
-            "problem_total": 83,
+            "problem_total": 84,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -8249,7 +8249,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1128,
-            "problem_total": 39,
+            "problem_total": 40,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8674,5 +8674,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-26 15:13:19"
+    "update_time": "2025-02-26 15:35:31"
 }
