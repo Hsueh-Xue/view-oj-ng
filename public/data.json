@@ -6749,7 +6749,7 @@
             "name": "张俊涛",
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
-            "rating": 1522,
+            "rating": 1638,
             "problem_total": 195,
             "contest_info": [
                 {
@@ -6886,9 +6886,18 @@
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1371,
                     "new_rating": 1522
+                },
+                {
+                    "contest_id": 2067,
+                    "contest_name": "Codeforces Round 1004 (Div. 2)",
+                    "handle": "QF_shengxiu",
+                    "rank": 497,
+                    "rating_update_time_seconds": 1739291700,
+                    "old_rating": 1522,
+                    "new_rating": 1638
                 }
             ],
-            "contest_total": 15
+            "contest_total": 16
         },
         "刘旭": {
             "name": "刘旭",
@@ -8167,7 +8176,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1049,
+            "rating": 1027,
             "problem_total": 41,
             "contest_info": [
                 {
@@ -8241,9 +8250,18 @@
                     "rating_update_time_seconds": 1737554700,
                     "old_rating": 1079,
                     "new_rating": 1049
+                },
+                {
+                    "contest_id": 2065,
+                    "contest_name": "Codeforces Round 1003 (Div. 4)",
+                    "handle": "yellow_one",
+                    "rank": 13336,
+                    "rating_update_time_seconds": 1739119800,
+                    "old_rating": 1049,
+                    "new_rating": 1027
                 }
             ],
-            "contest_total": 8
+            "contest_total": 9
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -8304,7 +8322,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 0,
-            "problem_total": 74,
+            "problem_total": 75,
             "contest_total": 0
         },
         "穆浩元": {
@@ -8512,5 +8530,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-26 21:49:41"
+    "update_time": "2025-02-26 22:13:24"
 }
