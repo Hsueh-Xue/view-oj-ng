@@ -8358,7 +8358,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 941,
-            "problem_total": 25,
+            "problem_total": 26,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8674,5 +8674,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-26 12:43:26"
+    "update_time": "2025-02-26 13:25:31"
 }
