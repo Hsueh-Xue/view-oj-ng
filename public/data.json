@@ -8112,7 +8112,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1323,
-            "problem_total": 82,
+            "problem_total": 83,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -8358,7 +8358,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 941,
-            "problem_total": 22,
+            "problem_total": 23,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8448,7 +8448,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 0,
-            "problem_total": 70,
+            "problem_total": 71,
             "contest_total": 0
         },
         "穆浩元": {
@@ -8674,5 +8674,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-26 15:02:05"
+    "update_time": "2025-02-26 15:13:19"
 }
