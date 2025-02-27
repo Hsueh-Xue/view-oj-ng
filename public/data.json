@@ -8194,7 +8194,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1054,
-            "problem_total": 118,
+            "problem_total": 119,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8702,7 +8702,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1150,
-            "problem_total": 36,
+            "problem_total": 37,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8786,5 +8786,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-27 21:26:49"
+    "update_time": "2025-02-27 22:13:47"
 }
