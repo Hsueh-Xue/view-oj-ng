@@ -8520,7 +8520,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 438,
-            "problem_total": 78,
+            "problem_total": 79,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -8702,7 +8702,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1150,
-            "problem_total": 34,
+            "problem_total": 36,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8786,5 +8786,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-27 20:23:50"
+    "update_time": "2025-02-27 21:26:49"
 }
