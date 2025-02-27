@@ -7076,7 +7076,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 549,
+            "problem_total": 550,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8702,7 +8702,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1150,
-            "problem_total": 33,
+            "problem_total": 34,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8786,5 +8786,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-27 19:35:39"
+    "update_time": "2025-02-27 20:23:50"
 }
