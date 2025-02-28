@@ -7076,7 +7076,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 551,
+            "problem_total": 552,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8484,7 +8484,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1074,
-            "problem_total": 23,
+            "problem_total": 24,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8849,5 +8849,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-02-28 19:35:35"
+    "update_time": "2025-02-28 20:23:34"
 }
