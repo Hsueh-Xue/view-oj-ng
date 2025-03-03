@@ -8583,7 +8583,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 883,
-            "problem_total": 88,
+            "problem_total": 89,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8800,7 +8800,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 912,
-            "problem_total": 10,
+            "problem_total": 11,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8921,5 +8921,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-03 22:13:39"
+    "update_time": "2025-03-03 23:14:27"
 }
