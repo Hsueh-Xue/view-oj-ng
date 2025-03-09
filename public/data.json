@@ -4799,7 +4799,7 @@
             "grade": 2017,
             "codeforces_handle": "HsuehHtao",
             "rating": 1832,
-            "problem_total": 1204,
+            "problem_total": 1205,
             "contest_info": [
                 {
                     "contest_id": 978,
@@ -8583,7 +8583,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 883,
-            "problem_total": 99,
+            "problem_total": 100,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8921,5 +8921,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-09 14:14:19"
+    "update_time": "2025-03-09 14:37:17"
 }
