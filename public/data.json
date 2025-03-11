@@ -8148,7 +8148,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1462,
-            "problem_total": 105,
+            "problem_total": 106,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -8466,7 +8466,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1306,
-            "problem_total": 35,
+            "problem_total": 36,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -8619,7 +8619,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 883,
-            "problem_total": 111,
+            "problem_total": 112,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8856,7 +8856,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 912,
-            "problem_total": 13,
+            "problem_total": 14,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -8977,5 +8977,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-11 23:41:11"
+    "update_time": "2025-03-12 00:17:20"
 }
