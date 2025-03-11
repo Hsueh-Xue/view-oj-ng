@@ -8538,7 +8538,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1174,
-            "problem_total": 30,
+            "problem_total": 32,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8977,5 +8977,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-11 20:25:18"
+    "update_time": "2025-03-11 21:02:23"
 }
