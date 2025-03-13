@@ -7003,7 +7003,7 @@
             "name": "葛宇逍",
             "grade": 2023,
             "codeforces_handle": "Garfield_114514",
-            "problem_total": 6,
+            "problem_total": 7,
             "rating": 0,
             "contest_total": 0
         },
@@ -7671,7 +7671,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 59,
+            "problem_total": 60,
             "rating": 0,
             "contest_total": 0
         },
@@ -7778,7 +7778,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 11,
+            "problem_total": 12,
             "contest_total": 0
         },
         "沈万婷": {
@@ -8502,7 +8502,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1266,
-            "problem_total": 36,
+            "problem_total": 38,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -9058,5 +9058,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-13 20:25:17"
+    "update_time": "2025-03-13 21:01:02"
 }
