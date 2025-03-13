@@ -8502,7 +8502,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1266,
-            "problem_total": 38,
+            "problem_total": 39,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -8673,7 +8673,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1037,
-            "problem_total": 113,
+            "problem_total": 114,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -9058,5 +9058,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-13 21:01:02"
+    "update_time": "2025-03-13 21:30:32"
 }
