@@ -7832,7 +7832,7 @@
             "codeforces_handle": "qqbb111",
             "rating": 1254,
             "problem_total": 107,
-            "contest_total": 14,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7949,15 +7949,6 @@
                     "rank": 8268,
                     "rating_update_time_seconds": 1739896500,
                     "old_rating": 1284,
-                    "new_rating": 1248
-                },
-                {
-                    "contest_id": 2072,
-                    "contest_name": "Codeforces Round 1006 (Div. 3)",
-                    "handle": "qqbb111",
-                    "rank": 6337,
-                    "rating_update_time_seconds": 1740502200,
-                    "old_rating": 1248,
                     "new_rating": 1254
                 }
             ]
@@ -8770,5 +8761,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-15 02:17:09"
+    "update_time": "2025-03-15 02:49:02"
 }
