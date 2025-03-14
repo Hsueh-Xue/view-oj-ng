@@ -8147,9 +8147,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1406,
+            "rating": 1470,
             "problem_total": 109,
-            "contest_total": 7,
+            "contest_total": 8,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8213,6 +8213,15 @@
                     "rating_update_time_seconds": 1740761400,
                     "old_rating": 1488,
                     "new_rating": 1406
+                },
+                {
+                    "contest_id": 2078,
+                    "contest_name": "Codeforces Round 1008 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1833,
+                    "rating_update_time_seconds": 1741626900,
+                    "old_rating": 1406,
+                    "new_rating": 1470
                 }
             ]
         },
@@ -8329,7 +8338,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1213,
+            "rating": 1308,
             "problem_total": 52,
             "contest_info": [
                 {
@@ -8439,17 +8448,26 @@
                     "rating_update_time_seconds": 1740502200,
                     "old_rating": 1129,
                     "new_rating": 1213
+                },
+                {
+                    "contest_id": 2078,
+                    "contest_name": "Codeforces Round 1008 (Div. 2)",
+                    "handle": "yellow_one",
+                    "rank": 2553,
+                    "rating_update_time_seconds": 1741626900,
+                    "old_rating": 1213,
+                    "new_rating": 1308
                 }
             ],
-            "contest_total": 12
+            "contest_total": 13
         },
         "潘铖棋": {
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1186,
+            "rating": 1312,
             "problem_total": 39,
-            "contest_total": 5,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8495,6 +8513,15 @@
                     "rating_update_time_seconds": 1740674100,
                     "old_rating": 1079,
                     "new_rating": 1186
+                },
+                {
+                    "contest_id": 2078,
+                    "contest_name": "Codeforces Round 1008 (Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 2911,
+                    "rating_update_time_seconds": 1741626900,
+                    "old_rating": 1186,
+                    "new_rating": 1312
                 }
             ]
         },
@@ -8510,7 +8537,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1123,
+            "rating": 1183,
             "problem_total": 35,
             "contest_info": [
                 {
@@ -8566,9 +8593,18 @@
                     "rating_update_time_seconds": 1740761400,
                     "old_rating": 1080,
                     "new_rating": 1123
+                },
+                {
+                    "contest_id": 2078,
+                    "contest_name": "Codeforces Round 1008 (Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 4860,
+                    "rating_update_time_seconds": 1741626900,
+                    "old_rating": 1123,
+                    "new_rating": 1183
                 }
             ],
-            "contest_total": 6
+            "contest_total": 7
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -8705,7 +8741,7 @@
                     "contest_id": 2078,
                     "contest_name": "Codeforces Round 1008 (Div. 2)",
                     "handle": "R_coder2055",
-                    "rank": 13254,
+                    "rank": 13095,
                     "rating_update_time_seconds": 1741626900,
                     "old_rating": 0,
                     "new_rating": 368
@@ -8732,9 +8768,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 980,
+            "rating": 1132,
             "problem_total": 23,
-            "contest_total": 4,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -8771,6 +8807,15 @@
                     "rating_update_time_seconds": 1740761400,
                     "old_rating": 910,
                     "new_rating": 980
+                },
+                {
+                    "contest_id": 2078,
+                    "contest_name": "Codeforces Round 1008 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 5133,
+                    "rating_update_time_seconds": 1741626900,
+                    "old_rating": 980,
+                    "new_rating": 1132
                 }
             ]
         },
@@ -8932,5 +8977,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-15 06:38:40"
+    "update_time": "2025-03-15 07:12:51"
 }
