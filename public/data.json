@@ -2983,7 +2983,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 278,
+            "problem_total": 279,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -8735,7 +8735,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1073,
-            "problem_total": 34,
+            "problem_total": 36,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -9058,5 +9058,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-18 00:36:25"
+    "update_time": "2025-03-18 01:23:45"
 }
