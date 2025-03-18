@@ -2976,7 +2976,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1045,
+            "problem_total": 1046,
             "rating": 1615
         },
         "戴子晟": {
@@ -7076,7 +7076,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 562,
+            "problem_total": 563,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8832,7 +8832,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1163,
-            "problem_total": 26,
+            "problem_total": 27,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9058,5 +9058,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-18 11:04:22"
+    "update_time": "2025-03-18 12:30:45"
 }
