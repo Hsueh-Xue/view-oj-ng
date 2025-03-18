@@ -6768,7 +6768,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1602,
-            "problem_total": 203,
+            "problem_total": 204,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -8275,7 +8275,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 144,
+            "problem_total": 145,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -8611,7 +8611,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 129,
+            "problem_total": 131,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -9130,5 +9130,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-18 20:51:50"
+    "update_time": "2025-03-18 21:33:51"
 }
