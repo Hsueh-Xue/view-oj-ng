@@ -8338,7 +8338,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 572,
+            "problem_total": 573,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8718,7 +8718,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1072,
-            "problem_total": 124,
+            "problem_total": 125,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -8959,7 +8959,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 0,
-            "problem_total": 63,
+            "problem_total": 64,
             "contest_total": 0
         },
         "胡嘉皓": {
@@ -9130,5 +9130,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-19 07:24:58"
+    "update_time": "2025-03-19 09:58:14"
 }
