@@ -8175,7 +8175,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1534,
-            "problem_total": 115,
+            "problem_total": 117,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -8275,7 +8275,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 148,
+            "problem_total": 149,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9130,5 +9130,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-21 13:25:30"
+    "update_time": "2025-03-21 14:36:29"
 }
