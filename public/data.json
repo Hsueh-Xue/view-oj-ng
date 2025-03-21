@@ -2976,7 +2976,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1046,
+            "problem_total": 1047,
             "rating": 1615
         },
         "戴子晟": {
@@ -6534,7 +6534,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 144,
+            "problem_total": 145,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -9130,5 +9130,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-21 09:59:19"
+    "update_time": "2025-03-21 11:04:33"
 }
