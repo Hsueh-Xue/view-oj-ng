@@ -2983,7 +2983,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 279,
+            "problem_total": 282,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -6768,7 +6768,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1602,
-            "problem_total": 206,
+            "problem_total": 208,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7447,7 +7447,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1428,
-            "problem_total": 321,
+            "problem_total": 324,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8175,7 +8175,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1534,
-            "problem_total": 118,
+            "problem_total": 122,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -8529,7 +8529,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1310,
-            "problem_total": 46,
+            "problem_total": 48,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -8718,7 +8718,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1072,
-            "problem_total": 130,
+            "problem_total": 132,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -8991,7 +8991,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1071,
-            "problem_total": 16,
+            "problem_total": 17,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9130,5 +9130,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-23 00:28:43"
+    "update_time": "2025-03-23 01:20:42"
 }
