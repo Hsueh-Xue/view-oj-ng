@@ -8762,9 +8762,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1150,
+            "rating": 1195,
             "problem_total": 136,
-            "contest_total": 6,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -8819,6 +8819,15 @@
                     "rating_update_time_seconds": 1742661300,
                     "old_rating": 1072,
                     "new_rating": 1150
+                },
+                {
+                    "contest_id": 2090,
+                    "contest_name": "Codeforces Round 1012 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 3139,
+                    "rating_update_time_seconds": 1742717100,
+                    "old_rating": 1150,
+                    "new_rating": 1195
                 }
             ]
         },
@@ -9193,5 +9202,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-23 16:29:40"
+    "update_time": "2025-03-23 17:23:52"
 }
