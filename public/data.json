@@ -8374,7 +8374,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 592,
+            "problem_total": 594,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8763,7 +8763,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1150,
-            "problem_total": 132,
+            "problem_total": 133,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9193,5 +9193,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-23 10:04:51"
+    "update_time": "2025-03-23 11:37:26"
 }
