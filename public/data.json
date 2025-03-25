@@ -8565,7 +8565,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1288,
-            "problem_total": 49,
+            "problem_total": 50,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -8656,7 +8656,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 135,
+            "problem_total": 136,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -9202,5 +9202,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-25 20:51:18"
+    "update_time": "2025-03-25 21:34:33"
 }
