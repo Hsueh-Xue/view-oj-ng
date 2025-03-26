@@ -6543,7 +6543,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 151,
+            "problem_total": 152,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -7465,7 +7465,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1502,
-            "problem_total": 336,
+            "problem_total": 337,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -9247,5 +9247,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-26 20:52:09"
+    "update_time": "2025-03-26 21:34:24"
 }
