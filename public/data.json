@@ -8329,7 +8329,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 154,
+            "problem_total": 155,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9090,7 +9090,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1053,
-            "problem_total": 21,
+            "problem_total": 22,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9247,5 +9247,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-27 19:21:15"
+    "update_time": "2025-03-27 20:52:05"
 }
