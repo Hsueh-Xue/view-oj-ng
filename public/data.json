@@ -8790,7 +8790,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1229,
-            "problem_total": 144,
+            "problem_total": 145,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9247,5 +9247,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-03-28 12:31:03"
+    "update_time": "2025-03-28 13:27:20"
 }
