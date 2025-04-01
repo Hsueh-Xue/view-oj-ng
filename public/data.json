@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 457,
+            "problem_total": 458,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -8410,7 +8410,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 632,
+            "problem_total": 634,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9310,5 +9310,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-01 13:27:00"
+    "update_time": "2025-04-01 14:38:09"
 }
