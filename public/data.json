@@ -8927,7 +8927,7 @@
             "name": "吴佳鹏",
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
-            "rating": 1053,
+            "rating": 1015,
             "problem_total": 23,
             "contest_total": 4,
             "contest_info": [
@@ -8965,7 +8965,7 @@
                     "rank": 12241,
                     "rating_update_time_seconds": 1741712700,
                     "old_rating": 920,
-                    "new_rating": 1053
+                    "new_rating": 1015
                 }
             ]
         },
@@ -8973,7 +8973,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1143,
+            "rating": 1153,
             "problem_total": 46,
             "contest_info": [
                 {
@@ -9028,7 +9028,7 @@
                     "rank": 7737,
                     "rating_update_time_seconds": 1740502200,
                     "old_rating": 1085,
-                    "new_rating": 1143
+                    "new_rating": 1153
                 }
             ],
             "contest_total": 6
@@ -9058,5 +9058,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-03 02:38:24"
+    "update_time": "2025-04-03 03:21:47"
 }
