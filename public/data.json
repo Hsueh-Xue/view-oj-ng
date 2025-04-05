@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2127,
+            "rating": 2075,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8228,9 +8228,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1568,
+            "rating": 1599,
             "problem_total": 159,
-            "contest_total": 13,
+            "contest_total": 14,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8348,6 +8348,15 @@
                     "rating_update_time_seconds": 1743698100,
                     "old_rating": 1626,
                     "new_rating": 1568
+                },
+                {
+                    "contest_id": 2084,
+                    "contest_name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2255,
+                    "rating_update_time_seconds": 1743874500,
+                    "old_rating": 1568,
+                    "new_rating": 1599
                 }
             ]
         },
@@ -8845,7 +8854,7 @@
             "codeforces_handle": "starlaw",
             "rating": 1180,
             "problem_total": 152,
-            "contest_total": 9,
+            "contest_total": 10,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -8926,6 +8935,15 @@
                     "rank": 9868,
                     "rating_update_time_seconds": 1743266100,
                     "old_rating": 1233,
+                    "new_rating": 1180
+                },
+                {
+                    "contest_id": 2084,
+                    "contest_name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 6422,
+                    "rating_update_time_seconds": 1743874500,
+                    "old_rating": 1180,
                     "new_rating": 1180
                 }
             ]
@@ -9337,5 +9355,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-06 02:34:18"
+    "update_time": "2025-04-06 03:19:15"
 }
