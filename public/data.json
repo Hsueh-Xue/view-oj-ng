@@ -6543,7 +6543,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 152,
+            "problem_total": 154,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -8428,7 +8428,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 663,
+            "problem_total": 664,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9355,5 +9355,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-08 15:26:35"
+    "update_time": "2025-04-08 16:34:46"
 }
