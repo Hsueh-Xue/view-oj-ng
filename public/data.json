@@ -2976,7 +2976,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1053,
+            "problem_total": 1054,
             "rating": 1615
         },
         "戴子晟": {
@@ -8428,7 +8428,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 662,
+            "problem_total": 663,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9355,5 +9355,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-08 12:30:32"
+    "update_time": "2025-04-08 13:27:10"
 }
