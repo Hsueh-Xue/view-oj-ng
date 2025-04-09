@@ -8229,7 +8229,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1599,
-            "problem_total": 170,
+            "problem_total": 171,
             "contest_total": 14,
             "contest_info": [
                 {
@@ -8619,7 +8619,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1338,
-            "problem_total": 69,
+            "problem_total": 74,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9355,5 +9355,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-09 17:30:10"
+    "update_time": "2025-04-09 18:31:51"
 }
