@@ -6777,7 +6777,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1546,
-            "problem_total": 222,
+            "problem_total": 225,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -8637,7 +8637,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1299,
-            "problem_total": 74,
+            "problem_total": 75,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -9391,5 +9391,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-10 18:29:01"
+    "update_time": "2025-04-10 19:23:05"
 }
