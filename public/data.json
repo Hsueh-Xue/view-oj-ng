@@ -7112,7 +7112,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 580,
+            "problem_total": 581,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8880,7 +8880,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1173,
-            "problem_total": 161,
+            "problem_total": 163,
             "contest_total": 11,
             "contest_info": [
                 {
@@ -9391,5 +9391,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-11 10:01:28"
+    "update_time": "2025-04-11 11:08:21"
 }
