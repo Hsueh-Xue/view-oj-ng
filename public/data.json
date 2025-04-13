@@ -6687,7 +6687,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 80,
+            "problem_total": 84,
             "rating": 0,
             "contest_total": 0
         },
@@ -8501,7 +8501,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1296,
-            "problem_total": 52,
+            "problem_total": 55,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9391,5 +9391,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-13 23:26:48"
+    "update_time": "2025-04-14 00:33:59"
 }
