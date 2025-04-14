@@ -6688,8 +6688,19 @@
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
             "problem_total": 84,
-            "rating": 0,
-            "contest_total": 0
+            "rating": 472,
+            "contest_total": 1,
+            "contest_info": [
+                {
+                    "contest_id": 2094,
+                    "contest_name": "Codeforces Round 1017 (Div. 4)",
+                    "handle": "BoBoowen",
+                    "rank": 5293,
+                    "rating_update_time_seconds": 1744566600,
+                    "old_rating": 0,
+                    "new_rating": 472
+                }
+            ]
         },
         "王科然": {
             "name": "王科然",
@@ -8238,7 +8249,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1652,
-            "problem_total": 175,
+            "problem_total": 176,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -8500,7 +8511,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1296,
+            "rating": 1327,
             "problem_total": 57,
             "contest_info": [
                 {
@@ -8628,9 +8639,18 @@
                     "rating_update_time_seconds": 1741712700,
                     "old_rating": 1308,
                     "new_rating": 1296
+                },
+                {
+                    "contest_id": 2094,
+                    "contest_name": "Codeforces Round 1017 (Div. 4)",
+                    "handle": "yellow_one",
+                    "rank": 2686,
+                    "rating_update_time_seconds": 1744566600,
+                    "old_rating": 1296,
+                    "new_rating": 1327
                 }
             ],
-            "contest_total": 14
+            "contest_total": 15
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -9391,5 +9411,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-15 00:34:08"
+    "update_time": "2025-04-15 01:24:15"
 }
