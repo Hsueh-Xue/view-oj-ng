@@ -8383,7 +8383,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 163,
+            "problem_total": 164,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -8501,7 +8501,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1296,
-            "problem_total": 55,
+            "problem_total": 56,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9391,5 +9391,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-14 19:22:34"
+    "update_time": "2025-04-14 20:53:49"
 }
