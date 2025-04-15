@@ -8900,7 +8900,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1173,
-            "problem_total": 169,
+            "problem_total": 170,
             "contest_total": 11,
             "contest_info": [
                 {
@@ -9088,7 +9088,7 @@
             "grade": 2024,
             "codeforces_handle": "ying1m",
             "rating": 0,
-            "problem_total": 16,
+            "problem_total": 19,
             "contest_total": 0
         },
         "贾宜儒": {
@@ -9411,5 +9411,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-15 19:22:38"
+    "update_time": "2025-04-15 21:01:01"
 }
