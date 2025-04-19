@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2075,
+            "rating": 1883,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8899,9 +8899,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1173,
+            "rating": 1251,
             "problem_total": 174,
-            "contest_total": 11,
+            "contest_total": 12,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9001,6 +9001,15 @@
                     "rating_update_time_seconds": 1744131000,
                     "old_rating": 1180,
                     "new_rating": 1173
+                },
+                {
+                    "contest_id": 2096,
+                    "contest_name": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 4416,
+                    "rating_update_time_seconds": 1745080500,
+                    "old_rating": 1173,
+                    "new_rating": 1251
                 }
             ]
         },
@@ -9411,5 +9420,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-20 03:21:04"
+    "update_time": "2025-04-20 04:26:26"
 }
