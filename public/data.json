@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1883,
+            "rating": 1897,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -7484,7 +7484,7 @@
             "name": "徐浩哲",
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
-            "rating": 1653,
+            "rating": 1545,
             "problem_total": 379,
             "contest_info": [
                 {
@@ -7693,9 +7693,18 @@
                     "rating_update_time_seconds": 1743266100,
                     "old_rating": 1507,
                     "new_rating": 1653
+                },
+                {
+                    "contest_id": 2103,
+                    "contest_name": "Codeforces Round 1019 (Div. 2)",
+                    "handle": "blhxsdzjr",
+                    "rank": 7378,
+                    "rating_update_time_seconds": 1745253300,
+                    "old_rating": 1653,
+                    "new_rating": 1545
                 }
             ],
-            "contest_total": 23
+            "contest_total": 24
         },
         "陈天意": {
             "name": "陈天意",
@@ -8248,9 +8257,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1652,
+            "rating": 1724,
             "problem_total": 187,
-            "contest_total": 15,
+            "contest_total": 16,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8386,6 +8395,15 @@
                     "rating_update_time_seconds": 1744131000,
                     "old_rating": 1599,
                     "new_rating": 1652
+                },
+                {
+                    "contest_id": 2103,
+                    "contest_name": "Codeforces Round 1019 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 707,
+                    "rating_update_time_seconds": 1745253300,
+                    "old_rating": 1652,
+                    "new_rating": 1724
                 }
             ]
         },
@@ -8791,7 +8809,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1228,
+            "rating": 1225,
             "problem_total": 45,
             "contest_info": [
                 {
@@ -8883,9 +8901,18 @@
                     "rating_update_time_seconds": 1743266100,
                     "old_rating": 1242,
                     "new_rating": 1228
+                },
+                {
+                    "contest_id": 2103,
+                    "contest_name": "Codeforces Round 1019 (Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 6676,
+                    "rating_update_time_seconds": 1745253300,
+                    "old_rating": 1228,
+                    "new_rating": 1225
                 }
             ],
-            "contest_total": 10
+            "contest_total": 11
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -8899,9 +8926,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1251,
+            "rating": 1259,
             "problem_total": 176,
-            "contest_total": 12,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9010,6 +9037,15 @@
                     "rating_update_time_seconds": 1745080500,
                     "old_rating": 1173,
                     "new_rating": 1251
+                },
+                {
+                    "contest_id": 2103,
+                    "contest_name": "Codeforces Round 1019 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 5761,
+                    "rating_update_time_seconds": 1745253300,
+                    "old_rating": 1251,
+                    "new_rating": 1259
                 }
             ]
         },
@@ -9420,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-22 02:36:01"
+    "update_time": "2025-04-22 03:22:42"
 }
