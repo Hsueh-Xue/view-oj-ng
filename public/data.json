@@ -8475,7 +8475,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 720,
+            "problem_total": 721,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8802,7 +8802,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 145,
+            "problem_total": 147,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-22 19:23:26"
+    "update_time": "2025-04-22 20:55:17"
 }
