@@ -8802,7 +8802,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 154,
+            "problem_total": 155,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8927,7 +8927,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1259,
-            "problem_total": 176,
+            "problem_total": 177,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -9299,7 +9299,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 24,
+            "problem_total": 26,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-23 19:23:37"
+    "update_time": "2025-04-23 20:54:01"
 }
