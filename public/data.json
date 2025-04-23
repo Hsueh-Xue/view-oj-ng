@@ -7123,7 +7123,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 596,
+            "problem_total": 597,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8802,7 +8802,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 149,
+            "problem_total": 152,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-23 10:03:43"
+    "update_time": "2025-04-23 11:40:13"
 }
