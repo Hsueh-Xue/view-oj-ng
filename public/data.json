@@ -9299,7 +9299,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 29,
+            "problem_total": 30,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9363,7 +9363,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1145,
-            "problem_total": 51,
+            "problem_total": 52,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-24 20:56:43"
+    "update_time": "2025-04-24 21:36:34"
 }
