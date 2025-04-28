@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 466,
+            "problem_total": 467,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -8802,7 +8802,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 159,
+            "problem_total": 160,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8927,7 +8927,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1259,
-            "problem_total": 187,
+            "problem_total": 188,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -9141,7 +9141,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 368,
-            "problem_total": 61,
+            "problem_total": 63,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -9299,7 +9299,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 40,
+            "problem_total": 42,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-28 19:38:16"
+    "update_time": "2025-04-28 21:05:25"
 }
