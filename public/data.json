@@ -8802,7 +8802,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 0,
-            "problem_total": 157,
+            "problem_total": 159,
             "contest_total": 0
         },
         "唐嘉奇": {
@@ -8927,7 +8927,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1259,
-            "problem_total": 186,
+            "problem_total": 187,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-28 18:03:49"
+    "update_time": "2025-04-28 19:38:16"
 }
