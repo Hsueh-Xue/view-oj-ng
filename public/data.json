@@ -9141,7 +9141,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 368,
-            "problem_total": 68,
+            "problem_total": 70,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -9299,7 +9299,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 47,
+            "problem_total": 49,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9456,5 +9456,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-29 19:23:19"
+    "update_time": "2025-04-29 20:57:41"
 }
