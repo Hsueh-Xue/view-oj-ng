@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1897,
+            "rating": 1946,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8257,9 +8257,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1724,
+            "rating": 1732,
             "problem_total": 196,
-            "contest_total": 16,
+            "contest_total": 17,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8404,6 +8404,15 @@
                     "rating_update_time_seconds": 1745253300,
                     "old_rating": 1652,
                     "new_rating": 1724
+                },
+                {
+                    "contest_id": 2104,
+                    "contest_name": "Educational Codeforces Round 178 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1164,
+                    "rating_update_time_seconds": 1745858100,
+                    "old_rating": 1724,
+                    "new_rating": 1732
                 }
             ]
         },
@@ -8475,7 +8484,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 751,
+            "problem_total": 752,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8926,9 +8935,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1259,
+            "rating": 1245,
             "problem_total": 192,
-            "contest_total": 13,
+            "contest_total": 14,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9046,6 +9055,15 @@
                     "rating_update_time_seconds": 1745253300,
                     "old_rating": 1251,
                     "new_rating": 1259
+                },
+                {
+                    "contest_id": 2104,
+                    "contest_name": "Educational Codeforces Round 178 (Rated for Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 5581,
+                    "rating_update_time_seconds": 1745858100,
+                    "old_rating": 1259,
+                    "new_rating": 1245
                 }
             ]
         },
@@ -9141,7 +9159,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 368,
-            "problem_total": 70,
+            "problem_total": 71,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -9456,5 +9474,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-04-29 20:57:41"
+    "update_time": "2025-04-29 21:40:50"
 }
