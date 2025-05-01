@@ -9142,7 +9142,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 0,
+            "rating": 359,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -9158,9 +9158,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 368,
+            "rating": 665,
             "problem_total": 72,
-            "contest_total": 1,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9170,6 +9170,15 @@
                     "rating_update_time_seconds": 1741626900,
                     "old_rating": 0,
                     "new_rating": 368
+                },
+                {
+                    "contest_id": 2108,
+                    "contest_name": "Codeforces Round 1022 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 6895,
+                    "rating_update_time_seconds": 1746117300,
+                    "old_rating": 368,
+                    "new_rating": 665
                 }
             ]
         },
@@ -9474,5 +9483,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-02 01:25:16"
+    "update_time": "2025-05-02 02:36:58"
 }
