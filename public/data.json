@@ -9089,7 +9089,7 @@
             "grade": 2024,
             "codeforces_handle": "cc8",
             "rating": 0,
-            "problem_total": 2,
+            "problem_total": 3,
             "contest_total": 0
         },
         "乔迪": {
@@ -9168,7 +9168,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 665,
-            "problem_total": 72,
+            "problem_total": 77,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9492,5 +9492,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-06 19:23:21"
+    "update_time": "2025-05-06 20:56:15"
 }
