@@ -2,7 +2,7 @@
     "user_info": {
         "江宇杰": {
             "rating": 1958,
-            "problem_total": 841,
+            "problem_total": 842,
             "contest_info": [
                 {
                     "contest_id": 1514,
@@ -264,7 +264,7 @@
         },
         "童春琦": {
             "rating": 1782,
-            "problem_total": 558,
+            "problem_total": 559,
             "contest_info": [
                 {
                     "contest_id": 1637,
@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 479,
+            "problem_total": 483,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6687,7 +6687,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 87,
+            "problem_total": 90,
             "rating": 473,
             "contest_total": 1,
             "contest_info": [
@@ -7123,7 +7123,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 600,
+            "problem_total": 603,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7968,7 +7968,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1257,
-            "problem_total": 122,
+            "problem_total": 123,
             "contest_total": 14,
             "contest_info": [
                 {
@@ -9492,5 +9492,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-11 18:26:23"
+    "update_time": "2025-05-11 19:20:27"
 }
