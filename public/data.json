@@ -5729,7 +5729,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 319,
+            "problem_total": 320,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 477,
+            "problem_total": 478,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6543,7 +6543,7 @@
             "grade": 2023,
             "codeforces_handle": "gexianbu",
             "rating": 1882,
-            "problem_total": 159,
+            "problem_total": 161,
             "contest_info": [
                 {
                     "contest_id": 1919,
@@ -6788,7 +6788,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 241,
+            "problem_total": 243,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7321,7 +7321,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 103,
+            "problem_total": 104,
             "rating": 1328,
             "contest_total": 17,
             "contest_info": [
@@ -7485,7 +7485,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 386,
+            "problem_total": 388,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7960,7 +7960,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 23,
+            "problem_total": 24,
             "contest_total": 0
         },
         "金岸": {
@@ -7968,7 +7968,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1257,
-            "problem_total": 121,
+            "problem_total": 122,
             "contest_total": 14,
             "contest_info": [
                 {
@@ -9492,5 +9492,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-11 15:24:35"
+    "update_time": "2025-05-11 16:32:53"
 }
