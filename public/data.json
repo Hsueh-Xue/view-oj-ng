@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1950,
+            "rating": 2036,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8810,9 +8810,20 @@
             "name": "刘彦冰",
             "grade": 2024,
             "codeforces_handle": "damor",
-            "rating": 0,
-            "problem_total": 171,
-            "contest_total": 0
+            "rating": 471,
+            "problem_total": 174,
+            "contest_total": 1,
+            "contest_info": [
+                {
+                    "contest_id": 2102,
+                    "contest_name": "Codeforces Round 1024 (Div. 2)",
+                    "handle": "damor",
+                    "rank": 4662,
+                    "rating_update_time_seconds": 1746983100,
+                    "old_rating": 0,
+                    "new_rating": 471
+                }
+            ]
         },
         "唐嘉奇": {
             "name": "唐嘉奇",
@@ -8935,9 +8946,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1152,
-            "problem_total": 199,
-            "contest_total": 15,
+            "rating": 1201,
+            "problem_total": 201,
+            "contest_total": 16,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9073,6 +9084,15 @@
                     "rating_update_time_seconds": 1746463800,
                     "old_rating": 1247,
                     "new_rating": 1152
+                },
+                {
+                    "contest_id": 2102,
+                    "contest_name": "Codeforces Round 1024 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 3987,
+                    "rating_update_time_seconds": 1746983100,
+                    "old_rating": 1152,
+                    "new_rating": 1201
                 }
             ]
         },
@@ -9167,9 +9187,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 666,
-            "problem_total": 87,
-            "contest_total": 2,
+            "rating": 932,
+            "problem_total": 90,
+            "contest_total": 3,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9188,6 +9208,15 @@
                     "rating_update_time_seconds": 1746117300,
                     "old_rating": 368,
                     "new_rating": 666
+                },
+                {
+                    "contest_id": 2102,
+                    "contest_name": "Codeforces Round 1024 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 4500,
+                    "rating_update_time_seconds": 1746983100,
+                    "old_rating": 666,
+                    "new_rating": 932
                 }
             ]
         },
@@ -9492,5 +9521,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-12 01:21:39"
+    "update_time": "2025-05-12 02:34:34"
 }
