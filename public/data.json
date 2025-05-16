@@ -8539,7 +8539,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1327,
-            "problem_total": 58,
+            "problem_total": 59,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9521,5 +9521,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-16 14:38:44"
+    "update_time": "2025-05-16 15:27:02"
 }
