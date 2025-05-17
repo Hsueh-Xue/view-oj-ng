@@ -9187,9 +9187,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 932,
+            "rating": 1004,
             "problem_total": 105,
-            "contest_total": 3,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9217,6 +9217,15 @@
                     "rating_update_time_seconds": 1746983100,
                     "old_rating": 666,
                     "new_rating": 932
+                },
+                {
+                    "contest_id": 2109,
+                    "contest_name": "Codeforces Round 1025 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 11690,
+                    "rating_update_time_seconds": 1747500600,
+                    "old_rating": 932,
+                    "new_rating": 1004
                 }
             ]
         },
@@ -9427,7 +9436,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1145,
+            "rating": 1216,
             "problem_total": 56,
             "contest_info": [
                 {
@@ -9492,9 +9501,18 @@
                     "rating_update_time_seconds": 1742921400,
                     "old_rating": 1153,
                     "new_rating": 1145
+                },
+                {
+                    "contest_id": 2109,
+                    "contest_name": "Codeforces Round 1025 (Div. 2)",
+                    "handle": "fushen",
+                    "rank": 4199,
+                    "rating_update_time_seconds": 1747500600,
+                    "old_rating": 1145,
+                    "new_rating": 1216
                 }
             ],
-            "contest_total": 7
+            "contest_total": 8
         },
         "雷天宝": {
             "name": "雷天宝",
@@ -9521,5 +9539,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-18 02:35:58"
+    "update_time": "2025-05-18 03:23:08"
 }
