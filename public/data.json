@@ -9188,7 +9188,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 932,
-            "problem_total": 104,
+            "problem_total": 105,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -9428,7 +9428,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1145,
-            "problem_total": 54,
+            "problem_total": 56,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -9521,5 +9521,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-18 00:32:28"
+    "update_time": "2025-05-18 01:23:21"
 }
