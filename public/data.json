@@ -8484,7 +8484,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 822,
+            "problem_total": 823,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8811,7 +8811,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 471,
-            "problem_total": 200,
+            "problem_total": 201,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -9539,5 +9539,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-19 11:53:31"
+    "update_time": "2025-05-19 12:36:25"
 }
