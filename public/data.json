@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2036,
+            "rating": 1950,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8946,7 +8946,7 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1201,
+            "rating": 1152,
             "problem_total": 207,
             "contest_total": 15,
             "contest_info": [
@@ -9083,7 +9083,7 @@
                     "rank": 9655,
                     "rating_update_time_seconds": 1746463800,
                     "old_rating": 1247,
-                    "new_rating": 1201
+                    "new_rating": 1152
                 }
             ]
         },
@@ -9178,7 +9178,7 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1004,
+            "rating": 666,
             "problem_total": 111,
             "contest_total": 2,
             "contest_info": [
@@ -9198,7 +9198,7 @@
                     "rank": 6774,
                     "rating_update_time_seconds": 1746117300,
                     "old_rating": 368,
-                    "new_rating": 1004
+                    "new_rating": 666
                 }
             ]
         },
@@ -9409,7 +9409,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1216,
+            "rating": 1145,
             "problem_total": 57,
             "contest_info": [
                 {
@@ -9473,7 +9473,7 @@
                     "rank": 9232,
                     "rating_update_time_seconds": 1742921400,
                     "old_rating": 1153,
-                    "new_rating": 1216
+                    "new_rating": 1145
                 }
             ],
             "contest_total": 7
@@ -9503,5 +9503,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-24 01:25:43"
+    "update_time": "2025-05-24 02:36:17"
 }
