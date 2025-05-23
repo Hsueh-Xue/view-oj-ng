@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 1950,
+            "rating": 2036,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8810,7 +8810,7 @@
             "name": "刘彦冰",
             "grade": 2024,
             "codeforces_handle": "damor",
-            "rating": 471,
+            "rating": 476,
             "problem_total": 217,
             "contest_total": 1,
             "contest_info": [
@@ -8818,10 +8818,10 @@
                     "contest_id": 2102,
                     "contest_name": "Codeforces Round 1024 (Div. 2)",
                     "handle": "damor",
-                    "rank": 4662,
+                    "rank": 4418,
                     "rating_update_time_seconds": 1746983100,
                     "old_rating": 0,
-                    "new_rating": 471
+                    "new_rating": 476
                 }
             ]
         },
@@ -8946,9 +8946,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1152,
+            "rating": 1205,
             "problem_total": 207,
-            "contest_total": 15,
+            "contest_total": 16,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9084,6 +9084,15 @@
                     "rating_update_time_seconds": 1746463800,
                     "old_rating": 1247,
                     "new_rating": 1152
+                },
+                {
+                    "contest_id": 2102,
+                    "contest_name": "Codeforces Round 1024 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 3772,
+                    "rating_update_time_seconds": 1746983100,
+                    "old_rating": 1152,
+                    "new_rating": 1205
                 }
             ]
         },
@@ -9178,9 +9187,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 666,
+            "rating": 1008,
             "problem_total": 111,
-            "contest_total": 2,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9199,6 +9208,24 @@
                     "rating_update_time_seconds": 1746117300,
                     "old_rating": 368,
                     "new_rating": 666
+                },
+                {
+                    "contest_id": 2102,
+                    "contest_name": "Codeforces Round 1024 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 4265,
+                    "rating_update_time_seconds": 1746983100,
+                    "old_rating": 666,
+                    "new_rating": 936
+                },
+                {
+                    "contest_id": 2109,
+                    "contest_name": "Codeforces Round 1025 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 11457,
+                    "rating_update_time_seconds": 1747500600,
+                    "old_rating": 936,
+                    "new_rating": 1008
                 }
             ]
         },
@@ -9409,7 +9436,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1145,
+            "rating": 1218,
             "problem_total": 57,
             "contest_info": [
                 {
@@ -9474,9 +9501,18 @@
                     "rating_update_time_seconds": 1742921400,
                     "old_rating": 1153,
                     "new_rating": 1145
+                },
+                {
+                    "contest_id": 2109,
+                    "contest_name": "Codeforces Round 1025 (Div. 2)",
+                    "handle": "fushen",
+                    "rank": 4091,
+                    "rating_update_time_seconds": 1747500600,
+                    "old_rating": 1145,
+                    "new_rating": 1218
                 }
             ],
-            "contest_total": 7
+            "contest_total": 8
         },
         "雷天宝": {
             "name": "雷天宝",
@@ -9503,5 +9539,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-24 03:22:04"
+    "update_time": "2025-05-24 04:30:06"
 }
