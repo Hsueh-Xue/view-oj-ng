@@ -8258,7 +8258,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1735,
-            "problem_total": 232,
+            "problem_total": 233,
             "contest_total": 17,
             "contest_info": [
                 {
@@ -8947,7 +8947,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1285,
-            "problem_total": 211,
+            "problem_total": 214,
             "contest_total": 17,
             "contest_info": [
                 {
@@ -9197,7 +9197,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1156,
-            "problem_total": 127,
+            "problem_total": 130,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9575,5 +9575,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-26 22:28:36"
+    "update_time": "2025-05-26 23:30:25"
 }
