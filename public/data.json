@@ -8258,7 +8258,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1735,
-            "problem_total": 235,
+            "problem_total": 237,
             "contest_total": 17,
             "contest_info": [
                 {
@@ -8421,7 +8421,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 178,
+            "problem_total": 179,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -8946,9 +8946,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1285,
+            "rating": 1322,
             "problem_total": 216,
-            "contest_total": 17,
+            "contest_total": 18,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9102,6 +9102,15 @@
                     "rating_update_time_seconds": 1748104500,
                     "old_rating": 1205,
                     "new_rating": 1285
+                },
+                {
+                    "contest_id": 2114,
+                    "contest_name": "Codeforces Round  1027 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 3660,
+                    "rating_update_time_seconds": 1748278200,
+                    "old_rating": 1285,
+                    "new_rating": 1322
                 }
             ]
         },
@@ -9196,9 +9205,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1156,
+            "rating": 1216,
             "problem_total": 130,
-            "contest_total": 5,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9244,6 +9253,15 @@
                     "rating_update_time_seconds": 1748104500,
                     "old_rating": 1008,
                     "new_rating": 1156
+                },
+                {
+                    "contest_id": 2114,
+                    "contest_name": "Codeforces Round  1027 (Div. 3)",
+                    "handle": "R_coder2055",
+                    "rank": 6967,
+                    "rating_update_time_seconds": 1748278200,
+                    "old_rating": 1156,
+                    "new_rating": 1216
                 }
             ]
         },
@@ -9575,5 +9593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-27 17:29:49"
+    "update_time": "2025-05-27 18:31:54"
 }
