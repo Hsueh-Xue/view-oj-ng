@@ -8684,7 +8684,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1302,
-            "problem_total": 85,
+            "problem_total": 86,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -9206,7 +9206,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1216,
-            "problem_total": 143,
+            "problem_total": 144,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9593,5 +9593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-28 18:32:00"
+    "update_time": "2025-05-28 19:24:35"
 }
