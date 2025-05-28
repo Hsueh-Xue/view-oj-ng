@@ -9105,7 +9105,7 @@
                 },
                 {
                     "contest_id": 2114,
-                    "contest_name": "Codeforces Round  1027 (Div. 3)",
+                    "contest_name": "Codeforces Round 1027 (Div. 3)",
                     "handle": "starlaw",
                     "rank": 3660,
                     "rating_update_time_seconds": 1748278200,
@@ -9206,7 +9206,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1216,
-            "problem_total": 144,
+            "problem_total": 147,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9256,7 +9256,7 @@
                 },
                 {
                     "contest_id": 2114,
-                    "contest_name": "Codeforces Round  1027 (Div. 3)",
+                    "contest_name": "Codeforces Round 1027 (Div. 3)",
                     "handle": "R_coder2055",
                     "rank": 6967,
                     "rating_update_time_seconds": 1748278200,
@@ -9593,5 +9593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-28 19:24:35"
+    "update_time": "2025-05-28 20:57:09"
 }
