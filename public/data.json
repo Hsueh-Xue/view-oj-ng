@@ -9482,7 +9482,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1246,
-            "problem_total": 60,
+            "problem_total": 61,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -9593,5 +9593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-05-28 16:37:04"
+    "update_time": "2025-05-28 17:30:10"
 }
