@@ -8257,9 +8257,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1735,
+            "rating": 1705,
             "problem_total": 243,
-            "contest_total": 17,
+            "contest_total": 18,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8413,6 +8413,15 @@
                     "rating_update_time_seconds": 1745858100,
                     "old_rating": 1727,
                     "new_rating": 1735
+                },
+                {
+                    "contest_id": 2116,
+                    "contest_name": "Codeforces Round 1028 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2465,
+                    "rating_update_time_seconds": 1748709300,
+                    "old_rating": 1735,
+                    "new_rating": 1705
                 }
             ]
         },
@@ -9205,9 +9214,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1216,
+            "rating": 1163,
             "problem_total": 148,
-            "contest_total": 6,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9262,6 +9271,15 @@
                     "rating_update_time_seconds": 1748278200,
                     "old_rating": 1156,
                     "new_rating": 1216
+                },
+                {
+                    "contest_id": 2116,
+                    "contest_name": "Codeforces Round 1028 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 12489,
+                    "rating_update_time_seconds": 1748709300,
+                    "old_rating": 1216,
+                    "new_rating": 1163
                 }
             ]
         },
@@ -9593,5 +9611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-01 01:23:34"
+    "update_time": "2025-06-01 02:35:36"
 }
