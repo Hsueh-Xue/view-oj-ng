@@ -8257,9 +8257,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1705,
-            "problem_total": 248,
-            "contest_total": 18,
+            "rating": 1689,
+            "problem_total": 250,
+            "contest_total": 19,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8422,6 +8422,15 @@
                     "rating_update_time_seconds": 1748709300,
                     "old_rating": 1735,
                     "new_rating": 1705
+                },
+                {
+                    "contest_id": 2111,
+                    "contest_name": "Educational Codeforces Round 179 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1841,
+                    "rating_update_time_seconds": 1748968500,
+                    "old_rating": 1705,
+                    "new_rating": 1689
                 }
             ]
         },
@@ -9303,9 +9312,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1171,
+            "rating": 1272,
             "problem_total": 40,
-            "contest_total": 10,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -9396,6 +9405,15 @@
                     "rating_update_time_seconds": 1748104500,
                     "old_rating": 1144,
                     "new_rating": 1171
+                },
+                {
+                    "contest_id": 2111,
+                    "contest_name": "Educational Codeforces Round 179 (Rated for Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 2828,
+                    "rating_update_time_seconds": 1748968500,
+                    "old_rating": 1171,
+                    "new_rating": 1272
                 }
             ]
         },
@@ -9611,5 +9629,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-04 15:28:20"
+    "update_time": "2025-06-04 16:37:18"
 }
