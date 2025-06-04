@@ -8430,7 +8430,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 191,
+            "problem_total": 194,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9304,7 +9304,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1171,
-            "problem_total": 39,
+            "problem_total": 40,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -9611,5 +9611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-04 14:39:38"
+    "update_time": "2025-06-04 15:28:20"
 }
