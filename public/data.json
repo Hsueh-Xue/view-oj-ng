@@ -8258,7 +8258,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1876,
-            "problem_total": 282,
+            "problem_total": 283,
             "contest_total": 20,
             "contest_info": [
                 {
@@ -9162,7 +9162,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1238,
-            "problem_total": 49,
+            "problem_total": 50,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9638,5 +9638,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-16 15:28:55"
+    "update_time": "2025-06-16 16:38:08"
 }
