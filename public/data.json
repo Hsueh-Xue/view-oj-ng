@@ -8257,9 +8257,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1876,
+            "rating": 1812,
             "problem_total": 288,
-            "contest_total": 20,
+            "contest_total": 21,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8440,6 +8440,15 @@
                     "rating_update_time_seconds": 1749746100,
                     "old_rating": 1689,
                     "new_rating": 1876
+                },
+                {
+                    "contest_id": 2120,
+                    "contest_name": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
+                    "handle": "Zero.2",
+                    "rank": 2370,
+                    "rating_update_time_seconds": 1750523700,
+                    "old_rating": 1876,
+                    "new_rating": 1812
                 }
             ]
         },
@@ -9638,5 +9647,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-22 15:26:30"
+    "update_time": "2025-06-22 16:33:40"
 }
