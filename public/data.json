@@ -8257,9 +8257,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1735,
+            "rating": 1688,
             "problem_total": 295,
-            "contest_total": 17,
+            "contest_total": 19,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8413,6 +8413,24 @@
                     "rating_update_time_seconds": 1745858100,
                     "old_rating": 1727,
                     "new_rating": 1735
+                },
+                {
+                    "contest_id": 2116,
+                    "contest_name": "Codeforces Round 1028 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2291,
+                    "rating_update_time_seconds": 1748709300,
+                    "old_rating": 1735,
+                    "new_rating": 1703
+                },
+                {
+                    "contest_id": 2111,
+                    "contest_name": "Educational Codeforces Round 179 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1797,
+                    "rating_update_time_seconds": 1748968500,
+                    "old_rating": 1703,
+                    "new_rating": 1688
                 }
             ]
         },
@@ -9205,9 +9223,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1218,
+            "rating": 1162,
             "problem_total": 148,
-            "contest_total": 6,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9262,6 +9280,15 @@
                     "rating_update_time_seconds": 1748278200,
                     "old_rating": 1154,
                     "new_rating": 1218
+                },
+                {
+                    "contest_id": 2116,
+                    "contest_name": "Codeforces Round 1028 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 11993,
+                    "rating_update_time_seconds": 1748709300,
+                    "old_rating": 1218,
+                    "new_rating": 1162
                 }
             ]
         },
@@ -9285,9 +9312,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1170,
+            "rating": 1270,
             "problem_total": 40,
-            "contest_total": 10,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -9378,6 +9405,15 @@
                     "rating_update_time_seconds": 1748104500,
                     "old_rating": 1144,
                     "new_rating": 1170
+                },
+                {
+                    "contest_id": 2111,
+                    "contest_name": "Educational Codeforces Round 179 (Rated for Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 2756,
+                    "rating_update_time_seconds": 1748968500,
+                    "old_rating": 1170,
+                    "new_rating": 1270
                 }
             ]
         },
@@ -9593,5 +9629,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-29 01:23:49"
+    "update_time": "2025-06-29 02:36:03"
 }
