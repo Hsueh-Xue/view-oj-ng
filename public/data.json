@@ -8259,7 +8259,7 @@
             "codeforces_handle": "Zero.2",
             "rating": 1812,
             "problem_total": 295,
-            "contest_total": 21,
+            "contest_total": 17,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8412,42 +8412,6 @@
                     "rank": 1131,
                     "rating_update_time_seconds": 1745858100,
                     "old_rating": 1727,
-                    "new_rating": 1735
-                },
-                {
-                    "contest_id": 2116,
-                    "contest_name": "Codeforces Round 1028 (Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 2465,
-                    "rating_update_time_seconds": 1748709300,
-                    "old_rating": 1735,
-                    "new_rating": 1705
-                },
-                {
-                    "contest_id": 2111,
-                    "contest_name": "Educational Codeforces Round 179 (Rated for Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 1841,
-                    "rating_update_time_seconds": 1748968500,
-                    "old_rating": 1705,
-                    "new_rating": 1689
-                },
-                {
-                    "contest_id": 2118,
-                    "contest_name": "Codeforces Round 1030 (Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 83,
-                    "rating_update_time_seconds": 1749746100,
-                    "old_rating": 1689,
-                    "new_rating": 1876
-                },
-                {
-                    "contest_id": 2120,
-                    "contest_name": "Codeforces Round 1033 (Div. 2) and CodeNite 2025",
-                    "handle": "Zero.2",
-                    "rank": 2370,
-                    "rating_update_time_seconds": 1750523700,
-                    "old_rating": 1876,
                     "new_rating": 1812
                 }
             ]
@@ -9647,5 +9611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-28 18:28:21"
+    "update_time": "2025-06-28 19:22:36"
 }
