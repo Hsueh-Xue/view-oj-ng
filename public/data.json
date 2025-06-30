@@ -6788,7 +6788,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 249,
+            "problem_total": 250,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7960,7 +7960,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 26,
+            "problem_total": 27,
             "contest_total": 0
         },
         "金岸": {
@@ -9647,5 +9647,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-30 20:58:10"
+    "update_time": "2025-06-30 21:40:20"
 }
