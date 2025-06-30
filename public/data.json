@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 483,
+            "problem_total": 484,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7968,7 +7968,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1257,
-            "problem_total": 141,
+            "problem_total": 142,
             "contest_total": 14,
             "contest_info": [
                 {
@@ -8847,7 +8847,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 476,
-            "problem_total": 242,
+            "problem_total": 243,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -9647,5 +9647,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-06-30 14:41:30"
+    "update_time": "2025-06-30 15:29:08"
 }
