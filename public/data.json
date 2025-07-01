@@ -7485,7 +7485,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 398,
+            "problem_total": 399,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7763,7 +7763,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 68,
+            "problem_total": 69,
             "rating": 0,
             "contest_total": 0
         },
@@ -8258,7 +8258,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1824,
-            "problem_total": 303,
+            "problem_total": 304,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -9647,5 +9647,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-01 20:58:08"
+    "update_time": "2025-07-01 21:40:35"
 }
