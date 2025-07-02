@@ -8866,7 +8866,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1222,
-            "problem_total": 47,
+            "problem_total": 48,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9242,7 +9242,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1162,
-            "problem_total": 153,
+            "problem_total": 154,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -9536,7 +9536,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1245,
-            "problem_total": 68,
+            "problem_total": 72,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -9647,5 +9647,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-02 15:28:21"
+    "update_time": "2025-07-02 16:38:05"
 }
