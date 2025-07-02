@@ -8457,7 +8457,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 200,
+            "problem_total": 201,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -8719,9 +8719,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1302,
-            "problem_total": 106,
-            "contest_total": 13,
+            "rating": 1322,
+            "problem_total": 107,
+            "contest_total": 14,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8839,6 +8839,15 @@
                     "rating_update_time_seconds": 1744131000,
                     "old_rating": 1338,
                     "new_rating": 1302
+                },
+                {
+                    "contest_id": 2123,
+                    "contest_name": "Codeforces Round 1034 (Div. 3)",
+                    "handle": "ginyako",
+                    "rank": 4307,
+                    "rating_update_time_seconds": 1751388600,
+                    "old_rating": 1302,
+                    "new_rating": 1322
                 }
             ]
         },
@@ -9535,7 +9544,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1245,
+            "rating": 1293,
             "problem_total": 72,
             "contest_info": [
                 {
@@ -9618,9 +9627,18 @@
                     "rating_update_time_seconds": 1748104500,
                     "old_rating": 1218,
                     "new_rating": 1245
+                },
+                {
+                    "contest_id": 2123,
+                    "contest_name": "Codeforces Round 1034 (Div. 3)",
+                    "handle": "fushen",
+                    "rank": 3668,
+                    "rating_update_time_seconds": 1751388600,
+                    "old_rating": 1245,
+                    "new_rating": 1293
                 }
             ],
-            "contest_total": 9
+            "contest_total": 10
         },
         "雷天宝": {
             "name": "雷天宝",
@@ -9647,5 +9665,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-02 17:32:43"
+    "update_time": "2025-07-02 18:32:05"
 }
