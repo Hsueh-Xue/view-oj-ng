@@ -9242,7 +9242,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1162,
-            "problem_total": 154,
+            "problem_total": 155,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -9464,7 +9464,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 0,
-            "problem_total": 7,
+            "problem_total": 8,
             "contest_total": 0
         },
         "吴佳鹏": {
@@ -9647,5 +9647,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-02 16:38:05"
+    "update_time": "2025-07-02 17:32:43"
 }
