@@ -8520,7 +8520,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1204,
-            "problem_total": 1046,
+            "problem_total": 1049,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8875,7 +8875,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1222,
-            "problem_total": 48,
+            "problem_total": 49,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9665,5 +9665,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-03 07:28:01"
+    "update_time": "2025-07-03 10:12:57"
 }
