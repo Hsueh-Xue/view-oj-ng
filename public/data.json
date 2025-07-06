@@ -8537,7 +8537,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1212,
+            "rating": 1284,
             "problem_total": 1066,
             "contest_info": [
                 {
@@ -8593,9 +8593,18 @@
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1204,
                     "new_rating": 1212
+                },
+                {
+                    "contest_id": 2124,
+                    "contest_name": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 3751,
+                    "rating_update_time_seconds": 1751823300,
+                    "old_rating": 1212,
+                    "new_rating": 1284
                 }
             ],
-            "contest_total": 6
+            "contest_total": 7
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -8746,9 +8755,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1335,
+            "rating": 1362,
             "problem_total": 121,
-            "contest_total": 15,
+            "contest_total": 16,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8884,6 +8893,15 @@
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1322,
                     "new_rating": 1335
+                },
+                {
+                    "contest_id": 2124,
+                    "contest_name": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 4031,
+                    "rating_update_time_seconds": 1751823300,
+                    "old_rating": 1335,
+                    "new_rating": 1362
                 }
             ]
         },
@@ -9324,9 +9342,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1193,
+            "rating": 1234,
             "problem_total": 167,
-            "contest_total": 8,
+            "contest_total": 9,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9399,6 +9417,15 @@
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1162,
                     "new_rating": 1193
+                },
+                {
+                    "contest_id": 2124,
+                    "contest_name": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 4957,
+                    "rating_update_time_seconds": 1751823300,
+                    "old_rating": 1193,
+                    "new_rating": 1234
                 }
             ]
         },
@@ -9658,7 +9685,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1376,
+            "rating": 1356,
             "problem_total": 81,
             "contest_info": [
                 {
@@ -9759,9 +9786,18 @@
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1293,
                     "new_rating": 1376
+                },
+                {
+                    "contest_id": 2124,
+                    "contest_name": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
+                    "handle": "fushen",
+                    "rank": 5437,
+                    "rating_update_time_seconds": 1751823300,
+                    "old_rating": 1376,
+                    "new_rating": 1356
                 }
             ],
-            "contest_total": 11
+            "contest_total": 12
         },
         "雷天宝": {
             "name": "雷天宝",
@@ -9788,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-07 04:29:58"
+    "update_time": "2025-07-07 05:25:36"
 }
