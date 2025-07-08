@@ -8611,7 +8611,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1327,
-            "problem_total": 59,
+            "problem_total": 60,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9622,7 +9622,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 62,
+            "problem_total": 63,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9824,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-08 15:28:33"
+    "update_time": "2025-07-08 16:38:24"
 }
