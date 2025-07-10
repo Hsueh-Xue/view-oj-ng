@@ -9461,7 +9461,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1365,
-            "problem_total": 64,
+            "problem_total": 66,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9824,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-10 16:37:37"
+    "update_time": "2025-07-10 17:33:05"
 }
