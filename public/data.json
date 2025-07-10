@@ -7969,7 +7969,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 31,
+            "problem_total": 32,
             "contest_total": 0
         },
         "金岸": {
@@ -9343,7 +9343,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1234,
-            "problem_total": 174,
+            "problem_total": 175,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -9824,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-10 17:33:05"
+    "update_time": "2025-07-10 18:32:38"
 }
