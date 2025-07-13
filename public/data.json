@@ -8538,7 +8538,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1284,
-            "problem_total": 1090,
+            "problem_total": 1091,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8756,7 +8756,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1362,
-            "problem_total": 129,
+            "problem_total": 131,
             "contest_total": 16,
             "contest_info": [
                 {
@@ -9824,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-13 19:23:58"
+    "update_time": "2025-07-13 20:54:35"
 }
