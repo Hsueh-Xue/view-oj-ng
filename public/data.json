@@ -8938,7 +8938,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1291,
-            "problem_total": 58,
+            "problem_total": 59,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9343,7 +9343,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1234,
-            "problem_total": 185,
+            "problem_total": 186,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -9824,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-14 16:41:46"
+    "update_time": "2025-07-14 17:37:33"
 }
