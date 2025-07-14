@@ -5729,7 +5729,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 321,
+            "problem_total": 322,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6788,7 +6788,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 264,
+            "problem_total": 265,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -9824,5 +9824,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-14 14:44:08"
+    "update_time": "2025-07-14 15:32:18"
 }
