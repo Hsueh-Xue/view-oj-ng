@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 487,
+            "problem_total": 488,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7780,7 +7780,7 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 173,
-            "rating": 1395,
+            "rating": 1407,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -7862,7 +7862,7 @@
                     "rank": 2643,
                     "rating_update_time_seconds": 1742921400,
                     "old_rating": 1380,
-                    "new_rating": 1395
+                    "new_rating": 1407
                 }
             ]
         },
@@ -8257,8 +8257,8 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1778,
-            "problem_total": 322,
+            "rating": 1824,
+            "problem_total": 324,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -8448,7 +8448,7 @@
                     "rank": 2008,
                     "rating_update_time_seconds": 1750523700,
                     "old_rating": 1880,
-                    "new_rating": 1778
+                    "new_rating": 1824
                 }
             ]
         },
@@ -8519,7 +8519,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1284,
+            "rating": 1204,
             "problem_total": 1101,
             "contest_info": [
                 {
@@ -8565,7 +8565,7 @@
                     "rank": 5735,
                     "rating_update_time_seconds": 1737911100,
                     "old_rating": 1059,
-                    "new_rating": 1284
+                    "new_rating": 1204
                 }
             ],
             "contest_total": 5
@@ -8719,7 +8719,7 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1362,
+            "rating": 1302,
             "problem_total": 136,
             "contest_total": 13,
             "contest_info": [
@@ -8838,7 +8838,7 @@
                     "rank": 7244,
                     "rating_update_time_seconds": 1744131000,
                     "old_rating": 1338,
-                    "new_rating": 1362
+                    "new_rating": 1302
                 }
             ]
         },
@@ -8846,7 +8846,7 @@
             "name": "刘彦冰",
             "grade": 2024,
             "codeforces_handle": "damor",
-            "rating": 801,
+            "rating": 476,
             "problem_total": 260,
             "contest_total": 1,
             "contest_info": [
@@ -8857,7 +8857,7 @@
                     "rank": 4418,
                     "rating_update_time_seconds": 1746983100,
                     "old_rating": 0,
-                    "new_rating": 801
+                    "new_rating": 476
                 }
             ]
         },
@@ -8865,7 +8865,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1291,
+            "rating": 1222,
             "problem_total": 65,
             "contest_info": [
                 {
@@ -8965,7 +8965,7 @@
                     "rank": 6455,
                     "rating_update_time_seconds": 1745253300,
                     "old_rating": 1228,
-                    "new_rating": 1291
+                    "new_rating": 1222
                 }
             ],
             "contest_total": 11
@@ -9170,7 +9170,7 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1258,
+            "rating": 1238,
             "problem_total": 66,
             "contest_total": 5,
             "contest_info": [
@@ -9217,7 +9217,7 @@
                     "rank": 3938,
                     "rating_update_time_seconds": 1743266100,
                     "old_rating": 1073,
-                    "new_rating": 1258
+                    "new_rating": 1238
                 }
             ]
         },
@@ -9252,8 +9252,8 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1234,
-            "problem_total": 198,
+            "rating": 1162,
+            "problem_total": 199,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -9317,7 +9317,7 @@
                     "rank": 11993,
                     "rating_update_time_seconds": 1748709300,
                     "old_rating": 1218,
-                    "new_rating": 1234
+                    "new_rating": 1162
                 }
             ]
         },
@@ -9352,7 +9352,7 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1365,
+            "rating": 1270,
             "problem_total": 70,
             "contest_total": 11,
             "contest_info": [
@@ -9453,7 +9453,7 @@
                     "rank": 2756,
                     "rating_update_time_seconds": 1748968500,
                     "old_rating": 1170,
-                    "new_rating": 1365
+                    "new_rating": 1270
                 }
             ]
         },
@@ -9568,7 +9568,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1356,
+            "rating": 1245,
             "problem_total": 90,
             "contest_info": [
                 {
@@ -9650,7 +9650,7 @@
                     "rank": 5945,
                     "rating_update_time_seconds": 1748104500,
                     "old_rating": 1218,
-                    "new_rating": 1356
+                    "new_rating": 1245
                 }
             ],
             "contest_total": 9
@@ -9680,5 +9680,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-16 18:34:45"
+    "update_time": "2025-07-16 19:26:33"
 }
