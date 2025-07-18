@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 490,
+            "problem_total": 491,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -8611,7 +8611,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1327,
-            "problem_total": 72,
+            "problem_total": 73,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9605,7 +9605,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 0,
-            "problem_total": 13,
+            "problem_total": 14,
             "contest_total": 0
         },
         "吴佳鹏": {
@@ -9613,7 +9613,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 70,
+            "problem_total": 73,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9815,5 +9815,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-18 10:26:29"
+    "update_time": "2025-07-18 12:06:51"
 }
