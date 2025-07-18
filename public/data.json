@@ -7779,7 +7779,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 176,
+            "problem_total": 177,
             "rating": 1398,
             "contest_total": 10,
             "contest_info": [
@@ -8267,7 +8267,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1782,
-            "problem_total": 329,
+            "problem_total": 330,
             "contest_total": 22,
             "contest_info": [
                 {
@@ -9815,5 +9815,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-18 21:48:43"
+    "update_time": "2025-07-18 22:30:05"
 }
