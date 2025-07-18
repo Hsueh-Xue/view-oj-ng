@@ -7969,7 +7969,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 35,
+            "problem_total": 36,
             "contest_total": 0
         },
         "金岸": {
@@ -8538,7 +8538,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1288,
-            "problem_total": 1110,
+            "problem_total": 1112,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9064,7 +9064,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1323,
-            "problem_total": 245,
+            "problem_total": 246,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -9815,5 +9815,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-18 21:00:48"
+    "update_time": "2025-07-18 21:48:43"
 }
