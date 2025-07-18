@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 491,
+            "problem_total": 492,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7779,7 +7779,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 178,
+            "problem_total": 174,
             "rating": 1398,
             "contest_total": 10,
             "contest_info": [
@@ -8267,7 +8267,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1782,
-            "problem_total": 330,
+            "problem_total": 328,
             "contest_total": 22,
             "contest_info": [
                 {
@@ -8475,7 +8475,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1345,
-            "problem_total": 241,
+            "problem_total": 238,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -9064,7 +9064,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1323,
-            "problem_total": 245,
+            "problem_total": 241,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -9343,7 +9343,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1214,
-            "problem_total": 200,
+            "problem_total": 201,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9452,7 +9452,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1369,
-            "problem_total": 72,
+            "problem_total": 73,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9613,7 +9613,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 73,
+            "problem_total": 72,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9815,5 +9815,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-18 13:34:43"
+    "update_time": "2025-07-18 14:43:14"
 }
