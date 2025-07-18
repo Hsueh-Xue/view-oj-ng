@@ -7779,9 +7779,9 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 177,
-            "rating": 1398,
-            "contest_total": 10,
+            "problem_total": 178,
+            "rating": 1342,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7872,6 +7872,15 @@
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1407,
                     "new_rating": 1398
+                },
+                {
+                    "contest_id": 2126,
+                    "contest_name": "Codeforces Round 1037 (Div. 3)",
+                    "handle": "LuCiiiD",
+                    "rank": 8364,
+                    "rating_update_time_seconds": 1752771000,
+                    "old_rating": 1398,
+                    "new_rating": 1342
                 }
             ]
         },
@@ -8474,9 +8483,9 @@
             "name": "龚俊杰",
             "grade": 2024,
             "codeforces_handle": "gggjjj",
-            "rating": 1345,
+            "rating": 1486,
             "problem_total": 243,
-            "contest_total": 5,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -8522,6 +8531,15 @@
                     "rating_update_time_seconds": 1741712700,
                     "old_rating": 1272,
                     "new_rating": 1345
+                },
+                {
+                    "contest_id": 2126,
+                    "contest_name": "Codeforces Round 1037 (Div. 3)",
+                    "handle": "gggjjj",
+                    "rank": 830,
+                    "rating_update_time_seconds": 1752771000,
+                    "old_rating": 1345,
+                    "new_rating": 1486
                 }
             ]
         },
@@ -9063,9 +9081,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1323,
+            "rating": 1371,
             "problem_total": 246,
-            "contest_total": 18,
+            "contest_total": 19,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9228,6 +9246,15 @@
                     "rating_update_time_seconds": 1748278200,
                     "old_rating": 1283,
                     "new_rating": 1323
+                },
+                {
+                    "contest_id": 2126,
+                    "contest_name": "Codeforces Round 1037 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 2500,
+                    "rating_update_time_seconds": 1752771000,
+                    "old_rating": 1323,
+                    "new_rating": 1371
                 }
             ]
         },
@@ -9613,7 +9640,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 76,
+            "problem_total": 79,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9815,5 +9842,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-18 22:30:05"
+    "update_time": "2025-07-18 23:32:37"
 }
