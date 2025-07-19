@@ -6100,7 +6100,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Healexr",
-            "rating": 2036,
+            "rating": 2189,
             "problem_total": 1241,
             "contest_info": [
                 {
@@ -8555,7 +8555,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1288,
+            "rating": 1339,
             "problem_total": 1114,
             "contest_info": [
                 {
@@ -8620,9 +8620,18 @@
                     "rating_update_time_seconds": 1751823300,
                     "old_rating": 1215,
                     "new_rating": 1288
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 4424,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 1288,
+                    "new_rating": 1339
                 }
             ],
-            "contest_total": 7
+            "contest_total": 8
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9081,9 +9090,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1371,
+            "rating": 1353,
             "problem_total": 248,
-            "contest_total": 19,
+            "contest_total": 20,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9255,6 +9264,15 @@
                     "rating_update_time_seconds": 1752771000,
                     "old_rating": 1323,
                     "new_rating": 1371
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 6434,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 1371,
+                    "new_rating": 1353
                 }
             ]
         },
@@ -9369,9 +9387,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1214,
+            "rating": 1346,
             "problem_total": 207,
-            "contest_total": 8,
+            "contest_total": 9,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9444,6 +9462,15 @@
                     "rating_update_time_seconds": 1751823300,
                     "old_rating": 1162,
                     "new_rating": 1214
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 2720,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 1214,
+                    "new_rating": 1346
                 }
             ]
         },
@@ -9842,5 +9869,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-20 02:38:07"
+    "update_time": "2025-07-20 03:22:53"
 }
