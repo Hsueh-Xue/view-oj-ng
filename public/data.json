@@ -8484,7 +8484,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1486,
-            "problem_total": 246,
+            "problem_total": 247,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -8937,7 +8937,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 272,
+            "problem_total": 273,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9091,7 +9091,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1353,
-            "problem_total": 248,
+            "problem_total": 249,
             "contest_total": 20,
             "contest_info": [
                 {
@@ -9869,5 +9869,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-21 10:32:08"
+    "update_time": "2025-07-21 12:12:42"
 }
