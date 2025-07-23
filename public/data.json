@@ -8484,7 +8484,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1486,
-            "problem_total": 250,
+            "problem_total": 251,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -8965,7 +8965,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1295,
-            "problem_total": 69,
+            "problem_total": 70,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9091,7 +9091,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1353,
-            "problem_total": 253,
+            "problem_total": 254,
             "contest_total": 20,
             "contest_info": [
                 {
@@ -9297,7 +9297,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1261,
-            "problem_total": 74,
+            "problem_total": 75,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9388,7 +9388,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1346,
-            "problem_total": 210,
+            "problem_total": 211,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -9506,7 +9506,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1369,
-            "problem_total": 81,
+            "problem_total": 82,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9667,7 +9667,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1059,
-            "problem_total": 84,
+            "problem_total": 85,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9869,5 +9869,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-23 17:36:08"
+    "update_time": "2025-07-23 18:34:21"
 }
