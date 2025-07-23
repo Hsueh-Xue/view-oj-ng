@@ -7978,7 +7978,7 @@
             "grade": 2023,
             "codeforces_handle": "xiuyan_",
             "rating": 0,
-            "problem_total": 38,
+            "problem_total": 39,
             "contest_total": 0
         },
         "金岸": {
@@ -8276,7 +8276,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1782,
-            "problem_total": 337,
+            "problem_total": 338,
             "contest_total": 22,
             "contest_info": [
                 {
@@ -8937,7 +8937,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 283,
+            "problem_total": 284,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9506,7 +9506,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1369,
-            "problem_total": 80,
+            "problem_total": 81,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9869,5 +9869,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-23 12:06:52"
+    "update_time": "2025-07-23 13:37:46"
 }
