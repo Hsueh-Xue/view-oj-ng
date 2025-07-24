@@ -7897,7 +7897,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 16,
+            "problem_total": 17,
             "contest_total": 0
         },
         "沈万婷": {
@@ -9451,7 +9451,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1365,
-            "problem_total": 211,
+            "problem_total": 212,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -9959,5 +9959,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-24 07:29:34"
+    "update_time": "2025-07-24 10:26:43"
 }
