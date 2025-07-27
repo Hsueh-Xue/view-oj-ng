@@ -8285,7 +8285,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1778,
-            "problem_total": 339,
+            "problem_total": 344,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -8583,7 +8583,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1354,
-            "problem_total": 1125,
+            "problem_total": 1127,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -8828,7 +8828,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1370,
-            "problem_total": 149,
+            "problem_total": 152,
             "contest_total": 16,
             "contest_info": [
                 {
@@ -9145,7 +9145,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1307,
-            "problem_total": 257,
+            "problem_total": 260,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -9360,7 +9360,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1261,
-            "problem_total": 76,
+            "problem_total": 81,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9451,7 +9451,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1365,
-            "problem_total": 226,
+            "problem_total": 229,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -9578,7 +9578,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1333,
-            "problem_total": 84,
+            "problem_total": 87,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -9748,7 +9748,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1152,
-            "problem_total": 85,
+            "problem_total": 87,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -9959,5 +9959,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-28 00:36:05"
+    "update_time": "2025-07-28 01:27:17"
 }
