@@ -8592,7 +8592,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1315,
-            "problem_total": 1127,
+            "problem_total": 1128,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9396,7 +9396,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1398,
-            "problem_total": 81,
+            "problem_total": 82,
             "contest_total": 7,
             "contest_info": [
                 {
@@ -10042,5 +10042,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-07-28 22:33:31"
+    "update_time": "2025-07-28 23:34:05"
 }
