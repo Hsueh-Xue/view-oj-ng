@@ -7123,7 +7123,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 622,
+            "problem_total": 623,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -9063,7 +9063,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 328,
+            "problem_total": 329,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10141,5 +10141,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-02 12:47:10"
+    "update_time": "2025-08-02 13:32:20"
 }
