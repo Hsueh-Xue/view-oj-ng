@@ -8303,7 +8303,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1877,
-            "problem_total": 351,
+            "problem_total": 346,
             "contest_total": 25,
             "contest_info": [
                 {
@@ -10141,5 +10141,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-02 21:37:50"
+    "update_time": "2025-08-02 22:28:00"
 }
