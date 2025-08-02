@@ -7123,7 +7123,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 629,
+            "problem_total": 630,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7772,7 +7772,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 80,
+            "problem_total": 82,
             "rating": 0,
             "contest_total": 0
         },
@@ -10141,5 +10141,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-02 17:31:53"
+    "update_time": "2025-08-02 18:30:16"
 }
