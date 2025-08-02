@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 498,
+            "problem_total": 499,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7123,7 +7123,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 623,
+            "problem_total": 628,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7772,7 +7772,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 79,
+            "problem_total": 80,
             "rating": 0,
             "contest_total": 0
         },
@@ -10141,5 +10141,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-02 13:32:20"
+    "update_time": "2025-08-02 14:40:28"
 }
