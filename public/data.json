@@ -9063,7 +9063,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 335,
+            "problem_total": 337,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9577,7 +9577,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1320,
-            "problem_total": 261,
+            "problem_total": 263,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -10141,5 +10141,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-03 18:31:45"
+    "update_time": "2025-08-03 19:26:23"
 }
