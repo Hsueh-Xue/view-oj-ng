@@ -1532,7 +1532,7 @@
                 }
             ],
             "rating": 1961,
-            "problem_total": 1312,
+            "problem_total": 1313,
             "contest_total": 89
         },
         "邵茹怡": {
@@ -9063,7 +9063,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 355,
+            "problem_total": 356,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10141,5 +10141,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-06 22:34:20"
+    "update_time": "2025-08-06 23:35:43"
 }
