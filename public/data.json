@@ -7438,7 +7438,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 129,
+            "problem_total": 131,
             "rating": 1409,
             "contest_total": 18,
             "contest_info": [
@@ -7905,7 +7905,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 191,
+            "problem_total": 194,
             "rating": 1360,
             "contest_total": 12,
             "contest_info": [
@@ -8420,7 +8420,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1877,
-            "problem_total": 352,
+            "problem_total": 356,
             "contest_total": 25,
             "contest_info": [
                 {
@@ -8745,7 +8745,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1432,
-            "problem_total": 1142,
+            "problem_total": 1145,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9008,7 +9008,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1397,
-            "problem_total": 160,
+            "problem_total": 163,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -9585,7 +9585,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1530,
-            "problem_total": 100,
+            "problem_total": 104,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9694,7 +9694,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1320,
-            "problem_total": 286,
+            "problem_total": 287,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9984,7 +9984,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 0,
-            "problem_total": 68,
+            "problem_total": 69,
             "contest_total": 0
         },
         "胡嘉皓": {
@@ -10258,5 +10258,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-08 01:33:24"
+    "update_time": "2025-08-08 02:47:27"
 }
