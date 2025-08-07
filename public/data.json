@@ -7439,8 +7439,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 131,
-            "rating": 1409,
-            "contest_total": 18,
+            "rating": 1359,
+            "contest_total": 19,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7603,6 +7603,15 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1328,
                     "new_rating": 1409
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 7284,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1409,
+                    "new_rating": 1359
                 }
             ]
         },
@@ -7906,8 +7915,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 194,
-            "rating": 1360,
-            "contest_total": 12,
+            "rating": 1381,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8016,6 +8025,15 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1342,
                     "new_rating": 1360
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "LuCiiiD",
+                    "rank": 4439,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1360,
+                    "new_rating": 1381
                 }
             ]
         },
@@ -8419,9 +8437,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1877,
+            "rating": 1901,
             "problem_total": 356,
-            "contest_total": 25,
+            "contest_total": 26,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8647,6 +8665,15 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1809,
                     "new_rating": 1877
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1136,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1877,
+                    "new_rating": 1901
                 }
             ]
         },
@@ -8744,7 +8771,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1432,
+            "rating": 1492,
             "problem_total": 1145,
             "contest_info": [
                 {
@@ -8845,9 +8872,18 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1315,
                     "new_rating": 1432
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 2597,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1432,
+                    "new_rating": 1492
                 }
             ],
-            "contest_total": 11
+            "contest_total": 12
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9007,9 +9043,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1397,
+            "rating": 1421,
             "problem_total": 163,
-            "contest_total": 18,
+            "contest_total": 19,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9172,6 +9208,15 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1380,
                     "new_rating": 1397
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 3959,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1397,
+                    "new_rating": 1421
                 }
             ]
         },
@@ -9584,9 +9629,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1530,
+            "rating": 1527,
             "problem_total": 104,
-            "contest_total": 8,
+            "contest_total": 9,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -9659,6 +9704,15 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1398,
                     "new_rating": 1530
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 3684,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1530,
+                    "new_rating": 1527
                 }
             ]
         },
@@ -9693,9 +9747,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1320,
+            "rating": 1219,
             "problem_total": 287,
-            "contest_total": 12,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9804,6 +9858,15 @@
                     "rating_update_time_seconds": 1753983300,
                     "old_rating": 1328,
                     "new_rating": 1320
+                },
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 11968,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 1320,
+                    "new_rating": 1219
                 }
             ]
         },
@@ -9983,9 +10046,20 @@
             "name": "李书暄",
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
-            "rating": 0,
+            "rating": 393,
             "problem_total": 69,
-            "contest_total": 0
+            "contest_total": 1,
+            "contest_info": [
+                {
+                    "contest_id": 2127,
+                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+                    "handle": "PROPOSE.",
+                    "rank": 12257,
+                    "rating_update_time_seconds": 1754588100,
+                    "old_rating": 0,
+                    "new_rating": 393
+                }
+            ]
         },
         "胡嘉皓": {
             "name": "胡嘉皓",
@@ -10258,5 +10332,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-08 02:47:27"
+    "update_time": "2025-08-08 03:27:30"
 }
