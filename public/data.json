@@ -6099,14 +6099,14 @@
         "张卓": {
             "name": "张卓",
             "grade": 2023,
-            "codeforces_handle": "Healexr",
+            "codeforces_handle": "Teatify",
             "rating": 2189,
-            "problem_total": 1241,
+            "problem_total": 2159,
             "contest_info": [
                 {
                     "contest_id": 1917,
                     "contest_name": "Codeforces Round 917 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 2752,
                     "rating_update_time_seconds": 1703435700,
                     "old_rating": 0,
@@ -6115,7 +6115,7 @@
                 {
                     "contest_id": 1915,
                     "contest_name": "Codeforces Round 918 (Div. 4)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 13483,
                     "rating_update_time_seconds": 1703783100,
                     "old_rating": 532,
@@ -6124,7 +6124,7 @@
                 {
                     "contest_id": 1916,
                     "contest_name": "Good Bye 2023",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 9382,
                     "rating_update_time_seconds": 1703955000,
                     "old_rating": 771,
@@ -6133,7 +6133,7 @@
                 {
                     "contest_id": 1919,
                     "contest_name": "Hello 2024",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 8068,
                     "rating_update_time_seconds": 1704560700,
                     "old_rating": 991,
@@ -6142,7 +6142,7 @@
                 {
                     "contest_id": 1920,
                     "contest_name": "Codeforces Round 919 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 7803,
                     "rating_update_time_seconds": 1705163700,
                     "old_rating": 1135,
@@ -6151,7 +6151,7 @@
                 {
                     "contest_id": 1921,
                     "contest_name": "Codeforces Round 920 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 6396,
                     "rating_update_time_seconds": 1705337400,
                     "old_rating": 1209,
@@ -6160,7 +6160,7 @@
                 {
                     "contest_id": 1922,
                     "contest_name": "Educational Codeforces Round 161 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 8294,
                     "rating_update_time_seconds": 1705595700,
                     "old_rating": 1257,
@@ -6169,7 +6169,7 @@
                 {
                     "contest_id": 1925,
                     "contest_name": "Codeforces Round 921 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 4520,
                     "rating_update_time_seconds": 1706373900,
                     "old_rating": 1213,
@@ -6178,7 +6178,7 @@
                 {
                     "contest_id": 1918,
                     "contest_name": "Codeforces Round 922 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 5957,
                     "rating_update_time_seconds": 1706633100,
                     "old_rating": 1243,
@@ -6187,7 +6187,7 @@
                 {
                     "contest_id": 1927,
                     "contest_name": "Codeforces Round 923 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 2276,
                     "rating_update_time_seconds": 1707238800,
                     "old_rating": 1263,
@@ -6196,7 +6196,7 @@
                 {
                     "contest_id": 1931,
                     "contest_name": "Codeforces Round 925 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 7825,
                     "rating_update_time_seconds": 1707843000,
                     "old_rating": 1341,
@@ -6205,7 +6205,7 @@
                 {
                     "contest_id": 1929,
                     "contest_name": "Codeforces Round 926 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 7684,
                     "rating_update_time_seconds": 1708014900,
                     "old_rating": 1306,
@@ -6214,7 +6214,7 @@
                 {
                     "contest_id": 1930,
                     "contest_name": "think-cell Round 1",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 4126,
                     "rating_update_time_seconds": 1708191300,
                     "old_rating": 1278,
@@ -6223,7 +6223,7 @@
                 {
                     "contest_id": 1932,
                     "contest_name": "Codeforces Round 927 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1731,
                     "rating_update_time_seconds": 1708266000,
                     "old_rating": 1305,
@@ -6232,7 +6232,7 @@
                 {
                     "contest_id": 1926,
                     "contest_name": "Codeforces Round 928 (Div. 4)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 4484,
                     "rating_update_time_seconds": 1708361400,
                     "old_rating": 1365,
@@ -6241,7 +6241,7 @@
                 {
                     "contest_id": 1923,
                     "contest_name": "Educational Codeforces Round 162 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 3638,
                     "rating_update_time_seconds": 1708706100,
                     "old_rating": 1347,
@@ -6250,7 +6250,7 @@
                 {
                     "contest_id": 1933,
                     "contest_name": "Codeforces Round 929 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 9428,
                     "rating_update_time_seconds": 1709052600,
                     "old_rating": 1373,
@@ -6259,7 +6259,7 @@
                 {
                     "contest_id": 1937,
                     "contest_name": "Codeforces Round 930 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 6199,
                     "rating_update_time_seconds": 1709224500,
                     "old_rating": 1314,
@@ -6268,7 +6268,7 @@
                 {
                     "contest_id": 1941,
                     "contest_name": "Codeforces Round 933 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1196,
                     "rating_update_time_seconds": 1710175800,
                     "old_rating": 1287,
@@ -6277,7 +6277,7 @@
                 {
                     "contest_id": 1948,
                     "contest_name": "Educational Codeforces Round 163 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1695,
                     "rating_update_time_seconds": 1710520500,
                     "old_rating": 1392,
@@ -6286,7 +6286,7 @@
                 {
                     "contest_id": 1944,
                     "contest_name": "Codeforces Round 934 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 4402,
                     "rating_update_time_seconds": 1710608400,
                     "old_rating": 1484,
@@ -6295,7 +6295,7 @@
                 {
                     "contest_id": 1945,
                     "contest_name": "Codeforces Round 935 (Div. 3)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 521,
                     "rating_update_time_seconds": 1710843600,
                     "old_rating": 1445,
@@ -6304,7 +6304,7 @@
                 {
                     "contest_id": 1946,
                     "contest_name": "Codeforces Round 936 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 714,
                     "rating_update_time_seconds": 1711125300,
                     "old_rating": 1523,
@@ -6313,7 +6313,7 @@
                 {
                     "contest_id": 1942,
                     "contest_name": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 997,
                     "rating_update_time_seconds": 1711820100,
                     "old_rating": 1637,
@@ -6322,7 +6322,7 @@
                 {
                     "contest_id": 1951,
                     "contest_name": "Codeforces Global Round 25",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 574,
                     "rating_update_time_seconds": 1712424900,
                     "old_rating": 1740,
@@ -6331,7 +6331,7 @@
                 {
                     "contest_id": 1954,
                     "contest_name": "Educational Codeforces Round 164 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 211,
                     "rating_update_time_seconds": 1712939700,
                     "old_rating": 1868,
@@ -6340,7 +6340,7 @@
                 {
                     "contest_id": 1957,
                     "contest_name": "Codeforces Round 940 (Div. 2) and CodeCraft-23",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 448,
                     "rating_update_time_seconds": 1713718200,
                     "old_rating": 1957,
@@ -6349,7 +6349,7 @@
                 {
                     "contest_id": 1965,
                     "contest_name": "Codeforces Round 941 (Div. 1)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 687,
                     "rating_update_time_seconds": 1714235700,
                     "old_rating": 1970,
@@ -6358,7 +6358,7 @@
                 {
                     "contest_id": 1967,
                     "contest_name": "Codeforces Round 942 (Div. 1)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 651,
                     "rating_update_time_seconds": 1714496700,
                     "old_rating": 1986,
@@ -6367,7 +6367,7 @@
                 {
                     "contest_id": 1973,
                     "contest_name": "Codeforces Round 945 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 112,
                     "rating_update_time_seconds": 1715963700,
                     "old_rating": 1999,
@@ -6376,7 +6376,7 @@
                 {
                     "contest_id": 1975,
                     "contest_name": "Codeforces Round 947 (Div. 1 + Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1751,
                     "rating_update_time_seconds": 1716658500,
                     "old_rating": 2077,
@@ -6385,7 +6385,7 @@
                 {
                     "contest_id": 1977,
                     "contest_name": "Codeforces Round 948 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 234,
                     "rating_update_time_seconds": 1716741300,
                     "old_rating": 1999,
@@ -6394,7 +6394,7 @@
                 {
                     "contest_id": 1984,
                     "contest_name": "Codeforces Global Round 26",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 630,
                     "rating_update_time_seconds": 1717954500,
                     "old_rating": 2035,
@@ -6403,7 +6403,7 @@
                 {
                     "contest_id": 1989,
                     "contest_name": "Educational Codeforces Round 167 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 578,
                     "rating_update_time_seconds": 1719506100,
                     "old_rating": 2075,
@@ -6412,7 +6412,7 @@
                 {
                     "contest_id": 1987,
                     "contest_name": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1344,
                     "rating_update_time_seconds": 1719768900,
                     "old_rating": 2049,
@@ -6421,7 +6421,7 @@
                 {
                     "contest_id": 1983,
                     "contest_name": "Codeforces Round 956 (Div. 2) and ByteRace 2024",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1323,
                     "rating_update_time_seconds": 1720371000,
                     "old_rating": 2010,
@@ -6430,7 +6430,7 @@
                 {
                     "contest_id": 1988,
                     "contest_name": "Codeforces Round 958 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 348,
                     "rating_update_time_seconds": 1721061300,
                     "old_rating": 1955,
@@ -6439,7 +6439,7 @@
                 {
                     "contest_id": 1994,
                     "contest_name": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 926,
                     "rating_update_time_seconds": 1721320500,
                     "old_rating": 1991,
@@ -6448,7 +6448,7 @@
                 {
                     "contest_id": 1995,
                     "contest_name": "Codeforces Round 961 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 1035,
                     "rating_update_time_seconds": 1721752500,
                     "old_rating": 2007,
@@ -6457,7 +6457,7 @@
                 {
                     "contest_id": 1997,
                     "contest_name": "Educational Codeforces Round 168 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 304,
                     "rating_update_time_seconds": 1722357300,
                     "old_rating": 1963,
@@ -6466,7 +6466,7 @@
                 {
                     "contest_id": 1993,
                     "contest_name": "Codeforces Round 963 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 231,
                     "rating_update_time_seconds": 1722789300,
                     "old_rating": 2016,
@@ -6475,7 +6475,7 @@
                 {
                     "contest_id": 1998,
                     "contest_name": "Codeforces Round 965 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 181,
                     "rating_update_time_seconds": 1723307700,
                     "old_rating": 2061,
@@ -6484,7 +6484,7 @@
                 {
                     "contest_id": 2034,
                     "contest_name": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 4304,
                     "rating_update_time_seconds": 1732988100,
                     "old_rating": 2107,
@@ -6493,7 +6493,7 @@
                 {
                     "contest_id": 2042,
                     "contest_name": "Educational Codeforces Round 172 (Rated for Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 605,
                     "rating_update_time_seconds": 1733157300,
                     "old_rating": 1931,
@@ -6502,7 +6502,7 @@
                 {
                     "contest_id": 2046,
                     "contest_name": "Codeforces Round 990 (Div. 1)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 725,
                     "rating_update_time_seconds": 1733214300,
                     "old_rating": 1929,
@@ -6511,7 +6511,7 @@
                 {
                     "contest_id": 2040,
                     "contest_name": "Codeforces Round 992 (Div. 2)",
-                    "handle": "Healexr",
+                    "handle": "Teatify",
                     "rank": 12707,
                     "rating_update_time_seconds": 1733675700,
                     "old_rating": 1845,
@@ -6520,23 +6520,140 @@
                 {
                     "contest_id": 2048,
                     "contest_name": "Codeforces Global Round 28",
-                    "handle": "Healexr",
-                    "rank": 3458,
+                    "handle": "Teatify",
+                    "rank": 3401,
                     "rating_update_time_seconds": 1734629700,
                     "old_rating": 1639,
-                    "new_rating": 1611
+                    "new_rating": 1612
                 },
                 {
                     "contest_id": 2049,
                     "contest_name": "Codeforces Round 994 (Div. 2)",
-                    "handle": "Healexr",
-                    "rank": 256,
+                    "handle": "Teatify",
+                    "rank": 251,
                     "rating_update_time_seconds": 1734712500,
-                    "old_rating": 1611,
-                    "new_rating": 1763
+                    "old_rating": 1612,
+                    "new_rating": 1766
+                },
+                {
+                    "contest_id": 2043,
+                    "contest_name": "Educational Codeforces Round 173 (Rated for Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 725,
+                    "rating_update_time_seconds": 1735058100,
+                    "old_rating": 1766,
+                    "new_rating": 1800
+                },
+                {
+                    "contest_id": 2055,
+                    "contest_name": "Codeforces Round 996 (Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 599,
+                    "rating_update_time_seconds": 1736699700,
+                    "old_rating": 1800,
+                    "new_rating": 1855
+                },
+                {
+                    "contest_id": 2069,
+                    "contest_name": "Educational Codeforces Round 174 (Rated for Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 1262,
+                    "rating_update_time_seconds": 1739896500,
+                    "old_rating": 1855,
+                    "new_rating": 1835
+                },
+                {
+                    "contest_id": 2070,
+                    "contest_name": "Educational Codeforces Round 175 (Rated for Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 196,
+                    "rating_update_time_seconds": 1740674100,
+                    "old_rating": 1835,
+                    "new_rating": 1927
+                },
+                {
+                    "contest_id": 2071,
+                    "contest_name": "Codeforces Round 1007 (Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 815,
+                    "rating_update_time_seconds": 1740761400,
+                    "old_rating": 1927,
+                    "new_rating": 1920
+                },
+                {
+                    "contest_id": 2075,
+                    "contest_name": "Educational Codeforces Round 176 (Rated for Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 157,
+                    "rating_update_time_seconds": 1742229300,
+                    "old_rating": 1920,
+                    "new_rating": 2010
+                },
+                {
+                    "contest_id": 2086,
+                    "contest_name": "Educational Codeforces Round 177 (Rated for Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 47,
+                    "rating_update_time_seconds": 1743698100,
+                    "old_rating": 2010,
+                    "new_rating": 2127
+                },
+                {
+                    "contest_id": 2084,
+                    "contest_name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 1249,
+                    "rating_update_time_seconds": 1743874500,
+                    "old_rating": 2127,
+                    "new_rating": 2077
+                },
+                {
+                    "contest_id": 2096,
+                    "contest_name": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 6523,
+                    "rating_update_time_seconds": 1745080500,
+                    "old_rating": 2077,
+                    "new_rating": 1887
+                },
+                {
+                    "contest_id": 2103,
+                    "contest_name": "Codeforces Round 1019 (Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 575,
+                    "rating_update_time_seconds": 1745253300,
+                    "old_rating": 1887,
+                    "new_rating": 1900
+                },
+                {
+                    "contest_id": 2104,
+                    "contest_name": "Educational Codeforces Round 178 (Rated for Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 274,
+                    "rating_update_time_seconds": 1745858100,
+                    "old_rating": 1900,
+                    "new_rating": 1950
+                },
+                {
+                    "contest_id": 2101,
+                    "contest_name": "Codeforces Round 1024 (Div. 1)",
+                    "handle": "Teatify",
+                    "rank": 342,
+                    "rating_update_time_seconds": 1746983100,
+                    "old_rating": 1950,
+                    "new_rating": 2036
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 184,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 2036,
+                    "new_rating": 2189
                 }
             ],
-            "contest_total": 48
+            "contest_total": 61
         },
         "葛先步": {
             "name": "葛先步",
@@ -10141,5 +10258,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-07 21:03:46"
+    "update_time": "2025-08-07 21:19:42"
 }
