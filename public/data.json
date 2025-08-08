@@ -9225,7 +9225,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 359,
+            "problem_total": 361,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9748,7 +9748,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1219,
-            "problem_total": 289,
+            "problem_total": 291,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -10085,7 +10085,7 @@
             "grade": 2024,
             "codeforces_handle": "Perses_Fruith",
             "rating": 0,
-            "problem_total": 1,
+            "problem_total": 4,
             "contest_total": 0
         },
         "杨兰欣": {
@@ -10332,5 +10332,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-08 15:33:38"
+    "update_time": "2025-08-08 16:42:06"
 }
