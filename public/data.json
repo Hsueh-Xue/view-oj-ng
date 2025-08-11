@@ -1532,7 +1532,7 @@
                 }
             ],
             "rating": 1961,
-            "problem_total": 1318,
+            "problem_total": 1319,
             "contest_total": 89
         },
         "邵茹怡": {
@@ -7438,7 +7438,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 135,
+            "problem_total": 136,
             "rating": 1359,
             "contest_total": 19,
             "contest_info": [
@@ -8438,7 +8438,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1901,
-            "problem_total": 357,
+            "problem_total": 358,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -9253,7 +9253,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1254,
-            "problem_total": 81,
+            "problem_total": 82,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9630,7 +9630,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1527,
-            "problem_total": 109,
+            "problem_total": 110,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -9902,7 +9902,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1241,
-            "problem_total": 103,
+            "problem_total": 105,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -10047,7 +10047,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 393,
-            "problem_total": 71,
+            "problem_total": 72,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -10332,5 +10332,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-11 19:26:55"
+    "update_time": "2025-08-11 21:02:13"
 }
