@@ -1532,7 +1532,7 @@
                 }
             ],
             "rating": 1961,
-            "problem_total": 1317,
+            "problem_total": 1318,
             "contest_total": 89
         },
         "邵茹怡": {
@@ -8438,7 +8438,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1901,
-            "problem_total": 356,
+            "problem_total": 357,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -9253,7 +9253,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1254,
-            "problem_total": 80,
+            "problem_total": 81,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9397,7 +9397,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1381,
-            "problem_total": 273,
+            "problem_total": 274,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -9630,7 +9630,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1527,
-            "problem_total": 108,
+            "problem_total": 109,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -10332,5 +10332,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-11 17:35:25"
+    "update_time": "2025-08-11 18:33:21"
 }
