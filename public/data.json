@@ -9053,7 +9053,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1421,
-            "problem_total": 164,
+            "problem_total": 166,
             "contest_total": 19,
             "contest_info": [
                 {
@@ -10266,7 +10266,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1364,
-            "problem_total": 122,
+            "problem_total": 123,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -10404,5 +10404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-12 23:33:07"
+    "update_time": "2025-08-13 00:36:55"
 }
