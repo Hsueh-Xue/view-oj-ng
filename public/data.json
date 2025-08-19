@@ -6905,7 +6905,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 286,
+            "problem_total": 289,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -8781,7 +8781,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1492,
-            "problem_total": 1160,
+            "problem_total": 1161,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10404,5 +10404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-19 10:06:33"
+    "update_time": "2025-08-19 11:48:19"
 }
