@@ -1532,7 +1532,7 @@
                 }
             ],
             "rating": 1961,
-            "problem_total": 1323,
+            "problem_total": 1324,
             "contest_total": 89
         },
         "邵茹怡": {
@@ -9262,7 +9262,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1280,
-            "problem_total": 88,
+            "problem_total": 89,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10266,7 +10266,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1364,
-            "problem_total": 131,
+            "problem_total": 132,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -10404,5 +10404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-22 00:35:00"
+    "update_time": "2025-08-22 01:26:55"
 }
