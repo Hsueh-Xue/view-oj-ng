@@ -1532,7 +1532,7 @@
                 }
             ],
             "rating": 1961,
-            "problem_total": 1324,
+            "problem_total": 1322,
             "contest_total": 89
         },
         "邵茹怡": {
@@ -8447,7 +8447,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1901,
-            "problem_total": 361,
+            "problem_total": 360,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -9262,7 +9262,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1280,
-            "problem_total": 89,
+            "problem_total": 84,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9784,7 +9784,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1187,
-            "problem_total": 328,
+            "problem_total": 323,
             "contest_total": 14,
             "contest_info": [
                 {
@@ -9947,7 +9947,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1316,
-            "problem_total": 114,
+            "problem_total": 110,
             "contest_total": 16,
             "contest_info": [
                 {
@@ -10101,7 +10101,7 @@
             "grade": 2024,
             "codeforces_handle": "PROPOSE.",
             "rating": 712,
-            "problem_total": 75,
+            "problem_total": 74,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10266,7 +10266,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1364,
-            "problem_total": 132,
+            "problem_total": 126,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -10404,5 +10404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-22 12:34:29"
+    "update_time": "2025-08-22 13:27:56"
 }
