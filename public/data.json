@@ -2983,7 +2983,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 288,
+            "problem_total": 289,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -5956,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 501,
+            "problem_total": 502,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6905,7 +6905,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 310,
+            "problem_total": 311,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7240,7 +7240,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 634,
+            "problem_total": 635,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7629,7 +7629,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 414,
+            "problem_total": 415,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8447,7 +8447,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1901,
-            "problem_total": 362,
+            "problem_total": 363,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -10404,5 +10404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-22 17:29:37"
+    "update_time": "2025-08-22 18:29:43"
 }
