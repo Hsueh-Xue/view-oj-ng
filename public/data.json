@@ -6119,7 +6119,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 2189,
-            "problem_total": 2248,
+            "problem_total": 2250,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7647,7 +7647,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 427,
+            "problem_total": 428,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -10557,5 +10557,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-27 22:28:17"
+    "update_time": "2025-08-27 23:29:51"
 }
