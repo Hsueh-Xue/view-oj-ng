@@ -7258,7 +7258,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 661,
+            "problem_total": 662,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7647,7 +7647,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 428,
+            "problem_total": 429,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -10557,5 +10557,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-28 16:34:59"
+    "update_time": "2025-08-28 17:29:01"
 }
