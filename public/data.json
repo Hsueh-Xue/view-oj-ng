@@ -5974,7 +5974,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 502,
+            "problem_total": 503,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7258,7 +7258,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 657,
+            "problem_total": 659,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -10557,5 +10557,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-28 10:00:20"
+    "update_time": "2025-08-28 11:10:29"
 }
