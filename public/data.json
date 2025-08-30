@@ -4483,7 +4483,7 @@
                 }
             ],
             "contest_total": 90,
-            "problem_total": 1323,
+            "problem_total": 1324,
             "rating": 1848
         },
         "何家琛": {
@@ -8808,7 +8808,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1579,
-            "problem_total": 1212,
+            "problem_total": 1213,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-08-30 21:28:26"
+    "update_time": "2025-08-30 22:22:33"
 }
