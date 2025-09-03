@@ -6128,7 +6128,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 2189,
-            "problem_total": 2288,
+            "problem_total": 2289,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6932,7 +6932,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 365,
+            "problem_total": 366,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-03 09:54:16"
+    "update_time": "2025-09-03 11:01:14"
 }
