@@ -9334,7 +9334,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1381,
-            "problem_total": 92,
+            "problem_total": 93,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9855,7 +9855,7 @@
             "grade": 2024,
             "codeforces_handle": "ying1m",
             "rating": 511,
-            "problem_total": 27,
+            "problem_total": 30,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-03 13:24:41"
+    "update_time": "2025-09-03 14:37:39"
 }
