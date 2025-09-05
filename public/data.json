@@ -9505,7 +9505,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1457,
-            "problem_total": 280,
+            "problem_total": 281,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-05 23:26:48"
+    "update_time": "2025-09-06 00:29:26"
 }
