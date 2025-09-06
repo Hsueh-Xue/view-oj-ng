@@ -6128,7 +6128,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 2189,
-            "problem_total": 2292,
+            "problem_total": 2293,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -9505,7 +9505,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1457,
-            "problem_total": 283,
+            "problem_total": 284,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-06 17:23:00"
+    "update_time": "2025-09-06 18:24:29"
 }
