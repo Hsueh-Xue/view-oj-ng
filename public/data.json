@@ -7267,7 +7267,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 669,
+            "problem_total": 674,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7656,7 +7656,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 451,
+            "problem_total": 453,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8808,7 +8808,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1579,
-            "problem_total": 1232,
+            "problem_total": 1233,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9504,9 +9504,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1457,
-            "problem_total": 293,
-            "contest_total": 24,
+            "rating": 1377,
+            "problem_total": 294,
+            "contest_total": 25,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9723,6 +9723,15 @@
                     "rating_update_time_seconds": 1754844600,
                     "old_rating": 1381,
                     "new_rating": 1457
+                },
+                {
+                    "contest_id": 2137,
+                    "contest_name": "Codeforces Round 1047 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 9381,
+                    "rating_update_time_seconds": 1757263800,
+                    "old_rating": 1457,
+                    "new_rating": 1377
                 }
             ]
         },
@@ -9846,7 +9855,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1278,
+            "rating": 1373,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -10593,5 +10602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-08 19:22:03"
+    "update_time": "2025-09-08 20:57:06"
 }
