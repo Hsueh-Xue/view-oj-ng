@@ -7656,7 +7656,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 452,
+            "problem_total": 453,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -9505,7 +9505,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1457,
-            "problem_total": 289,
+            "problem_total": 291,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-08 14:40:34"
+    "update_time": "2025-09-08 15:26:45"
 }
