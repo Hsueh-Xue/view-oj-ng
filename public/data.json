@@ -6932,7 +6932,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 372,
+            "problem_total": 373,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7656,7 +7656,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 450,
+            "problem_total": 451,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -10593,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-08 10:03:23"
+    "update_time": "2025-09-08 11:43:26"
 }
