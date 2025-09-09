@@ -5756,7 +5756,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 363,
+            "problem_total": 364,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6932,7 +6932,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 380,
+            "problem_total": 382,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -10602,5 +10602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-09 12:31:48"
+    "update_time": "2025-09-09 13:26:36"
 }
