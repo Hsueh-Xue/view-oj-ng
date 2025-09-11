@@ -5756,7 +5756,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 370,
+            "problem_total": 371,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7656,7 +7656,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1541,
-            "problem_total": 454,
+            "problem_total": 455,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -10611,5 +10611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-11 19:21:33"
+    "update_time": "2025-09-11 20:52:13"
 }
