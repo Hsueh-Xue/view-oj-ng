@@ -5729,7 +5729,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 372,
+            "problem_total": 374,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6641,10 +6641,19 @@
                     "rank": 342,
                     "rating_update_time_seconds": 1746983100,
                     "old_rating": 1950,
+                    "new_rating": 2036
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 184,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 2036,
                     "new_rating": 2189
                 }
             ],
-            "contest_total": 60
+            "contest_total": 61
         },
         "葛先步": {
             "name": "葛先步",
@@ -7231,7 +7240,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 685,
+            "problem_total": 686,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7889,7 +7898,7 @@
             "codeforces_handle": "LuCiiiD",
             "problem_total": 207,
             "rating": 1381,
-            "contest_total": 10,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -7979,6 +7988,15 @@
                     "rank": 5243,
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1407,
+                    "new_rating": 1398
+                },
+                {
+                    "contest_id": 2126,
+                    "contest_name": "Codeforces Round 1037 (Div. 3)",
+                    "handle": "LuCiiiD",
+                    "rank": 8085,
+                    "rating_update_time_seconds": 1752771000,
+                    "old_rating": 1398,
                     "new_rating": 1381
                 }
             ]
@@ -8375,7 +8393,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1901,
-            "problem_total": 368,
+            "problem_total": 370,
             "contest_total": 22,
             "contest_info": [
                 {
@@ -8584,7 +8602,7 @@
             "codeforces_handle": "gggjjj",
             "rating": 1611,
             "problem_total": 262,
-            "contest_total": 5,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -8629,6 +8647,15 @@
                     "rank": 4972,
                     "rating_update_time_seconds": 1741712700,
                     "old_rating": 1272,
+                    "new_rating": 1345
+                },
+                {
+                    "contest_id": 2126,
+                    "contest_name": "Codeforces Round 1037 (Div. 3)",
+                    "handle": "gggjjj",
+                    "rank": 776,
+                    "rating_update_time_seconds": 1752771000,
+                    "old_rating": 1345,
                     "new_rating": 1611
                 }
             ]
@@ -8709,10 +8736,19 @@
                     "rank": 3642,
                     "rating_update_time_seconds": 1751823300,
                     "old_rating": 1215,
+                    "new_rating": 1288
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 4318,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 1288,
                     "new_rating": 1534
                 }
             ],
-            "contest_total": 7
+            "contest_total": 8
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9173,7 +9209,7 @@
             "codeforces_handle": "starlaw",
             "rating": 1377,
             "problem_total": 300,
-            "contest_total": 18,
+            "contest_total": 20,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9335,6 +9371,24 @@
                     "rank": 3328,
                     "rating_update_time_seconds": 1748278200,
                     "old_rating": 1283,
+                    "new_rating": 1323
+                },
+                {
+                    "contest_id": 2126,
+                    "contest_name": "Codeforces Round 1037 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 2409,
+                    "rating_update_time_seconds": 1752771000,
+                    "old_rating": 1323,
+                    "new_rating": 1371
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 6313,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 1371,
                     "new_rating": 1377
                 }
             ]
@@ -9360,7 +9414,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1652,
-            "problem_total": 117,
+            "problem_total": 119,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -9452,7 +9506,7 @@
             "codeforces_handle": "R_coder2055",
             "rating": 1340,
             "problem_total": 332,
-            "contest_total": 8,
+            "contest_total": 9,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -9524,6 +9578,15 @@
                     "rank": 4828,
                     "rating_update_time_seconds": 1751823300,
                     "old_rating": 1162,
+                    "new_rating": 1214
+                },
+                {
+                    "contest_id": 2122,
+                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 2667,
+                    "rating_update_time_seconds": 1752943800,
+                    "old_rating": 1214,
                     "new_rating": 1340
                 }
             ]
@@ -9560,7 +9623,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1635,
-            "problem_total": 131,
+            "problem_total": 133,
             "contest_total": 12,
             "contest_info": [
                 {
@@ -9981,5 +10044,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-12 19:22:35"
+    "update_time": "2025-09-12 20:51:57"
 }
