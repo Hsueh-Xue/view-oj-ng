@@ -8798,7 +8798,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1534,
+            "rating": 1541,
             "problem_total": 1249,
             "contest_info": [
                 {
@@ -8934,10 +8934,19 @@
                     "rank": 634,
                     "rating_update_time_seconds": 1756402500,
                     "old_rating": 1465,
-                    "new_rating": 1534
+                    "new_rating": 1586
+                },
+                {
+                    "contest_id": 2140,
+                    "contest_name": "Codeforces Round 1049 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 4599,
+                    "rating_update_time_seconds": 1757435700,
+                    "old_rating": 1586,
+                    "new_rating": 1541
                 }
             ],
-            "contest_total": 15
+            "contest_total": 16
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10593,5 +10602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-13 00:28:59"
+    "update_time": "2025-09-13 01:22:54"
 }
