@@ -8691,7 +8691,7 @@
                     "rank": 781,
                     "rating_update_time_seconds": 1753634100,
                     "old_rating": 1779,
-                    "new_rating": 1812
+                    "new_rating": 1877
                 },
                 {
                     "contest_id": 2127,
@@ -8699,7 +8699,7 @@
                     "handle": "Zero.2",
                     "rank": 1120,
                     "rating_update_time_seconds": 1754588100,
-                    "old_rating": 1812,
+                    "old_rating": 1877,
                     "new_rating": 1855
                 }
             ]
@@ -10602,5 +10602,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-13 02:32:31"
+    "update_time": "2025-09-13 03:21:57"
 }
