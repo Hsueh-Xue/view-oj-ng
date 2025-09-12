@@ -1528,39 +1528,12 @@
                     "rank": 1817,
                     "rating_update_time_seconds": 1732383300,
                     "old_rating": 2024,
-                    "new_rating": 1961
-                },
-                {
-                    "contest_id": 2133,
-                    "contest_name": "Codeforces Round 1044 (Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 1106,
-                    "rating_update_time_seconds": 1756053300,
-                    "old_rating": 1961,
-                    "new_rating": 1932
-                },
-                {
-                    "contest_id": 2134,
-                    "contest_name": "Codeforces Round 1045 (Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 3525,
-                    "rating_update_time_seconds": 1756226100,
-                    "old_rating": 1932,
-                    "new_rating": 1838
-                },
-                {
-                    "contest_id": 2136,
-                    "contest_name": "Codeforces Round 1046 (Div. 2)",
-                    "handle": "EdGrass",
-                    "rank": 431,
-                    "rating_update_time_seconds": 1756402500,
-                    "old_rating": 1838,
                     "new_rating": 1872
                 }
             ],
             "rating": 1872,
             "problem_total": 1343,
-            "contest_total": 92
+            "contest_total": 89
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -5983,7 +5956,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 508,
+            "problem_total": 509,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6128,7 +6101,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 2189,
-            "problem_total": 2308,
+            "problem_total": 2309,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7258,7 +7231,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 684,
+            "problem_total": 685,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7458,7 +7431,7 @@
             "codeforces_handle": "yaLen",
             "problem_total": 143,
             "rating": 1362,
-            "contest_total": 20,
+            "contest_total": 17,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7611,33 +7584,6 @@
                     "rank": 2606,
                     "rating_update_time_seconds": 1740502200,
                     "old_rating": 1265,
-                    "new_rating": 1328
-                },
-                {
-                    "contest_id": 2130,
-                    "contest_name": "Codeforces Round 1040 (Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 2156,
-                    "rating_update_time_seconds": 1753983300,
-                    "old_rating": 1328,
-                    "new_rating": 1409
-                },
-                {
-                    "contest_id": 2127,
-                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 7284,
-                    "rating_update_time_seconds": 1754588100,
-                    "old_rating": 1409,
-                    "new_rating": 1359
-                },
-                {
-                    "contest_id": 2131,
-                    "contest_name": "Codeforces Round 1042 (Div. 3)",
-                    "handle": "yaLen",
-                    "rank": 4371,
-                    "rating_update_time_seconds": 1754844600,
-                    "old_rating": 1359,
                     "new_rating": 1362
                 }
             ]
@@ -8429,7 +8375,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1901,
-            "problem_total": 367,
+            "problem_total": 368,
             "contest_total": 22,
             "contest_info": [
                 {
@@ -9227,7 +9173,7 @@
             "codeforces_handle": "starlaw",
             "rating": 1377,
             "problem_total": 300,
-            "contest_total": 25,
+            "contest_total": 18,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9389,69 +9335,6 @@
                     "rank": 3328,
                     "rating_update_time_seconds": 1748278200,
                     "old_rating": 1283,
-                    "new_rating": 1323
-                },
-                {
-                    "contest_id": 2126,
-                    "contest_name": "Codeforces Round 1037 (Div. 3)",
-                    "handle": "starlaw",
-                    "rank": 2500,
-                    "rating_update_time_seconds": 1752771000,
-                    "old_rating": 1323,
-                    "new_rating": 1371
-                },
-                {
-                    "contest_id": 2122,
-                    "contest_name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
-                    "handle": "starlaw",
-                    "rank": 6434,
-                    "rating_update_time_seconds": 1752943800,
-                    "old_rating": 1371,
-                    "new_rating": 1353
-                },
-                {
-                    "contest_id": 2125,
-                    "contest_name": "Educational Codeforces Round 181 (Rated for Div. 2)",
-                    "handle": "starlaw",
-                    "rank": 8820,
-                    "rating_update_time_seconds": 1753202100,
-                    "old_rating": 1353,
-                    "new_rating": 1307
-                },
-                {
-                    "contest_id": 2128,
-                    "contest_name": "Codeforces Round 1039 (Div. 2)",
-                    "handle": "starlaw",
-                    "rank": 5431,
-                    "rating_update_time_seconds": 1753634100,
-                    "old_rating": 1307,
-                    "new_rating": 1318
-                },
-                {
-                    "contest_id": 2130,
-                    "contest_name": "Codeforces Round 1040 (Div. 2)",
-                    "handle": "starlaw",
-                    "rank": 2796,
-                    "rating_update_time_seconds": 1753983300,
-                    "old_rating": 1318,
-                    "new_rating": 1381
-                },
-                {
-                    "contest_id": 2131,
-                    "contest_name": "Codeforces Round 1042 (Div. 3)",
-                    "handle": "starlaw",
-                    "rank": 1239,
-                    "rating_update_time_seconds": 1754844600,
-                    "old_rating": 1381,
-                    "new_rating": 1457
-                },
-                {
-                    "contest_id": 2137,
-                    "contest_name": "Codeforces Round 1047 (Div. 3)",
-                    "handle": "starlaw",
-                    "rank": 9381,
-                    "rating_update_time_seconds": 1757263800,
-                    "old_rating": 1457,
                     "new_rating": 1377
                 }
             ]
@@ -9477,8 +9360,8 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1652,
-            "problem_total": 116,
-            "contest_total": 10,
+            "problem_total": 117,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -9532,42 +9415,6 @@
                     "rank": 8056,
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1238,
-                    "new_rating": 1261
-                },
-                {
-                    "contest_id": 2128,
-                    "contest_name": "Codeforces Round 1039 (Div. 2)",
-                    "handle": "qiaodifehf",
-                    "rank": 1597,
-                    "rating_update_time_seconds": 1753634100,
-                    "old_rating": 1261,
-                    "new_rating": 1398
-                },
-                {
-                    "contest_id": 2130,
-                    "contest_name": "Codeforces Round 1040 (Div. 2)",
-                    "handle": "qiaodifehf",
-                    "rank": 764,
-                    "rating_update_time_seconds": 1753983300,
-                    "old_rating": 1398,
-                    "new_rating": 1530
-                },
-                {
-                    "contest_id": 2127,
-                    "contest_name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
-                    "handle": "qiaodifehf",
-                    "rank": 3684,
-                    "rating_update_time_seconds": 1754588100,
-                    "old_rating": 1530,
-                    "new_rating": 1527
-                },
-                {
-                    "contest_id": 2131,
-                    "contest_name": "Codeforces Round 1042 (Div. 3)",
-                    "handle": "qiaodifehf",
-                    "rank": 209,
-                    "rating_update_time_seconds": 1754844600,
-                    "old_rating": 1527,
                     "new_rating": 1652
                 }
             ]
@@ -9713,8 +9560,8 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1635,
-            "problem_total": 130,
-            "contest_total": 20,
+            "problem_total": 131,
+            "contest_total": 12,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -9822,78 +9669,6 @@
                     "rank": 2496,
                     "rating_update_time_seconds": 1751733300,
                     "old_rating": 1270,
-                    "new_rating": 1369
-                },
-                {
-                    "contest_id": 2125,
-                    "contest_name": "Educational Codeforces Round 181 (Rated for Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 7786,
-                    "rating_update_time_seconds": 1753202100,
-                    "old_rating": 1369,
-                    "new_rating": 1333
-                },
-                {
-                    "contest_id": 2128,
-                    "contest_name": "Codeforces Round 1039 (Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 6887,
-                    "rating_update_time_seconds": 1753634100,
-                    "old_rating": 1333,
-                    "new_rating": 1312
-                },
-                {
-                    "contest_id": 2130,
-                    "contest_name": "Codeforces Round 1040 (Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 11224,
-                    "rating_update_time_seconds": 1753983300,
-                    "old_rating": 1312,
-                    "new_rating": 1241
-                },
-                {
-                    "contest_id": 2131,
-                    "contest_name": "Codeforces Round 1042 (Div. 3)",
-                    "handle": "_QLe",
-                    "rank": 2529,
-                    "rating_update_time_seconds": 1754844600,
-                    "old_rating": 1241,
-                    "new_rating": 1316
-                },
-                {
-                    "contest_id": 2132,
-                    "contest_name": "Codeforces Round 1043 (Div. 3)",
-                    "handle": "_QLe",
-                    "rank": 920,
-                    "rating_update_time_seconds": 1755795000,
-                    "old_rating": 1316,
-                    "new_rating": 1436
-                },
-                {
-                    "contest_id": 2133,
-                    "contest_name": "Codeforces Round 1044 (Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 1321,
-                    "rating_update_time_seconds": 1756053300,
-                    "old_rating": 1436,
-                    "new_rating": 1537
-                },
-                {
-                    "contest_id": 2134,
-                    "contest_name": "Codeforces Round 1045 (Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 2949,
-                    "rating_update_time_seconds": 1756226100,
-                    "old_rating": 1537,
-                    "new_rating": 1550
-                },
-                {
-                    "contest_id": 2136,
-                    "contest_name": "Codeforces Round 1046 (Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 750,
-                    "rating_update_time_seconds": 1756402500,
-                    "old_rating": 1550,
                     "new_rating": 1635
                 }
             ]
@@ -10005,7 +9780,7 @@
             "codeforces_handle": "ToffeeSG",
             "rating": 1123,
             "problem_total": 94,
-            "contest_total": 8,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10059,24 +9834,6 @@
                     "rank": 12821,
                     "rating_update_time_seconds": 1742661300,
                     "old_rating": 1074,
-                    "new_rating": 1059
-                },
-                {
-                    "contest_id": 2125,
-                    "contest_name": "Educational Codeforces Round 181 (Rated for Div. 2)",
-                    "handle": "ToffeeSG",
-                    "rank": 5418,
-                    "rating_update_time_seconds": 1753202100,
-                    "old_rating": 1059,
-                    "new_rating": 1152
-                },
-                {
-                    "contest_id": 2128,
-                    "contest_name": "Codeforces Round 1039 (Div. 2)",
-                    "handle": "ToffeeSG",
-                    "rank": 10361,
-                    "rating_update_time_seconds": 1753634100,
-                    "old_rating": 1152,
                     "new_rating": 1123
                 }
             ]
@@ -10086,7 +9843,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1403,
-            "problem_total": 149,
+            "problem_total": 150,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -10194,46 +9951,10 @@
                     "rank": 5295,
                     "rating_update_time_seconds": 1751823300,
                     "old_rating": 1385,
-                    "new_rating": 1364
-                },
-                {
-                    "contest_id": 2132,
-                    "contest_name": "Codeforces Round 1043 (Div. 3)",
-                    "handle": "fushen",
-                    "rank": 924,
-                    "rating_update_time_seconds": 1755795000,
-                    "old_rating": 1364,
-                    "new_rating": 1468
-                },
-                {
-                    "contest_id": 2133,
-                    "contest_name": "Codeforces Round 1044 (Div. 2)",
-                    "handle": "fushen",
-                    "rank": 6198,
-                    "rating_update_time_seconds": 1756053300,
-                    "old_rating": 1468,
-                    "new_rating": 1436
-                },
-                {
-                    "contest_id": 2134,
-                    "contest_name": "Codeforces Round 1045 (Div. 2)",
-                    "handle": "fushen",
-                    "rank": 3104,
-                    "rating_update_time_seconds": 1756226100,
-                    "old_rating": 1436,
-                    "new_rating": 1472
-                },
-                {
-                    "contest_id": 2136,
-                    "contest_name": "Codeforces Round 1046 (Div. 2)",
-                    "handle": "fushen",
-                    "rank": 7608,
-                    "rating_update_time_seconds": 1756402500,
-                    "old_rating": 1472,
                     "new_rating": 1403
                 }
             ],
-            "contest_total": 16
+            "contest_total": 12
         },
         "雷天宝": {
             "name": "雷天宝",
@@ -10260,5 +9981,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-12 18:28:06"
+    "update_time": "2025-09-12 19:22:35"
 }
