@@ -9495,9 +9495,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1377,
+            "rating": 1385,
             "problem_total": 300,
-            "contest_total": 24,
+            "contest_total": 25,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9713,7 +9713,16 @@
                     "rank": 1108,
                     "rating_update_time_seconds": 1754844600,
                     "old_rating": 1386,
-                    "new_rating": 1377
+                    "new_rating": 1465
+                },
+                {
+                    "contest_id": 2137,
+                    "contest_name": "Codeforces Round 1047 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 8839,
+                    "rating_update_time_seconds": 1757263800,
+                    "old_rating": 1465,
+                    "new_rating": 1385
                 }
             ]
         },
@@ -9837,7 +9846,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1373,
+            "rating": 1382,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -10584,5 +10593,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-12 23:26:17"
+    "update_time": "2025-09-13 00:28:59"
 }
