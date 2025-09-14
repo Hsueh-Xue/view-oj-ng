@@ -9504,9 +9504,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1385,
+            "rating": 1347,
             "problem_total": 304,
-            "contest_total": 25,
+            "contest_total": 26,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9732,6 +9732,15 @@
                     "rating_update_time_seconds": 1757263800,
                     "old_rating": 1465,
                     "new_rating": 1385
+                },
+                {
+                    "contest_id": 2148,
+                    "contest_name": "Codeforces Round 1050 (Div. 4)",
+                    "handle": "starlaw",
+                    "rank": 4633,
+                    "rating_update_time_seconds": 1757782200,
+                    "old_rating": 1385,
+                    "new_rating": 1347
                 }
             ]
         },
@@ -10602,5 +10611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-14 16:30:48"
+    "update_time": "2025-09-14 17:23:59"
 }
