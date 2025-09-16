@@ -5756,7 +5756,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 382,
+            "problem_total": 384,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6932,7 +6932,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 400,
+            "problem_total": 401,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7267,7 +7267,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 691,
+            "problem_total": 693,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8473,9 +8473,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1855,
+            "rating": 1802,
             "problem_total": 374,
-            "contest_total": 25,
+            "contest_total": 26,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8701,6 +8701,15 @@
                     "rating_update_time_seconds": 1754588100,
                     "old_rating": 1812,
                     "new_rating": 1855
+                },
+                {
+                    "contest_id": 2144,
+                    "contest_name": "Educational Codeforces Round 182 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2291,
+                    "rating_update_time_seconds": 1757954100,
+                    "old_rating": 1855,
+                    "new_rating": 1802
                 }
             ]
         },
@@ -9333,7 +9342,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1389,
+            "rating": 1388,
             "problem_total": 100,
             "contest_info": [
                 {
@@ -9488,9 +9497,18 @@
                     "rating_update_time_seconds": 1756226100,
                     "old_rating": 1414,
                     "new_rating": 1389
+                },
+                {
+                    "contest_id": 2144,
+                    "contest_name": "Educational Codeforces Round 182 (Rated for Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 4700,
+                    "rating_update_time_seconds": 1757954100,
+                    "old_rating": 1389,
+                    "new_rating": 1388
                 }
             ],
-            "contest_total": 17
+            "contest_total": 18
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -9765,7 +9783,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1660,
-            "problem_total": 123,
+            "problem_total": 124,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -9864,7 +9882,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1382,
+            "rating": 1434,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -10063,9 +10081,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1644,
+            "rating": 1656,
             "problem_total": 139,
-            "contest_total": 20,
+            "contest_total": 21,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10246,6 +10264,15 @@
                     "rating_update_time_seconds": 1756402500,
                     "old_rating": 1556,
                     "new_rating": 1644
+                },
+                {
+                    "contest_id": 2144,
+                    "contest_name": "Educational Codeforces Round 182 (Rated for Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 1892,
+                    "rating_update_time_seconds": 1757954100,
+                    "old_rating": 1644,
+                    "new_rating": 1656
                 }
             ]
         },
@@ -10611,5 +10638,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-16 18:28:26"
+    "update_time": "2025-09-16 19:21:24"
 }
