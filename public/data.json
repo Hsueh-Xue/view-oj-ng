@@ -1559,7 +1559,7 @@
                 }
             ],
             "rating": 1876,
-            "problem_total": 1346,
+            "problem_total": 1349,
             "contest_total": 92
         },
         "邵茹怡": {
@@ -7267,7 +7267,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 690,
+            "problem_total": 691,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -9765,7 +9765,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1660,
-            "problem_total": 122,
+            "problem_total": 123,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -10611,5 +10611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-16 15:26:20"
+    "update_time": "2025-09-16 16:35:50"
 }
