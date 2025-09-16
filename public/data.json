@@ -1559,7 +1559,7 @@
                 }
             ],
             "rating": 1876,
-            "problem_total": 1349,
+            "problem_total": 1350,
             "contest_total": 92
         },
         "邵茹怡": {
@@ -9505,7 +9505,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1347,
-            "problem_total": 307,
+            "problem_total": 308,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -10611,5 +10611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-16 16:35:50"
+    "update_time": "2025-09-16 17:28:59"
 }
