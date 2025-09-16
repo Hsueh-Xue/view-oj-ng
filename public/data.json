@@ -5983,7 +5983,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 510,
+            "problem_total": 511,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7465,7 +7465,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 143,
+            "problem_total": 144,
             "rating": 1368,
             "contest_total": 20,
             "contest_info": [
@@ -9334,7 +9334,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1389,
-            "problem_total": 98,
+            "problem_total": 100,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10064,7 +10064,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1644,
-            "problem_total": 136,
+            "problem_total": 139,
             "contest_total": 20,
             "contest_info": [
                 {
@@ -10611,5 +10611,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-16 14:38:16"
+    "update_time": "2025-09-16 15:26:20"
 }
