@@ -7950,7 +7950,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 207,
+            "problem_total": 210,
             "rating": 1386,
             "contest_total": 13,
             "contest_info": [
@@ -8474,7 +8474,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1802,
-            "problem_total": 375,
+            "problem_total": 378,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -8808,7 +8808,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1541,
-            "problem_total": 1260,
+            "problem_total": 1263,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9523,7 +9523,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1347,
-            "problem_total": 310,
+            "problem_total": 313,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -9783,7 +9783,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1660,
-            "problem_total": 125,
+            "problem_total": 129,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -10082,7 +10082,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1656,
-            "problem_total": 139,
+            "problem_total": 143,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -10638,5 +10638,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-18 00:32:24"
+    "update_time": "2025-09-18 01:22:52"
 }
