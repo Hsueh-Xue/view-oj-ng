@@ -5983,7 +5983,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 512,
+            "problem_total": 513,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6932,7 +6932,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 405,
+            "problem_total": 407,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7267,7 +7267,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 700,
+            "problem_total": 701,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8483,7 +8483,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1766,
-            "problem_total": 378,
+            "problem_total": 380,
             "contest_total": 27,
             "contest_info": [
                 {
@@ -10692,5 +10692,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-18 13:25:24"
+    "update_time": "2025-09-18 14:38:35"
 }
