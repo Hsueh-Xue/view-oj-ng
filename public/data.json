@@ -7267,7 +7267,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 703,
+            "problem_total": 704,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8826,7 +8826,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1574,
-            "problem_total": 1264,
+            "problem_total": 1267,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10692,5 +10692,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-19 09:59:07"
+    "update_time": "2025-09-19 11:07:53"
 }
