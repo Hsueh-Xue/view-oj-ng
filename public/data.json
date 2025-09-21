@@ -8491,9 +8491,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1766,
-            "problem_total": 385,
-            "contest_total": 27,
+            "rating": 1811,
+            "problem_total": 387,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8737,6 +8737,15 @@
                     "rating_update_time_seconds": 1758126900,
                     "old_rating": 1802,
                     "new_rating": 1766
+                },
+                {
+                    "contest_id": 2146,
+                    "contest_name": "Codeforces Round 1052 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 656,
+                    "rating_update_time_seconds": 1758473400,
+                    "old_rating": 1766,
+                    "new_rating": 1811
                 }
             ]
         },
@@ -9567,9 +9576,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1432,
+            "rating": 1415,
             "problem_total": 319,
-            "contest_total": 27,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9813,6 +9822,15 @@
                     "rating_update_time_seconds": 1758126900,
                     "old_rating": 1347,
                     "new_rating": 1432
+                },
+                {
+                    "contest_id": 2146,
+                    "contest_name": "Codeforces Round 1052 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 4319,
+                    "rating_update_time_seconds": 1758473400,
+                    "old_rating": 1432,
+                    "new_rating": 1415
                 }
             ]
         },
@@ -10710,5 +10728,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-22 01:21:10"
+    "update_time": "2025-09-22 02:34:38"
 }
