@@ -7474,7 +7474,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 153,
+            "problem_total": 155,
             "rating": 1368,
             "contest_total": 20,
             "contest_info": [
@@ -8193,7 +8193,7 @@
             "grade": 2023,
             "codeforces_handle": "qqbb111",
             "rating": 1269,
-            "problem_total": 162,
+            "problem_total": 164,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -8844,7 +8844,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1597,
-            "problem_total": 1279,
+            "problem_total": 1280,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10728,5 +10728,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-23 21:34:49"
+    "update_time": "2025-09-23 22:28:22"
 }
