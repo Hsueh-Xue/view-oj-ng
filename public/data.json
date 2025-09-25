@@ -5992,7 +5992,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 514,
+            "problem_total": 515,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -10000,7 +10000,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1350,
-            "problem_total": 345,
+            "problem_total": 346,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -10737,5 +10737,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-25 11:08:45"
+    "update_time": "2025-09-25 12:33:54"
 }
