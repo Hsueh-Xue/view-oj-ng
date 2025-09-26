@@ -8492,7 +8492,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1811,
-            "problem_total": 400,
+            "problem_total": 401,
             "contest_total": 28,
             "contest_info": [
                 {
@@ -10737,5 +10737,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-26 12:32:30"
+    "update_time": "2025-09-26 13:26:25"
 }
