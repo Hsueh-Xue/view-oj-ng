@@ -5765,7 +5765,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 411,
+            "problem_total": 414,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -5992,7 +5992,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 519,
+            "problem_total": 520,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6137,7 +6137,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 2189,
-            "problem_total": 2329,
+            "problem_total": 2330,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7276,7 +7276,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 713,
+            "problem_total": 714,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8492,7 +8492,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1811,
-            "problem_total": 401,
+            "problem_total": 402,
             "contest_total": 28,
             "contest_info": [
                 {
@@ -8844,7 +8844,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1564,
-            "problem_total": 1298,
+            "problem_total": 1300,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10755,5 +10755,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-09-28 19:19:54"
+    "update_time": "2025-09-28 20:50:01"
 }
