@@ -5765,7 +5765,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1373,
-            "problem_total": 422,
+            "problem_total": 424,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -8844,7 +8844,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1564,
-            "problem_total": 1311,
+            "problem_total": 1312,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9882,7 +9882,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1709,
-            "problem_total": 137,
+            "problem_total": 143,
             "contest_total": 11,
             "contest_info": [
                 {
@@ -10755,5 +10755,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-02 21:35:19"
+    "update_time": "2025-10-02 22:27:01"
 }
