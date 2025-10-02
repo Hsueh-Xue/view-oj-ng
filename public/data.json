@@ -9179,7 +9179,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1420,
-            "problem_total": 186,
+            "problem_total": 187,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -9595,7 +9595,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1399,
-            "problem_total": 338,
+            "problem_total": 339,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -10755,5 +10755,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-03 00:32:44"
+    "update_time": "2025-10-03 01:21:38"
 }
