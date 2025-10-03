@@ -9025,7 +9025,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1380,
-            "problem_total": 82,
+            "problem_total": 83,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9595,7 +9595,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1399,
-            "problem_total": 340,
+            "problem_total": 341,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -10755,5 +10755,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-03 21:32:01"
+    "update_time": "2025-10-03 22:25:51"
 }
