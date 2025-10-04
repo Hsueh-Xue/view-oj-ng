@@ -5774,7 +5774,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1439,
-            "problem_total": 427,
+            "problem_total": 428,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -9640,7 +9640,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1399,
-            "problem_total": 350,
+            "problem_total": 351,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -10809,5 +10809,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-04 20:48:17"
+    "update_time": "2025-10-04 21:27:23"
 }
