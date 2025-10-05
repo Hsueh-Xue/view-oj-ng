@@ -7970,7 +7970,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 85,
+            "problem_total": 86,
             "rating": 0,
             "contest_total": 0
         },
@@ -10635,7 +10635,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1406,
-            "problem_total": 151,
+            "problem_total": 153,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -10809,5 +10809,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-05 12:28:39"
+    "update_time": "2025-10-05 13:24:14"
 }
