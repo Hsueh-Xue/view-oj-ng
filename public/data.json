@@ -6959,7 +6959,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 436,
+            "problem_total": 437,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -9640,7 +9640,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1399,
-            "problem_total": 354,
+            "problem_total": 355,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -10809,5 +10809,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-06 15:27:15"
+    "update_time": "2025-10-06 16:35:00"
 }
