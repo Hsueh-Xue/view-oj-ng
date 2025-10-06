@@ -9451,7 +9451,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1435,
-            "problem_total": 114,
+            "problem_total": 115,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9640,7 +9640,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1399,
-            "problem_total": 361,
+            "problem_total": 362,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -10809,5 +10809,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-07 00:33:35"
+    "update_time": "2025-10-07 01:23:54"
 }
