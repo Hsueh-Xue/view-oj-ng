@@ -8799,7 +8799,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 287,
+            "problem_total": 288,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9658,7 +9658,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1331,
-            "problem_total": 378,
+            "problem_total": 380,
             "contest_total": 30,
             "contest_info": [
                 {
@@ -10845,5 +10845,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-10 07:23:33"
+    "update_time": "2025-10-10 09:58:24"
 }
