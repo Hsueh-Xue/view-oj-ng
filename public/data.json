@@ -2,7 +2,7 @@
     "user_info": {
         "江宇杰": {
             "rating": 1958,
-            "problem_total": 844,
+            "problem_total": 845,
             "contest_info": [
                 {
                     "contest_id": 1514,
@@ -7979,7 +7979,7 @@
             "name": "陈宇雯",
             "grade": 2023,
             "codeforces_handle": "Chenyuwen",
-            "problem_total": 92,
+            "problem_total": 94,
             "rating": 0,
             "contest_total": 0
         },
@@ -8140,7 +8140,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 25,
+            "problem_total": 27,
             "contest_total": 0
         },
         "沈万婷": {
@@ -8907,7 +8907,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1567,
-            "problem_total": 1342,
+            "problem_total": 1343,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10910,5 +10910,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-11 15:22:01"
+    "update_time": "2025-10-11 16:31:25"
 }
