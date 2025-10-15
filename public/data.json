@@ -8493,7 +8493,7 @@
             "codeforces_handle": "Zero.2",
             "rating": 1769,
             "problem_total": 431,
-            "contest_total": 27,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8736,6 +8736,15 @@
                     "rank": 2157,
                     "rating_update_time_seconds": 1758126900,
                     "old_rating": 1795,
+                    "new_rating": 1754
+                },
+                {
+                    "contest_id": 2146,
+                    "contest_name": "Codeforces Round 1052 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 627,
+                    "rating_update_time_seconds": 1758473400,
+                    "old_rating": 1754,
                     "new_rating": 1769
                 }
             ]
@@ -8997,10 +9006,19 @@
                     "rank": 2481,
                     "rating_update_time_seconds": 1758389700,
                     "old_rating": 1567,
+                    "new_rating": 1592
+                },
+                {
+                    "contest_id": 2151,
+                    "contest_name": "Codeforces Round 1053 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 2299,
+                    "rating_update_time_seconds": 1758725400,
+                    "old_rating": 1592,
                     "new_rating": 1479
                 }
             ],
-            "contest_total": 18
+            "contest_total": 19
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9569,7 +9587,7 @@
             "codeforces_handle": "starlaw",
             "rating": 1489,
             "problem_total": 395,
-            "contest_total": 27,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9812,6 +9830,15 @@
                     "rank": 2139,
                     "rating_update_time_seconds": 1758126900,
                     "old_rating": 1323,
+                    "new_rating": 1407
+                },
+                {
+                    "contest_id": 2146,
+                    "contest_name": "Codeforces Round 1052 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 4203,
+                    "rating_update_time_seconds": 1758473400,
+                    "old_rating": 1407,
                     "new_rating": 1489
                 }
             ]
@@ -10721,5 +10748,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-15 22:29:02"
+    "update_time": "2025-10-15 23:26:59"
 }
