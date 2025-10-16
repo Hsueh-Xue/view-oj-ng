@@ -5774,7 +5774,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1433,
-            "problem_total": 444,
+            "problem_total": 445,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7501,7 +7501,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 178,
+            "problem_total": 179,
             "rating": 1527,
             "contest_total": 23,
             "contest_info": [
@@ -10982,5 +10982,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-16 22:28:35"
+    "update_time": "2025-10-16 23:30:11"
 }
