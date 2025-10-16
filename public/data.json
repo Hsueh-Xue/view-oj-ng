@@ -6010,7 +6010,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 526,
+            "problem_total": 527,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6155,7 +6155,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 2095,
-            "problem_total": 2366,
+            "problem_total": 2367,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -10982,5 +10982,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-16 19:23:53"
+    "update_time": "2025-10-16 20:57:48"
 }
