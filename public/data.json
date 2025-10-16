@@ -6010,7 +6010,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 525,
+            "problem_total": 526,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -7303,7 +7303,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 735,
+            "problem_total": 736,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8853,7 +8853,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 297,
+            "problem_total": 298,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -8943,7 +8943,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1464,
-            "problem_total": 1351,
+            "problem_total": 1352,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10982,5 +10982,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-16 16:37:32"
+    "update_time": "2025-10-16 17:30:18"
 }
