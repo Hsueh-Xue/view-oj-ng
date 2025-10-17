@@ -1565,11 +1565,20 @@
                     "rating_update_time_seconds": 1758389700,
                     "old_rating": 1876,
                     "new_rating": 1696
+                },
+                {
+                    "contest_id": 2152,
+                    "contest_name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 1426,
+                    "rating_update_time_seconds": 1759512900,
+                    "old_rating": 1696,
+                    "new_rating": 1748
                 }
             ],
-            "rating": 1696,
+            "rating": 1748,
             "problem_total": 1355,
-            "contest_total": 93
+            "contest_total": 94
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -5764,7 +5773,7 @@
             "name": "何敏璐",
             "grade": 2023,
             "codeforces_handle": "xuki",
-            "rating": 1373,
+            "rating": 1440,
             "problem_total": 445,
             "contest_info": [
                 {
@@ -5955,9 +5964,18 @@
                     "rating_update_time_seconds": 1716223800,
                     "old_rating": 1403,
                     "new_rating": 1373
+                },
+                {
+                    "contest_id": 2152,
+                    "contest_name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+                    "handle": "xuki",
+                    "rank": 2932,
+                    "rating_update_time_seconds": 1759512900,
+                    "old_rating": 1373,
+                    "new_rating": 1440
                 }
             ],
-            "contest_total": 21
+            "contest_total": 22
         },
         "徐嘉豪": {
             "name": "徐嘉豪",
@@ -7276,7 +7294,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 737,
+            "problem_total": 738,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7475,8 +7493,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 179,
-            "rating": 1368,
-            "contest_total": 20,
+            "rating": 1354,
+            "contest_total": 21,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7657,6 +7675,15 @@
                     "rating_update_time_seconds": 1754844600,
                     "old_rating": 1364,
                     "new_rating": 1368
+                },
+                {
+                    "contest_id": 2152,
+                    "contest_name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 5850,
+                    "rating_update_time_seconds": 1759512900,
+                    "old_rating": 1368,
+                    "new_rating": 1354
                 }
             ]
         },
@@ -8491,9 +8518,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1811,
+            "rating": 1723,
             "problem_total": 431,
-            "contest_total": 28,
+            "contest_total": 30,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8746,6 +8773,24 @@
                     "rating_update_time_seconds": 1758473400,
                     "old_rating": 1765,
                     "new_rating": 1811
+                },
+                {
+                    "contest_id": 2152,
+                    "contest_name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2706,
+                    "rating_update_time_seconds": 1759512900,
+                    "old_rating": 1811,
+                    "new_rating": 1772
+                },
+                {
+                    "contest_id": 2145,
+                    "contest_name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2701,
+                    "rating_update_time_seconds": 1759768500,
+                    "old_rating": 1772,
+                    "new_rating": 1723
                 }
             ]
         },
@@ -8843,8 +8888,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1568,
-            "problem_total": 1354,
+            "rating": 1562,
+            "problem_total": 1355,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9016,9 +9061,18 @@
                     "rating_update_time_seconds": 1758725400,
                     "old_rating": 1602,
                     "new_rating": 1568
+                },
+                {
+                    "contest_id": 2152,
+                    "contest_name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 3523,
+                    "rating_update_time_seconds": 1759512900,
+                    "old_rating": 1568,
+                    "new_rating": 1562
                 }
             ],
-            "contest_total": 19
+            "contest_total": 20
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9405,7 +9459,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1440,
+            "rating": 1435,
             "problem_total": 118,
             "contest_info": [
                 {
@@ -9578,9 +9632,18 @@
                     "rating_update_time_seconds": 1758819000,
                     "old_rating": 1389,
                     "new_rating": 1440
+                },
+                {
+                    "contest_id": 2145,
+                    "contest_name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 4283,
+                    "rating_update_time_seconds": 1759768500,
+                    "old_rating": 1440,
+                    "new_rating": 1435
                 }
             ],
-            "contest_total": 19
+            "contest_total": 20
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -9594,9 +9657,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1403,
+            "rating": 1336,
             "problem_total": 398,
-            "contest_total": 29,
+            "contest_total": 30,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -9858,6 +9921,15 @@
                     "rating_update_time_seconds": 1758819000,
                     "old_rating": 1415,
                     "new_rating": 1403
+                },
+                {
+                    "contest_id": 2145,
+                    "contest_name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 8768,
+                    "rating_update_time_seconds": 1759768500,
+                    "old_rating": 1403,
+                    "new_rating": 1336
                 }
             ]
         },
@@ -10028,9 +10100,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1350,
+            "rating": 1305,
             "problem_total": 396,
-            "contest_total": 15,
+            "contest_total": 16,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -10166,6 +10238,15 @@
                     "rating_update_time_seconds": 1755795000,
                     "old_rating": 1195,
                     "new_rating": 1350
+                },
+                {
+                    "contest_id": 2152,
+                    "contest_name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 7649,
+                    "rating_update_time_seconds": 1759512900,
+                    "old_rating": 1350,
+                    "new_rating": 1305
                 }
             ]
         },
@@ -10200,9 +10281,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1714,
+            "rating": 1719,
             "problem_total": 155,
-            "contest_total": 22,
+            "contest_total": 23,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10401,6 +10482,15 @@
                     "rating_update_time_seconds": 1758126900,
                     "old_rating": 1658,
                     "new_rating": 1714
+                },
+                {
+                    "contest_id": 2145,
+                    "contest_name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 1544,
+                    "rating_update_time_seconds": 1759768500,
+                    "old_rating": 1714,
+                    "new_rating": 1719
                 }
             ]
         },
@@ -10766,5 +10856,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-17 12:32:43"
+    "update_time": "2025-10-17 13:26:15"
 }
