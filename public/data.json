@@ -7303,7 +7303,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 739,
+            "problem_total": 740,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -7502,8 +7502,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 182,
-            "rating": 1533,
-            "contest_total": 23,
+            "rating": 1467,
+            "contest_total": 24,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7711,6 +7711,15 @@
                     "rating_update_time_seconds": 1760288700,
                     "old_rating": 1509,
                     "new_rating": 1533
+                },
+                {
+                    "contest_id": 2162,
+                    "contest_name": "Codeforces Round 1059 (Div. 3)",
+                    "handle": "yaLen",
+                    "rank": 6737,
+                    "rating_update_time_seconds": 1760719800,
+                    "old_rating": 1533,
+                    "new_rating": 1467
                 }
             ]
         },
@@ -9150,7 +9159,7 @@
             "name": "黄欣怡",
             "grade": 2024,
             "codeforces_handle": "yellow_one",
-            "rating": 1380,
+            "rating": 1344,
             "problem_total": 86,
             "contest_info": [
                 {
@@ -9296,9 +9305,18 @@
                     "rating_update_time_seconds": 1753202100,
                     "old_rating": 1327,
                     "new_rating": 1380
+                },
+                {
+                    "contest_id": 2162,
+                    "contest_name": "Codeforces Round 1059 (Div. 3)",
+                    "handle": "yellow_one",
+                    "rank": 7194,
+                    "rating_update_time_seconds": 1760719800,
+                    "old_rating": 1380,
+                    "new_rating": 1344
                 }
             ],
-            "contest_total": 16
+            "contest_total": 17
         },
         "潘铖棋": {
             "name": "潘铖棋",
@@ -9731,7 +9749,7 @@
             "codeforces_handle": "starlaw",
             "rating": 1492,
             "problem_total": 402,
-            "contest_total": 32,
+            "contest_total": 33,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10020,6 +10038,15 @@
                     "rating_update_time_seconds": 1760288700,
                     "old_rating": 1346,
                     "new_rating": 1492
+                },
+                {
+                    "contest_id": 2162,
+                    "contest_name": "Codeforces Round 1059 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 3012,
+                    "rating_update_time_seconds": 1760719800,
+                    "old_rating": 1492,
+                    "new_rating": 1492
                 }
             ]
         },
@@ -10055,7 +10082,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1629,
-            "problem_total": 185,
+            "problem_total": 186,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -10181,7 +10208,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1435,
+            "rating": 1425,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -10982,5 +11009,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-18 19:20:18"
+    "update_time": "2025-10-18 20:50:32"
 }
