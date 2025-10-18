@@ -3028,7 +3028,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 307,
+            "problem_total": 309,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -6968,7 +6968,7 @@
             "grade": 2023,
             "codeforces_handle": "QF_shengxiu",
             "rating": 1550,
-            "problem_total": 450,
+            "problem_total": 453,
             "contest_info": [
                 {
                     "contest_id": 1932,
@@ -7501,7 +7501,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 182,
+            "problem_total": 180,
             "rating": 1533,
             "contest_total": 23,
             "contest_info": [
@@ -7719,7 +7719,7 @@
             "grade": 2023,
             "codeforces_handle": "blhxsdzjr",
             "rating": 1644,
-            "problem_total": 488,
+            "problem_total": 491,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8555,7 +8555,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1773,
-            "problem_total": 432,
+            "problem_total": 431,
             "contest_total": 32,
             "contest_info": [
                 {
@@ -9151,7 +9151,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1380,
-            "problem_total": 86,
+            "problem_total": 84,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9730,7 +9730,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1492,
-            "problem_total": 402,
+            "problem_total": 400,
             "contest_total": 32,
             "contest_info": [
                 {
@@ -10055,7 +10055,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1629,
-            "problem_total": 186,
+            "problem_total": 184,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -10982,5 +10982,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-18 13:25:53"
+    "update_time": "2025-10-18 14:37:06"
 }
