@@ -7312,7 +7312,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 753,
+            "problem_total": 754,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -9377,7 +9377,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1420,
-            "problem_total": 189,
+            "problem_total": 190,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -11081,5 +11081,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-21 18:29:57"
+    "update_time": "2025-10-21 19:22:56"
 }
