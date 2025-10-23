@@ -6155,7 +6155,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 1927,
-            "problem_total": 2391,
+            "problem_total": 2392,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -8203,7 +8203,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 29,
+            "problem_total": 30,
             "contest_total": 0
         },
         "沈万婷": {
@@ -11081,5 +11081,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-23 11:12:28"
+    "update_time": "2025-10-23 12:32:33"
 }
