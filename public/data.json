@@ -7312,7 +7312,7 @@
             "grade": 2023,
             "codeforces_handle": "padding",
             "rating": 1480,
-            "problem_total": 754,
+            "problem_total": 755,
             "contest_info": [
                 {
                     "contest_id": 1927,
@@ -8203,7 +8203,7 @@
             "grade": 2023,
             "codeforces_handle": "chenyueshan",
             "rating": 0,
-            "problem_total": 27,
+            "problem_total": 29,
             "contest_total": 0
         },
         "沈万婷": {
@@ -10299,7 +10299,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1303,
-            "problem_total": 402,
+            "problem_total": 404,
             "contest_total": 17,
             "contest_info": [
                 {
@@ -11081,5 +11081,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-23 10:01:36"
+    "update_time": "2025-10-23 11:12:28"
 }
