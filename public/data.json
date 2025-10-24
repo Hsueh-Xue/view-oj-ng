@@ -6154,8 +6154,8 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 1927,
-            "problem_total": 2398,
+            "rating": 2020,
+            "problem_total": 2399,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6723,9 +6723,18 @@
                     "rating_update_time_seconds": 1760891700,
                     "old_rating": 2095,
                     "new_rating": 1927
+                },
+                {
+                    "contest_id": 2156,
+                    "contest_name": "Codeforces Round 1061 (Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 112,
+                    "rating_update_time_seconds": 1761323700,
+                    "old_rating": 1927,
+                    "new_rating": 2020
                 }
             ],
-            "contest_total": 63
+            "contest_total": 64
         },
         "葛先步": {
             "name": "葛先步",
@@ -7511,8 +7520,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 189,
-            "rating": 1416,
-            "contest_total": 25,
+            "rating": 1410,
+            "contest_total": 26,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7738,6 +7747,15 @@
                     "rating_update_time_seconds": 1760891700,
                     "old_rating": 1467,
                     "new_rating": 1416
+                },
+                {
+                    "contest_id": 2156,
+                    "contest_name": "Codeforces Round 1061 (Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 4539,
+                    "rating_update_time_seconds": 1761323700,
+                    "old_rating": 1416,
+                    "new_rating": 1410
                 }
             ]
         },
@@ -9801,9 +9819,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1492,
+            "rating": 1491,
             "problem_total": 407,
-            "contest_total": 33,
+            "contest_total": 34,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10101,6 +10119,15 @@
                     "rating_update_time_seconds": 1760719800,
                     "old_rating": 1492,
                     "new_rating": 1492
+                },
+                {
+                    "contest_id": 2156,
+                    "contest_name": "Codeforces Round 1061 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 3408,
+                    "rating_update_time_seconds": 1761323700,
+                    "old_rating": 1492,
+                    "new_rating": 1491
                 }
             ]
         },
@@ -10298,9 +10325,9 @@
             "name": "贾宜儒",
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
-            "rating": 1303,
+            "rating": 1247,
             "problem_total": 418,
-            "contest_total": 17,
+            "contest_total": 18,
             "contest_info": [
                 {
                     "contest_id": 2078,
@@ -10454,6 +10481,15 @@
                     "rating_update_time_seconds": 1760115000,
                     "old_rating": 1305,
                     "new_rating": 1303
+                },
+                {
+                    "contest_id": 2156,
+                    "contest_name": "Codeforces Round 1061 (Div. 2)",
+                    "handle": "R_coder2055",
+                    "rank": 9573,
+                    "rating_update_time_seconds": 1761323700,
+                    "old_rating": 1303,
+                    "new_rating": 1247
                 }
             ]
         },
@@ -11081,5 +11117,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-25 01:24:40"
+    "update_time": "2025-10-25 02:35:13"
 }
