@@ -6155,7 +6155,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 1927,
-            "problem_total": 2394,
+            "problem_total": 2398,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -7510,7 +7510,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 186,
+            "problem_total": 189,
             "rating": 1416,
             "contest_total": 25,
             "contest_info": [
@@ -9802,7 +9802,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1492,
-            "problem_total": 404,
+            "problem_total": 407,
             "contest_total": 33,
             "contest_info": [
                 {
@@ -10299,7 +10299,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1303,
-            "problem_total": 416,
+            "problem_total": 418,
             "contest_total": 17,
             "contest_info": [
                 {
@@ -11081,5 +11081,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-25 00:34:32"
+    "update_time": "2025-10-25 01:24:40"
 }
