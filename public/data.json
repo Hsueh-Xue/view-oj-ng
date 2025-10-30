@@ -6154,8 +6154,8 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 2020,
-            "problem_total": 2403,
+            "rating": 1882,
+            "problem_total": 2405,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6732,9 +6732,18 @@
                     "rating_update_time_seconds": 1761323700,
                     "old_rating": 1927,
                     "new_rating": 2020
+                },
+                {
+                    "contest_id": 2161,
+                    "contest_name": "Pinely Round 5 (Div. 1 + Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 2849,
+                    "rating_update_time_seconds": 1761852900,
+                    "old_rating": 2020,
+                    "new_rating": 1882
                 }
             ],
-            "contest_total": 64
+            "contest_total": 65
         },
         "葛先步": {
             "name": "葛先步",
@@ -7519,9 +7528,9 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 190,
-            "rating": 1410,
-            "contest_total": 26,
+            "problem_total": 193,
+            "rating": 1504,
+            "contest_total": 27,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7756,6 +7765,15 @@
                     "rating_update_time_seconds": 1761323700,
                     "old_rating": 1416,
                     "new_rating": 1410
+                },
+                {
+                    "contest_id": 2161,
+                    "contest_name": "Pinely Round 5 (Div. 1 + Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 1250,
+                    "rating_update_time_seconds": 1761852900,
+                    "old_rating": 1410,
+                    "new_rating": 1504
                 }
             ]
         },
@@ -9005,8 +9023,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1472,
-            "problem_total": 1382,
+            "rating": 1515,
+            "problem_total": 1385,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9214,9 +9232,18 @@
                     "rating_update_time_seconds": 1760891700,
                     "old_rating": 1483,
                     "new_rating": 1472
+                },
+                {
+                    "contest_id": 2161,
+                    "contest_name": "Pinely Round 5 (Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1758,
+                    "rating_update_time_seconds": 1761852900,
+                    "old_rating": 1472,
+                    "new_rating": 1515
                 }
             ],
-            "contest_total": 23
+            "contest_total": 24
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11117,5 +11144,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-10-31 03:22:34"
+    "update_time": "2025-10-31 04:31:47"
 }
