@@ -7529,8 +7529,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 197,
-            "rating": 1504,
-            "contest_total": 27,
+            "rating": 1651,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7774,6 +7774,15 @@
                     "rating_update_time_seconds": 1761852900,
                     "old_rating": 1410,
                     "new_rating": 1504
+                },
+                {
+                    "contest_id": 2164,
+                    "contest_name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 790,
+                    "rating_update_time_seconds": 1762450500,
+                    "old_rating": 1504,
+                    "new_rating": 1651
                 }
             ]
         },
@@ -8626,9 +8635,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1866,
+            "rating": 1839,
             "problem_total": 446,
-            "contest_total": 33,
+            "contest_total": 34,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8926,6 +8935,15 @@
                     "rating_update_time_seconds": 1760891700,
                     "old_rating": 1773,
                     "new_rating": 1866
+                },
+                {
+                    "contest_id": 2164,
+                    "contest_name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1793,
+                    "rating_update_time_seconds": 1762450500,
+                    "old_rating": 1866,
+                    "new_rating": 1839
                 }
             ]
         },
@@ -9023,7 +9041,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1515,
+            "rating": 1475,
             "problem_total": 1396,
             "contest_info": [
                 {
@@ -9241,9 +9259,18 @@
                     "rating_update_time_seconds": 1761852900,
                     "old_rating": 1472,
                     "new_rating": 1515
+                },
+                {
+                    "contest_id": 2164,
+                    "contest_name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 4713,
+                    "rating_update_time_seconds": 1762450500,
+                    "old_rating": 1515,
+                    "new_rating": 1475
                 }
             ],
-            "contest_total": 24
+            "contest_total": 25
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9846,9 +9873,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1491,
+            "rating": 1378,
             "problem_total": 411,
-            "contest_total": 34,
+            "contest_total": 35,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10155,6 +10182,15 @@
                     "rating_update_time_seconds": 1761323700,
                     "old_rating": 1492,
                     "new_rating": 1491
+                },
+                {
+                    "contest_id": 2164,
+                    "contest_name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 9023,
+                    "rating_update_time_seconds": 1762450500,
+                    "old_rating": 1491,
+                    "new_rating": 1378
                 }
             ]
         },
@@ -10189,9 +10225,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1581,
+            "rating": 1590,
             "problem_total": 210,
-            "contest_total": 14,
+            "contest_total": 15,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10318,6 +10354,15 @@
                     "rating_update_time_seconds": 1760891700,
                     "old_rating": 1629,
                     "new_rating": 1581
+                },
+                {
+                    "contest_id": 2164,
+                    "contest_name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 2568,
+                    "rating_update_time_seconds": 1762450500,
+                    "old_rating": 1581,
+                    "new_rating": 1590
                 }
             ]
         },
@@ -11144,5 +11189,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-07 02:40:34"
+    "update_time": "2025-11-07 03:22:22"
 }
