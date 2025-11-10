@@ -7529,8 +7529,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 197,
-            "rating": 1651,
-            "contest_total": 28,
+            "rating": 1478,
+            "contest_total": 29,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7783,6 +7783,15 @@
                     "rating_update_time_seconds": 1762450500,
                     "old_rating": 1504,
                     "new_rating": 1651
+                },
+                {
+                    "contest_id": 2163,
+                    "contest_name": "Codeforces Round 1063 (Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 11265,
+                    "rating_update_time_seconds": 1762794300,
+                    "old_rating": 1651,
+                    "new_rating": 1478
                 }
             ]
         },
@@ -8635,9 +8644,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1839,
-            "problem_total": 448,
-            "contest_total": 34,
+            "rating": 1848,
+            "problem_total": 449,
+            "contest_total": 35,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8944,6 +8953,15 @@
                     "rating_update_time_seconds": 1762450500,
                     "old_rating": 1866,
                     "new_rating": 1839
+                },
+                {
+                    "contest_id": 2163,
+                    "contest_name": "Codeforces Round 1063 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 793,
+                    "rating_update_time_seconds": 1762794300,
+                    "old_rating": 1839,
+                    "new_rating": 1848
                 }
             ]
         },
@@ -9873,9 +9891,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1378,
-            "problem_total": 417,
-            "contest_total": 35,
+            "rating": 1404,
+            "problem_total": 418,
+            "contest_total": 36,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10191,6 +10209,15 @@
                     "rating_update_time_seconds": 1762450500,
                     "old_rating": 1491,
                     "new_rating": 1378
+                },
+                {
+                    "contest_id": 2163,
+                    "contest_name": "Codeforces Round 1063 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 3117,
+                    "rating_update_time_seconds": 1762794300,
+                    "old_rating": 1378,
+                    "new_rating": 1404
                 }
             ]
         },
@@ -11189,5 +11216,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-11 01:25:51"
+    "update_time": "2025-11-11 02:40:10"
 }
