@@ -6010,7 +6010,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 531,
+            "problem_total": 532,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -10253,7 +10253,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1590,
-            "problem_total": 212,
+            "problem_total": 213,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -11216,5 +11216,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-13 11:53:11"
+    "update_time": "2025-11-13 12:34:45"
 }
