@@ -10253,7 +10253,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1592,
-            "problem_total": 222,
+            "problem_total": 223,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -11042,7 +11042,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1406,
-            "problem_total": 156,
+            "problem_total": 158,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -11216,5 +11216,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-15 14:37:44"
+    "update_time": "2025-11-15 15:24:34"
 }
