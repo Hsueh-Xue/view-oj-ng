@@ -8645,7 +8645,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1849,
-            "problem_total": 458,
+            "problem_total": 455,
             "contest_total": 35,
             "contest_info": [
                 {
@@ -9694,7 +9694,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1434,
-            "problem_total": 131,
+            "problem_total": 127,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9892,7 +9892,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1408,
-            "problem_total": 423,
+            "problem_total": 422,
             "contest_total": 36,
             "contest_info": [
                 {
@@ -10253,7 +10253,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1592,
-            "problem_total": 223,
+            "problem_total": 217,
             "contest_total": 15,
             "contest_info": [
                 {
@@ -10624,7 +10624,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1646,
-            "problem_total": 164,
+            "problem_total": 162,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10923,7 +10923,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 931,
-            "problem_total": 24,
+            "problem_total": 23,
             "contest_total": 3,
             "contest_info": [
                 {
@@ -10960,7 +10960,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1126,
-            "problem_total": 104,
+            "problem_total": 100,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -11042,7 +11042,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1406,
-            "problem_total": 160,
+            "problem_total": 156,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -11216,5 +11216,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-15 16:33:51"
+    "update_time": "2025-11-15 17:25:30"
 }
