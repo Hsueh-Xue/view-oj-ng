@@ -8645,7 +8645,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1959,
-            "problem_total": 459,
+            "problem_total": 460,
             "contest_total": 36,
             "contest_info": [
                 {
@@ -9069,7 +9069,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1480,
-            "problem_total": 1414,
+            "problem_total": 1417,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9703,7 +9703,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1476,
-            "problem_total": 131,
+            "problem_total": 134,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9910,7 +9910,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1356,
-            "problem_total": 424,
+            "problem_total": 427,
             "contest_total": 37,
             "contest_info": [
                 {
@@ -10280,7 +10280,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1749,
-            "problem_total": 223,
+            "problem_total": 226,
             "contest_total": 16,
             "contest_info": [
                 {
@@ -10660,7 +10660,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1676,
-            "problem_total": 164,
+            "problem_total": 167,
             "contest_total": 25,
             "contest_info": [
                 {
@@ -11014,7 +11014,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1259,
-            "problem_total": 104,
+            "problem_total": 106,
             "contest_total": 9,
             "contest_info": [
                 {
@@ -11279,5 +11279,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-17 00:31:01"
+    "update_time": "2025-11-17 01:24:08"
 }
