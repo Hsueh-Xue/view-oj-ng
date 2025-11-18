@@ -2697,7 +2697,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 555
+            "problem_total": 556
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -9721,7 +9721,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1502,
-            "problem_total": 134,
+            "problem_total": 135,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11342,5 +11342,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-18 14:41:31"
+    "update_time": "2025-11-18 15:27:39"
 }
