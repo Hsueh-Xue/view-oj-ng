@@ -8645,7 +8645,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1876,
-            "problem_total": 470,
+            "problem_total": 462,
             "contest_total": 37,
             "contest_info": [
                 {
@@ -9078,7 +9078,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1463,
-            "problem_total": 1429,
+            "problem_total": 1430,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9721,7 +9721,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1502,
-            "problem_total": 140,
+            "problem_total": 135,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9937,7 +9937,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1335,
-            "problem_total": 437,
+            "problem_total": 430,
             "contest_total": 38,
             "contest_info": [
                 {
@@ -10316,7 +10316,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1742,
-            "problem_total": 240,
+            "problem_total": 235,
             "contest_total": 17,
             "contest_info": [
                 {
@@ -10705,7 +10705,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1643,
-            "problem_total": 171,
+            "problem_total": 169,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -11022,7 +11022,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 972,
-            "problem_total": 26,
+            "problem_total": 24,
             "contest_total": 4,
             "contest_info": [
                 {
@@ -11068,7 +11068,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1249,
-            "problem_total": 114,
+            "problem_total": 108,
             "contest_total": 10,
             "contest_info": [
                 {
@@ -11342,5 +11342,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-21 12:35:08"
+    "update_time": "2025-11-21 13:29:30"
 }
