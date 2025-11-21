@@ -9720,7 +9720,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1502,
+            "rating": 1471,
             "problem_total": 140,
             "contest_info": [
                 {
@@ -9920,9 +9920,18 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1476,
                     "new_rating": 1502
+                },
+                {
+                    "contest_id": 2171,
+                    "contest_name": "Codeforces Round 1065 (Div. 3)",
+                    "handle": "Tsq2",
+                    "rank": 3222,
+                    "rating_update_time_seconds": 1763658300,
+                    "old_rating": 1502,
+                    "new_rating": 1471
                 }
             ],
-            "contest_total": 22
+            "contest_total": 23
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -9936,9 +9945,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1335,
+            "rating": 1420,
             "problem_total": 437,
-            "contest_total": 38,
+            "contest_total": 39,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10281,6 +10290,15 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1356,
                     "new_rating": 1335
+                },
+                {
+                    "contest_id": 2171,
+                    "contest_name": "Codeforces Round 1065 (Div. 3)",
+                    "handle": "starlaw",
+                    "rank": 1043,
+                    "rating_update_time_seconds": 1763658300,
+                    "old_rating": 1335,
+                    "new_rating": 1420
                 }
             ]
         },
@@ -11021,9 +11039,9 @@
             "name": "杨兰欣",
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
-            "rating": 972,
+            "rating": 1038,
             "problem_total": 26,
-            "contest_total": 4,
+            "contest_total": 5,
             "contest_info": [
                 {
                     "contest_id": 2128,
@@ -11060,6 +11078,15 @@
                     "rating_update_time_seconds": 1763138100,
                     "old_rating": 931,
                     "new_rating": 972
+                },
+                {
+                    "contest_id": 2171,
+                    "contest_name": "Codeforces Round 1065 (Div. 3)",
+                    "handle": "GorillaWarrior",
+                    "rank": 10040,
+                    "rating_update_time_seconds": 1763658300,
+                    "old_rating": 972,
+                    "new_rating": 1038
                 }
             ]
         },
@@ -11067,9 +11094,9 @@
             "name": "吴佳鹏",
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
-            "rating": 1249,
+            "rating": 1269,
             "problem_total": 114,
-            "contest_total": 10,
+            "contest_total": 11,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -11160,6 +11187,15 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1259,
                     "new_rating": 1249
+                },
+                {
+                    "contest_id": 2171,
+                    "contest_name": "Codeforces Round 1065 (Div. 3)",
+                    "handle": "ToffeeSG",
+                    "rank": 3973,
+                    "rating_update_time_seconds": 1763658300,
+                    "old_rating": 1249,
+                    "new_rating": 1269
                 }
             ]
         },
@@ -11342,5 +11378,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-21 17:31:16"
+    "update_time": "2025-11-21 18:31:41"
 }
