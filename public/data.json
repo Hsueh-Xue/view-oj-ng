@@ -8644,9 +8644,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1876,
+            "rating": 1851,
             "problem_total": 479,
-            "contest_total": 37,
+            "contest_total": 38,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8980,6 +8980,15 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1959,
                     "new_rating": 1876
+                },
+                {
+                    "contest_id": 2170,
+                    "contest_name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1152,
+                    "rating_update_time_seconds": 1764347700,
+                    "old_rating": 1876,
+                    "new_rating": 1851
                 }
             ]
         },
@@ -9945,9 +9954,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1420,
+            "rating": 1496,
             "problem_total": 444,
-            "contest_total": 39,
+            "contest_total": 40,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10299,6 +10308,15 @@
                     "rating_update_time_seconds": 1763658300,
                     "old_rating": 1335,
                     "new_rating": 1420
+                },
+                {
+                    "contest_id": 2170,
+                    "contest_name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 1498,
+                    "rating_update_time_seconds": 1764347700,
+                    "old_rating": 1420,
+                    "new_rating": 1496
                 }
             ]
         },
@@ -10333,9 +10351,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1742,
+            "rating": 1794,
             "problem_total": 258,
-            "contest_total": 17,
+            "contest_total": 18,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10489,6 +10507,15 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1749,
                     "new_rating": 1742
+                },
+                {
+                    "contest_id": 2170,
+                    "contest_name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 608,
+                    "rating_update_time_seconds": 1764347700,
+                    "old_rating": 1742,
+                    "new_rating": 1794
                 }
             ]
         },
@@ -11378,5 +11405,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-29 20:53:29"
+    "update_time": "2025-11-29 21:35:21"
 }
