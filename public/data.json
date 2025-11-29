@@ -8645,7 +8645,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1851,
-            "problem_total": 479,
+            "problem_total": 483,
             "contest_total": 38,
             "contest_info": [
                 {
@@ -9087,7 +9087,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1463,
-            "problem_total": 1459,
+            "problem_total": 1463,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9955,7 +9955,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1496,
-            "problem_total": 444,
+            "problem_total": 446,
             "contest_total": 40,
             "contest_info": [
                 {
@@ -10352,7 +10352,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1794,
-            "problem_total": 259,
+            "problem_total": 263,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -10750,7 +10750,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1643,
-            "problem_total": 172,
+            "problem_total": 175,
             "contest_total": 26,
             "contest_info": [
                 {
@@ -11405,5 +11405,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-30 00:35:37"
+    "update_time": "2025-11-30 01:24:01"
 }
