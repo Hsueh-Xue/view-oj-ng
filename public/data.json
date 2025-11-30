@@ -10568,7 +10568,7 @@
             "grade": 2024,
             "codeforces_handle": "ying1m",
             "rating": 511,
-            "problem_total": 35,
+            "problem_total": 36,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -10587,7 +10587,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 430,
+            "problem_total": 431,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -11450,5 +11450,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-11-30 13:29:16"
+    "update_time": "2025-11-30 14:40:28"
 }
