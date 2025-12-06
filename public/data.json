@@ -8113,8 +8113,8 @@
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
             "problem_total": 224,
-            "rating": 1371,
-            "contest_total": 14,
+            "rating": 1294,
+            "contest_total": 15,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8241,6 +8241,15 @@
                     "rating_update_time_seconds": 1758126900,
                     "old_rating": 1386,
                     "new_rating": 1371
+                },
+                {
+                    "contest_id": 2175,
+                    "contest_name": "Codeforces Round 1069 (Div. 2)",
+                    "handle": "LuCiiiD",
+                    "rank": 5794,
+                    "rating_update_time_seconds": 1765016100,
+                    "old_rating": 1371,
+                    "new_rating": 1294
                 }
             ]
         },
@@ -11495,5 +11504,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-06 22:25:29"
+    "update_time": "2025-12-06 23:27:12"
 }
