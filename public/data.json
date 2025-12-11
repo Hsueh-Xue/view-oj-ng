@@ -6155,7 +6155,7 @@
             "grade": 2023,
             "codeforces_handle": "Teatify",
             "rating": 1887,
-            "problem_total": 2417,
+            "problem_total": 2421,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -8654,7 +8654,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1922,
-            "problem_total": 493,
+            "problem_total": 497,
             "contest_total": 40,
             "contest_info": [
                 {
@@ -10406,7 +10406,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1886,
-            "problem_total": 299,
+            "problem_total": 303,
             "contest_total": 20,
             "contest_info": [
                 {
@@ -10831,7 +10831,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1666,
-            "problem_total": 175,
+            "problem_total": 178,
             "contest_total": 27,
             "contest_info": [
                 {
@@ -11504,5 +11504,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-12 00:42:45"
+    "update_time": "2025-12-12 01:35:43"
 }
