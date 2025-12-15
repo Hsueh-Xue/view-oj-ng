@@ -10018,7 +10018,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1415,
-            "problem_total": 457,
+            "problem_total": 458,
             "contest_total": 41,
             "contest_info": [
                 {
@@ -10424,7 +10424,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1895,
-            "problem_total": 317,
+            "problem_total": 318,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -11540,5 +11540,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-15 21:05:36"
+    "update_time": "2025-12-15 22:36:46"
 }
