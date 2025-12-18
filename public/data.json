@@ -8644,9 +8644,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1879,
+            "rating": 1953,
             "problem_total": 507,
-            "contest_total": 37,
+            "contest_total": 39,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -8980,6 +8980,24 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1963,
                     "new_rating": 1879
+                },
+                {
+                    "contest_id": 2170,
+                    "contest_name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1068,
+                    "rating_update_time_seconds": 1764347700,
+                    "old_rating": 1879,
+                    "new_rating": 1857
+                },
+                {
+                    "contest_id": 2158,
+                    "contest_name": "Codeforces Round 1067 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 148,
+                    "rating_update_time_seconds": 1764434100,
+                    "old_rating": 1857,
+                    "new_rating": 1953
                 }
             ]
         },
@@ -9077,7 +9095,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1465,
+            "rating": 1599,
             "problem_total": 1519,
             "contest_info": [
                 {
@@ -9313,9 +9331,18 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1480,
                     "new_rating": 1465
+                },
+                {
+                    "contest_id": 2158,
+                    "contest_name": "Codeforces Round 1067 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 532,
+                    "rating_update_time_seconds": 1764434100,
+                    "old_rating": 1465,
+                    "new_rating": 1599
                 }
             ],
-            "contest_total": 26
+            "contest_total": 27
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -9945,9 +9972,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1424,
+            "rating": 1420,
             "problem_total": 459,
-            "contest_total": 39,
+            "contest_total": 41,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10299,6 +10326,24 @@
                     "rating_update_time_seconds": 1763658300,
                     "old_rating": 1338,
                     "new_rating": 1424
+                },
+                {
+                    "contest_id": 2170,
+                    "contest_name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 1414,
+                    "rating_update_time_seconds": 1764347700,
+                    "old_rating": 1424,
+                    "new_rating": 1502
+                },
+                {
+                    "contest_id": 2158,
+                    "contest_name": "Codeforces Round 1067 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 6744,
+                    "rating_update_time_seconds": 1764434100,
+                    "old_rating": 1502,
+                    "new_rating": 1420
                 }
             ]
         },
@@ -10333,9 +10378,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1747,
+            "rating": 1853,
             "problem_total": 322,
-            "contest_total": 17,
+            "contest_total": 19,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10489,6 +10534,24 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1752,
                     "new_rating": 1747
+                },
+                {
+                    "contest_id": 2170,
+                    "contest_name": "Educational Codeforces Round 185 (Rated for Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 529,
+                    "rating_update_time_seconds": 1764347700,
+                    "old_rating": 1747,
+                    "new_rating": 1804
+                },
+                {
+                    "contest_id": 2158,
+                    "contest_name": "Codeforces Round 1067 (Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 430,
+                    "rating_update_time_seconds": 1764434100,
+                    "old_rating": 1804,
+                    "new_rating": 1853
                 }
             ]
         },
@@ -10722,9 +10785,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1646,
+            "rating": 1670,
             "problem_total": 178,
-            "contest_total": 26,
+            "contest_total": 27,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10959,6 +11022,15 @@
                     "rating_update_time_seconds": 1763310900,
                     "old_rating": 1677,
                     "new_rating": 1646
+                },
+                {
+                    "contest_id": 2158,
+                    "contest_name": "Codeforces Round 1067 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 1223,
+                    "rating_update_time_seconds": 1764434100,
+                    "old_rating": 1646,
+                    "new_rating": 1670
                 }
             ]
         },
@@ -11378,5 +11450,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-19 02:43:35"
+    "update_time": "2025-12-19 03:24:01"
 }
