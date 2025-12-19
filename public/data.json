@@ -6154,8 +6154,8 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 1923,
-            "problem_total": 2433,
+            "rating": 1997,
+            "problem_total": 2435,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6750,9 +6750,18 @@
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1887,
                     "new_rating": 1923
+                },
+                {
+                    "contest_id": 2180,
+                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+                    "handle": "Teatify",
+                    "rank": 581,
+                    "rating_update_time_seconds": 1766163900,
+                    "old_rating": 1923,
+                    "new_rating": 1997
                 }
             ],
-            "contest_total": 66
+            "contest_total": 67
         },
         "葛先步": {
             "name": "葛先步",
@@ -8662,9 +8671,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1923,
+            "rating": 1816,
             "problem_total": 509,
-            "contest_total": 41,
+            "contest_total": 42,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9034,6 +9043,15 @@
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1930,
                     "new_rating": 1923
+                },
+                {
+                    "contest_id": 2180,
+                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 4158,
+                    "rating_update_time_seconds": 1766163900,
+                    "old_rating": 1923,
+                    "new_rating": 1816
                 }
             ]
         },
@@ -10423,9 +10441,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1905,
+            "rating": 1833,
             "problem_total": 325,
-            "contest_total": 21,
+            "contest_total": 22,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10615,6 +10633,15 @@
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1896,
                     "new_rating": 1905
+                },
+                {
+                    "contest_id": 2180,
+                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 3007,
+                    "rating_update_time_seconds": 1766163900,
+                    "old_rating": 1905,
+                    "new_rating": 1833
                 }
             ]
         },
@@ -11540,5 +11567,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-20 01:26:32"
+    "update_time": "2025-12-20 02:42:04"
 }
