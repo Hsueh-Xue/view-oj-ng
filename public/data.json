@@ -6154,7 +6154,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 1997,
+            "rating": 2044,
             "problem_total": 2445,
             "contest_info": [
                 {
@@ -7347,7 +7347,7 @@
             "name": "徐鑫懿",
             "grade": 2023,
             "codeforces_handle": "padding",
-            "rating": 1480,
+            "rating": 1597,
             "problem_total": 824,
             "contest_info": [
                 {
@@ -8671,9 +8671,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1816,
+            "rating": 1920,
             "problem_total": 520,
-            "contest_total": 42,
+            "contest_total": 43,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9052,6 +9052,15 @@
                     "rating_update_time_seconds": 1766163900,
                     "old_rating": 1923,
                     "new_rating": 1816
+                },
+                {
+                    "contest_id": 2178,
+                    "contest_name": "Good Bye 2025",
+                    "handle": "Zero.2",
+                    "rank": 691,
+                    "rating_update_time_seconds": 1766856900,
+                    "old_rating": 1816,
+                    "new_rating": 1920
                 }
             ]
         },
@@ -9149,7 +9158,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1635,
+            "rating": 1683,
             "problem_total": 1550,
             "contest_info": [
                 {
@@ -9403,9 +9412,18 @@
                     "rating_update_time_seconds": 1764952500,
                     "old_rating": 1599,
                     "new_rating": 1635
+                },
+                {
+                    "contest_id": 2178,
+                    "contest_name": "Good Bye 2025",
+                    "handle": "WEirdows",
+                    "rank": 2140,
+                    "rating_update_time_seconds": 1766856900,
+                    "old_rating": 1635,
+                    "new_rating": 1683
                 }
             ],
-            "contest_total": 28
+            "contest_total": 29
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10441,9 +10459,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1833,
+            "rating": 1765,
             "problem_total": 338,
-            "contest_total": 22,
+            "contest_total": 23,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10642,6 +10660,15 @@
                     "rating_update_time_seconds": 1766163900,
                     "old_rating": 1905,
                     "new_rating": 1833
+                },
+                {
+                    "contest_id": 2178,
+                    "contest_name": "Good Bye 2025",
+                    "handle": "qiaodifehf",
+                    "rank": 4342,
+                    "rating_update_time_seconds": 1766856900,
+                    "old_rating": 1833,
+                    "new_rating": 1765
                 }
             ]
         },
@@ -11567,5 +11594,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-28 04:33:38"
+    "update_time": "2025-12-28 05:28:09"
 }
