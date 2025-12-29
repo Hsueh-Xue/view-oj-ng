@@ -9829,7 +9829,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1475,
-            "problem_total": 183,
+            "problem_total": 184,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10460,7 +10460,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1765,
-            "problem_total": 342,
+            "problem_total": 347,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -11594,5 +11594,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-30 00:37:25"
+    "update_time": "2025-12-30 01:27:30"
 }
