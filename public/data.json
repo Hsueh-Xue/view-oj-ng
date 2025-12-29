@@ -9602,7 +9602,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1420,
-            "problem_total": 204,
+            "problem_total": 205,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -9829,7 +9829,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1475,
-            "problem_total": 178,
+            "problem_total": 181,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11594,5 +11594,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-29 22:31:14"
+    "update_time": "2025-12-29 23:33:31"
 }
