@@ -6154,7 +6154,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 2044,
+            "rating": 1951,
             "problem_total": 2445,
             "contest_info": [
                 {
@@ -8671,9 +8671,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1920,
+            "rating": 1864,
             "problem_total": 525,
-            "contest_total": 43,
+            "contest_total": 44,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9061,6 +9061,15 @@
                     "rating_update_time_seconds": 1766856900,
                     "old_rating": 1816,
                     "new_rating": 1920
+                },
+                {
+                    "contest_id": 2182,
+                    "contest_name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1721,
+                    "rating_update_time_seconds": 1767026100,
+                    "old_rating": 1920,
+                    "new_rating": 1864
                 }
             ]
         },
@@ -9828,7 +9837,7 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1475,
+            "rating": 1477,
             "problem_total": 184,
             "contest_info": [
                 {
@@ -10037,9 +10046,18 @@
                     "rating_update_time_seconds": 1763658300,
                     "old_rating": 1505,
                     "new_rating": 1475
+                },
+                {
+                    "contest_id": 2182,
+                    "contest_name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 3354,
+                    "rating_update_time_seconds": 1767026100,
+                    "old_rating": 1475,
+                    "new_rating": 1477
                 }
             ],
-            "contest_total": 23
+            "contest_total": 24
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -11594,5 +11612,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2025-12-30 19:27:56"
+    "update_time": "2025-12-30 21:02:17"
 }
