@@ -8673,7 +8673,7 @@
             "codeforces_handle": "Zero.2",
             "rating": 1864,
             "problem_total": 529,
-            "contest_total": 41,
+            "contest_total": 43,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9042,6 +9042,24 @@
                     "rank": 655,
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1930,
+                    "new_rating": 1923
+                },
+                {
+                    "contest_id": 2180,
+                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 4004,
+                    "rating_update_time_seconds": 1766163900,
+                    "old_rating": 1923,
+                    "new_rating": 1818
+                },
+                {
+                    "contest_id": 2178,
+                    "contest_name": "Good Bye 2025",
+                    "handle": "Zero.2",
+                    "rank": 648,
+                    "rating_update_time_seconds": 1766856900,
+                    "old_rating": 1818,
                     "new_rating": 1864
                 }
             ]
@@ -9393,10 +9411,19 @@
                     "rank": 1306,
                     "rating_update_time_seconds": 1764952500,
                     "old_rating": 1599,
+                    "new_rating": 1635
+                },
+                {
+                    "contest_id": 2178,
+                    "contest_name": "Good Bye 2025",
+                    "handle": "WEirdows",
+                    "rank": 2037,
+                    "rating_update_time_seconds": 1766856900,
+                    "old_rating": 1635,
                     "new_rating": 1683
                 }
             ],
-            "contest_total": 28
+            "contest_total": 29
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10432,9 +10459,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1765,
+            "rating": 1766,
             "problem_total": 347,
-            "contest_total": 21,
+            "contest_total": 23,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10623,7 +10650,25 @@
                     "rank": 585,
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1896,
-                    "new_rating": 1765
+                    "new_rating": 1905
+                },
+                {
+                    "contest_id": 2180,
+                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 2856,
+                    "rating_update_time_seconds": 1766163900,
+                    "old_rating": 1905,
+                    "new_rating": 1836
+                },
+                {
+                    "contest_id": 2178,
+                    "contest_name": "Good Bye 2025",
+                    "handle": "qiaodifehf",
+                    "rank": 4198,
+                    "rating_update_time_seconds": 1766856900,
+                    "old_rating": 1836,
+                    "new_rating": 1766
                 }
             ]
         },
@@ -11549,5 +11594,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-07 05:32:50"
+    "update_time": "2026-01-07 06:32:28"
 }
