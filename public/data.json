@@ -8673,7 +8673,7 @@
             "codeforces_handle": "Zero.2",
             "rating": 1864,
             "problem_total": 529,
-            "contest_total": 44,
+            "contest_total": 41,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9042,33 +9042,6 @@
                     "rank": 655,
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1930,
-                    "new_rating": 1923
-                },
-                {
-                    "contest_id": 2180,
-                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 4158,
-                    "rating_update_time_seconds": 1766163900,
-                    "old_rating": 1923,
-                    "new_rating": 1816
-                },
-                {
-                    "contest_id": 2178,
-                    "contest_name": "Good Bye 2025",
-                    "handle": "Zero.2",
-                    "rank": 691,
-                    "rating_update_time_seconds": 1766856900,
-                    "old_rating": 1816,
-                    "new_rating": 1920
-                },
-                {
-                    "contest_id": 2182,
-                    "contest_name": "Educational Codeforces Round 186 (Rated for Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 1721,
-                    "rating_update_time_seconds": 1767026100,
-                    "old_rating": 1920,
                     "new_rating": 1864
                 }
             ]
@@ -9420,19 +9393,10 @@
                     "rank": 1306,
                     "rating_update_time_seconds": 1764952500,
                     "old_rating": 1599,
-                    "new_rating": 1635
-                },
-                {
-                    "contest_id": 2178,
-                    "contest_name": "Good Bye 2025",
-                    "handle": "WEirdows",
-                    "rank": 2140,
-                    "rating_update_time_seconds": 1766856900,
-                    "old_rating": 1635,
                     "new_rating": 1683
                 }
             ],
-            "contest_total": 29
+            "contest_total": 28
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10045,19 +10009,10 @@
                     "rank": 3070,
                     "rating_update_time_seconds": 1763658300,
                     "old_rating": 1505,
-                    "new_rating": 1475
-                },
-                {
-                    "contest_id": 2182,
-                    "contest_name": "Educational Codeforces Round 186 (Rated for Div. 2)",
-                    "handle": "Tsq2",
-                    "rank": 3354,
-                    "rating_update_time_seconds": 1767026100,
-                    "old_rating": 1475,
                     "new_rating": 1477
                 }
             ],
-            "contest_total": 24
+            "contest_total": 23
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -10479,7 +10434,7 @@
             "codeforces_handle": "qiaodifehf",
             "rating": 1765,
             "problem_total": 347,
-            "contest_total": 23,
+            "contest_total": 21,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -10668,24 +10623,6 @@
                     "rank": 585,
                     "rating_update_time_seconds": 1765470900,
                     "old_rating": 1896,
-                    "new_rating": 1905
-                },
-                {
-                    "contest_id": 2180,
-                    "contest_name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
-                    "handle": "qiaodifehf",
-                    "rank": 3007,
-                    "rating_update_time_seconds": 1766163900,
-                    "old_rating": 1905,
-                    "new_rating": 1833
-                },
-                {
-                    "contest_id": 2178,
-                    "contest_name": "Good Bye 2025",
-                    "handle": "qiaodifehf",
-                    "rank": 4342,
-                    "rating_update_time_seconds": 1766856900,
-                    "old_rating": 1833,
                     "new_rating": 1765
                 }
             ]
@@ -11612,5 +11549,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-07 04:34:53"
+    "update_time": "2026-01-07 05:32:50"
 }
