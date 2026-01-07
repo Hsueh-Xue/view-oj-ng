@@ -6912,7 +6912,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 99,
+            "problem_total": 100,
             "rating": 473,
             "contest_total": 1,
             "contest_info": [
@@ -11612,5 +11612,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-07 17:38:08"
+    "update_time": "2026-01-07 18:35:28"
 }
