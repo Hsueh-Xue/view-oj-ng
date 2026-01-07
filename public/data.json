@@ -8672,7 +8672,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1869,
-            "problem_total": 533,
+            "problem_total": 534,
             "contest_total": 44,
             "contest_info": [
                 {
@@ -11612,5 +11612,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-08 02:46:52"
+    "update_time": "2026-01-08 03:28:25"
 }
