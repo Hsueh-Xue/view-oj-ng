@@ -6154,7 +6154,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 1958,
+            "rating": 2054,
             "problem_total": 2445,
             "contest_info": [
                 {
@@ -7547,8 +7547,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 203,
-            "rating": 1481,
-            "contest_total": 29,
+            "rating": 1462,
+            "contest_total": 30,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7810,6 +7810,15 @@
                     "rating_update_time_seconds": 1762794300,
                     "old_rating": 1656,
                     "new_rating": 1481
+                },
+                {
+                    "contest_id": 2183,
+                    "contest_name": "Hello 2026",
+                    "handle": "yaLen",
+                    "rank": 5823,
+                    "rating_update_time_seconds": 1767807300,
+                    "old_rating": 1481,
+                    "new_rating": 1462
                 }
             ]
         },
@@ -8671,9 +8680,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1869,
+            "rating": 1819,
             "problem_total": 534,
-            "contest_total": 44,
+            "contest_total": 45,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9070,6 +9079,15 @@
                     "rating_update_time_seconds": 1767026100,
                     "old_rating": 1924,
                     "new_rating": 1869
+                },
+                {
+                    "contest_id": 2183,
+                    "contest_name": "Hello 2026",
+                    "handle": "Zero.2",
+                    "rank": 2924,
+                    "rating_update_time_seconds": 1767807300,
+                    "old_rating": 1869,
+                    "new_rating": 1819
                 }
             ]
         },
@@ -9167,7 +9185,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1683,
+            "rating": 1665,
             "problem_total": 1587,
             "contest_info": [
                 {
@@ -9430,9 +9448,18 @@
                     "rating_update_time_seconds": 1766856900,
                     "old_rating": 1635,
                     "new_rating": 1683
+                },
+                {
+                    "contest_id": 2183,
+                    "contest_name": "Hello 2026",
+                    "handle": "WEirdows",
+                    "rank": 3399,
+                    "rating_update_time_seconds": 1767807300,
+                    "old_rating": 1683,
+                    "new_rating": 1665
                 }
             ],
-            "contest_total": 29
+            "contest_total": 30
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11612,5 +11639,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-08 03:28:25"
+    "update_time": "2026-01-08 04:36:17"
 }
