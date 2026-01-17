@@ -6154,7 +6154,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 2054,
+            "rating": 1981,
             "problem_total": 2445,
             "contest_info": [
                 {
@@ -9638,7 +9638,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1420,
-            "problem_total": 217,
+            "problem_total": 218,
             "contest_total": 21,
             "contest_info": [
                 {
@@ -11639,5 +11639,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-18 02:40:32"
+    "update_time": "2026-01-18 03:23:07"
 }
