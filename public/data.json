@@ -9655,9 +9655,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1379,
-            "problem_total": 225,
-            "contest_total": 22,
+            "rating": 1423,
+            "problem_total": 226,
+            "contest_total": 23,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9856,6 +9856,15 @@
                     "rating_update_time_seconds": 1768671300,
                     "old_rating": 1420,
                     "new_rating": 1379
+                },
+                {
+                    "contest_id": 2185,
+                    "contest_name": "Codeforces Round 1074 (Div. 4)",
+                    "handle": "ginyako",
+                    "rank": 1536,
+                    "rating_update_time_seconds": 1768755000,
+                    "old_rating": 1379,
+                    "new_rating": 1423
                 }
             ]
         },
@@ -11382,9 +11391,9 @@
             "name": "吴佳鹏",
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
-            "rating": 1280,
+            "rating": 1292,
             "problem_total": 127,
-            "contest_total": 12,
+            "contest_total": 13,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -11493,6 +11502,15 @@
                     "rating_update_time_seconds": 1764952500,
                     "old_rating": 1272,
                     "new_rating": 1280
+                },
+                {
+                    "contest_id": 2185,
+                    "contest_name": "Codeforces Round 1074 (Div. 4)",
+                    "handle": "ToffeeSG",
+                    "rank": 4273,
+                    "rating_update_time_seconds": 1768755000,
+                    "old_rating": 1280,
+                    "new_rating": 1292
                 }
             ]
         },
@@ -11675,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-20 03:27:38"
+    "update_time": "2026-01-20 04:35:36"
 }
