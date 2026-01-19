@@ -9864,7 +9864,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 401,
+            "problem_total": 403,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11675,5 +11675,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-19 14:53:37"
+    "update_time": "2026-01-19 15:38:19"
 }
