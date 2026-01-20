@@ -10541,7 +10541,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1766,
-            "problem_total": 350,
+            "problem_total": 351,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -11693,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-20 16:46:23"
+    "update_time": "2026-01-20 17:42:21"
 }
