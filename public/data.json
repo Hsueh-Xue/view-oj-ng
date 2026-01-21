@@ -9195,7 +9195,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1646,
-            "problem_total": 1627,
+            "problem_total": 1628,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9901,7 +9901,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 193,
+            "problem_total": 196,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10794,7 +10794,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 440,
+            "problem_total": 441,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -10993,7 +10993,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1620,
-            "problem_total": 191,
+            "problem_total": 192,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -11337,7 +11337,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 1039,
-            "problem_total": 28,
+            "problem_total": 29,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -11392,7 +11392,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1292,
-            "problem_total": 129,
+            "problem_total": 131,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -11519,7 +11519,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1406,
-            "problem_total": 168,
+            "problem_total": 169,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -11693,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-21 15:39:04"
+    "update_time": "2026-01-21 16:43:57"
 }
