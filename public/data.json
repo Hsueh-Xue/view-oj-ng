@@ -8681,7 +8681,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1939,
-            "problem_total": 562,
+            "problem_total": 563,
             "contest_total": 46,
             "contest_info": [
                 {
@@ -9873,7 +9873,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 415,
+            "problem_total": 416,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9901,7 +9901,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 213,
+            "problem_total": 215,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10541,7 +10541,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1766,
-            "problem_total": 366,
+            "problem_total": 367,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -10794,7 +10794,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 448,
+            "problem_total": 451,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -10993,7 +10993,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1620,
-            "problem_total": 199,
+            "problem_total": 201,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -11337,7 +11337,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 1039,
-            "problem_total": 33,
+            "problem_total": 34,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -11392,7 +11392,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1292,
-            "problem_total": 139,
+            "problem_total": 140,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -11693,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-22 16:46:46"
+    "update_time": "2026-01-22 17:43:32"
 }
