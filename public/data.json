@@ -1577,7 +1577,7 @@
                 }
             ],
             "rating": 1748,
-            "problem_total": 1368,
+            "problem_total": 1369,
             "contest_total": 94
         },
         "邵茹怡": {
@@ -8681,7 +8681,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1939,
-            "problem_total": 569,
+            "problem_total": 570,
             "contest_total": 46,
             "contest_info": [
                 {
@@ -9195,7 +9195,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1646,
-            "problem_total": 1644,
+            "problem_total": 1645,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9656,7 +9656,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1423,
-            "problem_total": 266,
+            "problem_total": 267,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -10135,7 +10135,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1420,
-            "problem_total": 490,
+            "problem_total": 491,
             "contest_total": 41,
             "contest_info": [
                 {
@@ -10541,7 +10541,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1766,
-            "problem_total": 370,
+            "problem_total": 371,
             "contest_total": 23,
             "contest_info": [
                 {
@@ -10993,7 +10993,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1620,
-            "problem_total": 205,
+            "problem_total": 206,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -11693,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-23 23:38:39"
+    "update_time": "2026-01-24 00:43:35"
 }
