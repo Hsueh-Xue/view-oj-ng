@@ -9901,7 +9901,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 216,
+            "problem_total": 218,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10766,7 +10766,7 @@
             "grade": 2024,
             "codeforces_handle": "ying1m",
             "rating": 741,
-            "problem_total": 42,
+            "problem_total": 43,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10794,7 +10794,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 453,
+            "problem_total": 455,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -11693,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-23 10:26:16"
+    "update_time": "2026-01-23 12:10:30"
 }
