@@ -9901,7 +9901,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 215,
+            "problem_total": 216,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10993,7 +10993,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1620,
-            "problem_total": 201,
+            "problem_total": 202,
             "contest_total": 29,
             "contest_info": [
                 {
@@ -11693,5 +11693,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-23 07:30:49"
+    "update_time": "2026-01-23 10:26:16"
 }
