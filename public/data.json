@@ -6921,7 +6921,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 133,
+            "problem_total": 134,
             "rating": 473,
             "contest_total": 1,
             "contest_info": [
@@ -8690,7 +8690,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1939,
-            "problem_total": 571,
+            "problem_total": 572,
             "contest_total": 46,
             "contest_info": [
                 {
@@ -9114,7 +9114,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 354,
+            "problem_total": 356,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9502,7 +9502,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1320,
-            "problem_total": 103,
+            "problem_total": 106,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9900,7 +9900,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 428,
+            "problem_total": 429,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -9928,7 +9928,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 232,
+            "problem_total": 233,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10162,7 +10162,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1458,
-            "problem_total": 495,
+            "problem_total": 496,
             "contest_total": 42,
             "contest_info": [
                 {
@@ -11391,7 +11391,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 1039,
-            "problem_total": 40,
+            "problem_total": 41,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -11573,7 +11573,7 @@
             "grade": 2024,
             "codeforces_handle": "fushen",
             "rating": 1406,
-            "problem_total": 196,
+            "problem_total": 198,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -11747,5 +11747,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-24 16:39:01"
+    "update_time": "2026-01-24 17:30:25"
 }
