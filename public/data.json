@@ -9204,7 +9204,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1601,
-            "problem_total": 1648,
+            "problem_total": 1649,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9674,7 +9674,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1433,
-            "problem_total": 269,
+            "problem_total": 270,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -9928,7 +9928,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 225,
+            "problem_total": 227,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10811,7 +10811,7 @@
             "grade": 2024,
             "codeforces_handle": "ying1m",
             "rating": 741,
-            "problem_total": 46,
+            "problem_total": 47,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11038,7 +11038,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1576,
-            "problem_total": 208,
+            "problem_total": 209,
             "contest_total": 30,
             "contest_info": [
                 {
@@ -11364,7 +11364,7 @@
             "grade": 2024,
             "codeforces_handle": "Plus.h",
             "rating": 422,
-            "problem_total": 12,
+            "problem_total": 13,
             "contest_total": 1,
             "contest_info": [
                 {
@@ -11391,7 +11391,7 @@
             "grade": 2024,
             "codeforces_handle": "GorillaWarrior",
             "rating": 1039,
-            "problem_total": 37,
+            "problem_total": 38,
             "contest_total": 5,
             "contest_info": [
                 {
@@ -11747,5 +11747,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-24 10:22:07"
+    "update_time": "2026-01-24 12:04:14"
 }
