@@ -6921,9 +6921,9 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 146,
-            "rating": 473,
-            "contest_total": 1,
+            "problem_total": 147,
+            "rating": 851,
+            "contest_total": 2,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6933,6 +6933,15 @@
                     "rating_update_time_seconds": 1744566600,
                     "old_rating": 0,
                     "new_rating": 473
+                },
+                {
+                    "contest_id": 2193,
+                    "contest_name": "Codeforces Round 1076 (Div. 3)",
+                    "handle": "BoBoowen",
+                    "rank": 3135,
+                    "rating_update_time_seconds": 1769359800,
+                    "old_rating": 473,
+                    "new_rating": 851
                 }
             ]
         },
@@ -8690,7 +8699,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1939,
-            "problem_total": 576,
+            "problem_total": 577,
             "contest_total": 46,
             "contest_info": [
                 {
@@ -9114,7 +9123,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 361,
+            "problem_total": 362,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -10802,7 +10811,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1539,
+            "rating": 1541,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -11446,7 +11455,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1292,
-            "problem_total": 152,
+            "problem_total": 153,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -11572,7 +11581,7 @@
             "name": "胡文涵",
             "grade": 2024,
             "codeforces_handle": "fushen",
-            "rating": 1406,
+            "rating": 1508,
             "problem_total": 208,
             "contest_info": [
                 {
@@ -11718,9 +11727,18 @@
                     "rating_update_time_seconds": 1756402500,
                     "old_rating": 1475,
                     "new_rating": 1406
+                },
+                {
+                    "contest_id": 2193,
+                    "contest_name": "Codeforces Round 1076 (Div. 3)",
+                    "handle": "fushen",
+                    "rank": 738,
+                    "rating_update_time_seconds": 1769359800,
+                    "old_rating": 1406,
+                    "new_rating": 1508
                 }
             ],
-            "contest_total": 16
+            "contest_total": 17
         },
         "雷天宝": {
             "name": "雷天宝",
@@ -11747,5 +11765,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-26 23:39:39"
+    "update_time": "2026-01-27 00:47:42"
 }
