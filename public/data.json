@@ -9213,7 +9213,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1601,
-            "problem_total": 1654,
+            "problem_total": 1655,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10586,7 +10586,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1804,
-            "problem_total": 389,
+            "problem_total": 390,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -11765,5 +11765,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-01-27 18:40:35"
+    "update_time": "2026-01-27 19:32:47"
 }
