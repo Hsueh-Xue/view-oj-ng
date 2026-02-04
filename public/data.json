@@ -11082,7 +11082,7 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1693,
+            "rating": 1580,
             "problem_total": 239,
             "contest_total": 30,
             "contest_info": [
@@ -11354,7 +11354,7 @@
                     "rank": 3899,
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1622,
-                    "new_rating": 1693
+                    "new_rating": 1580
                 }
             ]
         },
@@ -11801,5 +11801,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-04 07:38:25"
+    "update_time": "2026-02-04 10:47:23"
 }
