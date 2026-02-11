@@ -7574,8 +7574,8 @@
             "grade": 2023,
             "codeforces_handle": "yaLen",
             "problem_total": 214,
-            "rating": 1464,
-            "contest_total": 30,
+            "rating": 1435,
+            "contest_total": 31,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7846,6 +7846,15 @@
                     "rating_update_time_seconds": 1767807300,
                     "old_rating": 1481,
                     "new_rating": 1464
+                },
+                {
+                    "contest_id": 2197,
+                    "contest_name": "Codeforces Round 1079 (Div. 2)",
+                    "handle": "yaLen",
+                    "rank": 4772,
+                    "rating_update_time_seconds": 1770831300,
+                    "old_rating": 1464,
+                    "new_rating": 1435
                 }
             ]
         },
@@ -8707,9 +8716,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1914,
+            "rating": 1838,
             "problem_total": 591,
-            "contest_total": 47,
+            "contest_total": 48,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9133,6 +9142,15 @@
                     "rating_update_time_seconds": 1769708100,
                     "old_rating": 1949,
                     "new_rating": 1914
+                },
+                {
+                    "contest_id": 2196,
+                    "contest_name": "Codeforces Round 1079 (Div. 1)",
+                    "handle": "Zero.2",
+                    "rank": 803,
+                    "rating_update_time_seconds": 1770831300,
+                    "old_rating": 1914,
+                    "new_rating": 1838
                 }
             ]
         },
@@ -9230,7 +9248,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1645,
+            "rating": 1557,
             "problem_total": 1681,
             "contest_info": [
                 {
@@ -9529,9 +9547,18 @@
                     "rating_update_time_seconds": 1769708100,
                     "old_rating": 1606,
                     "new_rating": 1645
+                },
+                {
+                    "contest_id": 2197,
+                    "contest_name": "Codeforces Round 1079 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 5983,
+                    "rating_update_time_seconds": 1770831300,
+                    "old_rating": 1645,
+                    "new_rating": 1557
                 }
             ],
-            "contest_total": 33
+            "contest_total": 34
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11801,5 +11828,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-12 03:16:38"
+    "update_time": "2026-02-12 04:51:47"
 }
