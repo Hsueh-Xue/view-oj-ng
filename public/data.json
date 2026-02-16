@@ -10874,7 +10874,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1545,
+            "rating": 1666,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -11109,9 +11109,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1580,
+            "rating": 1650,
             "problem_total": 247,
-            "contest_total": 30,
+            "contest_total": 31,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11382,6 +11382,15 @@
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1622,
                     "new_rating": 1580
+                },
+                {
+                    "contest_id": 2195,
+                    "contest_name": "Codeforces Round 1080 (Div. 3)",
+                    "handle": "_QLe",
+                    "rank": 471,
+                    "rating_update_time_seconds": 1771175700,
+                    "old_rating": 1580,
+                    "new_rating": 1650
                 }
             ]
         },
@@ -11828,5 +11837,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-16 21:24:50"
+    "update_time": "2026-02-16 22:54:50"
 }
