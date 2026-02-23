@@ -6163,7 +6163,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 2038,
+            "rating": 1995,
             "problem_total": 2445,
             "contest_info": [
                 {
@@ -8716,9 +8716,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1899,
-            "problem_total": 613,
-            "contest_total": 49,
+            "rating": 1976,
+            "problem_total": 617,
+            "contest_total": 50,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9160,6 +9160,15 @@
                     "rating_update_time_seconds": 1771691700,
                     "old_rating": 1838,
                     "new_rating": 1899
+                },
+                {
+                    "contest_id": 2202,
+                    "contest_name": "Codeforces Round 1082 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 99,
+                    "rating_update_time_seconds": 1771866300,
+                    "old_rating": 1899,
+                    "new_rating": 1976
                 }
             ]
         },
@@ -9257,8 +9266,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1606,
-            "problem_total": 1697,
+            "rating": 1600,
+            "problem_total": 1700,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9574,9 +9583,18 @@
                     "rating_update_time_seconds": 1771691700,
                     "old_rating": 1557,
                     "new_rating": 1606
+                },
+                {
+                    "contest_id": 2202,
+                    "contest_name": "Codeforces Round 1082 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1608,
+                    "rating_update_time_seconds": 1771866300,
+                    "old_rating": 1606,
+                    "new_rating": 1600
                 }
             ],
-            "contest_total": 35
+            "contest_total": 36
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11855,5 +11873,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-24 01:16:33"
+    "update_time": "2026-02-24 03:18:56"
 }
