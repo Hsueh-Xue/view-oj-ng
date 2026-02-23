@@ -10252,7 +10252,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1462,
-            "problem_total": 520,
+            "problem_total": 521,
             "contest_total": 42,
             "contest_info": [
                 {
@@ -11855,5 +11855,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-23 17:01:59"
+    "update_time": "2026-02-23 18:09:44"
 }
