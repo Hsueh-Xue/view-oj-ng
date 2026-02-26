@@ -3254,10 +3254,19 @@
                     "rating_update_time_seconds": 1742661300,
                     "old_rating": 1797,
                     "new_rating": 1755
+                },
+                {
+                    "contest_id": 2205,
+                    "contest_name": "Codeforces Round 1083 (Div. 2)",
+                    "handle": "SHOJIG",
+                    "rank": 1854,
+                    "rating_update_time_seconds": 1772125500,
+                    "old_rating": 1755,
+                    "new_rating": 1716
                 }
             ],
-            "rating": 1755,
-            "contest_total": 23
+            "rating": 1716,
+            "contest_total": 24
         },
         "章诚益": {
             "name": "章诚益",
@@ -10278,9 +10287,9 @@
             "name": "邓量",
             "grade": 2024,
             "codeforces_handle": "starlaw",
-            "rating": 1462,
+            "rating": 1404,
             "problem_total": 527,
-            "contest_total": 42,
+            "contest_total": 43,
             "contest_info": [
                 {
                     "contest_id": 2072,
@@ -10659,6 +10668,15 @@
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1420,
                     "new_rating": 1462
+                },
+                {
+                    "contest_id": 2205,
+                    "contest_name": "Codeforces Round 1083 (Div. 2)",
+                    "handle": "starlaw",
+                    "rank": 4962,
+                    "rating_update_time_seconds": 1772125500,
+                    "old_rating": 1462,
+                    "new_rating": 1404
                 }
             ]
         },
@@ -11882,5 +11900,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-27 02:00:34"
+    "update_time": "2026-02-27 03:07:58"
 }
