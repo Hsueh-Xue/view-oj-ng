@@ -1583,11 +1583,20 @@
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1748,
                     "new_rating": 1694
+                },
+                {
+                    "contest_id": 2203,
+                    "contest_name": "Educational Codeforces Round 187 (Rated for Div. 2)",
+                    "handle": "EdGrass",
+                    "rank": 5421,
+                    "rating_update_time_seconds": 1772037300,
+                    "old_rating": 1694,
+                    "new_rating": 1589
                 }
             ],
-            "rating": 1694,
+            "rating": 1589,
             "problem_total": 1375,
-            "contest_total": 95
+            "contest_total": 96
         },
         "邵茹怡": {
             "name": "邵茹怡",
@@ -3037,7 +3046,7 @@
             "name": "戴子晟",
             "grade": 2022,
             "codeforces_handle": "SHOJIG",
-            "problem_total": 314,
+            "problem_total": 318,
             "contest_info": [
                 {
                     "contest_id": 1809,
@@ -10270,7 +10279,7 @@
             "grade": 2024,
             "codeforces_handle": "starlaw",
             "rating": 1462,
-            "problem_total": 525,
+            "problem_total": 527,
             "contest_total": 42,
             "contest_info": [
                 {
@@ -11873,5 +11882,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-02-27 00:03:05"
+    "update_time": "2026-02-27 02:00:34"
 }
