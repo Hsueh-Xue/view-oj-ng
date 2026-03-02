@@ -11173,7 +11173,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1650,
-            "problem_total": 259,
+            "problem_total": 260,
             "contest_total": 31,
             "contest_info": [
                 {
@@ -11590,7 +11590,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 175,
+            "problem_total": 176,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -11900,5 +11900,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-02 12:57:49"
+    "update_time": "2026-03-02 14:01:29"
 }
