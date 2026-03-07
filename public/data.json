@@ -394,7 +394,7 @@
             "grade": 2022,
             "codeforces_handle": "Zeoy",
             "rating": 1791,
-            "problem_total": 1402,
+            "problem_total": 1403,
             "contest_info": [
                 {
                     "contest_id": 1777,
@@ -9800,7 +9800,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 329,
+            "problem_total": 330,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10026,7 +10026,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 462,
+            "problem_total": 463,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11900,5 +11900,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-07 14:56:54"
+    "update_time": "2026-03-07 15:38:18"
 }
