@@ -9195,7 +9195,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 431,
+            "problem_total": 432,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9285,7 +9285,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1600,
-            "problem_total": 1713,
+            "problem_total": 1714,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10026,7 +10026,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 463,
+            "problem_total": 464,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10054,7 +10054,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 286,
+            "problem_total": 287,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10974,7 +10974,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 504,
+            "problem_total": 505,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -11173,7 +11173,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1650,
-            "problem_total": 266,
+            "problem_total": 271,
             "contest_total": 31,
             "contest_info": [
                 {
@@ -11900,5 +11900,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-08 16:42:49"
+    "update_time": "2026-03-08 17:40:26"
 }
