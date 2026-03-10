@@ -9195,7 +9195,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 442,
+            "problem_total": 444,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9809,7 +9809,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 336,
+            "problem_total": 337,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -11909,5 +11909,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-10 15:04:54"
+    "update_time": "2026-03-10 16:57:16"
 }
