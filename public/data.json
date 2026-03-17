@@ -8735,7 +8735,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1976,
-            "problem_total": 625,
+            "problem_total": 626,
             "contest_total": 50,
             "contest_info": [
                 {
@@ -9285,7 +9285,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1655,
-            "problem_total": 1726,
+            "problem_total": 1727,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11909,5 +11909,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-18 01:15:03"
+    "update_time": "2026-03-18 03:15:58"
 }
