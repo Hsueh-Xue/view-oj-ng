@@ -3039,7 +3039,7 @@
                 }
             ],
             "contest_total": 35,
-            "problem_total": 1061,
+            "problem_total": 1063,
             "rating": 1615
         },
         "戴子晟": {
@@ -9628,7 +9628,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1434,
-            "problem_total": 176,
+            "problem_total": 177,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11909,5 +11909,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-18 13:06:18"
+    "update_time": "2026-03-18 15:15:34"
 }
