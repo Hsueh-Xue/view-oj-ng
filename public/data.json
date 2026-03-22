@@ -9818,7 +9818,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 338,
+            "problem_total": 339,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -11191,7 +11191,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1650,
-            "problem_total": 273,
+            "problem_total": 275,
             "contest_total": 31,
             "contest_info": [
                 {
@@ -11918,5 +11918,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-22 15:02:46"
+    "update_time": "2026-03-22 16:48:57"
 }
