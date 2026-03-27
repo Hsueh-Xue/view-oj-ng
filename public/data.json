@@ -7591,7 +7591,7 @@
             "name": "叶志汉",
             "grade": 2023,
             "codeforces_handle": "yaLen",
-            "problem_total": 227,
+            "problem_total": 228,
             "rating": 1437,
             "contest_total": 31,
             "contest_info": [
@@ -9285,7 +9285,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1621,
-            "problem_total": 1738,
+            "problem_total": 1739,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11918,5 +11918,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-27 23:01:34"
+    "update_time": "2026-03-28 00:04:23"
 }
