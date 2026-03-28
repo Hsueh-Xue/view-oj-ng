@@ -8734,9 +8734,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1993,
-            "problem_total": 627,
-            "contest_total": 50,
+            "rating": 1986,
+            "problem_total": 632,
+            "contest_total": 51,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9187,6 +9187,15 @@
                     "rating_update_time_seconds": 1771866300,
                     "old_rating": 1903,
                     "new_rating": 1993
+                },
+                {
+                    "contest_id": 2211,
+                    "contest_name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1070,
+                    "rating_update_time_seconds": 1774718100,
+                    "old_rating": 1993,
+                    "new_rating": 1986
                 }
             ]
         },
@@ -9284,8 +9293,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1621,
-            "problem_total": 1739,
+            "rating": 1678,
+            "problem_total": 1743,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9628,9 +9637,18 @@
                     "rating_update_time_seconds": 1774110900,
                     "old_rating": 1659,
                     "new_rating": 1621
+                },
+                {
+                    "contest_id": 2211,
+                    "contest_name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1503,
+                    "rating_update_time_seconds": 1774718100,
+                    "old_rating": 1621,
+                    "new_rating": 1678
                 }
             ],
-            "contest_total": 38
+            "contest_total": 39
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11918,5 +11936,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-29 01:40:17"
+    "update_time": "2026-03-29 02:56:19"
 }
