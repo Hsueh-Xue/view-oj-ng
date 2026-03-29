@@ -5801,7 +5801,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1440,
-            "problem_total": 450,
+            "problem_total": 453,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -6037,7 +6037,7 @@
             "grade": 2023,
             "codeforces_handle": "tiying",
             "rating": 1659,
-            "problem_total": 536,
+            "problem_total": 539,
             "contest_info": [
                 {
                     "contest_id": 1918,
@@ -6939,7 +6939,7 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 228,
+            "problem_total": 230,
             "rating": 1162,
             "contest_total": 3,
             "contest_info": [
@@ -9204,7 +9204,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 471,
+            "problem_total": 474,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9836,7 +9836,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 347,
+            "problem_total": 349,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10062,7 +10062,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 464,
+            "problem_total": 466,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11209,7 +11209,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1656,
-            "problem_total": 278,
+            "problem_total": 281,
             "contest_total": 31,
             "contest_info": [
                 {
@@ -11626,7 +11626,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 181,
+            "problem_total": 185,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -11936,5 +11936,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-29 13:49:08"
+    "update_time": "2026-03-29 15:17:47"
 }
