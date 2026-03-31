@@ -10090,7 +10090,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 298,
+            "problem_total": 299,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11936,5 +11936,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-03-31 21:55:29"
+    "update_time": "2026-03-31 23:14:18"
 }
