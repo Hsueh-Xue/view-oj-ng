@@ -6940,8 +6940,8 @@
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
             "problem_total": 252,
-            "rating": 1162,
-            "contest_total": 3,
+            "rating": 1482,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6969,6 +6969,15 @@
                     "rating_update_time_seconds": 1769708100,
                     "old_rating": 852,
                     "new_rating": 1162
+                },
+                {
+                    "contest_id": 2217,
+                    "contest_name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+                    "handle": "BoBoowen",
+                    "rank": 386,
+                    "rating_update_time_seconds": 1775580600,
+                    "old_rating": 1162,
+                    "new_rating": 1482
                 }
             ]
         },
@@ -9293,7 +9302,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1678,
+            "rating": 1579,
             "problem_total": 1758,
             "contest_info": [
                 {
@@ -9646,9 +9655,18 @@
                     "rating_update_time_seconds": 1774718100,
                     "old_rating": 1621,
                     "new_rating": 1678
+                },
+                {
+                    "contest_id": 2217,
+                    "contest_name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+                    "handle": "WEirdows",
+                    "rank": 6926,
+                    "rating_update_time_seconds": 1775580600,
+                    "old_rating": 1678,
+                    "new_rating": 1579
                 }
             ],
-            "contest_total": 39
+            "contest_total": 40
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11936,5 +11954,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-04-08 13:54:33"
+    "update_time": "2026-04-08 15:49:45"
 }
