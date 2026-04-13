@@ -9213,7 +9213,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 481,
+            "problem_total": 482,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -10108,7 +10108,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 303,
+            "problem_total": 304,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11954,5 +11954,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-04-13 07:47:36"
+    "update_time": "2026-04-13 11:46:58"
 }
