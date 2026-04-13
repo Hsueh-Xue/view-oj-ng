@@ -9854,7 +9854,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 370,
+            "problem_total": 372,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10108,7 +10108,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 304,
+            "problem_total": 306,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11954,5 +11954,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-04-13 14:25:04"
+    "update_time": "2026-04-13 17:07:45"
 }
