@@ -6940,8 +6940,8 @@
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
             "problem_total": 283,
-            "rating": 1539,
-            "contest_total": 5,
+            "rating": 1738,
+            "contest_total": 6,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6987,6 +6987,15 @@
                     "rating_update_time_seconds": 1776098100,
                     "old_rating": 1482,
                     "new_rating": 1539
+                },
+                {
+                    "contest_id": 2225,
+                    "contest_name": "Educational Codeforces Round 189 (Rated for Div. 2)",
+                    "handle": "BoBoowen",
+                    "rank": 226,
+                    "rating_update_time_seconds": 1776789300,
+                    "old_rating": 1539,
+                    "new_rating": 1738
                 }
             ]
         },
@@ -9320,8 +9329,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1530,
-            "problem_total": 1781,
+            "rating": 1600,
+            "problem_total": 1782,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9691,9 +9700,18 @@
                     "rating_update_time_seconds": 1776098100,
                     "old_rating": 1579,
                     "new_rating": 1530
+                },
+                {
+                    "contest_id": 2225,
+                    "contest_name": "Educational Codeforces Round 189 (Rated for Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1007,
+                    "rating_update_time_seconds": 1776789300,
+                    "old_rating": 1530,
+                    "new_rating": 1600
                 }
             ],
-            "contest_total": 41
+            "contest_total": 42
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11981,5 +11999,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-04-22 20:05:30"
+    "update_time": "2026-04-22 22:53:49"
 }
