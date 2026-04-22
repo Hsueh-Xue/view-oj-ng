@@ -10135,7 +10135,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1480,
-            "problem_total": 316,
+            "problem_total": 317,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11671,7 +11671,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 201,
+            "problem_total": 202,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -11981,5 +11981,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-04-22 11:35:50"
+    "update_time": "2026-04-22 14:08:02"
 }
