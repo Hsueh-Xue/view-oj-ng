@@ -6939,9 +6939,9 @@
             "name": "薛博文",
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
-            "problem_total": 287,
-            "rating": 1738,
-            "contest_total": 6,
+            "problem_total": 289,
+            "rating": 1758,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6996,6 +6996,15 @@
                     "rating_update_time_seconds": 1776789300,
                     "old_rating": 1539,
                     "new_rating": 1738
+                },
+                {
+                    "contest_id": 2226,
+                    "contest_name": "Codeforces Round 1095 (Div. 2)",
+                    "handle": "BoBoowen",
+                    "rank": 788,
+                    "rating_update_time_seconds": 1777395000,
+                    "old_rating": 1738,
+                    "new_rating": 1758
                 }
             ]
         },
@@ -8770,9 +8779,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1986,
-            "problem_total": 645,
-            "contest_total": 51,
+            "rating": 1912,
+            "problem_total": 646,
+            "contest_total": 52,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9232,6 +9241,15 @@
                     "rating_update_time_seconds": 1774718100,
                     "old_rating": 1993,
                     "new_rating": 1986
+                },
+                {
+                    "contest_id": 2226,
+                    "contest_name": "Codeforces Round 1095 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1307,
+                    "rating_update_time_seconds": 1777395000,
+                    "old_rating": 1986,
+                    "new_rating": 1912
                 }
             ]
         },
@@ -9329,8 +9347,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1600,
-            "problem_total": 1786,
+            "rating": 1628,
+            "problem_total": 1787,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9709,9 +9727,18 @@
                     "rating_update_time_seconds": 1776789300,
                     "old_rating": 1530,
                     "new_rating": 1600
+                },
+                {
+                    "contest_id": 2226,
+                    "contest_name": "Codeforces Round 1095 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1178,
+                    "rating_update_time_seconds": 1777395000,
+                    "old_rating": 1600,
+                    "new_rating": 1628
                 }
             ],
-            "contest_total": 42
+            "contest_total": 43
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11999,5 +12026,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-04-29 01:01:36"
+    "update_time": "2026-04-29 02:48:13"
 }
