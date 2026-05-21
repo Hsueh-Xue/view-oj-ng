@@ -11316,9 +11316,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1656,
+            "rating": 1602,
             "problem_total": 315,
-            "contest_total": 31,
+            "contest_total": 32,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11598,6 +11598,15 @@
                     "rating_update_time_seconds": 1771175700,
                     "old_rating": 1580,
                     "new_rating": 1656
+                },
+                {
+                    "contest_id": 2231,
+                    "contest_name": "Codeforces Round 1099 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 3945,
+                    "rating_update_time_seconds": 1779381300,
+                    "old_rating": 1656,
+                    "new_rating": 1602
                 }
             ]
         },
@@ -12044,5 +12053,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-05-22 03:06:28"
+    "update_time": "2026-05-22 05:44:32"
 }
