@@ -6941,7 +6941,7 @@
             "codeforces_handle": "BoBoowen",
             "problem_total": 289,
             "rating": 1758,
-            "contest_total": 7,
+            "contest_total": 3,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6968,42 +6968,6 @@
                     "rank": 2136,
                     "rating_update_time_seconds": 1769708100,
                     "old_rating": 852,
-                    "new_rating": 1162
-                },
-                {
-                    "contest_id": 2217,
-                    "contest_name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-                    "handle": "BoBoowen",
-                    "rank": 386,
-                    "rating_update_time_seconds": 1775580600,
-                    "old_rating": 1162,
-                    "new_rating": 1482
-                },
-                {
-                    "contest_id": 2220,
-                    "contest_name": "Codeforces Round 1093 (Div. 2)",
-                    "handle": "BoBoowen",
-                    "rank": 2814,
-                    "rating_update_time_seconds": 1776098100,
-                    "old_rating": 1482,
-                    "new_rating": 1539
-                },
-                {
-                    "contest_id": 2225,
-                    "contest_name": "Educational Codeforces Round 189 (Rated for Div. 2)",
-                    "handle": "BoBoowen",
-                    "rank": 226,
-                    "rating_update_time_seconds": 1776789300,
-                    "old_rating": 1539,
-                    "new_rating": 1738
-                },
-                {
-                    "contest_id": 2226,
-                    "contest_name": "Codeforces Round 1095 (Div. 2)",
-                    "handle": "BoBoowen",
-                    "rank": 788,
-                    "rating_update_time_seconds": 1777395000,
-                    "old_rating": 1738,
                     "new_rating": 1758
                 }
             ]
@@ -7629,7 +7593,7 @@
             "codeforces_handle": "yaLen",
             "problem_total": 240,
             "rating": 1436,
-            "contest_total": 32,
+            "contest_total": 31,
             "contest_info": [
                 {
                     "contest_id": 1935,
@@ -7908,15 +7872,6 @@
                     "rank": 4665,
                     "rating_update_time_seconds": 1770831300,
                     "old_rating": 1464,
-                    "new_rating": 1437
-                },
-                {
-                    "contest_id": 2220,
-                    "contest_name": "Codeforces Round 1093 (Div. 2)",
-                    "handle": "yaLen",
-                    "rank": 3057,
-                    "rating_update_time_seconds": 1776098100,
-                    "old_rating": 1437,
                     "new_rating": 1436
                 }
             ]
@@ -8781,7 +8736,7 @@
             "codeforces_handle": "Zero.2",
             "rating": 1912,
             "problem_total": 648,
-            "contest_total": 52,
+            "contest_total": 50,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9231,24 +9186,6 @@
                     "rank": 68,
                     "rating_update_time_seconds": 1771866300,
                     "old_rating": 1903,
-                    "new_rating": 1993
-                },
-                {
-                    "contest_id": 2211,
-                    "contest_name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 1070,
-                    "rating_update_time_seconds": 1774718100,
-                    "old_rating": 1993,
-                    "new_rating": 1986
-                },
-                {
-                    "contest_id": 2226,
-                    "contest_name": "Codeforces Round 1095 (Div. 2)",
-                    "handle": "Zero.2",
-                    "rank": 1307,
-                    "rating_update_time_seconds": 1777395000,
-                    "old_rating": 1986,
                     "new_rating": 1912
                 }
             ]
@@ -9690,73 +9627,10 @@
                     "rank": 3031,
                     "rating_update_time_seconds": 1774110900,
                     "old_rating": 1659,
-                    "new_rating": 1621
-                },
-                {
-                    "contest_id": 2211,
-                    "contest_name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-                    "handle": "WEirdows",
-                    "rank": 1503,
-                    "rating_update_time_seconds": 1774718100,
-                    "old_rating": 1621,
-                    "new_rating": 1678
-                },
-                {
-                    "contest_id": 2217,
-                    "contest_name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
-                    "handle": "WEirdows",
-                    "rank": 6926,
-                    "rating_update_time_seconds": 1775580600,
-                    "old_rating": 1678,
-                    "new_rating": 1579
-                },
-                {
-                    "contest_id": 2220,
-                    "contest_name": "Codeforces Round 1093 (Div. 2)",
-                    "handle": "WEirdows",
-                    "rank": 3608,
-                    "rating_update_time_seconds": 1776098100,
-                    "old_rating": 1579,
-                    "new_rating": 1530
-                },
-                {
-                    "contest_id": 2225,
-                    "contest_name": "Educational Codeforces Round 189 (Rated for Div. 2)",
-                    "handle": "WEirdows",
-                    "rank": 1007,
-                    "rating_update_time_seconds": 1776789300,
-                    "old_rating": 1530,
-                    "new_rating": 1600
-                },
-                {
-                    "contest_id": 2226,
-                    "contest_name": "Codeforces Round 1095 (Div. 2)",
-                    "handle": "WEirdows",
-                    "rank": 1178,
-                    "rating_update_time_seconds": 1777395000,
-                    "old_rating": 1600,
-                    "new_rating": 1628
-                },
-                {
-                    "contest_id": 2224,
-                    "contest_name": "Codeforces Round 1097 (Div. 2,  Based on Zhili Cup 2026)",
-                    "handle": "WEirdows",
-                    "rank": 471,
-                    "rating_update_time_seconds": 1778056500,
-                    "old_rating": 1628,
-                    "new_rating": 1665
-                },
-                {
-                    "contest_id": 2228,
-                    "contest_name": "Codeforces Round 1098 (Div. 2)",
-                    "handle": "WEirdows",
-                    "rank": 2886,
-                    "rating_update_time_seconds": 1778950200,
-                    "old_rating": 1665,
                     "new_rating": 1629
                 }
             ],
-            "contest_total": 45
+            "contest_total": 38
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11318,7 +11192,7 @@
             "codeforces_handle": "_QLe",
             "rating": 1602,
             "problem_total": 318,
-            "contest_total": 32,
+            "contest_total": 31,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11597,15 +11471,6 @@
                     "rank": 400,
                     "rating_update_time_seconds": 1771175700,
                     "old_rating": 1580,
-                    "new_rating": 1656
-                },
-                {
-                    "contest_id": 2231,
-                    "contest_name": "Codeforces Round 1099 (Div. 2)",
-                    "handle": "_QLe",
-                    "rank": 3945,
-                    "rating_update_time_seconds": 1779381300,
-                    "old_rating": 1656,
                     "new_rating": 1602
                 }
             ]
@@ -12053,5 +11918,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-05-22 22:57:45"
+    "update_time": "2026-05-23 01:16:50"
 }
