@@ -6941,7 +6941,7 @@
             "codeforces_handle": "BoBoowen",
             "problem_total": 289,
             "rating": 1758,
-            "contest_total": 3,
+            "contest_total": 4,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6968,6 +6968,15 @@
                     "rank": 2136,
                     "rating_update_time_seconds": 1769708100,
                     "old_rating": 852,
+                    "new_rating": 1162
+                },
+                {
+                    "contest_id": 2217,
+                    "contest_name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+                    "handle": "BoBoowen",
+                    "rank": 357,
+                    "rating_update_time_seconds": 1775580600,
+                    "old_rating": 1162,
                     "new_rating": 1758
                 }
             ]
@@ -8736,7 +8745,7 @@
             "codeforces_handle": "Zero.2",
             "rating": 1912,
             "problem_total": 648,
-            "contest_total": 50,
+            "contest_total": 51,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9186,6 +9195,15 @@
                     "rank": 68,
                     "rating_update_time_seconds": 1771866300,
                     "old_rating": 1903,
+                    "new_rating": 1993
+                },
+                {
+                    "contest_id": 2211,
+                    "contest_name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 942,
+                    "rating_update_time_seconds": 1774718100,
+                    "old_rating": 1993,
                     "new_rating": 1912
                 }
             ]
@@ -9627,10 +9645,28 @@
                     "rank": 3031,
                     "rating_update_time_seconds": 1774110900,
                     "old_rating": 1659,
+                    "new_rating": 1621
+                },
+                {
+                    "contest_id": 2211,
+                    "contest_name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1358,
+                    "rating_update_time_seconds": 1774718100,
+                    "old_rating": 1621,
+                    "new_rating": 1684
+                },
+                {
+                    "contest_id": 2217,
+                    "contest_name": "Codeforces Round 1091 (Div. 2) and CodeCraft 26",
+                    "handle": "WEirdows",
+                    "rank": 6763,
+                    "rating_update_time_seconds": 1775580600,
+                    "old_rating": 1684,
                     "new_rating": 1629
                 }
             ],
-            "contest_total": 38
+            "contest_total": 40
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11918,5 +11954,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-05-23 04:01:49"
+    "update_time": "2026-05-23 05:22:13"
 }
