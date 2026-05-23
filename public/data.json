@@ -10846,9 +10846,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1809,
-            "problem_total": 427,
-            "contest_total": 24,
+            "rating": 1734,
+            "problem_total": 428,
+            "contest_total": 25,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11065,6 +11065,15 @@
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1766,
                     "new_rating": 1809
+                },
+                {
+                    "contest_id": 2229,
+                    "contest_name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 2932,
+                    "rating_update_time_seconds": 1779557700,
+                    "old_rating": 1809,
+                    "new_rating": 1734
                 }
             ]
         },
@@ -12044,5 +12053,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-05-24 02:05:39"
+    "update_time": "2026-05-24 04:10:44"
 }
