@@ -6940,7 +6940,7 @@
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
             "problem_total": 289,
-            "rating": 1758,
+            "rating": 1745,
             "contest_total": 6,
             "contest_info": [
                 {
@@ -6995,7 +6995,7 @@
                     "rank": 206,
                     "rating_update_time_seconds": 1776789300,
                     "old_rating": 1543,
-                    "new_rating": 1758
+                    "new_rating": 1745
                 }
             ]
         },
@@ -10847,7 +10847,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1809,
-            "problem_total": 425,
+            "problem_total": 426,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -12044,5 +12044,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-05-23 12:02:34"
+    "update_time": "2026-05-23 15:36:36"
 }
