@@ -14,10 +14,10 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v5
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v6
       with:
         python-version: 3.9.12
 
@@ -37,7 +37,7 @@ jobs:
         git add public/data.json
         git commit -m "Update data"
     - name: Push changes
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@v1.0.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: main
