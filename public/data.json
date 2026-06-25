@@ -9338,7 +9338,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1633,
+            "rating": 1638,
             "problem_total": 1802,
             "contest_info": [
                 {
@@ -9744,10 +9744,28 @@
                     "rank": 2793,
                     "rating_update_time_seconds": 1778950200,
                     "old_rating": 1675,
-                    "new_rating": 1633
+                    "new_rating": 1638
+                },
+                {
+                    "contest_id": 2232,
+                    "contest_name": "Codeforces Round 1101 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 904,
+                    "rating_update_time_seconds": 1780158900,
+                    "old_rating": 1638,
+                    "new_rating": 1694
+                },
+                {
+                    "contest_id": 2237,
+                    "contest_name": "Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 3724,
+                    "rating_update_time_seconds": 1781804100,
+                    "old_rating": 1694,
+                    "new_rating": 1638
                 }
             ],
-            "contest_total": 45
+            "contest_total": 47
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10846,9 +10864,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1763,
+            "rating": 1771,
             "problem_total": 456,
-            "contest_total": 24,
+            "contest_total": 27,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11064,7 +11082,34 @@
                     "rank": 653,
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1766,
-                    "new_rating": 1763
+                    "new_rating": 1809
+                },
+                {
+                    "contest_id": 2229,
+                    "contest_name": "Spectral::Cup 2026 Round 2 (Codeforces Round 1100, Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 2841,
+                    "rating_update_time_seconds": 1779557700,
+                    "old_rating": 1809,
+                    "new_rating": 1739
+                },
+                {
+                    "contest_id": 2232,
+                    "contest_name": "Codeforces Round 1101 (Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 516,
+                    "rating_update_time_seconds": 1780158900,
+                    "old_rating": 1739,
+                    "new_rating": 1802
+                },
+                {
+                    "contest_id": 2234,
+                    "contest_name": "Codeforces Round 1102 (Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 1617,
+                    "rating_update_time_seconds": 1780851000,
+                    "old_rating": 1802,
+                    "new_rating": 1771
                 }
             ]
         },
@@ -11072,7 +11117,7 @@
             "name": "黄子力",
             "grade": 2024,
             "codeforces_handle": "sillybird",
-            "rating": 1762,
+            "rating": 1766,
             "problem_total": 0,
             "contest_total": 0
         },
@@ -11307,9 +11352,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1661,
+            "rating": 1666,
             "problem_total": 341,
-            "contest_total": 32,
+            "contest_total": 33,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11597,7 +11642,16 @@
                     "rank": 3857,
                     "rating_update_time_seconds": 1779381300,
                     "old_rating": 1656,
-                    "new_rating": 1661
+                    "new_rating": 1603
+                },
+                {
+                    "contest_id": 2232,
+                    "contest_name": "Codeforces Round 1101 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 941,
+                    "rating_update_time_seconds": 1780158900,
+                    "old_rating": 1603,
+                    "new_rating": 1666
                 }
             ]
         },
@@ -12044,5 +12098,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-06-25 19:47:52"
+    "update_time": "2026-06-25 22:50:52"
 }
