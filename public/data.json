@@ -1595,7 +1595,7 @@
                 }
             ],
             "rating": 1588,
-            "problem_total": 1376,
+            "problem_total": 1377,
             "contest_total": 96
         },
         "邵茹怡": {
@@ -2715,7 +2715,7 @@
                 }
             ],
             "contest_total": 31,
-            "problem_total": 558
+            "problem_total": 559
         },
         "江宇帆": {
             "name": "江宇帆",
@@ -12125,5 +12125,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-01 21:39:41"
+    "update_time": "2026-07-02 00:34:18"
 }
