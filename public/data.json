@@ -9249,7 +9249,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 494,
+            "problem_total": 495,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9338,7 +9338,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1537,
+            "rating": 1551,
             "problem_total": 1812,
             "contest_info": [
                 {
@@ -9781,9 +9781,18 @@
                     "rating_update_time_seconds": 1782664500,
                     "old_rating": 1554,
                     "new_rating": 1537
+                },
+                {
+                    "contest_id": 2242,
+                    "contest_name": "Educational Codeforces Round 192 (Rated for Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1979,
+                    "rating_update_time_seconds": 1783355700,
+                    "old_rating": 1537,
+                    "new_rating": 1551
                 }
             ],
-            "contest_total": 49
+            "contest_total": 50
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -12125,5 +12134,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-07 16:31:46"
+    "update_time": "2026-07-07 20:06:23"
 }
