@@ -9980,7 +9980,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 399,
+            "problem_total": 401,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10892,7 +10892,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1802,
-            "problem_total": 471,
+            "problem_total": 472,
             "contest_total": 28,
             "contest_info": [
                 {
@@ -12134,5 +12134,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-10 20:07:22"
+    "update_time": "2026-07-10 23:38:16"
 }
