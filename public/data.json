@@ -9249,7 +9249,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 505,
+            "problem_total": 506,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -10206,7 +10206,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 500,
+            "problem_total": 502,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -12134,5 +12134,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-14 11:26:36"
+    "update_time": "2026-07-14 14:21:11"
 }
