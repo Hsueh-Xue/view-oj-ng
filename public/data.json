@@ -8770,9 +8770,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1925,
+            "rating": 1850,
             "problem_total": 679,
-            "contest_total": 52,
+            "contest_total": 53,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9241,6 +9241,15 @@
                     "rating_update_time_seconds": 1777395000,
                     "old_rating": 1995,
                     "new_rating": 1925
+                },
+                {
+                    "contest_id": 2245,
+                    "contest_name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 2130,
+                    "rating_update_time_seconds": 1784222100,
+                    "old_rating": 1925,
+                    "new_rating": 1850
                 }
             ]
         },
@@ -9338,7 +9347,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1551,
+            "rating": 1489,
             "problem_total": 1814,
             "contest_info": [
                 {
@@ -9790,9 +9799,18 @@
                     "rating_update_time_seconds": 1783355700,
                     "old_rating": 1537,
                     "new_rating": 1551
+                },
+                {
+                    "contest_id": 2245,
+                    "contest_name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 4606,
+                    "rating_update_time_seconds": 1784222100,
+                    "old_rating": 1551,
+                    "new_rating": 1489
                 }
             ],
-            "contest_total": 50
+            "contest_total": 51
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10891,9 +10909,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1802,
+            "rating": 1790,
             "problem_total": 484,
-            "contest_total": 28,
+            "contest_total": 29,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11146,6 +11164,15 @@
                     "rating_update_time_seconds": 1782579900,
                     "old_rating": 1771,
                     "new_rating": 1802
+                },
+                {
+                    "contest_id": 2245,
+                    "contest_name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 1474,
+                    "rating_update_time_seconds": 1784222100,
+                    "old_rating": 1802,
+                    "new_rating": 1790
                 }
             ]
         },
@@ -12134,5 +12161,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-17 01:27:27"
+    "update_time": "2026-07-17 03:25:31"
 }
