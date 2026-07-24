@@ -9835,7 +9835,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1434,
-            "problem_total": 210,
+            "problem_total": 211,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10242,7 +10242,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 513,
+            "problem_total": 516,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11244,7 +11244,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 526,
+            "problem_total": 528,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -12197,5 +12197,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-24 07:06:39"
+    "update_time": "2026-07-24 11:34:06"
 }
