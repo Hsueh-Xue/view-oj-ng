@@ -10260,7 +10260,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 535,
+            "problem_total": 538,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11262,7 +11262,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 538,
+            "problem_total": 540,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -11905,7 +11905,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 224,
+            "problem_total": 225,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12215,5 +12215,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-29 07:10:28"
+    "update_time": "2026-07-29 11:28:04"
 }
