@@ -10260,7 +10260,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 538,
+            "problem_total": 539,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10946,7 +10946,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1778,
-            "problem_total": 504,
+            "problem_total": 505,
             "contest_total": 30,
             "contest_info": [
                 {
@@ -12215,5 +12215,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-30 11:16:49"
+    "update_time": "2026-07-30 14:36:43"
 }
