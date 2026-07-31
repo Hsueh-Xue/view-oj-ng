@@ -10034,7 +10034,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 425,
+            "problem_total": 426,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -10260,7 +10260,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 540,
+            "problem_total": 541,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -12215,5 +12215,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-07-31 08:12:11"
+    "update_time": "2026-07-31 12:31:56"
 }
