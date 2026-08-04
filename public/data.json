@@ -10052,7 +10052,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1443,
-            "problem_total": 428,
+            "problem_total": 429,
             "contest_total": 24,
             "contest_info": [
                 {
@@ -11941,7 +11941,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 226,
+            "problem_total": 227,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12251,5 +12251,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-04 11:29:35"
+    "update_time": "2026-08-04 14:36:55"
 }
