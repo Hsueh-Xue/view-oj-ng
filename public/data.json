@@ -8770,9 +8770,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1833,
-            "problem_total": 709,
-            "contest_total": 56,
+            "rating": 1818,
+            "problem_total": 715,
+            "contest_total": 57,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9277,6 +9277,15 @@
                     "rating_update_time_seconds": 1785603900,
                     "old_rating": 1942,
                     "new_rating": 1833
+                },
+                {
+                    "contest_id": 2252,
+                    "contest_name": "Codeforces Round 1115 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1293,
+                    "rating_update_time_seconds": 1786034100,
+                    "old_rating": 1833,
+                    "new_rating": 1818
                 }
             ]
         },
@@ -9374,8 +9383,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1594,
-            "problem_total": 1825,
+            "rating": 1561,
+            "problem_total": 1828,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9862,9 +9871,18 @@
                     "rating_update_time_seconds": 1785603900,
                     "old_rating": 1467,
                     "new_rating": 1594
+                },
+                {
+                    "contest_id": 2252,
+                    "contest_name": "Codeforces Round 1115 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 3731,
+                    "rating_update_time_seconds": 1786034100,
+                    "old_rating": 1594,
+                    "new_rating": 1561
                 }
             ],
-            "contest_total": 54
+            "contest_total": 55
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10051,9 +10069,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1443,
-            "problem_total": 430,
-            "contest_total": 24,
+            "rating": 1384,
+            "problem_total": 433,
+            "contest_total": 25,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -10270,6 +10288,15 @@
                     "rating_update_time_seconds": 1769186100,
                     "old_rating": 1433,
                     "new_rating": 1443
+                },
+                {
+                    "contest_id": 2252,
+                    "contest_name": "Codeforces Round 1115 (Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 7375,
+                    "rating_update_time_seconds": 1786034100,
+                    "old_rating": 1443,
+                    "new_rating": 1384
                 }
             ]
         },
@@ -10305,8 +10332,8 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1480,
-            "problem_total": 402,
+            "rating": 1496,
+            "problem_total": 405,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10523,9 +10550,18 @@
                     "rating_update_time_seconds": 1767026100,
                     "old_rating": 1475,
                     "new_rating": 1480
+                },
+                {
+                    "contest_id": 2252,
+                    "contest_name": "Codeforces Round 1115 (Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 2887,
+                    "rating_update_time_seconds": 1786034100,
+                    "old_rating": 1480,
+                    "new_rating": 1496
                 }
             ],
-            "contest_total": 24
+            "contest_total": 25
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -10963,9 +10999,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1827,
-            "problem_total": 512,
-            "contest_total": 31,
+            "rating": 1772,
+            "problem_total": 517,
+            "contest_total": 32,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11245,6 +11281,15 @@
                     "rating_update_time_seconds": 1785603900,
                     "old_rating": 1778,
                     "new_rating": 1827
+                },
+                {
+                    "contest_id": 2252,
+                    "contest_name": "Codeforces Round 1115 (Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 2408,
+                    "rating_update_time_seconds": 1786034100,
+                    "old_rating": 1827,
+                    "new_rating": 1772
                 }
             ]
         },
@@ -11487,9 +11532,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1630,
-            "problem_total": 395,
-            "contest_total": 35,
+            "rating": 1598,
+            "problem_total": 398,
+            "contest_total": 36,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11805,6 +11850,15 @@
                     "rating_update_time_seconds": 1785603900,
                     "old_rating": 1638,
                     "new_rating": 1630
+                },
+                {
+                    "contest_id": 2252,
+                    "contest_name": "Codeforces Round 1115 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 3327,
+                    "rating_update_time_seconds": 1786034100,
+                    "old_rating": 1630,
+                    "new_rating": 1598
                 }
             ]
         },
@@ -12251,5 +12305,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-06 20:09:33"
+    "update_time": "2026-08-07 08:11:32"
 }
