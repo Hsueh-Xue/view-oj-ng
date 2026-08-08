@@ -8770,9 +8770,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1818,
+            "rating": 1692,
             "problem_total": 729,
-            "contest_total": 57,
+            "contest_total": 58,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9286,6 +9286,15 @@
                     "rating_update_time_seconds": 1786034100,
                     "old_rating": 1833,
                     "new_rating": 1818
+                },
+                {
+                    "contest_id": 2253,
+                    "contest_name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 5297,
+                    "rating_update_time_seconds": 1786120500,
+                    "old_rating": 1818,
+                    "new_rating": 1692
                 }
             ]
         },
@@ -9383,7 +9392,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1561,
+            "rating": 1582,
             "problem_total": 1831,
             "contest_info": [
                 {
@@ -9880,9 +9889,18 @@
                     "rating_update_time_seconds": 1786034100,
                     "old_rating": 1594,
                     "new_rating": 1561
+                },
+                {
+                    "contest_id": 2253,
+                    "contest_name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1664,
+                    "rating_update_time_seconds": 1786120500,
+                    "old_rating": 1561,
+                    "new_rating": 1582
                 }
             ],
-            "contest_total": 55
+            "contest_total": 56
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10069,9 +10087,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1384,
-            "problem_total": 438,
-            "contest_total": 25,
+            "rating": 1399,
+            "problem_total": 439,
+            "contest_total": 26,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -10297,6 +10315,15 @@
                     "rating_update_time_seconds": 1786034100,
                     "old_rating": 1443,
                     "new_rating": 1384
+                },
+                {
+                    "contest_id": 2253,
+                    "contest_name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 3232,
+                    "rating_update_time_seconds": 1786120500,
+                    "old_rating": 1384,
+                    "new_rating": 1399
                 }
             ]
         },
@@ -10999,9 +11026,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1772,
+            "rating": 1798,
             "problem_total": 528,
-            "contest_total": 32,
+            "contest_total": 33,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11290,6 +11317,15 @@
                     "rating_update_time_seconds": 1786034100,
                     "old_rating": 1827,
                     "new_rating": 1772
+                },
+                {
+                    "contest_id": 2253,
+                    "contest_name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 659,
+                    "rating_update_time_seconds": 1786120500,
+                    "old_rating": 1772,
+                    "new_rating": 1798
                 }
             ]
         },
@@ -11532,9 +11568,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1598,
+            "rating": 1634,
             "problem_total": 407,
-            "contest_total": 36,
+            "contest_total": 37,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11859,6 +11895,15 @@
                     "rating_update_time_seconds": 1786034100,
                     "old_rating": 1630,
                     "new_rating": 1598
+                },
+                {
+                    "contest_id": 2253,
+                    "contest_name": "Educational Codeforces Round 193 (Rated for Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 1168,
+                    "rating_update_time_seconds": 1786120500,
+                    "old_rating": 1598,
+                    "new_rating": 1634
                 }
             ]
         },
@@ -12305,5 +12350,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-08 18:43:00"
+    "update_time": "2026-08-08 19:38:01"
 }
