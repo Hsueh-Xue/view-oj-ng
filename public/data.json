@@ -5801,7 +5801,7 @@
             "grade": 2023,
             "codeforces_handle": "xuki",
             "rating": 1440,
-            "problem_total": 473,
+            "problem_total": 474,
             "contest_info": [
                 {
                     "contest_id": 1917,
@@ -11027,7 +11027,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1798,
-            "problem_total": 528,
+            "problem_total": 530,
             "contest_total": 33,
             "contest_info": [
                 {
@@ -12350,5 +12350,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-08 21:06:16"
+    "update_time": "2026-08-08 22:40:42"
 }
