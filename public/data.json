@@ -9392,7 +9392,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1582,
+            "rating": 1538,
             "problem_total": 1834,
             "contest_info": [
                 {
@@ -9898,9 +9898,18 @@
                     "rating_update_time_seconds": 1786120500,
                     "old_rating": 1561,
                     "new_rating": 1582
+                },
+                {
+                    "contest_id": 2256,
+                    "contest_name": "Codeforces Round 1116 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 3232,
+                    "rating_update_time_seconds": 1786295100,
+                    "old_rating": 1582,
+                    "new_rating": 1538
                 }
             ],
-            "contest_total": 56
+            "contest_total": 57
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10087,9 +10096,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1399,
+            "rating": 1388,
             "problem_total": 443,
-            "contest_total": 26,
+            "contest_total": 27,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -10324,6 +10333,15 @@
                     "rating_update_time_seconds": 1786120500,
                     "old_rating": 1384,
                     "new_rating": 1399
+                },
+                {
+                    "contest_id": 2256,
+                    "contest_name": "Codeforces Round 1116 (Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 3701,
+                    "rating_update_time_seconds": 1786295100,
+                    "old_rating": 1399,
+                    "new_rating": 1388
                 }
             ]
         },
@@ -11568,9 +11586,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1634,
+            "rating": 1666,
             "problem_total": 411,
-            "contest_total": 37,
+            "contest_total": 38,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11904,6 +11922,15 @@
                     "rating_update_time_seconds": 1786120500,
                     "old_rating": 1598,
                     "new_rating": 1634
+                },
+                {
+                    "contest_id": 2256,
+                    "contest_name": "Codeforces Round 1116 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 901,
+                    "rating_update_time_seconds": 1786295100,
+                    "old_rating": 1634,
+                    "new_rating": 1666
                 }
             ]
         },
@@ -12350,5 +12377,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-10 03:41:28"
+    "update_time": "2026-08-10 04:43:56"
 }
