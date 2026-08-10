@@ -8771,7 +8771,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1692,
-            "problem_total": 739,
+            "problem_total": 742,
             "contest_total": 58,
             "contest_info": [
                 {
@@ -9303,7 +9303,7 @@
             "grade": 2024,
             "codeforces_handle": "gggjjj",
             "rating": 1615,
-            "problem_total": 541,
+            "problem_total": 543,
             "contest_total": 8,
             "contest_info": [
                 {
@@ -9916,7 +9916,7 @@
             "grade": 2024,
             "codeforces_handle": "yellow_one",
             "rating": 1434,
-            "problem_total": 235,
+            "problem_total": 236,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10097,7 +10097,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1388,
-            "problem_total": 443,
+            "problem_total": 449,
             "contest_total": 27,
             "contest_info": [
                 {
@@ -10350,7 +10350,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 553,
+            "problem_total": 555,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10378,7 +10378,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1496,
-            "problem_total": 408,
+            "problem_total": 411,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -11045,7 +11045,7 @@
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
             "rating": 1798,
-            "problem_total": 538,
+            "problem_total": 540,
             "contest_total": 33,
             "contest_info": [
                 {
@@ -11388,7 +11388,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 542,
+            "problem_total": 543,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -11587,7 +11587,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1666,
-            "problem_total": 417,
+            "problem_total": 419,
             "contest_total": 38,
             "contest_info": [
                 {
@@ -12067,7 +12067,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 229,
+            "problem_total": 231,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12377,5 +12377,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-10 14:17:07"
+    "update_time": "2026-08-10 16:47:12"
 }
