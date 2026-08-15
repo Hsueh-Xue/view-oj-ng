@@ -10350,7 +10350,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 567,
+            "problem_total": 568,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -10378,7 +10378,7 @@
             "grade": 2024,
             "codeforces_handle": "Tsq2",
             "rating": 1496,
-            "problem_total": 418,
+            "problem_total": 419,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -12377,5 +12377,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-15 16:39:04"
+    "update_time": "2026-08-15 17:34:17"
 }
