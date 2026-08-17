@@ -9392,7 +9392,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1538,
+            "rating": 1530,
             "problem_total": 1838,
             "contest_info": [
                 {
@@ -9907,9 +9907,18 @@
                     "rating_update_time_seconds": 1786295100,
                     "old_rating": 1582,
                     "new_rating": 1538
+                },
+                {
+                    "contest_id": 2257,
+                    "contest_name": "Codeforces Round 1117 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 2680,
+                    "rating_update_time_seconds": 1786984500,
+                    "old_rating": 1538,
+                    "new_rating": 1530
                 }
             ],
-            "contest_total": 57
+            "contest_total": 58
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10096,9 +10105,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1388,
+            "rating": 1431,
             "problem_total": 466,
-            "contest_total": 27,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -10342,6 +10351,15 @@
                     "rating_update_time_seconds": 1786295100,
                     "old_rating": 1399,
                     "new_rating": 1388
+                },
+                {
+                    "contest_id": 2257,
+                    "contest_name": "Codeforces Round 1117 (Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 2337,
+                    "rating_update_time_seconds": 1786984500,
+                    "old_rating": 1388,
+                    "new_rating": 1431
                 }
             ]
         },
@@ -12377,5 +12395,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-18 01:38:04"
+    "update_time": "2026-08-18 02:51:51"
 }
