@@ -8770,9 +8770,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1925,
+            "rating": 1903,
             "problem_total": 758,
-            "contest_total": 52,
+            "contest_total": 54,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9241,6 +9241,24 @@
                     "rating_update_time_seconds": 1777395000,
                     "old_rating": 1995,
                     "new_rating": 1925
+                },
+                {
+                    "contest_id": 2245,
+                    "contest_name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 1997,
+                    "rating_update_time_seconds": 1784222100,
+                    "old_rating": 1925,
+                    "new_rating": 1851
+                },
+                {
+                    "contest_id": 2247,
+                    "contest_name": "Codeforces Round 1111 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 270,
+                    "rating_update_time_seconds": 1784392500,
+                    "old_rating": 1851,
+                    "new_rating": 1903
                 }
             ]
         },
@@ -9338,7 +9356,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1553,
+            "rating": 1549,
             "problem_total": 1838,
             "contest_info": [
                 {
@@ -9790,9 +9808,27 @@
                     "rating_update_time_seconds": 1783355700,
                     "old_rating": 1539,
                     "new_rating": 1553
+                },
+                {
+                    "contest_id": 2245,
+                    "contest_name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 4431,
+                    "rating_update_time_seconds": 1784222100,
+                    "old_rating": 1553,
+                    "new_rating": 1490
+                },
+                {
+                    "contest_id": 2247,
+                    "contest_name": "Codeforces Round 1111 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1151,
+                    "rating_update_time_seconds": 1784392500,
+                    "old_rating": 1490,
+                    "new_rating": 1549
                 }
             ],
-            "contest_total": 50
+            "contest_total": 52
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10891,9 +10927,9 @@
             "name": "乔迪",
             "grade": 2024,
             "codeforces_handle": "qiaodifehf",
-            "rating": 1802,
+            "rating": 1782,
             "problem_total": 551,
-            "contest_total": 28,
+            "contest_total": 30,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11146,6 +11182,24 @@
                     "rating_update_time_seconds": 1782579900,
                     "old_rating": 1771,
                     "new_rating": 1802
+                },
+                {
+                    "contest_id": 2245,
+                    "contest_name": "Spectral::Cup 2026 Round 3 (Codeforces Round 1110, Div. 1 + Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 1360,
+                    "rating_update_time_seconds": 1784222100,
+                    "old_rating": 1802,
+                    "new_rating": 1792
+                },
+                {
+                    "contest_id": 2247,
+                    "contest_name": "Codeforces Round 1111 (Div. 2)",
+                    "handle": "qiaodifehf",
+                    "rank": 979,
+                    "rating_update_time_seconds": 1784392500,
+                    "old_rating": 1792,
+                    "new_rating": 1782
                 }
             ]
         },
@@ -11388,9 +11442,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1666,
+            "rating": 1639,
             "problem_total": 431,
-            "contest_total": 33,
+            "contest_total": 34,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11688,6 +11742,15 @@
                     "rating_update_time_seconds": 1780158900,
                     "old_rating": 1603,
                     "new_rating": 1666
+                },
+                {
+                    "contest_id": 2247,
+                    "contest_name": "Codeforces Round 1111 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 1968,
+                    "rating_update_time_seconds": 1784392500,
+                    "old_rating": 1666,
+                    "new_rating": 1639
                 }
             ]
         },
@@ -12134,5 +12197,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-26 00:48:38"
+    "update_time": "2026-08-26 01:40:59"
 }
