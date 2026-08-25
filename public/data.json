@@ -8770,9 +8770,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1903,
+            "rating": 1948,
             "problem_total": 758,
-            "contest_total": 54,
+            "contest_total": 55,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9259,6 +9259,15 @@
                     "rating_update_time_seconds": 1784392500,
                     "old_rating": 1851,
                     "new_rating": 1903
+                },
+                {
+                    "contest_id": 2250,
+                    "contest_name": "Codeforces Round 1112 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 185,
+                    "rating_update_time_seconds": 1785085500,
+                    "old_rating": 1903,
+                    "new_rating": 1948
                 }
             ]
         },
@@ -9356,7 +9365,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1549,
+            "rating": 1469,
             "problem_total": 1838,
             "contest_info": [
                 {
@@ -9826,9 +9835,18 @@
                     "rating_update_time_seconds": 1784392500,
                     "old_rating": 1490,
                     "new_rating": 1549
+                },
+                {
+                    "contest_id": 2250,
+                    "contest_name": "Codeforces Round 1112 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 5301,
+                    "rating_update_time_seconds": 1785085500,
+                    "old_rating": 1549,
+                    "new_rating": 1469
                 }
             ],
-            "contest_total": 52
+            "contest_total": 53
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -12197,5 +12215,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-08-26 01:40:59"
+    "update_time": "2026-08-26 02:50:46"
 }
