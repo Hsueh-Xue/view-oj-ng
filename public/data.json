@@ -9393,7 +9393,7 @@
             "grade": 2024,
             "codeforces_handle": "WEirdows",
             "rating": 1532,
-            "problem_total": 1841,
+            "problem_total": 1845,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -12094,7 +12094,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 235,
+            "problem_total": 236,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12404,5 +12404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-08 19:08:40"
+    "update_time": "2026-09-09 00:33:49"
 }
