@@ -9392,7 +9392,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1532,
+            "rating": 1556,
             "problem_total": 1845,
             "contest_info": [
                 {
@@ -9925,9 +9925,18 @@
                     "rating_update_time_seconds": 1788021300,
                     "old_rating": 1539,
                     "new_rating": 1532
+                },
+                {
+                    "contest_id": 2260,
+                    "contest_name": "Educational Codeforces Round 194 (Rated for Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1653,
+                    "rating_update_time_seconds": 1788885300,
+                    "old_rating": 1532,
+                    "new_rating": 1556
                 }
             ],
-            "contest_total": 59
+            "contest_total": 60
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10377,7 +10386,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 574,
+            "problem_total": 577,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -12404,5 +12413,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-09 15:20:49"
+    "update_time": "2026-09-09 20:58:11"
 }
