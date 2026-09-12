@@ -9392,8 +9392,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1556,
-            "problem_total": 1845,
+            "rating": 1559,
+            "problem_total": 1848,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9934,9 +9934,18 @@
                     "rating_update_time_seconds": 1788885300,
                     "old_rating": 1532,
                     "new_rating": 1556
+                },
+                {
+                    "contest_id": 2263,
+                    "contest_name": "Codeforces Round 1120 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1731,
+                    "rating_update_time_seconds": 1789234500,
+                    "old_rating": 1556,
+                    "new_rating": 1559
                 }
             ],
-            "contest_total": 60
+            "contest_total": 61
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10413,8 +10422,8 @@
             "name": "唐嘉奇",
             "grade": 2024,
             "codeforces_handle": "Tsq2",
-            "rating": 1499,
-            "problem_total": 420,
+            "rating": 1546,
+            "problem_total": 424,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -10640,9 +10649,18 @@
                     "rating_update_time_seconds": 1786034100,
                     "old_rating": 1480,
                     "new_rating": 1499
+                },
+                {
+                    "contest_id": 2263,
+                    "contest_name": "Codeforces Round 1120 (Div. 2)",
+                    "handle": "Tsq2",
+                    "rank": 1147,
+                    "rating_update_time_seconds": 1789234500,
+                    "old_rating": 1499,
+                    "new_rating": 1546
                 }
             ],
-            "contest_total": 25
+            "contest_total": 26
         },
         "尚怡廷": {
             "name": "尚怡廷",
@@ -12413,5 +12431,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-13 01:03:40"
+    "update_time": "2026-09-13 04:30:37"
 }
