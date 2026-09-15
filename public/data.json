@@ -10395,7 +10395,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 595,
+            "problem_total": 596,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11641,7 +11641,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1673,
-            "problem_total": 447,
+            "problem_total": 449,
             "contest_total": 38,
             "contest_info": [
                 {
@@ -12431,5 +12431,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-15 18:00:18"
+    "update_time": "2026-09-15 22:55:48"
 }
