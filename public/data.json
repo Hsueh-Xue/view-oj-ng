@@ -9392,7 +9392,7 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1546,
+            "rating": 1531,
             "problem_total": 1848,
             "contest_info": [
                 {
@@ -9907,9 +9907,27 @@
                     "rating_update_time_seconds": 1786295100,
                     "old_rating": 1591,
                     "new_rating": 1546
+                },
+                {
+                    "contest_id": 2257,
+                    "contest_name": "Codeforces Round 1117 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 2488,
+                    "rating_update_time_seconds": 1786984500,
+                    "old_rating": 1546,
+                    "new_rating": 1537
+                },
+                {
+                    "contest_id": 2258,
+                    "contest_name": "Codeforces Round 1118 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 2632,
+                    "rating_update_time_seconds": 1788021300,
+                    "old_rating": 1537,
+                    "new_rating": 1531
                 }
             ],
-            "contest_total": 57
+            "contest_total": 59
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -10096,9 +10114,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1393,
+            "rating": 1436,
             "problem_total": 483,
-            "contest_total": 27,
+            "contest_total": 28,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -10342,6 +10360,15 @@
                     "rating_update_time_seconds": 1786295100,
                     "old_rating": 1403,
                     "new_rating": 1393
+                },
+                {
+                    "contest_id": 2257,
+                    "contest_name": "Codeforces Round 1117 (Div. 2)",
+                    "handle": "ginyako",
+                    "rank": 2172,
+                    "rating_update_time_seconds": 1786984500,
+                    "old_rating": 1393,
+                    "new_rating": 1436
                 }
             ]
         },
@@ -12377,5 +12404,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-19 01:03:59"
+    "update_time": "2026-09-19 04:50:51"
 }
