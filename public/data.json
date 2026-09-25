@@ -6181,7 +6181,7 @@
             "name": "张卓",
             "grade": 2023,
             "codeforces_handle": "Teatify",
-            "rating": 2001,
+            "rating": 2015,
             "problem_total": 2445,
             "contest_info": [
                 {
@@ -8229,9 +8229,9 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 226,
-            "rating": 1290,
-            "contest_total": 15,
+            "problem_total": 230,
+            "rating": 1335,
+            "contest_total": 16,
             "contest_info": [
                 {
                     "contest_id": 2050,
@@ -8367,6 +8367,15 @@
                     "rating_update_time_seconds": 1765016100,
                     "old_rating": 1371,
                     "new_rating": 1290
+                },
+                {
+                    "contest_id": 2267,
+                    "contest_name": "Codeforces Round 1123 (Div. 2)",
+                    "handle": "LuCiiiD",
+                    "rank": 2939,
+                    "rating_update_time_seconds": 1790355000,
+                    "old_rating": 1290,
+                    "new_rating": 1335
                 }
             ]
         },
@@ -8770,9 +8779,9 @@
             "name": "冷题名",
             "grade": 2024,
             "codeforces_handle": "Zero.2",
-            "rating": 1700,
-            "problem_total": 773,
-            "contest_total": 58,
+            "rating": 1602,
+            "problem_total": 780,
+            "contest_total": 59,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -9295,6 +9304,15 @@
                     "rating_update_time_seconds": 1786120500,
                     "old_rating": 1825,
                     "new_rating": 1700
+                },
+                {
+                    "contest_id": 2267,
+                    "contest_name": "Codeforces Round 1123 (Div. 2)",
+                    "handle": "Zero.2",
+                    "rank": 4816,
+                    "rating_update_time_seconds": 1790355000,
+                    "old_rating": 1700,
+                    "new_rating": 1602
                 }
             ]
         },
@@ -9392,8 +9410,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1560,
-            "problem_total": 1848,
+            "rating": 1559,
+            "problem_total": 1853,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9943,9 +9961,18 @@
                     "rating_update_time_seconds": 1789234500,
                     "old_rating": 1556,
                     "new_rating": 1560
+                },
+                {
+                    "contest_id": 2267,
+                    "contest_name": "Codeforces Round 1123 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 2099,
+                    "rating_update_time_seconds": 1790355000,
+                    "old_rating": 1560,
+                    "new_rating": 1559
                 }
             ],
-            "contest_total": 61
+            "contest_total": 62
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -11640,9 +11667,9 @@
             "name": "黄祺恺",
             "grade": 2024,
             "codeforces_handle": "_QLe",
-            "rating": 1673,
-            "problem_total": 457,
-            "contest_total": 38,
+            "rating": 1678,
+            "problem_total": 462,
+            "contest_total": 39,
             "contest_info": [
                 {
                     "contest_id": 2064,
@@ -11985,6 +12012,15 @@
                     "rating_update_time_seconds": 1786295100,
                     "old_rating": 1640,
                     "new_rating": 1673
+                },
+                {
+                    "contest_id": 2267,
+                    "contest_name": "Codeforces Round 1123 (Div. 2)",
+                    "handle": "_QLe",
+                    "rank": 1285,
+                    "rating_update_time_seconds": 1790355000,
+                    "old_rating": 1673,
+                    "new_rating": 1678
                 }
             ]
         },
@@ -12431,5 +12467,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-25 21:37:44"
+    "update_time": "2026-09-26 02:29:22"
 }
