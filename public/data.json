@@ -10160,7 +10160,7 @@
             "grade": 2024,
             "codeforces_handle": "ginyako",
             "rating": 1436,
-            "problem_total": 483,
+            "problem_total": 485,
             "contest_total": 28,
             "contest_info": [
                 {
@@ -11668,7 +11668,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1678,
-            "problem_total": 462,
+            "problem_total": 463,
             "contest_total": 39,
             "contest_info": [
                 {
@@ -12467,5 +12467,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-26 09:27:31"
+    "update_time": "2026-09-26 15:30:45"
 }
