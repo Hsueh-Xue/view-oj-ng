@@ -9410,8 +9410,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1559,
-            "problem_total": 1853,
+            "rating": 1553,
+            "problem_total": 1857,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9970,9 +9970,18 @@
                     "rating_update_time_seconds": 1790355000,
                     "old_rating": 1560,
                     "new_rating": 1559
+                },
+                {
+                    "contest_id": 2269,
+                    "contest_name": "Codeforces Round 1124 (Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1768,
+                    "rating_update_time_seconds": 1790442300,
+                    "old_rating": 1559,
+                    "new_rating": 1553
                 }
             ],
-            "contest_total": 62
+            "contest_total": 63
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -12467,5 +12476,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-09-27 01:07:01"
+    "update_time": "2026-09-27 05:01:45"
 }
