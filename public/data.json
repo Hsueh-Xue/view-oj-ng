@@ -12166,7 +12166,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 256,
+            "problem_total": 257,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12476,5 +12476,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-01 16:48:42"
+    "update_time": "2026-10-02 00:18:49"
 }
