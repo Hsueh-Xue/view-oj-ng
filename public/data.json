@@ -8780,7 +8780,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1602,
-            "problem_total": 780,
+            "problem_total": 786,
             "contest_total": 59,
             "contest_info": [
                 {
@@ -10431,7 +10431,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 636,
+            "problem_total": 637,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -12476,5 +12476,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-04 07:46:15"
+    "update_time": "2026-10-04 13:40:42"
 }
