@@ -10431,7 +10431,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 640,
+            "problem_total": 646,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -12166,7 +12166,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 262,
+            "problem_total": 269,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12476,5 +12476,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-08 10:41:30"
+    "update_time": "2026-10-08 18:24:54"
 }
