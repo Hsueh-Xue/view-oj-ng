@@ -6940,8 +6940,8 @@
             "grade": 2023,
             "codeforces_handle": "BoBoowen",
             "problem_total": 292,
-            "rating": 1745,
-            "contest_total": 6,
+            "rating": 1557,
+            "contest_total": 7,
             "contest_info": [
                 {
                     "contest_id": 2094,
@@ -6996,6 +6996,15 @@
                     "rating_update_time_seconds": 1776789300,
                     "old_rating": 1543,
                     "new_rating": 1745
+                },
+                {
+                    "contest_id": 2271,
+                    "contest_name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
+                    "handle": "BoBoowen",
+                    "rank": 8683,
+                    "rating_update_time_seconds": 1791655500,
+                    "old_rating": 1745,
+                    "new_rating": 1557
                 }
             ]
         },
@@ -9410,8 +9419,8 @@
             "name": "詹伟",
             "grade": 2024,
             "codeforces_handle": "WEirdows",
-            "rating": 1553,
-            "problem_total": 1857,
+            "rating": 1610,
+            "problem_total": 1861,
             "contest_info": [
                 {
                     "contest_id": 2044,
@@ -9979,9 +9988,18 @@
                     "rating_update_time_seconds": 1790442300,
                     "old_rating": 1559,
                     "new_rating": 1553
+                },
+                {
+                    "contest_id": 2271,
+                    "contest_name": "DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",
+                    "handle": "WEirdows",
+                    "rank": 1325,
+                    "rating_update_time_seconds": 1791655500,
+                    "old_rating": 1553,
+                    "new_rating": 1610
                 }
             ],
-            "contest_total": 63
+            "contest_total": 64
         },
         "黄欣怡": {
             "name": "黄欣怡",
@@ -12476,5 +12494,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-11 01:47:12"
+    "update_time": "2026-10-11 05:33:14"
 }
