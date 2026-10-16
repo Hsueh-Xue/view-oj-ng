@@ -8238,7 +8238,7 @@
             "name": "吴睿萱",
             "grade": 2023,
             "codeforces_handle": "LuCiiiD",
-            "problem_total": 230,
+            "problem_total": 232,
             "rating": 1335,
             "contest_total": 16,
             "contest_info": [
@@ -10449,7 +10449,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 660,
+            "problem_total": 662,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11496,7 +11496,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 594,
+            "problem_total": 595,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -12184,7 +12184,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 275,
+            "problem_total": 276,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12494,5 +12494,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-16 09:14:33"
+    "update_time": "2026-10-16 15:02:41"
 }
