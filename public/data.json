@@ -2,7 +2,7 @@
     "user_info": {
         "江宇杰": {
             "rating": 1958,
-            "problem_total": 849,
+            "problem_total": 850,
             "contest_info": [
                 {
                     "contest_id": 1514,
@@ -11496,7 +11496,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 595,
+            "problem_total": 596,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -12494,5 +12494,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-19 15:40:06"
+    "update_time": "2026-10-19 23:32:21"
 }
