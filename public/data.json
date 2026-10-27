@@ -10449,7 +10449,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 669,
+            "problem_total": 670,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -11496,7 +11496,7 @@
             "grade": 2024,
             "codeforces_handle": "R_coder2055",
             "rating": 1248,
-            "problem_total": 606,
+            "problem_total": 608,
             "contest_total": 18,
             "contest_info": [
                 {
@@ -12494,5 +12494,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-10-27 18:23:03"
+    "update_time": "2026-10-28 00:25:55"
 }
