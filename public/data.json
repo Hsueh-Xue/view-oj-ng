@@ -8789,7 +8789,7 @@
             "grade": 2024,
             "codeforces_handle": "Zero.2",
             "rating": 1605,
-            "problem_total": 790,
+            "problem_total": 791,
             "contest_total": 59,
             "contest_info": [
                 {
@@ -11695,7 +11695,7 @@
             "grade": 2024,
             "codeforces_handle": "_QLe",
             "rating": 1683,
-            "problem_total": 467,
+            "problem_total": 468,
             "contest_total": 39,
             "contest_info": [
                 {
@@ -12494,5 +12494,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-11-02 07:30:22"
+    "update_time": "2026-11-02 13:47:27"
 }
