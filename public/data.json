@@ -10231,9 +10231,9 @@
             "name": "潘铖棋",
             "grade": 2024,
             "codeforces_handle": "ginyako",
-            "rating": 1436,
+            "rating": 1417,
             "problem_total": 503,
-            "contest_total": 28,
+            "contest_total": 29,
             "contest_info": [
                 {
                     "contest_id": 2055,
@@ -10486,6 +10486,15 @@
                     "rating_update_time_seconds": 1786984500,
                     "old_rating": 1393,
                     "new_rating": 1436
+                },
+                {
+                    "contest_id": 2292,
+                    "contest_name": "Codeforces Round 1138 (Div. 3)",
+                    "handle": "ginyako",
+                    "rank": 2137,
+                    "rating_update_time_seconds": 1795798200,
+                    "old_rating": 1436,
+                    "new_rating": 1417
                 }
             ]
         },
@@ -10494,7 +10503,7 @@
             "grade": 2024,
             "codeforces_handle": "damor",
             "rating": 804,
-            "problem_total": 753,
+            "problem_total": 757,
             "contest_total": 2,
             "contest_info": [
                 {
@@ -12247,7 +12256,7 @@
             "grade": 2024,
             "codeforces_handle": "ToffeeSG",
             "rating": 1299,
-            "problem_total": 306,
+            "problem_total": 308,
             "contest_total": 13,
             "contest_info": [
                 {
@@ -12557,5 +12566,5 @@
             "contest_total": 0
         }
     },
-    "update_time": "2026-11-28 09:52:43"
+    "update_time": "2026-11-28 18:10:15"
 }
